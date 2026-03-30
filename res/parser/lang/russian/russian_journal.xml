@@ -1,0 +1,2322 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <sequence>
+        <author>Иванов, А. В.</author>
+        <date>(2019).</date>
+        <title>Цифровизация государственного управления: проблемы и перспективы.</title>
+        <journal>Вопросы государственного и муниципального управления</journal>
+        <volume>№ 3,</volume>
+        <pages>с. 7–29.</pages>
+        <doi>10.17323/1999-5431-2019-0-3-7-29</doi>
+    </sequence>
+    <sequence>
+        <author>Петров, С. И., &amp; Сидоров, М. Н.</author>
+        <date>2021.</date>
+        <title>Машинное обучение в задачах классификации текстов на русском языке.</title>
+        <journal>Труды ИСП РАН</journal>
+        <volume>Т. 33, вып. 1,</volume>
+        <pages>с. 45–62.</pages>
+        <doi>10.15514/ISPRAS-2021-33(1)-3</doi>
+    </sequence>
+    <sequence>
+        <author>Смирнова, Е. Л.</author>
+        <date>2020.</date>
+        <title>Инновационные подходы к финансированию малого бизнеса в России.</title>
+        <journal>Финансы и кредит</journal>
+        <volume>Т. 26, № 8,</volume>
+        <pages>с. 1741–1758.</pages>
+    </sequence>
+    <sequence>
+        <author>Kozlov, P. A., Morozov, D. S., &amp; Volkov, E. N.</author>
+        <date>(2022).</date>
+        <title>Deep learning approaches for medical image segmentation in Russian clinical practice.</title>
+        <journal>Журнал вычислительной математики и математической физики</journal>
+        <volume>62(4),</volume>
+        <pages>679–694.</pages>
+        <doi>10.1134/S0965542522040078</doi>
+    </sequence>
+    <sequence>
+        <author>Николаев, В. П.</author>
+        <date>2018.</date>
+        <title>Экологические риски промышленного производства в Сибирском регионе.</title>
+        <journal>Экология и промышленность России</journal>
+        <volume>Т. 22, № 5,</volume>
+        <pages>с. 12–19.</pages>
+    </sequence>
+    <sequence>
+        <author>Громова, Т. С., Белова, Н. И., &amp; Рыжов, А. К.</author>
+        <date>(2017).</date>
+        <title>Влияние монетарной политики на инфляционные ожидания домохозяйств.</title>
+        <journal>Вопросы экономики</journal>
+        <volume>№ 9,</volume>
+        <pages>с. 44–63.</pages>
+        <doi>10.32609/0042-8736-2017-9-44-63</doi>
+    </sequence>
+    <sequence>
+        <author>Федоров, Д. М.</author>
+        <date>2023.</date>
+        <title>Биомаркеры нейродегенеративных заболеваний: современный обзор.</title>
+        <journal>Журнал неврологии и психиатрии им. С. С. Корсакова</journal>
+        <volume>Т. 123, № 2,</volume>
+        <pages>с. 5–14.</pages>
+        <doi>10.17116/jnevro20231230215</doi>
+    </sequence>
+    <sequence>
+        <author>Антонова, Л. Р., &amp; Тихонов, П. С.</author>
+        <date>2016.</date>
+        <title>Региональная дифференциация уровня жизни населения России.</title>
+        <journal>Экономика региона</journal>
+        <volume>Т. 12, вып. 4,</volume>
+        <pages>с. 1060–1073.</pages>
+    </sequence>
+    <sequence>
+        <author>Кузнецов, И. А.</author>
+        <date>(2021).</date>
+        <title>Квантовые алгоритмы для задач оптимизации на графах.</title>
+        <journal>Дискретная математика</journal>
+        <volume>Т. 33, № 1,</volume>
+        <pages>с. 85–104.</pages>
+        <doi>10.4213/dm1637</doi>
+    </sequence>
+    <sequence>
+        <author>Зайцева, О. В., Морозова, А. Ю., Павлов, С. Е., &amp; Лебедев, К. Г.</author>
+        <date>2020.</date>
+        <title>Сравнительный анализ методов интерполяции пространственных данных в ГИС-системах.</title>
+        <journal>Геодезия и картография</journal>
+        <volume>№ 6,</volume>
+        <pages>с. 20–31.</pages>
+    </sequence>
+    <sequence>
+        <author>Орлов, Н. Д.</author>
+        <date>2019.</date>
+        <title>Правовое регулирование криптовалют в Российской Федерации.</title>
+        <journal>Государство и право</journal>
+        <volume>№ 4,</volume>
+        <pages>с. 78–88.</pages>
+    </sequence>
+    <sequence>
+        <author>Соколова, М. В., &amp; Шевченко, А. А.</author>
+        <date>(2022).</date>
+        <title>Психологические аспекты дистанционного обучения в высшей школе.</title>
+        <journal>Вопросы психологии</journal>
+        <volume>№ 1,</volume>
+        <pages>с. 103–115.</pages>
+        <doi>10.47639/0042-8841_2022_1_103</doi>
+    </sequence>
+    <sequence>
+        <author>Лисицын, А. Г.</author>
+        <date>2015.</date>
+        <title>Стратегия импортозамещения в машиностроительной отрасли.</title>
+        <journal>Российский экономический журнал</journal>
+        <volume>№ 2,</volume>
+        <pages>с. 53–67.</pages>
+    </sequence>
+    <sequence>
+        <author>Гаврилова, Н. С., Тарасова, И. В., &amp; Жуков, П. А.</author>
+        <date>2018.</date>
+        <title>Демографические тенденции в постсоветских государствах: сравнительный анализ.</title>
+        <journal>Социологические исследования</journal>
+        <volume>№ 10,</volume>
+        <pages>с. 32–44.</pages>
+        <doi>10.31857/S013216250001954-4</doi>
+    </sequence>
+    <sequence>
+        <author>Черных, В. И.</author>
+        <date>(2020).</date>
+        <title>Нейроморфные вычисления: архитектуры и приложения.</title>
+        <journal>Информационные технологии</journal>
+        <volume>Т. 26, № 4,</volume>
+        <pages>с. 195–207.</pages>
+        <doi>10.17587/it.26.195-207</doi>
+    </sequence>
+    <sequence>
+        <author>Волкова, Е. В., Ермакова, Л. Н., &amp; Суворов, М. Д.</author>
+        <date>2021.</date>
+        <title>Влияние пандемии COVID-19 на рынок труда России.</title>
+        <journal>Мировая экономика и международные отношения</journal>
+        <volume>Т. 65, № 3,</volume>
+        <pages>с. 5–13.</pages>
+        <doi>10.20542/0131-2227-2021-65-3-5-13</doi>
+    </sequence>
+    <sequence>
+        <author>Богданов, С. Ю.</author>
+        <date>2017.</date>
+        <title>Фонологические процессы в современном русском языке.</title>
+        <journal>Русский язык в научном освещении</journal>
+        <volume>№ 1 (33),</volume>
+        <pages>с. 29–51.</pages>
+    </sequence>
+    <sequence>
+        <author>Яковлева, Т. П., &amp; Киселёв, А. Б.</author>
+        <date>2023.</date>
+        <title>Углеродная нейтральность: пути достижения для российской промышленности.</title>
+        <journal>Энергия: экономика, техника, экология</journal>
+        <volume>№ 2,</volume>
+        <pages>с. 14–22.</pages>
+    </sequence>
+    <sequence>
+        <author>Савельев, Р. Н.</author>
+        <date>(2019).</date>
+        <title>Адаптивные алгоритмы управления в системах реального времени.</title>
+        <journal>Автоматика и телемеханика</journal>
+        <volume>№ 5,</volume>
+        <pages>с. 3–22.</pages>
+        <doi>10.1134/S0005117919050011</doi>
+    </sequence>
+    <sequence>
+        <author>Михайлова, Г. Д., Воронцова, С. С., Попов, К. И., &amp; Шарова, Н. М.</author>
+        <date>2022.</date>
+        <title>Клинические исходы при лечении сахарного диабета 2-го типа ингибиторами SGLT2.</title>
+        <journal>Сахарный диабет</journal>
+        <volume>Т. 25, № 4,</volume>
+        <pages>с. 315–326.</pages>
+        <doi>10.14341/DM12896</doi>
+    </sequence>
+    <sequence>
+        <author>Румянцев, Д. А.</author>
+        <date>2016.</date>
+        <title>Трансформация политических партий в условиях цифровой демократии.</title>
+        <journal>Полис. Политические исследования</journal>
+        <volume>№ 6,</volume>
+        <pages>с. 20–35.</pages>
+        <doi>10.17976/jpps/2016.06.02</doi>
+    </sequence>
+    <sequence>
+        <author>Александрова, И. М., &amp; Семёнов, Г. В.</author>
+        <date>2020.</date>
+        <title>Оценка эффективности государственных программ поддержки агропромышленного комплекса.</title>
+        <journal>АПК: экономика, управление</journal>
+        <volume>№ 3,</volume>
+        <pages>с. 4–14.</pages>
+    </sequence>
+    <sequence>
+        <author>Ильин, В. А.</author>
+        <date>(2021).</date>
+        <title>Синтез наночастиц золота методом химического восстановления.</title>
+        <journal>Коллоидный журнал</journal>
+        <volume>Т. 83, № 2,</volume>
+        <pages>с. 147–158.</pages>
+        <doi>10.31857/S0023291221020087</doi>
+    </sequence>
+    <sequence>
+        <author>Прокопьева, Н. А., Виноградова, Е. С., &amp; Тимофеев, В. Ю.</author>
+        <date>2018.</date>
+        <title>Социальный капитал и экономическое развитие регионов России.</title>
+        <journal>Регион: экономика и социология</journal>
+        <volume>№ 2 (98),</volume>
+        <pages>с. 30–60.</pages>
+    </sequence>
+    <sequence>
+        <author>Степанов, А. В.</author>
+        <date>2023.</date>
+        <title>Применение трансформерных архитектур для анализа финансовых временных рядов.</title>
+        <journal>Программная инженерия</journal>
+        <volume>Т. 14, № 1,</volume>
+        <pages>с. 3–14.</pages>
+        <doi>10.17587/prin.14.3-14</doi>
+    </sequence>
+    <sequence>
+        <author>Кириллова, О. В., &amp; Журавлёв, И. С.</author>
+        <date>2017.</date>
+        <title>Индексирование российских журналов в международных базах данных: барьеры и стимулы.</title>
+        <journal>Научная периодика: проблемы и решения</journal>
+        <volume>Т. 7, № 1,</volume>
+        <pages>с. 4–18.</pages>
+    </sequence>
+    <sequence>
+        <author>Белоусов, Л. А.</author>
+        <date>(2020).</date>
+        <title>Арктическая стратегия России: энергетическое измерение.</title>
+        <journal>Мировая экономика и международные отношения</journal>
+        <volume>Т. 64, № 9,</volume>
+        <pages>с. 97–106.</pages>
+        <doi>10.20542/0131-2227-2020-64-9-97-106</doi>
+    </sequence>
+    <sequence>
+        <author>Карпова, Т. И., Самсонова, Л. Д., Николаева, П. В., &amp; Кошелев, А. Н.</author>
+        <date>2022.</date>
+        <title>Молекулярные механизмы апоптоза при онкологических заболеваниях.</title>
+        <journal>Молекулярная биология</journal>
+        <volume>Т. 56, № 3,</volume>
+        <pages>с. 384–398.</pages>
+        <doi>10.31857/S0026898422030095</doi>
+    </sequence>
+    <sequence>
+        <author>Нечаев, С. В.</author>
+        <date>2015.</date>
+        <title>Проблемы реализации права на образование в сельских районах Российской Федерации.</title>
+        <journal>Журнал российского права</journal>
+        <volume>№ 7,</volume>
+        <pages>с. 64–72.</pages>
+    </sequence>
+    <sequence>
+        <author>Усова, А. В., &amp; Матвеев, Б. Г.</author>
+        <date>2019.</date>
+        <title>Оценка влияния денежно-кредитной политики на реальный сектор экономики.</title>
+        <journal>Деньги и кредит</journal>
+        <volume>Т. 78, № 2,</volume>
+        <pages>с. 3–21.</pages>
+        <doi>10.31477/rjmf.201902.03</doi>
+    </sequence>
+    <sequence>
+        <author>Громов, В. Г.</author>
+        <date>(2021).</date>
+        <title>Нейронные сети в распознавании рукописного текста на русском языке.</title>
+        <journal>Компьютерная оптика</journal>
+        <volume>Т. 45, № 4,</volume>
+        <pages>с. 611–618.</pages>
+        <doi>10.18287/2412-6179-CO-868</doi>
+    </sequence>
+    <sequence>
+        <author>Пономарёва, Е. А., Захарова, Т. В., &amp; Орехов, С. К.</author>
+        <date>2020.</date>
+        <title>Факторы инвестиционной привлекательности регионов Дальнего Востока.</title>
+        <journal>Пространственная экономика</journal>
+        <volume>Т. 16, № 2,</volume>
+        <pages>с. 35–69.</pages>
+        <doi>10.14530/se.2020.2.035-069</doi>
+    </sequence>
+    <sequence>
+        <author>Тарасов, А. Н.</author>
+        <date>2018.</date>
+        <title>Геополитические интересы России в Центральной Азии.</title>
+        <journal>Международная жизнь</journal>
+        <volume>№ 4,</volume>
+        <pages>с. 16–27.</pages>
+    </sequence>
+    <sequence>
+        <author>Носова, С. М., Кравченко, Л. А., &amp; Денисов, П. В.</author>
+        <date>2017.</date>
+        <title>Эффективность реабилитационных программ при инфаркте миокарда.</title>
+        <journal>Кардиология</journal>
+        <volume>Т. 57, № 11,</volume>
+        <pages>с. 5–12.</pages>
+        <doi>10.18087/cardio.2017.11.10043</doi>
+    </sequence>
+    <sequence>
+        <author>Котов, Д. Е.</author>
+        <date>(2022).</date>
+        <title>Применение блокчейн-технологий в цепочках поставок: российский опыт.</title>
+        <journal>Логистика и управление цепями поставок</journal>
+        <volume>№ 5 (112),</volume>
+        <pages>с. 14–26.</pages>
+    </sequence>
+    <sequence>
+        <author>Лаврентьева, О. А., &amp; Дмитриева, И. В.</author>
+        <date>2021.</date>
+        <title>Гендерные различия в академической успеваемости: метаанализ российских исследований.</title>
+        <journal>Психологическая наука и образование</journal>
+        <volume>Т. 26, № 3,</volume>
+        <pages>с. 5–17.</pages>
+        <doi>10.17759/pse.2021260301</doi>
+    </sequence>
+    <sequence>
+        <author>Шишкин, Р. О.</author>
+        <date>2016.</date>
+        <title>Биоразнообразие почвенной мезофауны в условиях антропогенного воздействия.</title>
+        <journal>Почвоведение</journal>
+        <volume>№ 8,</volume>
+        <pages>с. 968–979.</pages>
+    </sequence>
+    <sequence>
+        <author>Матюшкин, А. В., Соловьёв, Д. Н., Крылов, В. Б., &amp; Ушаков, Т. О.</author>
+        <date>2023.</date>
+        <title>Фотокаталитическое разложение органических загрязнителей с помощью гибридных нанокомпозитов TiO2/rGO.</title>
+        <journal>Журнал физической химии</journal>
+        <volume>Т. 97, № 1,</volume>
+        <pages>с. 3–14.</pages>
+        <doi>10.31857/S0044453723010156</doi>
+    </sequence>
+    <sequence>
+        <author>Власова, М. Е.</author>
+        <date>2019.</date>
+        <title>Инклюзивное образование детей с ограниченными возможностями здоровья в российских школах.</title>
+        <journal>Дефектология</journal>
+        <volume>№ 2,</volume>
+        <pages>с. 10–21.</pages>
+    </sequence>
+    <sequence>
+        <author>Баранов, С. И., &amp; Хомич, В. Н.</author>
+        <date>2020.</date>
+        <title>Оценка качества речи при использовании глубоких нейронных сетей в системах TTS.</title>
+        <journal>Речевые технологии</journal>
+        <volume>№ 1–2,</volume>
+        <pages>с. 3–17.</pages>
+    </sequence>
+    <sequence>
+        <author>Митрофанов, Г. А.</author>
+        <date>(2018).</date>
+        <title>Перспективы водородной энергетики в условиях декарбонизации.</title>
+        <journal>Теплоэнергетика</journal>
+        <volume>№ 10,</volume>
+        <pages>с. 3–16.</pages>
+        <doi>10.1134/S0040601518100075</doi>
+    </sequence>
+    <sequence>
+        <author>Лукьянова, Р. А., Горбунова, Е. В., &amp; Трофимов, С. Н.</author>
+        <date>2021.</date>
+        <title>Влияние реформы ЖКХ на потребительские расходы домохозяйств.</title>
+        <journal>Народонаселение</journal>
+        <volume>Т. 24, № 1,</volume>
+        <pages>с. 57–70.</pages>
+        <doi>10.19181/population.2021.24.1.5</doi>
+    </sequence>
+    <sequence>
+        <author>Конюхов, И. В.</author>
+        <date>2014.</date>
+        <title>Семантические модели в корпусной лингвистике русского языка.</title>
+        <journal>Компьютерная лингвистика и интеллектуальные технологии</journal>
+        <volume>Вып. 13 (20),</volume>
+        <pages>с. 303–314.</pages>
+    </sequence>
+    <sequence>
+        <author>Поляков, В. В., &amp; Смирнов, Д. Ю.</author>
+        <date>2022.</date>
+        <title>Сейсмическая активность Байкальской рифтовой зоны: пространственно-временной анализ.</title>
+        <journal>Физика Земли</journal>
+        <volume>№ 3,</volume>
+        <pages>с. 62–78.</pages>
+        <doi>10.31857/S0002333722030091</doi>
+    </sequence>
+    <sequence>
+        <author>Симонова, А. В.</author>
+        <date>2020.</date>
+        <title>Трудовая миграция из стран СНГ в Россию: масштабы, структура, последствия.</title>
+        <journal>Социологические исследования</journal>
+        <volume>№ 7,</volume>
+        <pages>с. 104–115.</pages>
+    </sequence>
+    <sequence>
+        <author>Гусев, А. Б., Мещеряков, Р. В., Фомин, Д. С., &amp; Быков, И. Н.</author>
+        <date>(2019).</date>
+        <title>Технологии интернета вещей в системах умного города.</title>
+        <journal>Информационно-управляющие системы</journal>
+        <volume>№ 3 (100),</volume>
+        <pages>с. 62–73.</pages>
+        <doi>10.31799/1684-8853-2019-3-62-73</doi>
+    </sequence>
+    <sequence>
+        <author>Щербакова, Н. Д.</author>
+        <date>2017.</date>
+        <title>Реструктуризация долга как инструмент антикризисного управления.</title>
+        <journal>Финансовый менеджмент</journal>
+        <volume>№ 4,</volume>
+        <pages>с. 82–91.</pages>
+    </sequence>
+    <sequence>
+        <author>Репин, К. А., &amp; Власенко, О. В.</author>
+        <date>2021.</date>
+        <title>Математические модели распространения инфекционных заболеваний в гетерогенных популяциях.</title>
+        <journal>Математическое моделирование</journal>
+        <volume>Т. 33, № 6,</volume>
+        <pages>с. 3–22.</pages>
+        <doi>10.20948/mm-2021-06-01</doi>
+    </sequence>
+    <sequence>
+        <author>Данилова, Н. Г.</author>
+        <date>2023.</date>
+        <title>Антикоррупционная политика в системе государственных закупок: российский и зарубежный опыт.</title>
+        <journal>Государственное управление. Электронный вестник</journal>
+        <volume>Вып. 97,</volume>
+        <pages>с. 64–83.</pages>
+        <url>https://e-journal.spa.msu.ru/uploads/vestnik/2023/vipusk__97._aprel_2023_g./danilova.pdf</url>
+    </sequence>
+    <sequence>
+        <author>Нестеров, А. В., Козлова, Т. П., &amp; Бурцев, М. С.</author>
+        <date>2019.</date>
+        <title>Трансформеры и самовнимание в задачах обработки естественного языка.</title>
+        <journal>Труды ИСП РАН</journal>
+        <volume>Т. 31, вып. 5,</volume>
+        <pages>с. 25–44.</pages>
+        <doi>10.15514/ISPRAS-2019-31(5)-2</doi>
+    </sequence>
+    <sequence>
+        <author>Серёгин, П. Е.</author>
+        <date>2015.</date>
+        <title>Влияние санкций на инвестиционный климат в России.</title>
+        <journal>Российский внешнеэкономический вестник</journal>
+        <volume>№ 11,</volume>
+        <pages>с. 3–18.</pages>
+    </sequence>
+    <sequence>
+        <author>Токарева, С. В., &amp; Мухина, А. И.</author>
+        <date>(2022).</date>
+        <title>Особенности когнитивного развития детей раннего возраста в условиях информационной среды.</title>
+        <journal>Вопросы психологии</journal>
+        <volume>№ 4,</volume>
+        <pages>с. 65–78.</pages>
+        <doi>10.47639/0042-8841_2022_4_65</doi>
+    </sequence>
+    <sequence>
+        <author>Харитонов, А. Е.</author>
+        <date>2020.</date>
+        <title>Стохастическая оптимизация в задачах машинного обучения с большими данными.</title>
+        <journal>Журнал вычислительной математики и математической физики</journal>
+        <volume>Т. 60, № 8,</volume>
+        <pages>с. 1347–1367.</pages>
+    </sequence>
+    <sequence>
+        <author>Ефимова, Е. В., Горяинова, Л. Н., Чистякова, О. В., &amp; Соловьёва, И. А.</author>
+        <date>2021.</date>
+        <title>Долгосрочные последствия перенесённого COVID-19 для сердечно-сосудистой системы.</title>
+        <journal>Терапевтический архив</journal>
+        <volume>Т. 93, № 4,</volume>
+        <pages>с. 380–387.</pages>
+        <doi>10.26442/00403660.2021.04.200700</doi>
+    </sequence>
+    <sequence>
+        <author>Марков, Д. В.</author>
+        <date>2018.</date>
+        <title>Телемедицина в первичной медицинской помощи: правовые и организационные аспекты.</title>
+        <journal>Менеджмент здравоохранения</journal>
+        <volume>№ 7,</volume>
+        <pages>с. 59–66.</pages>
+    </sequence>
+    <sequence>
+        <author>Борисова, М. С., &amp; Новиков, А. Л.</author>
+        <date>2022.</date>
+        <title>Рост городского населения и транспортная инфраструктура крупнейших городов России.</title>
+        <journal>Архитектура и строительство России</journal>
+        <volume>№ 1 (241),</volume>
+        <pages>с. 6–15.</pages>
+    </sequence>
+    <sequence>
+        <author>Дроздов, В. Н.</author>
+        <date>(2016).</date>
+        <title>Теплопроводность полимерных нанокомпозитов с графеновыми наполнителями.</title>
+        <journal>Высокомолекулярные соединения. Серия А</journal>
+        <volume>Т. 58, № 2,</volume>
+        <pages>с. 84–97.</pages>
+        <doi>10.7868/S0507547516020044</doi>
+    </sequence>
+    <sequence>
+        <author>Пирогова, А. В., Куликова, Т. Г., &amp; Антипин, А. С.</author>
+        <date>2020.</date>
+        <title>Минерально-сырьевая база редкоземельных металлов России: состояние и перспективы.</title>
+        <journal>Геология рудных месторождений</journal>
+        <volume>Т. 62, № 4,</volume>
+        <pages>с. 291–312.</pages>
+        <doi>10.31857/S0016777020040061</doi>
+    </sequence>
+    <sequence>
+        <author>Сухарев, О. С.</author>
+        <date>2019.</date>
+        <title>Структурные изменения в российской экономике: институциональный анализ.</title>
+        <journal>Экономист</journal>
+        <volume>№ 5,</volume>
+        <pages>с. 20–34.</pages>
+    </sequence>
+    <sequence>
+        <author>Фролова, Е. М., &amp; Астахова, И. С.</author>
+        <date>2021.</date>
+        <title>Психосоциальные факторы выгорания у медицинских работников в условиях пандемии.</title>
+        <journal>Медицинская психология в России</journal>
+        <volume>Т. 13, № 2,</volume>
+        <pages>с. 3. (электронный журнал)</pages>
+        <doi>10.24412/2219-8245-2021-2-3</doi>
+    </sequence>
+    <sequence>
+        <author>Грибков, А. Ю.</author>
+        <date>2017.</date>
+        <title>Методы верификации программного обеспечения для встроенных систем.</title>
+        <journal>Проблемы информационной безопасности. Компьютерные системы</journal>
+        <volume>№ 1,</volume>
+        <pages>с. 38–49.</pages>
+    </sequence>
+    <sequence>
+        <author>Лобанова, В. А., Краснова, О. Н., Игнатьев, П. Д., &amp; Сергеев, К. М.</author>
+        <date>(2020).</date>
+        <title>Эндемичные растения Кавказа: распределение, угрозы и охрана.</title>
+        <journal>Экология</journal>
+        <volume>№ 2,</volume>
+        <pages>с. 83–95.</pages>
+        <doi>10.31857/S0367059720020084</doi>
+    </sequence>
+    <sequence>
+        <author>Куценко, Е. С.</author>
+        <date>2015.</date>
+        <title>Кластеры в российской экономике: практика создания и направления развития.</title>
+        <journal>ЭКО</journal>
+        <volume>№ 4 (490),</volume>
+        <pages>с. 5–28.</pages>
+    </sequence>
+    <sequence>
+        <author>Тимохин, Г. В., &amp; Захарова, М. И.</author>
+        <date>2022.</date>
+        <title>Влияние ключевой ставки Банка России на динамику ипотечного кредитования.</title>
+        <journal>Банковское дело</journal>
+        <volume>№ 9,</volume>
+        <pages>с. 48–55.</pages>
+    </sequence>
+    <sequence>
+        <author>Калашников, Н. П.</author>
+        <date>(2018).</date>
+        <title>Нейтронная физика и ядерные реакторы следующего поколения.</title>
+        <journal>Атомная энергия</journal>
+        <volume>Т. 124, вып. 3,</volume>
+        <pages>с. 127–138.</pages>
+        <doi>10.1007/s10512-018-0392-z</doi>
+    </sequence>
+    <sequence>
+        <author>Козырева, О. А., Смирнова, М. Л., &amp; Рябова, Т. В.</author>
+        <date>2021.</date>
+        <title>Качество жизни пожилого населения России: региональное измерение.</title>
+        <journal>Успехи геронтологии</journal>
+        <volume>Т. 34, № 3,</volume>
+        <pages>с. 335–343.</pages>
+    </sequence>
+    <sequence>
+        <author>Петровский, М. Г.</author>
+        <date>2019.</date>
+        <title>Алгоритмы балансировки нагрузки в распределённых облачных системах.</title>
+        <journal>Системы и средства информатики</journal>
+        <volume>Т. 29, № 1,</volume>
+        <pages>с. 4–14.</pages>
+        <doi>10.14357/08696527190101</doi>
+    </sequence>
+    <sequence>
+        <author>Горелик, А. М., &amp; Тупицын, С. А.</author>
+        <date>2020.</date>
+        <title>Использование искусственных нейронных сетей для прогнозирования курсов валют.</title>
+        <journal>Экономика и математические методы</journal>
+        <volume>Т. 56, № 2,</volume>
+        <pages>с. 82–96.</pages>
+        <doi>10.31857/S042473880009066-3</doi>
+    </sequence>
+    <sequence>
+        <author>Козловская, Е. А.</author>
+        <date>2016.</date>
+        <title>Модели корпоративного управления в российских компаниях: эволюция и современное состояние.</title>
+        <journal>Российский журнал менеджмента</journal>
+        <volume>Т. 14, № 1,</volume>
+        <pages>с. 29–56.</pages>
+    </sequence>
+    <sequence>
+        <author>Авдеев, Р. С., Сорокина, Т. И., Фёдорова, К. В., &amp; Миронов, А. Г.</author>
+        <date>(2022).</date>
+        <title>Вариабельность сердечного ритма как маркер вегетативной дисфункции при гипертонической болезни.</title>
+        <journal>Артериальная гипертензия</journal>
+        <volume>Т. 28, № 1,</volume>
+        <pages>с. 9–20.</pages>
+        <doi>10.18705/1607-419X-2022-28-1-9-20</doi>
+    </sequence>
+    <sequence>
+        <author>Ковалёв, С. А.</author>
+        <date>2023.</date>
+        <title>Проблема принципала-агента в системе регулирования деятельности естественных монополий.</title>
+        <journal>Вопросы регулирования экономики</journal>
+        <volume>Т. 14, № 1,</volume>
+        <pages>с. 29–44.</pages>
+        <doi>10.17835/2078-5429.2023.14.1.029-044</doi>
+    </sequence>
+    <sequence>
+        <author>Воронцов, Г. Л.</author>
+        <date>2014.</date>
+        <title>Историческая память и коллективная идентичность в постсоветской России.</title>
+        <journal>Политическая экспертиза: Политэкс</journal>
+        <volume>Т. 10, № 4,</volume>
+        <pages>с. 17–36.</pages>
+    </sequence>
+    <sequence>
+        <author>Кузьмина, Д. А., &amp; Родионов, О. В.</author>
+        <date>2021.</date>
+        <title>Применение CRISPR-Cas9 в генотерапии наследственных заболеваний.</title>
+        <journal>Генетика</journal>
+        <volume>Т. 57, № 8,</volume>
+        <pages>с. 873–886.</pages>
+        <doi>10.31857/S0016675821080087</doi>
+    </sequence>
+    <sequence>
+        <author>Захаров, В. В.</author>
+        <date>2018.</date>
+        <title>Эволюция бюджетного федерализма в России.</title>
+        <journal>Финансовый журнал</journal>
+        <volume>№ 5,</volume>
+        <pages>с. 9–25.</pages>
+        <url>https://www.nifi.ru/images/FILES/Journal/Archive/2018/5/statii_2018_5/fj_2018_5_zahkarov.pdf</url>
+    </sequence>
+    <sequence>
+        <author>Маслова, Е. Г., Тихомирова, Л. Н., Воропаев, Д. С., &amp; Суханова, С. П.</author>
+        <date>2020.</date>
+        <title>Современные подходы к диагностике и лечению рассеянного склероза.</title>
+        <journal>Неврология, нейропсихиатрия, психосоматика</journal>
+        <volume>Т. 12, № 2,</volume>
+        <pages>с. 4–12.</pages>
+        <doi>10.14412/2074-2711-2020-2-4-12</doi>
+    </sequence>
+    <sequence>
+        <author>Беляев, К. О.</author>
+        <date>(2019).</date>
+        <title>Оценка эффективности расходов на НИОКР в российских корпорациях.</title>
+        <journal>Инновации</journal>
+        <volume>№ 4 (246),</volume>
+        <pages>с. 53–62.</pages>
+    </sequence>
+    <sequence>
+        <author>Суворова, Н. С., &amp; Коломийченко, О. В.</author>
+        <date>2022.</date>
+        <title>Цифровая трансформация промышленных предприятий: практические кейсы.</title>
+        <journal>Вопросы инновационной экономики</journal>
+        <volume>Т. 12, № 3,</volume>
+        <pages>с. 1531–1548.</pages>
+        <doi>10.18334/vinec.12.3.114950</doi>
+    </sequence>
+    <sequence>
+        <author>Потапов, И. В.</author>
+        <date>2016.</date>
+        <title>Магнитные наноструктуры для биомедицинских приложений.</title>
+        <journal>Успехи физических наук</journal>
+        <volume>Т. 186, № 5,</volume>
+        <pages>с. 519–536.</pages>
+        <doi>10.3367/UFNr.2015.12.037513</doi>
+    </sequence>
+    <sequence>
+        <author>Андрианова, Л. Н., Гукова, И. Н., &amp; Петрова, О. А.</author>
+        <date>2021.</date>
+        <title>Возможности и ограничения онлайн-торговли в российских регионах.</title>
+        <journal>Торговля в России</journal>
+        <volume>№ 2 (34),</volume>
+        <pages>с. 3–17.</pages>
+    </sequence>
+    <sequence>
+        <author>Жуков, А. В.</author>
+        <date>(2020).</date>
+        <title>Численное моделирование турбулентных течений с помощью метода Монте-Карло.</title>
+        <journal>Прикладная механика и техническая физика</journal>
+        <volume>Т. 61, № 2,</volume>
+        <pages>с. 17–28.</pages>
+        <doi>10.15372/PMTF20200202</doi>
+    </sequence>
+    <sequence>
+        <author>Соболева, Т. С.</author>
+        <date>2018.</date>
+        <title>Социальная дифференциация и мобильность в современном российском обществе.</title>
+        <journal>Мир России. Социология. Этнология</journal>
+        <volume>Т. 27, № 3,</volume>
+        <pages>с. 30–59.</pages>
+        <doi>10.17323/1811-038X-2018-27-3-30-59</doi>
+    </sequence>
+    <sequence>
+        <author>Куликов, Г. П., Зиновьев, А. В., Крупин, В. Н., &amp; Большакова, Е. И.</author>
+        <date>2023.</date>
+        <title>Адаптация алгоритмов обработки сигналов для FPGA-архитектур.</title>
+        <journal>Цифровая обработка сигналов</journal>
+        <volume>№ 1,</volume>
+        <pages>с. 2–11.</pages>
+    </sequence>
+    <sequence>
+        <author>Родина, В. А.</author>
+        <date>2017.</date>
+        <title>Межбюджетные трансферты и выравнивание бюджетной обеспеченности регионов.</title>
+        <journal>Финансы</journal>
+        <volume>№ 8,</volume>
+        <pages>с. 19–26.</pages>
+    </sequence>
+    <sequence>
+        <author>Карелин, А. М., &amp; Батова, Н. С.</author>
+        <date>2019.</date>
+        <title>Прогнозирование временных рядов с помощью рекуррентных нейронных сетей LSTM.</title>
+        <journal>Нейрокомпьютеры: разработка, применение</journal>
+        <volume>№ 5,</volume>
+        <pages>с. 23–33.</pages>
+    </sequence>
+    <sequence>
+        <author>Алексеева, О. В., Фомичёва, А. Н., &amp; Казанцева, Е. В.</author>
+        <date>(2021).</date>
+        <title>Психическое здоровье подростков в контексте использования социальных сетей.</title>
+        <journal>Консультативная психология и психотерапия</journal>
+        <volume>Т. 29, № 3,</volume>
+        <pages>с. 8–31.</pages>
+        <doi>10.17759/cpp.2021290302</doi>
+    </sequence>
+    <sequence>
+        <author>Осипов, А. В.</author>
+        <date>2020.</date>
+        <title>Управление рисками в строительных проектах с применением метода монте-карло.</title>
+        <journal>Проблемы анализа риска</journal>
+        <volume>Т. 17, № 2,</volume>
+        <pages>с. 20–31.</pages>
+        <doi>10.32686/1812-5220-2020-17-2-20-31</doi>
+    </sequence>
+    <sequence>
+        <author>Тумасов, Б. Н.</author>
+        <date>2015.</date>
+        <title>Нормативно-правовое регулирование деятельности саморегулируемых организаций в России.</title>
+        <journal>Право и экономика</journal>
+        <volume>№ 3,</volume>
+        <pages>с. 47–53.</pages>
+    </sequence>
+    <sequence>
+        <author>Шувалова, Е. Б., Катаев, М. Ю., &amp; Бирюков, П. А.</author>
+        <date>2022.</date>
+        <title>Налоговое стимулирование инновационной деятельности: международный и российский опыт.</title>
+        <journal>Налоги и налогообложение</journal>
+        <volume>№ 2,</volume>
+        <pages>с. 1–15.</pages>
+        <doi>10.7256/2454-065X.2022.2.37590</doi>
+    </sequence>
+    <sequence>
+        <author>Гуляев, С. А.</author>
+        <date>(2017).</date>
+        <title>Расчёт напряжённо-деформированного состояния многослойных конструкций методом конечных элементов.</title>
+        <journal>Вычислительная механика сплошных сред</journal>
+        <volume>Т. 10, № 1,</volume>
+        <pages>с. 44–55.</pages>
+        <doi>10.7242/1999-6691/2017.10.1.4</doi>
+    </sequence>
+    <sequence>
+        <author>Яровая, Н. Н., Семёнова, Г. А., &amp; Крылова, С. С.</author>
+        <date>2023.</date>
+        <title>Профессиональное выгорание учителей: факторы риска и превентивные стратегии.</title>
+        <journal>Педагогика</journal>
+        <volume>Т. 87, № 3,</volume>
+        <pages>с. 40–52.</pages>
+    </sequence>
+    <sequence>
+        <author>Ромашкин, П. С.</author>
+        <date>2019.</date>
+        <title>Динамика неравенства доходов в России: декомпозиционный анализ.</title>
+        <journal>Народонаселение</journal>
+        <volume>Т. 22, № 2,</volume>
+        <pages>с. 16–29.</pages>
+        <doi>10.24411/1561-7785-2019-00013</doi>
+    </sequence>
+    <sequence>
+        <author>Воробьёв, Д. В., &amp; Сафонова, М. А.</author>
+        <date>2021.</date>
+        <title>Экологическая эффективность «зелёных» облигаций на российском финансовом рынке.</title>
+        <journal>Экономика устойчивого развития</journal>
+        <volume>№ 4 (48),</volume>
+        <pages>с. 218–227.</pages>
+    </sequence>
+    <sequence>
+        <author>Климов, В. Б.</author>
+        <date>(2018).</date>
+        <title>Особенности поведения металлических стёкол под воздействием внешнего давления.</title>
+        <journal>Физика металлов и металловедение</journal>
+        <volume>Т. 119, № 7,</volume>
+        <pages>с. 675–683.</pages>
+        <doi>10.1134/S0031918X18070062</doi>
+    </sequence>
+    <sequence>
+        <author>Вострикова, Е. А., Сомова, Л. Ю., &amp; Пряхина, Т. В.</author>
+        <date>2022.</date>
+        <title>Вакцинация против гриппа и COVID-19: анализ охвата и эффективности в России.</title>
+        <journal>Эпидемиология и вакцинопрофилактика</journal>
+        <volume>Т. 21, № 3,</volume>
+        <pages>с. 19–29.</pages>
+        <doi>10.31631/2073-3046-2022-21-3-19-29</doi>
+    </sequence>
+    <sequence>
+        <author>Малинин, А. О.</author>
+        <date>2016.</date>
+        <title>Сельское хозяйство и продовольственная безопасность России в условиях санкционного давления.</title>
+        <journal>Агропродовольственная политика России</journal>
+        <volume>№ 6 (54),</volume>
+        <pages>с. 2–7.</pages>
+    </sequence>
+    <sequence>
+        <author>Кравцов, Е. Д., &amp; Суханова, Т. В.</author>
+        <date>2020.</date>
+        <title>Расчёт энергетических характеристик гибридных солнечно-ветровых установок.</title>
+        <journal>Возобновляемая энергетика</journal>
+        <volume>№ 2 (51),</volume>
+        <pages>с. 4–12.</pages>
+    </sequence>
+    <sequence>
+        <author>Никонорова, И. В., Фёдорова, А. С., Степченко, В. А., &amp; Буров, Д. Г.</author>
+        <date>(2021).</date>
+        <title>Морфологический анализ лекарственного взаимодействия антикоагулянтов с НПВП.</title>
+        <journal>Клиническая фармакология и терапия</journal>
+        <volume>Т. 30, № 1,</volume>
+        <pages>с. 55–62.</pages>
+        <doi>10.32756/0869-5490-2021-1-55-62</doi>
+    </sequence>
+    <sequence>
+        <author>Тюрин, Г. А.</author>
+        <date>2017.</date>
+        <title>Экономический рост и структурные реформы: опыт стран с переходной экономикой.</title>
+        <journal>Экономика переходного периода</journal>
+        <volume>Т. 3, № 1,</volume>
+        <pages>с. 4–26.</pages>
+    </sequence>
+    <sequence>
+        <author>Шилова, Е. В., &amp; Архипова, М. Д.</author>
+        <date>2019.</date>
+        <title>Современные технологии оказания юридической помощи в цифровую эпоху.</title>
+        <journal>Российский юридический журнал</journal>
+        <volume>№ 4 (127),</volume>
+        <pages>с. 20–29.</pages>
+    </sequence>
+    <sequence>
+        <author>Лунёв, А. В.</author>
+        <date>(2022).</date>
+        <title>Синтез и свойства наноразмерных оксидных пленок для микроэлектроники.</title>
+        <journal>Физика и техника полупроводников</journal>
+        <volume>Т. 56, № 4,</volume>
+        <pages>с. 310–318.</pages>
+        <doi>10.21883/FTP.2022.04.52320.9728</doi>
+    </sequence>
+    <sequence>
+        <author>Трубников, С. Н., Власов, А. П., &amp; Борисов, К. В.</author>
+        <date>2023.</date>
+        <title>Транспортная доступность и социально-экономическое развитие периферийных территорий России.</title>
+        <journal>Региональная экономика: теория и практика</journal>
+        <volume>Т. 21, № 2 (509),</volume>
+        <pages>с. 224–252.</pages>
+        <doi>10.24891/re.21.2.224</doi>
+    </sequence>
+    <sequence>
+        <author>Никитина, О. А.</author>
+        <date>2020.</date>
+        <title>Деривационные механизмы пополнения словарного состава современного русского языка.</title>
+        <journal>Вестник Московского университета. Серия 9: Филология</journal>
+        <volume>№ 3,</volume>
+        <pages>с. 7–21.</pages>
+    </sequence>
+    <sequence>
+        <author>Перов, Н. А., &amp; Пузенко, И. С.</author>
+        <date>2018.</date>
+        <title>Иммунотерапия опухолей: от теории к клинической практике.</title>
+        <journal>Клиническая онкология</journal>
+        <volume>Т. 8, № 2,</volume>
+        <pages>с. 4–16.</pages>
+    </sequence>
+    <sequence>
+        <author>Абрамова, И. О., Фитуни, Л. Л., &amp; Миронова, О. А.</author>
+        <date>(2019).</date>
+        <title>Африка в российских внешнеэкономических приоритетах.</title>
+        <journal>Мировая экономика и международные отношения</journal>
+        <volume>Т. 63, № 4,</volume>
+        <pages>с. 90–102.</pages>
+        <doi>10.20542/0131-2227-2019-63-4-90-102</doi>
+    </sequence>
+    <sequence>
+        <author>Калинина, Г. С.</author>
+        <date>2021.</date>
+        <title>Институт уголовного преследования в правовой системе России.</title>
+        <journal>Уголовное судопроизводство</journal>
+        <volume>№ 1,</volume>
+        <pages>с. 31–37.</pages>
+    </sequence>
+    <sequence>
+        <author>Громаков, Е. И., &amp; Рождественский, А. В.</author>
+        <date>2019.</date>
+        <title>Оценка техногенного воздействия на атмосферный воздух в зонах промышленных агломераций.</title>
+        <journal>Оптика атмосферы и океана</journal>
+        <volume>Т. 32, № 8,</volume>
+        <pages>с. 631–639.</pages>
+        <doi>10.15372/AOO20190801</doi>
+    </sequence>
+    <sequence>
+        <author>Суслова, Г. В., Ерёмина, А. А., Коноплёва, В. С., &amp; Маслов, Д. И.</author>
+        <date>2022.</date>
+        <title>Оценка энергоэффективности зданий с применением тепловизионного контроля.</title>
+        <journal>Строительство и реконструкция</journal>
+        <volume>№ 1 (99),</volume>
+        <pages>с. 71–80.</pages>
+    </sequence>
+    <sequence>
+        <author>Зуева, Д. В.</author>
+        <date>2016.</date>
+        <title>Философия языка и семиотика в постсоветском научном дискурсе.</title>
+        <journal>Вестник Российского философского общества</journal>
+        <volume>№ 3 (79),</volume>
+        <pages>с. 97–103.</pages>
+    </sequence>
+    <sequence>
+        <author>Карасёв, В. А., &amp; Скворцов, Б. Н.</author>
+        <date>2023.</date>
+        <title>Управление портфелем проектов в условиях ресурсных ограничений.</title>
+        <journal>Управление проектами и программами</journal>
+        <volume>№ 1 (73),</volume>
+        <pages>с. 14–25.</pages>
+        <doi>10.36627/2221-7975-2023-1-73-14-25</doi>
+    </sequence>
+    <sequence>
+        <author>Нефёдов, В. А.</author>
+        <date>(2018).</date>
+        <title>Анализ дефектов поверхности в системах машинного зрения.</title>
+        <journal>Автоматика и вычислительная техника</journal>
+        <volume>Т. 52, № 3,</volume>
+        <pages>с. 209–221.</pages>
+        <doi>10.3103/S0146411618030100</doi>
+    </sequence>
+    <sequence>
+        <author>Поздняков, А. В., Угрюмова, Н. А., &amp; Путинцева, Е. А.</author>
+        <date>2020.</date>
+        <title>Ландшафтно-экологический анализ водно-болотных угодий Западной Сибири.</title>
+        <journal>Сибирский экологический журнал</journal>
+        <volume>Т. 27, № 5,</volume>
+        <pages>с. 579–594.</pages>
+        <doi>10.15372/SEJ20200506</doi>
+    </sequence>
+    <sequence>
+        <author>Якименко, В. Л.</author>
+        <date>2022.</date>
+        <title>Мотивация персонала в цифровой среде: практика российских компаний.</title>
+        <journal>Управление персоналом и интеллектуальными ресурсами в России</journal>
+        <volume>Т. 11, № 3,</volume>
+        <pages>с. 36–44.</pages>
+        <doi>10.12737/2305-7807-2022-11-3-36-44</doi>
+    </sequence>
+    <sequence>
+        <author>Чернышёв, А. Д., &amp; Гончаров, Б. И.</author>
+        <date>2017.</date>
+        <title>Новые методы синтеза полимерных нанокапсул для адресной доставки лекарств.</title>
+        <journal>Биоорганическая химия</journal>
+        <volume>Т. 43, № 4,</volume>
+        <pages>с. 385–398.</pages>
+    </sequence>
+    <sequence>
+        <author>Буров, А. К., Вилков, И. С., Тучкова, О. А., &amp; Якупова, Г. Р.</author>
+        <date>(2021).</date>
+        <title>Применение методов спектроскопии для контроля качества пищевых продуктов.</title>
+        <journal>Пищевая химия</journal>
+        <volume>Т. 9, № 2,</volume>
+        <pages>с. 60–73.</pages>
+    </sequence>
+    <sequence>
+        <author>Мирошниченко, С. В.</author>
+        <date>2019.</date>
+        <title>Роль малого предпринимательства в инновационном развитии экономики регионов.</title>
+        <journal>Предпринимательство и право</journal>
+        <volume>Т. 3, № 4,</volume>
+        <pages>с. 50–63.</pages>
+    </sequence>
+    <sequence>
+        <author>Герасимова, О. С., &amp; Чеботарёва, Л. В.</author>
+        <date>2023.</date>
+        <title>Коррупционные риски в системе государственного контроля и надзора.</title>
+        <journal>Вопросы государственного и муниципального управления</journal>
+        <volume>№ 1,</volume>
+        <pages>с. 31–55.</pages>
+        <doi>10.17323/1999-5431-2023-0-1-31-55</doi>
+    </sequence>
+    <sequence>
+        <author>Строков, В. А.</author>
+        <date>(2020).</date>
+        <title>Диабетическая нейропатия: патогенез, диагностика, лечение.</title>
+        <journal>Русский медицинский журнал</journal>
+        <volume>Т. 28, № 8,</volume>
+        <pages>с. 30–36.</pages>
+    </sequence>
+    <sequence>
+        <author>Захарченко, А. В., Носов, В. В., &amp; Смирнов, С. А.</author>
+        <date>2018.</date>
+        <title>Численные методы решения задач механики разрушения.</title>
+        <journal>Механика твёрдого тела</journal>
+        <volume>№ 5,</volume>
+        <pages>с. 89–102.</pages>
+    </sequence>
+    <sequence>
+        <author>Трофимова, А. В.</author>
+        <date>2021.</date>
+        <title>Потребительское поведение в условиях пандемии: опрос домохозяйств.</title>
+        <journal>Мониторинг общественного мнения: экономические и социальные перемены</journal>
+        <volume>№ 2,</volume>
+        <pages>с. 133–154.</pages>
+        <doi>10.14515/monitoring.2021.2.1780</doi>
+    </sequence>
+    <sequence>
+        <author>Сотников, Н. П., &amp; Ткаченко, Р. О.</author>
+        <date>2016.</date>
+        <title>Оценка вибрационных характеристик ветроэнергетических установок.</title>
+        <journal>Теоретические основы химической технологии</journal>
+        <volume>Т. 50, № 4,</volume>
+        <pages>с. 421–429.</pages>
+    </sequence>
+    <sequence>
+        <author>Пашкова, Н. А., Курочкина, В. В., Денисова, Т. С., &amp; Кузьминова, Е. В.</author>
+        <date>(2022).</date>
+        <title>Антибиотикорезистентность возбудителей внебольничных пневмоний в России.</title>
+        <journal>Клиническая микробиология и антимикробная химиотерапия</journal>
+        <volume>Т. 24, № 3,</volume>
+        <pages>с. 226–235.</pages>
+        <doi>10.36488/cmac.2022.3.226-235</doi>
+    </sequence>
+    <sequence>
+        <author>Сысоев, Г. А.</author>
+        <date>2017.</date>
+        <title>Технологии сжатия данных в системах передачи видеоинформации высокой чёткости.</title>
+        <journal>Электросвязь</journal>
+        <volume>№ 5,</volume>
+        <pages>с. 53–58.</pages>
+    </sequence>
+    <sequence>
+        <author>Медведева, О. Н., &amp; Глушкова, М. В.</author>
+        <date>2020.</date>
+        <title>Воспроизводство человеческого капитала в условиях демографического старения.</title>
+        <journal>Экономика труда</journal>
+        <volume>Т. 7, № 10,</volume>
+        <pages>с. 859–876.</pages>
+        <doi>10.18334/et.7.10.110971</doi>
+    </sequence>
+    <sequence>
+        <author>Котельников, В. Д.</author>
+        <date>(2019).</date>
+        <title>Квантово-химические расчёты молекулярных орбиталей гетероароматических соединений.</title>
+        <journal>Журнал структурной химии</journal>
+        <volume>Т. 60, № 7,</volume>
+        <pages>с. 1069–1081.</pages>
+        <doi>10.26902/JSC_id46095</doi>
+    </sequence>
+    <sequence>
+        <author>Сторожук, В. А., Кузина, М. Д., &amp; Кабанова, Н. Е.</author>
+        <date>2021.</date>
+        <title>Опыт применения дистанционного зондирования Земли для мониторинга лесных пожаров.</title>
+        <journal>Современные проблемы дистанционного зондирования Земли из космоса</journal>
+        <volume>Т. 18, № 4,</volume>
+        <pages>с. 9–21.</pages>
+        <doi>10.21046/2070-7401-2021-18-4-9-21</doi>
+    </sequence>
+    <sequence>
+        <author>Ламанов, С. А.</author>
+        <date>2014.</date>
+        <title>Практика применения антимонопольного законодательства в России.</title>
+        <journal>Конкурентное право</journal>
+        <volume>№ 3,</volume>
+        <pages>с. 16–22.</pages>
+    </sequence>
+    <sequence>
+        <author>Никулина, А. В., &amp; Тряпицына, С. В.</author>
+        <date>2022.</date>
+        <title>Образовательные результаты и социальный контекст: анализ данных PISA по России.</title>
+        <journal>Вопросы образования</journal>
+        <volume>№ 2,</volume>
+        <pages>с. 70–97.</pages>
+        <doi>10.17323/1814-9545-2022-2-70-97</doi>
+    </sequence>
+    <sequence>
+        <author>Прохоров, Д. А.</author>
+        <date>2018.</date>
+        <title>Современные концепции управления жизненным циклом продукции в авиастроении.</title>
+        <journal>Вестник Самарского университета. Аэрокосмическая техника, технологии и машиностроение</journal>
+        <volume>Т. 17, № 2,</volume>
+        <pages>с. 7–21.</pages>
+        <doi>10.18287/2541-7533-2018-17-2-7-21</doi>
+    </sequence>
+    <sequence>
+        <author>Курносов, Г. П., Дмитриев, А. О., Нечаев, В. С., &amp; Жигулев, А. Б.</author>
+        <date>(2020).</date>
+        <title>Применение лазерной локации для геодезической съёмки карьеров.</title>
+        <journal>Известия вузов. Горный журнал</journal>
+        <volume>№ 3,</volume>
+        <pages>с. 51–61.</pages>
+        <doi>10.21440/0536-1028-2020-3-51-61</doi>
+    </sequence>
+    <sequence>
+        <author>Жукова, Л. И.</author>
+        <date>2021.</date>
+        <title>Инновации в системе пенсионного обеспечения: опыт и перспективы для России.</title>
+        <journal>Народонаселение</journal>
+        <volume>Т. 24, № 4,</volume>
+        <pages>с. 75–88.</pages>
+        <doi>10.19181/population.2021.24.4.7</doi>
+    </sequence>
+    <sequence>
+        <author>Петрунин, Ю. Ю., &amp; Лёвин, К. О.</author>
+        <date>2017.</date>
+        <title>Этические аспекты применения искусственного интеллекта в принятии решений.</title>
+        <journal>Информационные технологии</journal>
+        <volume>Т. 23, № 5,</volume>
+        <pages>с. 376–384.</pages>
+    </sequence>
+    <sequence>
+        <author>Мещерякова, Г. В.</author>
+        <date>2023.</date>
+        <title>Управление активами в условиях волатильности финансовых рынков.</title>
+        <journal>Финансы: теория и практика</journal>
+        <volume>Т. 27, № 2,</volume>
+        <pages>с. 40–54.</pages>
+        <doi>10.26794/2587-5671-2023-27-2-40-54</doi>
+    </sequence>
+    <sequence>
+        <author>Семёнов, А. В., Котиков, Д. Б., &amp; Власенко, Р. А.</author>
+        <date>2019.</date>
+        <title>Роль обонятельных систем в диагностике нейродегенеративных расстройств.</title>
+        <journal>Журнал высшей нервной деятельности им. И. П. Павлова</journal>
+        <volume>Т. 69, № 5,</volume>
+        <pages>с. 553–566.</pages>
+        <doi>10.1134/S0044467719050095</doi>
+    </sequence>
+    <sequence>
+        <author>Дементьев, В. В.</author>
+        <date>2016.</date>
+        <title>Институциональные ловушки и механизмы их преодоления в переходных экономиках.</title>
+        <journal>Журнал институциональных исследований</journal>
+        <volume>Т. 8, № 3,</volume>
+        <pages>с. 24–40.</pages>
+        <doi>10.17835/2076-6297.2016.8.3.024-040</doi>
+    </sequence>
+    <sequence>
+        <author>Чистякова, Е. А., &amp; Иваненко, С. В.</author>
+        <date>(2022).</date>
+        <title>Профилирование угроз кибербезопасности с применением методов машинного обучения.</title>
+        <journal>Информационные технологии и вычислительные системы</journal>
+        <volume>№ 1,</volume>
+        <pages>с. 78–92.</pages>
+    </sequence>
+    <sequence>
+        <author>Фёдоров, А. В.</author>
+        <date>2020.</date>
+        <title>Медиаграмотность как компетенция современного учителя.</title>
+        <journal>Инновации в образовании</journal>
+        <volume>№ 4,</volume>
+        <pages>с. 5–13.</pages>
+    </sequence>
+    <sequence>
+        <author>Ломов, С. П., Новикова, Н. С., Беляева, О. С., &amp; Зубов, К. Д.</author>
+        <date>2021.</date>
+        <title>Разработка аналитической платформы для оценки качества атмосферного воздуха в мегаполисах.</title>
+        <journal>Мониторинг. Наука и технологии</journal>
+        <volume>№ 2 (47),</volume>
+        <pages>с. 15–24.</pages>
+    </sequence>
+    <sequence>
+        <author>Рябов, А. В.</author>
+        <date>(2017).</date>
+        <title>Политические системы постсоветских государств: сравнительный анализ.</title>
+        <journal>Мировая экономика и международные отношения</journal>
+        <volume>Т. 61, № 1,</volume>
+        <pages>с. 40–54.</pages>
+        <doi>10.20542/0131-2227-2017-61-1-40-54</doi>
+    </sequence>
+    <sequence>
+        <author>Кириллов, С. А., &amp; Назаров, М. И.</author>
+        <date>2019.</date>
+        <title>Сплавы с памятью формы для медицинских имплантатов: обзор.</title>
+        <journal>Металловедение и термическая обработка металлов</journal>
+        <volume>№ 9 (771),</volume>
+        <pages>с. 3–12.</pages>
+        <doi>10.1007/s11041-019-00444-1</doi>
+    </sequence>
+    <sequence>
+        <author>Хомякова, Н. Н.</author>
+        <date>2021.</date>
+        <title>Обучение переводу в условиях технологического прогресса: новые подходы.</title>
+        <journal>Вестник Московского государственного лингвистического университета. Образование и педагогические науки</journal>
+        <volume>Вып. 1 (838),</volume>
+        <pages>с. 112–124.</pages>
+    </sequence>
+    <sequence>
+        <author>Воронин, Д. Е., Борисенко, А. В., &amp; Тихонова, Г. К.</author>
+        <date>2020.</date>
+        <title>Кластеризация данных методами глубокого обучения без учителя.</title>
+        <journal>Программирование</journal>
+        <volume>№ 6,</volume>
+        <pages>с. 28–42.</pages>
+        <doi>10.31857/S0132347420060108</doi>
+    </sequence>
+    <sequence>
+        <author>Сабирова, Л. Г.</author>
+        <date>2018.</date>
+        <title>Влияние иностранных инвестиций на экономическое развитие регионов России.</title>
+        <journal>Региональная экономика: теория и практика</journal>
+        <volume>Т. 16, № 8 (455),</volume>
+        <pages>с. 1569–1586.</pages>
+        <doi>10.24891/re.16.8.1569</doi>
+    </sequence>
+    <sequence>
+        <author>Крупин, О. В., &amp; Тяпкин, Д. А.</author>
+        <date>(2022).</date>
+        <title>Управление запасами с переменным спросом методами теории массового обслуживания.</title>
+        <journal>Логистика</journal>
+        <volume>№ 4 (185),</volume>
+        <pages>с. 48–54.</pages>
+    </sequence>
+    <sequence>
+        <author>Перфильева, И. В.</author>
+        <date>2016.</date>
+        <title>Нечёткое моделирование в задачах временного ряда.</title>
+        <journal>Проблемы управления</journal>
+        <volume>№ 5,</volume>
+        <pages>с. 21–29.</pages>
+    </sequence>
+    <sequence>
+        <author>Садовская, Е. В., Копылова, Т. М., &amp; Горбатова, А. Л.</author>
+        <date>2023.</date>
+        <title>Роль медицинских сестёр в первичной профилактике сердечно-сосудистых заболеваний.</title>
+        <journal>Медицинская сестра</journal>
+        <volume>Т. 25, № 2,</volume>
+        <pages>с. 3–8.</pages>
+        <doi>10.29296/25879979-2023-02-01</doi>
+    </sequence>
+    <sequence>
+        <author>Кабанов, В. А.</author>
+        <date>2019.</date>
+        <title>Синтез макропористых полиакрилатных матриц для хроматографии.</title>
+        <journal>Высокомолекулярные соединения. Серия А</journal>
+        <volume>Т. 61, № 5,</volume>
+        <pages>с. 426–440.</pages>
+    </sequence>
+    <sequence>
+        <author>Марьяновская, О. А., &amp; Климашевская, Е. В.</author>
+        <date>2021.</date>
+        <title>Мифологема пространства в прозе Михаила Булгакова.</title>
+        <journal>Русская литература</journal>
+        <volume>№ 3,</volume>
+        <pages>с. 136–148.</pages>
+        <doi>10.31860/0131-6095-2021-3-136-148</doi>
+    </sequence>
+    <sequence>
+        <author>Берёзкин, А. В., Голубев, С. Д., Ткачёв, В. Н., &amp; Краснов, М. О.</author>
+        <date>(2020).</date>
+        <title>Параллельные алгоритмы поиска экстремума функции на многопроцессорных системах.</title>
+        <journal>Вычислительные методы и программирование</journal>
+        <volume>Т. 21, № 1,</volume>
+        <pages>с. 42–55.</pages>
+        <doi>10.26089/NumMet.v21r104</doi>
+    </sequence>
+    <sequence>
+        <author>Разумова, К. В.</author>
+        <date>2017.</date>
+        <title>Феномен цифрового неравенства в российских регионах.</title>
+        <journal>Социологические исследования</journal>
+        <volume>№ 9,</volume>
+        <pages>с. 48–58.</pages>
+    </sequence>
+    <sequence>
+        <author>Плотников, В. А., &amp; Кузьмин, О. Б.</author>
+        <date>2022.</date>
+        <title>Развитие военно-промышленного комплекса в контексте промышленной политики России.</title>
+        <journal>Известия Санкт-Петербургского государственного экономического университета</journal>
+        <volume>№ 2 (134),</volume>
+        <pages>с. 16–26.</pages>
+    </sequence>
+    <sequence>
+        <author>Ксенофонтов, М. А.</author>
+        <date>(2018).</date>
+        <title>Долгосрочные сценарии развития нефтегазового сектора России.</title>
+        <journal>Проблемы прогнозирования</journal>
+        <volume>№ 4 (169),</volume>
+        <pages>с. 59–73.</pages>
+    </sequence>
+    <sequence>
+        <author>Назаренко, Н. В., Симонова, В. П., &amp; Панова, А. О.</author>
+        <date>2021.</date>
+        <title>Генетическая структура популяций байкальского омуля в условиях промысловой нагрузки.</title>
+        <journal>Генетика</journal>
+        <volume>Т. 57, № 5,</volume>
+        <pages>с. 538–548.</pages>
+        <doi>10.31857/S0016675821050088</doi>
+    </sequence>
+    <sequence>
+        <author>Агеев, О. С.</author>
+        <date>2019.</date>
+        <title>Ответственность за налоговые правонарушения: доктрина и практика.</title>
+        <journal>Налоги</journal>
+        <volume>№ 4,</volume>
+        <pages>с. 28–34.</pages>
+    </sequence>
+    <sequence>
+        <author>Каширина, Е. Д., &amp; Соловьёв, А. В.</author>
+        <date>2020.</date>
+        <title>Корпоративная социальная ответственность и рыночная стоимость российских компаний.</title>
+        <journal>Корпоративные финансы</journal>
+        <volume>Т. 14, № 4,</volume>
+        <pages>с. 7–26.</pages>
+        <doi>10.17323/j.jcfr.2073-0438.14.4.2020.7-26</doi>
+    </sequence>
+    <sequence>
+        <author>Ершов, Н. А.</author>
+        <date>2023.</date>
+        <title>Методологические основы статистического учёта данных дистанционного зондирования.</title>
+        <journal>Статистика и экономика</journal>
+        <volume>Т. 20, № 1,</volume>
+        <pages>с. 28–37.</pages>
+        <doi>10.21686/2500-3925-2023-1-28-37</doi>
+    </sequence>
+    <sequence>
+        <author>Кожинова, Т. В., Красникова, Е. С., Фомин, А. Е., &amp; Лупанова, В. И.</author>
+        <date>(2021).</date>
+        <title>Антиоксидантные свойства фенольных соединений растительного происхождения.</title>
+        <journal>Химия растительного сырья</journal>
+        <volume>№ 3,</volume>
+        <pages>с. 31–42.</pages>
+        <doi>10.14258/jcprm.2021038131</doi>
+    </sequence>
+    <sequence>
+        <author>Лобова, С. В.</author>
+        <date>2018.</date>
+        <title>Эффективность инструментов стратегического управления в промышленном секторе.</title>
+        <journal>Вестник Алтайской академии экономики и права</journal>
+        <volume>№ 8,</volume>
+        <pages>с. 3–11.</pages>
+    </sequence>
+    <sequence>
+        <author>Алёшин, М. В., &amp; Фёдорова, Л. И.</author>
+        <date>2022.</date>
+        <title>Влияние микрофлоры кишечника на метаболический синдром.</title>
+        <journal>Терапевтический архив</journal>
+        <volume>Т. 94, № 8,</volume>
+        <pages>с. 948–956.</pages>
+        <doi>10.26442/00403660.2022.08.201721</doi>
+    </sequence>
+    <sequence>
+        <author>Белецкий, В. В.</author>
+        <date>2017.</date>
+        <title>Теория движения космических аппаратов в нецентральном гравитационном поле.</title>
+        <journal>Космические исследования</journal>
+        <volume>Т. 55, № 3,</volume>
+        <pages>с. 163–174.</pages>
+        <doi>10.7868/S0023420617030025</doi>
+    </sequence>
+    <sequence>
+        <author>Минина, Е. Р., Волкова, И. П., &amp; Беляева, Н. В.</author>
+        <date>(2020).</date>
+        <title>Финансовое поведение молодёжи в цифровую эпоху.</title>
+        <journal>Экономическая социология</journal>
+        <volume>Т. 21, № 5,</volume>
+        <pages>с. 12–40.</pages>
+        <doi>10.17323/1726-3247-2020-5-12-40</doi>
+    </sequence>
+    <sequence>
+        <author>Рыбаков, В. Г.</author>
+        <date>2016.</date>
+        <title>Нелинейные колебания и устойчивость упругих конструкций.</title>
+        <journal>Прикладная математика и механика</journal>
+        <volume>Т. 80, № 4,</volume>
+        <pages>с. 446–461.</pages>
+    </sequence>
+    <sequence>
+        <author>Иванова, А. В., Степанова, Г. Н., Шестова, К. П., &amp; Малинкин, Г. О.</author>
+        <date>2022.</date>
+        <title>Анализ эффективности программ профессиональной переподготовки в условиях автоматизации.</title>
+        <journal>Социально-трудовые исследования</journal>
+        <volume>Т. 48, № 3,</volume>
+        <pages>с. 69–82.</pages>
+        <doi>10.34022/2658-3712-2022-48-3-69-82</doi>
+    </sequence>
+    <sequence>
+        <author>Жаринов, О. Ю.</author>
+        <date>2019.</date>
+        <title>Современные протоколы беспроводных сенсорных сетей для промышленной автоматизации.</title>
+        <journal>Приборы и системы. Управление, контроль, диагностика</journal>
+        <volume>№ 7,</volume>
+        <pages>с. 9–19.</pages>
+    </sequence>
+    <sequence>
+        <author>Данченко, Л. А., &amp; Фесенко, Г. В.</author>
+        <date>2021.</date>
+        <title>Оценка земельных ресурсов: методологические аспекты кадастровой стоимости.</title>
+        <journal>Имущественные отношения в Российской Федерации</journal>
+        <volume>№ 6 (237),</volume>
+        <pages>с. 24–34.</pages>
+    </sequence>
+    <sequence>
+        <author>Чернов, Д. Л.</author>
+        <date>(2018).</date>
+        <title>Экономика здравоохранения: эффективность расходов в региональном разрезе.</title>
+        <journal>Социальные аспекты здоровья населения</journal>
+        <volume>Т. 64, № 6,</volume>
+        <pages>с. 6.</pages>
+        <doi>10.21045/2071-5021-2018-64-6-6</doi>
+    </sequence>
+    <sequence>
+        <author>Авдонина, Н. С., Корчагина, Е. В., &amp; Тарновская, И. И.</author>
+        <date>2023.</date>
+        <title>Устойчивые стратегии создания потребительской ценности в FMCG-сегменте.</title>
+        <journal>Маркетинг и маркетинговые исследования</journal>
+        <volume>№ 2,</volume>
+        <pages>с. 94–107.</pages>
+    </sequence>
+    <sequence>
+        <author>Свистов, В. В.</author>
+        <date>2015.</date>
+        <title>Нелинейная теория устойчивости ламинарного пограничного слоя.</title>
+        <journal>Известия Российской академии наук. Механика жидкости и газа</journal>
+        <volume>№ 2,</volume>
+        <pages>с. 35–51.</pages>
+    </sequence>
+    <sequence>
+        <author>Кириченко, Н. Б., &amp; Суринова, Е. А.</author>
+        <date>2020.</date>
+        <title>Методы оценки состояния рынка недвижимости в условиях экономической нестабильности.</title>
+        <journal>Экономика и предпринимательство</journal>
+        <volume>№ 9 (122),</volume>
+        <pages>с. 697–703.</pages>
+    </sequence>
+    <sequence>
+        <author>Голубев, А. Г., Мельников, Р. И., Потёмкин, С. А., &amp; Кривошеин, Т. Е.</author>
+        <date>(2021).</date>
+        <title>Нейронные интерфейсы мозг–компьютер: достижения и вызовы.</title>
+        <journal>Российский физиологический журнал им. И. М. Сеченова</journal>
+        <volume>Т. 107, № 5,</volume>
+        <pages>с. 568–583.</pages>
+        <doi>10.31857/S0869813921050046</doi>
+    </sequence>
+    <sequence>
+        <author>Новожилов, С. В.</author>
+        <date>2017.</date>
+        <title>Формирование культурной идентичности в условиях глобализации.</title>
+        <journal>Вопросы культурологии</journal>
+        <volume>№ 3,</volume>
+        <pages>с. 54–61.</pages>
+    </sequence>
+    <sequence>
+        <author>Куликова, С. А., &amp; Митюшина, Т. А.</author>
+        <date>2022.</date>
+        <title>Цифровые финансовые активы как объект гражданского права.</title>
+        <journal>Российское право: образование, практика, наука</journal>
+        <volume>№ 2,</volume>
+        <pages>с. 33–40.</pages>
+        <doi>10.34076/2410-2709-2022-2-33-40</doi>
+    </sequence>
+    <sequence>
+        <author>Игнатьев, А. В.</author>
+        <date>2020.</date>
+        <title>Биосовместимые полимеры для 3D-биопринтинга тканей.</title>
+        <journal>Биомедицинская химия</journal>
+        <volume>Т. 66, № 4,</volume>
+        <pages>с. 259–271.</pages>
+        <doi>10.18097/PBMC20206604259</doi>
+    </sequence>
+    <sequence>
+        <author>Тимирязева, Н. Н., Пашинцева, Д. А., &amp; Власова, К. Б.</author>
+        <date>2019.</date>
+        <title>Интегральная оценка социально-экономического потенциала муниципальных образований.</title>
+        <journal>Вестник ВолГУ. Серия 3: Экономика. Экология</journal>
+        <volume>Т. 21, № 1,</volume>
+        <pages>с. 5–17.</pages>
+        <doi>10.15688/jvolsu3.2019.1.1</doi>
+    </sequence>
+    <sequence>
+        <author>Окишев, А. Д.</author>
+        <date>(2023).</date>
+        <title>Управление деловой репутацией компании в цифровых медиа.</title>
+        <journal>Медиаскоп</journal>
+        <volume>Вып. 1,</volume>
+        <pages>с. 3.</pages>
+        <url>https://mediascope.ru/2023/vipusk_1/okishev/</url>
+    </sequence>
+    <sequence>
+        <author>Юдина, Т. Н., &amp; Тарасенко, Р. В.</author>
+        <date>2021.</date>
+        <title>Мониторинг безопасности автономных транспортных средств.</title>
+        <journal>Транспорт Российской Федерации</journal>
+        <volume>№ 4 (95),</volume>
+        <pages>с. 52–58.</pages>
+    </sequence>
+    <sequence>
+        <author>Пахомов, Г. И., Шарапова, В. Н., Горбатов, С. О., &amp; Кедрова, Т. М.</author>
+        <date>2022.</date>
+        <title>Изменение видового состава птиц в условиях фрагментации лесных массивов.</title>
+        <journal>Зоологический журнал</journal>
+        <volume>Т. 101, № 4,</volume>
+        <pages>с. 374–388.</pages>
+        <doi>10.31857/S0044513422040110</doi>
+    </sequence>
+    <sequence>
+        <author>Данилов, К. В.</author>
+        <date>2018.</date>
+        <title>Экономический анализ инфраструктурных проектов в рамках государственно-частного партнёрства.</title>
+        <journal>Российский экономический вестник</journal>
+        <volume>Т. 1, № 1,</volume>
+        <pages>с. 69–79.</pages>
+    </sequence>
+    <sequence>
+        <author>Корсакова, И. В., &amp; Мизинцева, М. Ф.</author>
+        <date>(2019).</date>
+        <title>Интеллектуальный капитал как ресурс инновационного развития организации.</title>
+        <journal>Экономика труда</journal>
+        <volume>Т. 6, № 4,</volume>
+        <pages>с. 1475–1490.</pages>
+        <doi>10.18334/et.6.4.41234</doi>
+    </sequence>
+    <sequence>
+        <author>Батюков, В. Г.</author>
+        <date>2020.</date>
+        <title>Формирование профессиональных компетенций в системе инженерного образования.</title>
+        <journal>Высшее образование в России</journal>
+        <volume>Т. 29, № 5,</volume>
+        <pages>с. 68–80.</pages>
+        <doi>10.31992/0869-3617-2020-29-5-68-80</doi>
+    </sequence>
+    <sequence>
+        <author>Кузнецова, Г. В., Маслакова, Е. А., Голубков, В. И., &amp; Степанова, И. О.</author>
+        <date>2023.</date>
+        <title>Нейросетевая классификация рентгенограмм лёгких при пневмониях.</title>
+        <journal>Медицинская техника</journal>
+        <volume>№ 2 (338),</volume>
+        <pages>с. 1–5.</pages>
+    </sequence>
+    <sequence>
+        <author>Громов, С. П.</author>
+        <date>2016.</date>
+        <title>Краунсодержащие красители для флуоресцентного детектирования катионов металлов.</title>
+        <journal>Известия Академии наук. Серия химическая</journal>
+        <volume>№ 4,</volume>
+        <pages>с. 903–919.</pages>
+    </sequence>
+    <sequence>
+        <author>Столяров, А. В., &amp; Чемерис, О. Н.</author>
+        <date>2021.</date>
+        <title>Интернационализация высшего образования и академическая мобильность в России.</title>
+        <journal>Вопросы образования</journal>
+        <volume>№ 4,</volume>
+        <pages>с. 8–42.</pages>
+        <doi>10.17323/1814-9545-2021-4-8-42</doi>
+    </sequence>
+    <sequence>
+        <author>Зверева, К. О.</author>
+        <date>(2022).</date>
+        <title>Гибкие методологии управления проектами в органах исполнительной власти.</title>
+        <journal>Управление</journal>
+        <volume>Т. 10, № 1,</volume>
+        <pages>с. 63–73.</pages>
+        <doi>10.26425/2309-3633-2022-10-1-63-73</doi>
+    </sequence>
+    <sequence>
+        <author>Прянишников, О. Н., Терёхин, Д. С., &amp; Матрёнин, В. А.</author>
+        <date>2018.</date>
+        <title>Оценка гидродинамических нагрузок на морские нефтегазовые платформы.</title>
+        <journal>Гидромеханика</journal>
+        <volume>Т. 22, № 3,</volume>
+        <pages>с. 135–148.</pages>
+    </sequence>
+    <sequence>
+        <author>Гончарова, Е. В.</author>
+        <date>2023.</date>
+        <title>Лингвокультурологический анализ концепта «дом» в русской языковой картине мира.</title>
+        <journal>Вопросы когнитивной лингвистики</journal>
+        <volume>№ 1,</volume>
+        <pages>с. 101–112.</pages>
+        <doi>10.20916/1812-3228-2023-1-101-112</doi>
+    </sequence>
+    <sequence>
+        <author>Поликарпов, М. М., &amp; Галактионов, В. А.</author>
+        <date>2019.</date>
+        <title>Применение интерактивных визуализаций в системах бизнес-аналитики.</title>
+        <journal>Прикладная информатика</journal>
+        <volume>Т. 14, № 6 (84),</volume>
+        <pages>с. 52–63.</pages>
+        <doi>10.37791/2687-0649-2019-14-6-52-63</doi>
+    </sequence>
+    <sequence>
+        <author>Никитюк, А. А., Лазарева, С. Н., Шмелёв, Г. В., &amp; Казённова, Н. Ю.</author>
+        <date>(2021).</date>
+        <title>Влияние температурного режима хранения на биохимический состав молочной продукции.</title>
+        <journal>Молочная промышленность</journal>
+        <volume>№ 4,</volume>
+        <pages>с. 30–35.</pages>
+        <doi>10.31515/1026-9428-2021-4-30-35</doi>
+    </sequence>
+    <sequence>
+        <author>Веселков, И. С.</author>
+        <date>2015.</date>
+        <title>Сравнительный анализ систем страхования вкладов в странах БРИКС.</title>
+        <journal>Деньги и кредит</journal>
+        <volume>№ 10,</volume>
+        <pages>с. 43–50.</pages>
+    </sequence>
+    <sequence>
+        <author>Ульянова, М. В., &amp; Серова, А. В.</author>
+        <date>2022.</date>
+        <title>Формирование установок толерантности у старшеклассников в поликультурной образовательной среде.</title>
+        <journal>Педагогика и психология образования</journal>
+        <volume>№ 1,</volume>
+        <pages>с. 47–64.</pages>
+        <doi>10.31862/2500-297X-2022-1-47-64</doi>
+    </sequence>
+    <sequence>
+        <author>Кольцов, А. Н.</author>
+        <date>2021.</date>
+        <title>Оценка рисков устойчивого развития территорий на основе индексного метода.</title>
+        <journal>Управление устойчивым развитием</journal>
+        <volume>№ 2 (33),</volume>
+        <pages>с. 5–14.</pages>
+        <url>https://www.kstu.ru/servlet/contentblob?id=483120</url>
+    </sequence>
+    <sequence>
+        <author>Чугунов, А. В., Попова, А. М., &amp; Штрикова, Д. Б.</author>
+        <date>2020.</date>
+        <title>Электронное участие граждан в процессах государственного управления.</title>
+        <journal>Вопросы государственного и муниципального управления</journal>
+        <volume>№ 4,</volume>
+        <pages>с. 59–82.</pages>
+        <doi>10.17323/1999-5431-2020-0-4-59-82</doi>
+    </sequence>
+    <sequence>
+        <author>Лавренёв, А. Б.</author>
+        <date>(2017).</date>
+        <title>Аэроионизация и её влияние на параметры атмосферного пограничного слоя.</title>
+        <journal>Оптика атмосферы и океана</journal>
+        <volume>Т. 30, № 11,</volume>
+        <pages>с. 963–970.</pages>
+        <doi>10.15372/AOO20171109</doi>
+    </sequence>
+    <sequence>
+        <author>Горшкова, О. В., Фёдорова, С. А., &amp; Нечаева, Н. М.</author>
+        <date>2022.</date>
+        <title>Фармакоэкономический анализ терапии ревматоидного артрита генно-инженерными препаратами.</title>
+        <journal>Фармакоэкономика. Современная фармакоэкономика и фармакоэпидемиология</journal>
+        <volume>Т. 15, № 3,</volume>
+        <pages>с. 350–362.</pages>
+        <doi>10.17749/2070-4909/farmakoekonomika.2022.107</doi>
+    </sequence>
+    <sequence>
+        <author>Лукьянов, В. С.</author>
+        <date>2016.</date>
+        <title>Методы формирования и оценки управленческих компетенций руководителей.</title>
+        <journal>Менеджмент в России и за рубежом</journal>
+        <volume>№ 5,</volume>
+        <pages>с. 102–111.</pages>
+    </sequence>
+    <sequence>
+        <author>Кочетков, П. А., &amp; Рогожина, Е. Б.</author>
+        <date>2019.</date>
+        <title>Автоматическая генерация тест-кейсов на основе формальных спецификаций.</title>
+        <journal>Программирование</journal>
+        <volume>№ 3,</volume>
+        <pages>с. 43–57.</pages>
+        <doi>10.31857/S0132347419030045</doi>
+    </sequence>
+    <sequence>
+        <author>Тихонова, Ю. В., Воронцова, В. С., Лобановская, Н. С., &amp; Ромашова, Е. Г.</author>
+        <date>(2023).</date>
+        <title>Фенотипический анализ иммунных клеток в периферической крови при аутоиммунных тиреоидитах.</title>
+        <journal>Иммунология</journal>
+        <volume>Т. 44, № 1,</volume>
+        <pages>с. 36–47.</pages>
+        <doi>10.33029/0206-4952-2023-44-1-36-47</doi>
+    </sequence>
+    <sequence>
+        <author>Рощупкин, С. В.</author>
+        <date>2020.</date>
+        <title>Нарративы о советском прошлом в современной российской публичной сфере.</title>
+        <journal>Мониторинг общественного мнения: экономические и социальные перемены</journal>
+        <volume>№ 5,</volume>
+        <pages>с. 374–397.</pages>
+        <doi>10.14515/monitoring.2020.5.1578</doi>
+    </sequence>
+    <sequence>
+        <author>Мозговой, А. В., &amp; Рощупкина, Е. А.</author>
+        <date>2021.</date>
+        <title>Кинематика и динамика колёсного манипулятора с параллельной структурой.</title>
+        <journal>Известия РАН. Теория и системы управления</journal>
+        <volume>№ 4,</volume>
+        <pages>с. 110–126.</pages>
+        <doi>10.31857/S0002338821040107</doi>
+    </sequence>
+    <sequence>
+        <author>Пронин, К. В.</author>
+        <date>2018.</date>
+        <title>Антикризисное управление кредитными рисками в российских банках.</title>
+        <journal>Банковское дело</journal>
+        <volume>№ 4,</volume>
+        <pages>с. 64–71.</pages>
+    </sequence>
+    <sequence>
+        <author>Терёхина, Н. А., Ермолина, Т. В., &amp; Гладков, С. А.</author>
+        <date>2022.</date>
+        <title>Систематический обзор методов оценки когнитивных функций у пациентов с деменцией.</title>
+        <journal>Журнал неврологии и психиатрии им. С. С. Корсакова</journal>
+        <volume>Т. 122, № 9,</volume>
+        <pages>с. 7–14.</pages>
+        <doi>10.17116/jnevro20221220917</doi>
+    </sequence>
+    <sequence>
+        <author>Варфоломеев, Е. Г.</author>
+        <date>(2020).</date>
+        <title>Динамика цен на жильё в крупных городах России: эконометрический анализ.</title>
+        <journal>Вопросы экономики</journal>
+        <volume>№ 5,</volume>
+        <pages>с. 78–96.</pages>
+        <doi>10.32609/0042-8736-2020-5-78-96</doi>
+    </sequence>
+    <sequence>
+        <author>Карпушкин, О. В., &amp; Мамонтова, С. В.</author>
+        <date>2017.</date>
+        <title>Использование геймификации в корпоративном обучении.</title>
+        <journal>Открытое образование</journal>
+        <volume>Т. 21, № 4,</volume>
+        <pages>с. 33–41.</pages>
+        <doi>10.21686/1818-4243-2017-4-33-41</doi>
+    </sequence>
+    <sequence>
+        <author>Самохина, Л. А., Ладынина, Н. В., Рыков, А. О., &amp; Жуковская, Т. Г.</author>
+        <date>2023.</date>
+        <title>Эпидемиология и факторы риска остеопороза у женщин в постменопаузе.</title>
+        <journal>Остеопороз и остеопатии</journal>
+        <volume>Т. 26, № 1,</volume>
+        <pages>с. 4–13.</pages>
+        <doi>10.14341/osteo12915</doi>
+    </sequence>
+    <sequence>
+        <author>Горов, Н. Н.</author>
+        <date>2019.</date>
+        <title>Применение теории игр в моделировании олигополистических рынков.</title>
+        <journal>Экономика и математические методы</journal>
+        <volume>Т. 55, № 3,</volume>
+        <pages>с. 43–58.</pages>
+    </sequence>
+    <sequence>
+        <author>Кузнецова, Р. Г., &amp; Юрьева, О. А.</author>
+        <date>2021.</date>
+        <title>Когнитивно-поведенческая терапия в лечении тревожно-фобических расстройств: метаанализ.</title>
+        <journal>Психиатрия</journal>
+        <volume>Т. 19, № 4,</volume>
+        <pages>с. 81–91.</pages>
+        <doi>10.30629/2618-6667-2021-19-4-81-91</doi>
+    </sequence>
+    <sequence>
+        <author>Козин, В. К.</author>
+        <date>2016.</date>
+        <title>Численное моделирование горения угольной пыли в котлах с циркулирующим кипящим слоем.</title>
+        <journal>Теплоэнергетика</journal>
+        <volume>№ 4,</volume>
+        <pages>с. 39–47.</pages>
+        <doi>10.1134/S0040601516040042</doi>
+    </sequence>
+    <sequence>
+        <author>Нестерова, Е. С., Трунова, И. Г., &amp; Дорофеева, С. В.</author>
+        <date>2020.</date>
+        <title>Профессиональная социализация молодых юристов в российских правовых учреждениях.</title>
+        <journal>Право. Журнал Высшей школы экономики</journal>
+        <volume>№ 4,</volume>
+        <pages>с. 239–261.</pages>
+        <doi>10.17323/2072-8166.2020.4.239.261</doi>
+    </sequence>
+    <sequence>
+        <author>Акулов, А. О., Черников, В. Д., Тумасов, В. Н., &amp; Анисимов, Г. С.</author>
+        <date>(2022).</date>
+        <title>Моделирование электромагнитных переходных процессов в судовых электроэнергетических системах.</title>
+        <journal>Вестник государственного университета морского и речного флота</journal>
+        <volume>Т. 14, № 4,</volume>
+        <pages>с. 620–633.</pages>
+        <doi>10.21821/2309-5180-2022-14-4-620-633</doi>
+    </sequence>
+    <sequence>
+        <author>Котова, Ю. В.</author>
+        <date>2017.</date>
+        <title>Творческие индустрии как драйвер городской экономики.</title>
+        <journal>Урбанистика</journal>
+        <volume>№ 2,</volume>
+        <pages>с. 74–88.</pages>
+        <doi>10.7256/2310-8673.2017.2.22801</doi>
+    </sequence>
+    <sequence>
+        <author>Шалыгин, В. Д., &amp; Ерёмин, А. С.</author>
+        <date>2019.</date>
+        <title>Аддитивное производство металлических изделий: технологии и материалы.</title>
+        <journal>Цветные металлы</journal>
+        <volume>№ 8,</volume>
+        <pages>с. 76–84.</pages>
+        <doi>10.17580/tsm.2019.08.09</doi>
+    </sequence>
+    <sequence>
+        <author>Белова, О. А.</author>
+        <date>2021.</date>
+        <title>Социальные сети как инструмент политической мобилизации молодёжи.</title>
+        <journal>Полития. Анализ. Хроника. Прогноз</journal>
+        <volume>№ 4 (103),</volume>
+        <pages>с. 143–160.</pages>
+        <doi>10.30570/2078-5089-2021-103-4-143-160</doi>
+    </sequence>
+    <sequence>
+        <author>Конопатов, С. Н., Лысенко, А. В., Мороз, В. А., &amp; Шаповалова, Н. Н.</author>
+        <date>2020.</date>
+        <title>Экологический мониторинг прибрежных экосистем Чёрного моря.</title>
+        <journal>Морской экологический журнал</journal>
+        <volume>Т. 19, № 2,</volume>
+        <pages>с. 5–18.</pages>
+        <doi>10.37680/2413-5577-2020-19-2-5-18</doi>
+    </sequence>
+    <sequence>
+        <author>Журавлёва, В. В.</author>
+        <date>(2018).</date>
+        <title>Американская политика в Арктике и российские интересы.</title>
+        <journal>США и Канада: экономика, политика, культура</journal>
+        <volume>№ 6 (582),</volume>
+        <pages>с. 23–42.</pages>
+        <doi>10.31857/S032120680000221-7</doi>
+    </sequence>
+    <sequence>
+        <author>Чёрный, В. А., &amp; Митина, О. В.</author>
+        <date>2022.</date>
+        <title>Методы нейровизуализации в исследовании биологических основ агрессивного поведения.</title>
+        <journal>Психологический журнал</journal>
+        <volume>Т. 43, № 5,</volume>
+        <pages>с. 5–18.</pages>
+        <doi>10.31857/S020595920021720-8</doi>
+    </sequence>
+    <sequence>
+        <author>Степаненко, Г. А.</author>
+        <date>2015.</date>
+        <title>Статистические методы анализа экологических данных в агрономии.</title>
+        <journal>Агрохимия</journal>
+        <volume>№ 7,</volume>
+        <pages>с. 83–92.</pages>
+    </sequence>
+    <sequence>
+        <author>Лановая, Г. М., Юрчук, А. С., &amp; Белов, К. Е.</author>
+        <date>2021.</date>
+        <title>Принципы правового регулирования государственно-частного партнёрства в сфере ЖКХ.</title>
+        <journal>Российское право: образование, практика, наука</journal>
+        <volume>№ 5,</volume>
+        <pages>с. 19–28.</pages>
+        <doi>10.34076/2410-2709-2021-5-19-28</doi>
+    </sequence>
+    <sequence>
+        <author>Фёдоров, И. В.</author>
+        <date>(2019).</date>
+        <title>Тепловые процессы в волоконно-оптических лазерах высокой мощности.</title>
+        <journal>Квантовая электроника</journal>
+        <volume>Т. 49, № 10,</volume>
+        <pages>с. 910–922.</pages>
+        <doi>10.1070/QEL16974</doi>
+    </sequence>
+    <sequence>
+        <author>Демидова, И. В., Симонова, Н. А., &amp; Кириченко, В. Д.</author>
+        <date>2023.</date>
+        <title>Скрининг тревожных расстройств у пациентов с хронической болью.</title>
+        <journal>Боль</journal>
+        <volume>Т. 21, № 1,</volume>
+        <pages>с. 24–31.</pages>
+        <doi>10.30691/BOR20231-2</doi>
+    </sequence>
+    <sequence>
+        <author>Сомов, А. П.</author>
+        <date>2016.</date>
+        <title>Роль прямых иностранных инвестиций в развитии несырьевого экспорта России.</title>
+        <journal>Российский внешнеэкономический вестник</journal>
+        <volume>№ 6,</volume>
+        <pages>с. 85–99.</pages>
+    </sequence>
+    <sequence>
+        <author>Тараненко, Е. А., &amp; Нечаева, И. В.</author>
+        <date>2020.</date>
+        <title>Стратегия управления брендом в условиях цифровизации розничной торговли.</title>
+        <journal>Маркетинг в России и за рубежом</journal>
+        <volume>№ 4,</volume>
+        <pages>с. 10–19.</pages>
+    </sequence>
+    <sequence>
+        <author>Поляков, Р. М., Туркин, Д. А., Тюрина, Н. С., &amp; Дубинин, В. А.</author>
+        <date>(2022).</date>
+        <title>Применение конечно-элементных методов в задачах акустической эмиссии.</title>
+        <journal>Акустический журнал</journal>
+        <volume>Т. 68, № 4,</volume>
+        <pages>с. 404–416.</pages>
+        <doi>10.31857/S032079192204015X</doi>
+    </sequence>
+    <sequence>
+        <author>Мещерякова, Е. А.</author>
+        <date>2019.</date>
+        <title>Особенности восприятия рекламных сообщений в интернет-среде.</title>
+        <journal>Маркетинг и маркетинговые исследования</journal>
+        <volume>№ 2,</volume>
+        <pages>с. 82–93.</pages>
+    </sequence>
+    <sequence>
+        <author>Фомин, С. А., &amp; Шаров, О. В.</author>
+        <date>2021.</date>
+        <title>Численное решение обратных задач акустики с применением регуляризации.</title>
+        <journal>Журнал вычислительной математики и математической физики</journal>
+        <volume>Т. 61, № 10,</volume>
+        <pages>с. 1677–1692.</pages>
+        <doi>10.31857/S004446942110006X</doi>
+    </sequence>
+    <sequence>
+        <author>Галицкий, Д. В.</author>
+        <date>2017.</date>
+        <title>Формирование электронного правительства: барьеры и факторы успеха.</title>
+        <journal>Вопросы государственного и муниципального управления</journal>
+        <volume>№ 2,</volume>
+        <pages>с. 128–148.</pages>
+    </sequence>
+    <sequence>
+        <author>Рудакова, И. Н., Карелина, М. В., &amp; Ильинская, Е. А.</author>
+        <date>2023.</date>
+        <title>Современное состояние рынка труда IT-специалистов в России.</title>
+        <journal>Экономика труда</journal>
+        <volume>Т. 10, № 3,</volume>
+        <pages>с. 379–396.</pages>
+        <doi>10.18334/et.10.3.117467</doi>
+    </sequence>
+    <sequence>
+        <author>Бобров, Е. А.</author>
+        <date>(2020).</date>
+        <title>Применение генетических алгоритмов к задачам многокритериальной оптимизации.</title>
+        <journal>Известия Российской академии наук. Теория и системы управления</journal>
+        <volume>№ 2,</volume>
+        <pages>с. 98–112.</pages>
+        <doi>10.31857/S000233882002003X</doi>
+    </sequence>
+    <sequence>
+        <author>Симонова, Д. О., &amp; Трушина, Г. Е.</author>
+        <date>2018.</date>
+        <title>Диетическое питание в профилактике неинфекционных заболеваний: доказательная база.</title>
+        <journal>Вопросы питания</journal>
+        <volume>Т. 87, № 6,</volume>
+        <pages>с. 5–17.</pages>
+        <doi>10.24411/0042-8833-2018-10065</doi>
+    </sequence>
+    <sequence>
+        <author>Поливанов, Г. В., Куликов, П. Д., Бобрышев, И. А., &amp; Дёмина, Н. В.</author>
+        <date>2021.</date>
+        <title>Системы накопления электроэнергии на основе литий-ионных аккумуляторов для микросетей.</title>
+        <journal>Электрические станции</journal>
+        <volume>№ 5,</volume>
+        <pages>с. 2–11.</pages>
+    </sequence>
+    <sequence>
+        <author>Радченко, Н. А.</author>
+        <date>2019.</date>
+        <title>Право интеллектуальной собственности в условиях технологических инноваций.</title>
+        <journal>Интеллектуальная собственность. Промышленная собственность</journal>
+        <volume>№ 9,</volume>
+        <pages>с. 5–13.</pages>
+    </sequence>
+    <sequence>
+        <author>Коврига, О. В., &amp; Павлюченко, Т. С.</author>
+        <date>(2022).</date>
+        <title>Проблемы реализации инклюзивного образования в России: взгляд педагогов.</title>
+        <journal>Дефектология</journal>
+        <volume>№ 3,</volume>
+        <pages>с. 3–15.</pages>
+    </sequence>
+    <sequence>
+        <author>Батурин, М. П.</author>
+        <date>2020.</date>
+        <title>Синтез устойчивых оценок параметров линейных регрессионных моделей.</title>
+        <journal>Автоматика и телемеханика</journal>
+        <volume>№ 7,</volume>
+        <pages>с. 117–131.</pages>
+        <doi>10.1134/S0005117920070085</doi>
+    </sequence>
+    <sequence>
+        <author>Головина, Н. В., Тарасюк, О. В., &amp; Нифонтова, В. О.</author>
+        <date>2023.</date>
+        <title>Факторы работоспособности и профессионального долголетия у работников умственного труда.</title>
+        <journal>Медицина труда и промышленная экология</journal>
+        <volume>Т. 63, № 3,</volume>
+        <pages>с. 176–184.</pages>
+        <doi>10.31089/1026-9428-2023-63-3-176-184</doi>
+    </sequence>
+    <sequence>
+        <author>Климкин, А. В.</author>
+        <date>2016.</date>
+        <title>Фазовые переходы в жидких кристаллах под воздействием электрического поля.</title>
+        <journal>Кристаллография</journal>
+        <volume>Т. 61, № 3,</volume>
+        <pages>с. 406–415.</pages>
+        <doi>10.7868/S0023476116030085</doi>
+    </sequence>
+    <sequence>
+        <author>Масленников, А. М., &amp; Зорин, П. В.</author>
+        <date>2021.</date>
+        <title>Анализ и прогнозирование финансовой нестабильности в российском банковском секторе.</title>
+        <journal>Банковское дело</journal>
+        <volume>№ 3,</volume>
+        <pages>с. 34–43.</pages>
+    </sequence>
+    <sequence>
+        <author>Ерохин, В. И., Павлова, Н. А., Тихова, Е. Б., &amp; Алёхина, Д. Г.</author>
+        <date>(2020).</date>
+        <title>Функциональные продукты питания с пробиотиками: технологии и контроль качества.</title>
+        <journal>Пищевая промышленность</journal>
+        <volume>№ 7,</volume>
+        <pages>с. 30–34.</pages>
+    </sequence>
+    <sequence>
+        <author>Куницкий, Е. А.</author>
+        <date>2018.</date>
+        <title>Мезоуровень управления экономическим развитием России.</title>
+        <journal>Российский экономический журнал</journal>
+        <volume>№ 6,</volume>
+        <pages>с. 3–20.</pages>
+    </sequence>
+    <sequence>
+        <author>Шутова, М. И., &amp; Гришина, А. О.</author>
+        <date>2022.</date>
+        <title>Кинетика высвобождения биологически активных веществ из гидрогелевых матриц.</title>
+        <journal>Химико-фармацевтический журнал</journal>
+        <volume>Т. 56, № 11,</volume>
+        <pages>с. 3–10.</pages>
+        <doi>10.30906/0023-1134-2022-56-11-3-10</doi>
+    </sequence>
+    <sequence>
+        <author>Зиновьев, И. А., Лисицина, М. П., Семёнова, Г. В., &amp; Уткин, О. Г.</author>
+        <date>2021.</date>
+        <title>Роль митохондриальной дисфункции в патогенезе хронической сердечной недостаточности.</title>
+        <journal>Кардиология</journal>
+        <volume>Т. 61, № 5,</volume>
+        <pages>с. 57–65.</pages>
+        <doi>10.18087/cardio.2021.5.n1553</doi>
+    </sequence>
+    <sequence>
+        <author>Широков, А. В.</author>
+        <date>2015.</date>
+        <title>Государственная поддержка угольной отрасли: зарубежный опыт и российские реалии.</title>
+        <journal>Горная промышленность</journal>
+        <volume>№ 4 (122),</volume>
+        <pages>с. 22–27.</pages>
+    </sequence>
+    <sequence>
+        <author>Лугина, Е. В., &amp; Попова, Т. Ф.</author>
+        <date>2020.</date>
+        <title>Прагматика речевых актов просьбы и отказа в русском диалоге.</title>
+        <journal>Русский язык в научном освещении</journal>
+        <volume>№ 1 (39),</volume>
+        <pages>с. 142–162.</pages>
+    </sequence>
+    <sequence>
+        <author>Ушаков, А. П., Костромин, В. А., Нефёдов, И. В., &amp; Плотникова, Г. Е.</author>
+        <date>(2023).</date>
+        <title>Влияние озоновых технологий на санитарное состояние животноводческих помещений.</title>
+        <journal>Ветеринария</journal>
+        <volume>№ 2,</volume>
+        <pages>с. 32–38.</pages>
+        <doi>10.30896/0042-4846.2023.26.2.32-38</doi>
+    </sequence>
+    <sequence>
+        <author>Хусаинова, Р. Ш.</author>
+        <date>2019.</date>
+        <title>Генетические факторы долголетия в этнических группах Башкортостана.</title>
+        <journal>Медицинская генетика</journal>
+        <volume>Т. 18, № 5,</volume>
+        <pages>с. 19–27.</pages>
+        <doi>10.25557/2073-7998.2019.05.19-27</doi>
+    </sequence>
+    <sequence>
+        <author>Борщёв, К. И., &amp; Крутова, Е. С.</author>
+        <date>2021.</date>
+        <title>Моделирование инвестиционного процесса в агломерациях с применением системной динамики.</title>
+        <journal>Экономика и управление</journal>
+        <volume>Т. 27, № 6,</volume>
+        <pages>с. 420–433.</pages>
+        <doi>10.35854/1998-1627-2021-6-420-433</doi>
+    </sequence>
+    <sequence>
+        <author>Мкртчян, Г. А.</author>
+        <date>2017.</date>
+        <title>Трансформация социального контракта в постиндустриальной экономике.</title>
+        <journal>Журнал социологии и социальной антропологии</journal>
+        <volume>Т. 20, № 4,</volume>
+        <pages>с. 91–109.</pages>
+    </sequence>
+    <sequence>
+        <author>Буртасова, А. В., Гаврилова, Н. И., &amp; Ковальчук, О. Е.</author>
+        <date>(2022).</date>
+        <title>Роль эндогенных антиоксидантов в защите клеток при окислительном стрессе.</title>
+        <journal>Биохимия</journal>
+        <volume>Т. 87, № 3,</volume>
+        <pages>с. 253–267.</pages>
+        <doi>10.31857/S032097252203003X</doi>
+    </sequence>
+    <sequence>
+        <author>Стрелков, Д. В.</author>
+        <date>2020.</date>
+        <title>Правовые аспекты признания иностранных судебных решений в Российской Федерации.</title>
+        <journal>Журнал российского права</journal>
+        <volume>№ 5,</volume>
+        <pages>с. 117–127.</pages>
+        <doi>10.12737/jrl.2020.057</doi>
+    </sequence>
+    <sequence>
+        <author>Горбачёва, Н. В., &amp; Рыков, С. А.</author>
+        <date>2021.</date>
+        <title>Исследование механических свойств армированных термопластов методом нано-индентирования.</title>
+        <journal>Пластические массы</journal>
+        <volume>№ 5–6,</volume>
+        <pages>с. 46–51.</pages>
+    </sequence>
+    <sequence>
+        <author>Хабибуллин, А. Г., Фомин, В. В., Коврижных, Д. Е., &amp; Пономарёв, С. К.</author>
+        <date>2019.</date>
+        <title>Модели управления рисками на основе анализа сетевой безопасности промышленных объектов.</title>
+        <journal>Информационные технологии и вычислительные системы</journal>
+        <volume>№ 4,</volume>
+        <pages>с. 75–87.</pages>
+    </sequence>
+    <sequence>
+        <author>Бузина, Т. С.</author>
+        <date>(2018).</date>
+        <title>Созависимость при аддиктивных расстройствах: диагностика и психокоррекция.</title>
+        <journal>Наркология</journal>
+        <volume>Т. 17, № 3,</volume>
+        <pages>с. 63–73.</pages>
+    </sequence>
+    <sequence>
+        <author>Куприенко, И. А., &amp; Павлова, О. В.</author>
+        <date>2023.</date>
+        <title>Интеграция систем искусственного интеллекта в логистические процессы розничных сетей.</title>
+        <journal>Логистика и управление цепями поставок</journal>
+        <volume>№ 2 (115),</volume>
+        <pages>с. 26–37.</pages>
+    </sequence>
+    <sequence>
+        <author>Авраменко, Н. А.</author>
+        <date>2017.</date>
+        <title>Проблемы периодизации истории российского конституционализма.</title>
+        <journal>Конституционное и муниципальное право</journal>
+        <volume>№ 5,</volume>
+        <pages>с. 3–7.</pages>
+    </sequence>
+    <sequence>
+        <author>Мальцев, Д. В., Потапова, И. Г., Лебедев, Е. А., &amp; Сорокина, Н. В.</author>
+        <date>2022.</date>
+        <title>Результаты применения биологической терапии при псориатическом артрите.</title>
+        <journal>Научно-практическая ревматология</journal>
+        <volume>Т. 60, № 3,</volume>
+        <pages>с. 266–275.</pages>
+        <doi>10.47360/1995-4484-2022-266-275</doi>
+    </sequence>
+    <sequence>
+        <author>Зайцев, Д. А.</author>
+        <date>(2021).</date>
+        <title>Верификация параллельных программ методом проверки моделей.</title>
+        <journal>Программная инженерия</journal>
+        <volume>Т. 12, № 5,</volume>
+        <pages>с. 243–256.</pages>
+        <doi>10.17587/prin.12.243-256</doi>
+    </sequence>
+    <sequence>
+        <author>Борисов, В. А., &amp; Кораблёва, О. Н.</author>
+        <date>2019.</date>
+        <title>Модели зрелости управления бизнес-процессами в российских компаниях.</title>
+        <journal>Бизнес-информатика</journal>
+        <volume>Т. 13, № 1,</volume>
+        <pages>с. 7–22.</pages>
+        <doi>10.17323/1998-0663.2019.1.7.22</doi>
+    </sequence>
+    <sequence>
+        <author>Климова, Л. А.</author>
+        <date>2023.</date>
+        <title>Возможности применения проектного подхода в системе профессионального образования.</title>
+        <journal>Педагогическое образование в России</journal>
+        <volume>№ 1,</volume>
+        <pages>с. 10–20.</pages>
+        <doi>10.26170/2079-8717_2023_01_01</doi>
+    </sequence>
+    <sequence>
+        <author>Зверев, С. Н., Ковтунов, А. В., Нефёдов, Д. Г., &amp; Тихомиров, В. С.</author>
+        <date>(2020).</date>
+        <title>Нейронная обработка аэрокосмических изображений для задач классификации земной поверхности.</title>
+        <journal>Компьютерная оптика</journal>
+        <volume>Т. 44, № 6,</volume>
+        <pages>с. 984–993.</pages>
+        <doi>10.18287/2412-6179-CO-805</doi>
+    </sequence>
+    <sequence>
+        <author>Перова, Н. В.</author>
+        <date>2016.</date>
+        <title>Управление рисками в инновационных проектах на стадии НИОКР.</title>
+        <journal>Инновации</journal>
+        <volume>№ 3 (209),</volume>
+        <pages>с. 107–113.</pages>
+    </sequence>
+    <sequence>
+        <author>Крутова, А. В., &amp; Самсонова, К. Е.</author>
+        <date>2021.</date>
+        <title>Криминологическая характеристика экономической преступности в сфере ЖКХ.</title>
+        <journal>Российский следователь</journal>
+        <volume>№ 7,</volume>
+        <pages>с. 48–52.</pages>
+    </sequence>
+    <sequence>
+        <author>Михайлов, Г. В., Антонов, С. Ю., &amp; Куприянова, В. Д.</author>
+        <date>2022.</date>
+        <title>Биоаккумуляция тяжёлых металлов в промысловых рыбах рек Центральной России.</title>
+        <journal>Сибирский экологический журнал</journal>
+        <volume>Т. 29, № 3,</volume>
+        <pages>с. 282–295.</pages>
+        <doi>10.15372/SEJ20220306</doi>
+    </sequence>
+    <sequence>
+        <author>Тарасов, В. Б.</author>
+        <date>(2017).</date>
+        <title>Концепция умной организации: теоретические основания и практические приложения.</title>
+        <journal>Менеджмент и бизнес-администрирование</journal>
+        <volume>№ 3,</volume>
+        <pages>с. 90–108.</pages>
+    </sequence>
+    <sequence>
+        <author>Лёвина, М. С., &amp; Орлова, Т. В.</author>
+        <date>2020.</date>
+        <title>Международно-правовое регулирование охраны окружающей среды в Арктике.</title>
+        <journal>Московский журнал международного права</journal>
+        <volume>№ 3,</volume>
+        <pages>с. 30–48.</pages>
+        <doi>10.24833/0869-0049-2020-3-30-48</doi>
+    </sequence>
+    <sequence>
+        <author>Нестеров, П. А., Романова, Е. В., Тихонов, С. В., &amp; Воронкова, А. Н.</author>
+        <date>2023.</date>
+        <title>Влияние аутофагии на жизнеспособность опухолевых клеток при химиотерапии.</title>
+        <journal>Молекулярная онкология</journal>
+        <volume>Т. 17, № 2,</volume>
+        <pages>с. 45–60.</pages>
+        <doi>10.18027/2224-5057-2023-13-2-45-60</doi>
+    </sequence>
+    <sequence>
+        <author>Сизов, А. В.</author>
+        <date>2018.</date>
+        <title>Экономика знаний как фактор конкурентоспособности национальной экономики.</title>
+        <journal>Инновационное развитие экономики</journal>
+        <volume>№ 3 (45),</volume>
+        <pages>с. 5–14.</pages>
+    </sequence>
+    <sequence>
+        <author>Климова, К. В., &amp; Воронцова, Л. Е.</author>
+        <date>2022.</date>
+        <title>Нейропсихологические особенности детей с расстройствами аутистического спектра.</title>
+        <journal>Дефектология</journal>
+        <volume>№ 4,</volume>
+        <pages>с. 3–13.</pages>
+    </sequence>
+    <sequence>
+        <author>Туманов, Ю. Н., Яковлев, Е. В., Рябов, Н. С., &amp; Шершнёв, И. В.</author>
+        <date>(2021).</date>
+        <title>Моделирование плазменного нагрева металлических образцов в вакуумных установках.</title>
+        <journal>Теплофизика высоких температур</journal>
+        <volume>Т. 59, № 4,</volume>
+        <pages>с. 563–572.</pages>
+        <doi>10.31857/S0040364421040232</doi>
+    </sequence>
+    <sequence>
+        <author>Котенкова, Е. А.</author>
+        <date>2019.</date>
+        <title>Дискурсивные стратегии в медиатекстах на международную тематику.</title>
+        <journal>Политическая лингвистика</journal>
+        <volume>№ 4 (76),</volume>
+        <pages>с. 123–132.</pages>
+        <doi>10.26170/pl19-04-13</doi>
+    </sequence>
+    <sequence>
+        <author>Вавилин, И. И., &amp; Кузьмина, С. О.</author>
+        <date>2020.</date>
+        <title>Портфельный анализ и стратегия диверсификации в условиях нестабильного рынка.</title>
+        <journal>Корпоративные финансы</journal>
+        <volume>Т. 14, № 2,</volume>
+        <pages>с. 91–107.</pages>
+        <doi>10.17323/j.jcfr.2073-0438.14.2.2020.91-107</doi>
+    </sequence>
+    <sequence>
+        <author>Коломиец, Г. В., Якунин, В. А., Бурцева, Н. П., &amp; Тарасова, Н. Г.</author>
+        <date>2021.</date>
+        <title>Оценка биоклиматического потенциала территорий для развития экотуризма.</title>
+        <journal>Туризм и рекреация: фундаментальные и прикладные исследования</journal>
+        <volume>Т. 16, № 2,</volume>
+        <pages>с. 34–46.</pages>
+    </sequence>
+    <sequence>
+        <author>Тихомирова, Н. В.</author>
+        <date>(2022).</date>
+        <title>Трансформация механизмов обратной связи в государственном управлении.</title>
+        <journal>Государственное управление. Электронный вестник</journal>
+        <volume>Вып. 92,</volume>
+        <pages>с. 6–22.</pages>
+        <url>https://e-journal.spa.msu.ru/uploads/vestnik/2022/vipusk__92._fevral_2022_g./tihomirova.pdf</url>
+    </sequence>
+    <sequence>
+        <author>Ефименко, В. А., &amp; Сусликов, В. С.</author>
+        <date>2017.</date>
+        <title>Прогнозирование поведения строительных конструкций при сейсмическом воздействии.</title>
+        <journal>Сейсмостойкое строительство. Безопасность сооружений</journal>
+        <volume>№ 5,</volume>
+        <pages>с. 3–11.</pages>
+    </sequence>
+</dataset>
