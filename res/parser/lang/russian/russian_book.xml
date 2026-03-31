@@ -1,0 +1,1445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <sequence>
+        <author>Иванов, А. В.</author>
+        <date>2018.</date>
+        <title>История России в XX веке: политика, общество, культура.</title>
+        <location>Москва:</location>
+        <publisher>Наука.</publisher>
+    </sequence>
+    <sequence>
+        <author>Петров, С. Н.</author>
+        <date>2021.</date>
+        <title>Основы конституционного права Российской Федерации.</title>
+        <edition>3-е изд., перераб. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>Норма.</publisher>
+        <isbn>9785001560487</isbn>
+    </sequence>
+    <sequence>
+        <author>Смирнова, Е. К., &amp; Орлов, П. Д.</author>
+        <date>2019.</date>
+        <title>Социология управления: теория и практика.</title>
+        <location>Санкт-Петербург:</location>
+        <publisher>Питер.</publisher>
+    </sequence>
+    <sequence>
+        <author>Фролов, И. Т.</author>
+        <date>2017.</date>
+        <title>Введение в философию.</title>
+        <edition>5-е изд.</edition>
+        <location>Москва:</location>
+        <publisher>ИНФРА-М.</publisher>
+        <isbn>9785160126418</isbn>
+    </sequence>
+    <sequence>
+        <author>Кузнецов, В. М.</author>
+        <date>2020.</date>
+        <title>Экономическая теория: микро- и макроэкономика.</title>
+        <location>Москва:</location>
+        <publisher>Юрайт.</publisher>
+    </sequence>
+    <sequence>
+        <author>Лебедев, Р. С., &amp; Тихонова, О. А.</author>
+        <date>2016.</date>
+        <title>Общая психология: учебник для вузов.</title>
+        <edition>2-е изд., испр.</edition>
+        <location>Москва:</location>
+        <publisher>Академия.</publisher>
+        <isbn>9785446041794</isbn>
+    </sequence>
+    <sequence>
+        <author>Морозов, Д. Г.</author>
+        <date>2022.</date>
+        <title>Цифровая трансформация государственного управления.</title>
+        <location>Москва:</location>
+        <publisher>Проспект.</publisher>
+    </sequence>
+    <sequence>
+        <author>Новиков, А. Л., &amp; Захаров, Б. В., &amp; Григорьев, С. Ю.</author>
+        <date>2015.</date>
+        <title>Финансовый менеджмент организации.</title>
+        <location>Москва:</location>
+        <publisher>КноРус.</publisher>
+        <isbn>9785406046945</isbn>
+    </sequence>
+    <sequence>
+        <editor>Соколов, М. П. (Ред.).</editor>
+        <date>2019.</date>
+        <title>Современные проблемы российского права.</title>
+        <location>Москва:</location>
+        <publisher>Норма.</publisher>
+    </sequence>
+    <sequence>
+        <author>Волков, Е. Н.</author>
+        <date>2014.</date>
+        <title>Педагогика высшей школы.</title>
+        <location>Ростов-на-Дону:</location>
+        <publisher>Феникс.</publisher>
+        <isbn>9785222222536</isbn>
+    </sequence>
+    <sequence>
+        <author>Романова, Т. И.</author>
+        <date>2023.</date>
+        <title>Русская литература XIX века: проблемы и интерпретации.</title>
+        <location>Санкт-Петербург:</location>
+        <publisher>Алетейя.</publisher>
+    </sequence>
+    <sequence>
+        <author>Степанов, К. В., &amp; Белова, Н. Р.</author>
+        <date>2020.</date>
+        <title>Международное частное право.</title>
+        <edition>4-е изд., перераб. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>Статут.</publisher>
+        <isbn>9785835414583</isbn>
+    </sequence>
+    <sequence>
+        <author>Алексеев, П. В.</author>
+        <date>2018.</date>
+        <title>Философия науки.</title>
+        <location>Москва:</location>
+        <publisher>Проспект.</publisher>
+    </sequence>
+    <sequence>
+        <author>Козлов, И. С.</author>
+        <translator>Иванова, М. А. (Пер.).</translator>
+        <date>2017.</date>
+        <title>Теория игр и экономическое поведение.</title>
+        <location>Москва:</location>
+        <publisher>Наука.</publisher>
+    </sequence>
+    <sequence>
+        <author>Никитин, О. Б.</author>
+        <date>2021.</date>
+        <title>Демография современной России: тенденции и прогнозы.</title>
+        <location>Москва:</location>
+        <publisher>ИНФРА-М.</publisher>
+        <isbn>9785001565772</isbn>
+    </sequence>
+    <sequence>
+        <author>Сергеев, В. Д., &amp; Яковлева, Е. А.</author>
+        <date>2022.</date>
+        <title>Экология и природопользование.</title>
+        <edition>2-е изд.</edition>
+        <location>Новосибирск:</location>
+        <publisher>Наука.</publisher>
+    </sequence>
+    <sequence>
+        <author>Борисов, Л. Н.</author>
+        <date>2019.</date>
+        <title>Политическая социология.</title>
+        <location>Москва:</location>
+        <publisher>Аспект Пресс.</publisher>
+        <isbn>9785756711239</isbn>
+    </sequence>
+    <sequence>
+        <editor>Федоров, А. К. (Ред.).</editor>
+        <date>2020.</date>
+        <title>Словарь терминов современной лингвистики.</title>
+        <edition>3-е изд., расш.</edition>
+        <location>Москва:</location>
+        <publisher>Флинта.</publisher>
+    </sequence>
+    <sequence>
+        <author>Макаров, Г. С.</author>
+        <date>2015.</date>
+        <title>Уголовное право России: общая часть.</title>
+        <location>Москва:</location>
+        <publisher>Юрайт.</publisher>
+        <isbn>9785534001234</isbn>
+    </sequence>
+    <sequence>
+        <author>Зайцева, О. М., &amp; Кузьмин, Д. П.</author>
+        <date>2018.</date>
+        <title>Организационное поведение.</title>
+        <location>Москва:</location>
+        <publisher>Дашков и К.</publisher>
+    </sequence>
+    <sequence>
+        <author>Воробьев, С. И.</author>
+        <date>2023.</date>
+        <title>Квантовая механика: введение для физиков.</title>
+        <location>Москва:</location>
+        <publisher>Издательство МГУ.</publisher>
+        <isbn>9785191025178</isbn>
+    </sequence>
+    <sequence>
+        <author>Чернова, И. Б.</author>
+        <date>2017.</date>
+        <title>Педагогическая психология.</title>
+        <location>Санкт-Петербург:</location>
+        <publisher>Питер.</publisher>
+    </sequence>
+    <sequence>
+        <author>Пономарев, А. Г.</author>
+        <date>2020.</date>
+        <title>Государственное и муниципальное управление.</title>
+        <edition>5-е изд., перераб. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>КноРус.</publisher>
+        <isbn>9785406073346</isbn>
+    </sequence>
+    <sequence>
+        <author>Голубева, Н. С., &amp; Медведев, Р. О.</author>
+        <date>2016.</date>
+        <title>Маркетинговые исследования: методология и практика.</title>
+        <location>Москва:</location>
+        <publisher>ИНФРА-М.</publisher>
+    </sequence>
+    <sequence>
+        <author>Ершов, В. А.</author>
+        <translator>Соколова, Л. Д. (Пер. с англ.).</translator>
+        <date>2019.</date>
+        <title>Корпоративные финансы: теория и практика.</title>
+        <edition>6-е изд.</edition>
+        <location>Москва:</location>
+        <publisher>Вильямс.</publisher>
+        <isbn>9785845911551</isbn>
+    </sequence>
+    <sequence>
+        <author>Никифоров, К. Е.</author>
+        <date>2021.</date>
+        <title>Балканы в политике России: исторический аспект.</title>
+        <location>Москва:</location>
+        <publisher>РОССПЭН.</publisher>
+    </sequence>
+    <sequence>
+        <author>Матвеев, О. Ю., &amp; Осипова, В. Н.</author>
+        <date>2022.</date>
+        <title>Бухгалтерский учёт и аудит.</title>
+        <edition>3-е изд., перераб.</edition>
+        <location>Москва:</location>
+        <publisher>Юрайт.</publisher>
+        <isbn>9785534168492</isbn>
+    </sequence>
+    <sequence>
+        <author>Шевченко, Б. Д.</author>
+        <date>2018.</date>
+        <title>Клиническая фармакология.</title>
+        <location>Москва:</location>
+        <publisher>ГЭОТАР-Медиа.</publisher>
+    </sequence>
+    <sequence>
+        <editor>Максимов, А. П. (Ред.).</editor>
+        <date>2019.</date>
+        <title>Актуальные проблемы современной экономики.</title>
+        <location>Санкт-Петербург:</location>
+        <publisher>Издательство СПбГУ.</publisher>
+        <isbn>9785288059827</isbn>
+    </sequence>
+    <sequence>
+        <author>Виноградов, С. В.</author>
+        <date>2023.</date>
+        <title>Методология научного исследования.</title>
+        <location>Москва:</location>
+        <publisher>Академия.</publisher>
+    </sequence>
+    <sequence>
+        <author>Тихонов, Р. Г., &amp; Александрова, Е. С.</author>
+        <date>2017.</date>
+        <title>Международные экономические отношения.</title>
+        <location>Москва:</location>
+        <publisher>Проспект.</publisher>
+        <isbn>9785392258741</isbn>
+    </sequence>
+    <sequence>
+        <author>Дмитриев, Л. Н.</author>
+        <date>2020.</date>
+        <title>Архитектура и градостроительство современной России.</title>
+        <location>Москва:</location>
+        <publisher>Архитектура-С.</publisher>
+    </sequence>
+    <sequence>
+        <author>Попова, М. В.</author>
+        <translator>Антонов, Г. Р. (Пер. с нем.).</translator>
+        <date>2016.</date>
+        <title>Социальная структура и стратификация.</title>
+        <location>Москва:</location>
+        <publisher>Наука.</publisher>
+        <isbn>9785020042582</isbn>
+    </sequence>
+    <sequence>
+        <author>Семенов, И. Б.</author>
+        <date>2021.</date>
+        <title>Гражданское право: учебник.</title>
+        <edition>7-е изд., перераб. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>Статут.</publisher>
+    </sequence>
+    <sequence>
+        <author>Егорова, Т. С., &amp; Павлов, Д. М., &amp; Соловьев, А. К.</author>
+        <date>2018.</date>
+        <title>Управление качеством в промышленности.</title>
+        <location>Москва:</location>
+        <publisher>ИНФРА-М.</publisher>
+        <isbn>9785160141374</isbn>
+    </sequence>
+    <sequence>
+        <author>Андреев, П. И.</author>
+        <date>2022.</date>
+        <title>Русская философская мысль XVIII–XIX веков.</title>
+        <location>Москва:</location>
+        <publisher>Новое литературное обозрение.</publisher>
+    </sequence>
+    <sequence>
+        <editor>Лебедева, О. В., &amp; Козлов, С. А. (Ред.).</editor>
+        <date>2020.</date>
+        <title>Сравнительное конституционное право.</title>
+        <location>Москва:</location>
+        <publisher>Норма.</publisher>
+        <isbn>9785001566021</isbn>
+    </sequence>
+    <sequence>
+        <author>Гусев, Н. П.</author>
+        <date>2019.</date>
+        <title>Теория вероятностей и математическая статистика.</title>
+        <edition>4-е изд.</edition>
+        <location>Москва:</location>
+        <publisher>Высшая школа.</publisher>
+    </sequence>
+    <sequence>
+        <author>Крылов, В. Д.</author>
+        <translator>Белов, М. И. (Пер. с фр.).</translator>
+        <date>2017.</date>
+        <title>Политическая власть и легитимность.</title>
+        <location>Санкт-Петербург:</location>
+        <publisher>Алетейя.</publisher>
+        <isbn>9785907115668</isbn>
+    </sequence>
+    <sequence>
+        <author>Орлова, С. В.</author>
+        <date>2023.</date>
+        <title>Дошкольная педагогика.</title>
+        <edition>2-е изд., испр. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>Академия.</publisher>
+    </sequence>
+    <sequence>
+        <author>Зубков, А. Н.</author>
+        <date>2021.</date>
+        <title>Логика: учебное пособие для бакалавров.</title>
+        <location>Москва:</location>
+        <publisher>Юрайт.</publisher>
+        <isbn>9785534135947</isbn>
+    </sequence>
+    <sequence>
+        <author>Яковлев, Б. Г., &amp; Романов, С. Д.</author>
+        <date>2018.</date>
+        <title>Стратегический менеджмент.</title>
+        <location>Москва:</location>
+        <publisher>КноРус.</publisher>
+    </sequence>
+    <sequence>
+        <author>Николаева, Е. А.</author>
+        <date>2020.</date>
+        <title>Социальная работа с семьёй и детьми.</title>
+        <location>Москва:</location>
+        <publisher>Дашков и К.</publisher>
+        <isbn>9785394037283</isbn>
+    </sequence>
+    <sequence>
+        <author>Пименов, Р. В.</author>
+        <date>2016.</date>
+        <title>Информационные технологии в управлении.</title>
+        <edition>2-е изд.</edition>
+        <location>Санкт-Петербург:</location>
+        <publisher>Питер.</publisher>
+    </sequence>
+    <sequence>
+        <editor>Соловьева, М. К. (Ред.).</editor>
+        <date>2022.</date>
+        <title>Гендерные исследования в России: история и современность.</title>
+        <location>Москва:</location>
+        <publisher>РОССПЭН.</publisher>
+        <isbn>9785824329506</isbn>
+    </sequence>
+    <sequence>
+        <author>Тарасов, Г. Е.</author>
+        <date>2019.</date>
+        <title>Уголовный процесс России.</title>
+        <edition>6-е изд., перераб. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>Норма.</publisher>
+    </sequence>
+    <sequence>
+        <author>Кириллов, А. Б., &amp; Миронов, В. Н.</author>
+        <date>2021.</date>
+        <title>Философия: учебник для академического бакалавриата.</title>
+        <location>Москва:</location>
+        <publisher>Юрайт.</publisher>
+        <isbn>9785534000244</isbn>
+    </sequence>
+    <sequence>
+        <author>Савченко, О. П.</author>
+        <translator>Кузнецова, Н. И. (Пер. с англ.).</translator>
+        <date>2018.</date>
+        <title>Мировая экономика и международная торговля.</title>
+        <location>Москва:</location>
+        <publisher>Вильямс.</publisher>
+    </sequence>
+    <sequence>
+        <author>Фомин, Д. С.</author>
+        <date>2023.</date>
+        <title>Математический анализ: курс лекций.</title>
+        <edition>3-е изд., испр.</edition>
+        <location>Москва:</location>
+        <publisher>Издательство МГУ.</publisher>
+        <isbn>9785191025185</isbn>
+    </sequence>
+    <sequence>
+        <author>Белоусова, Т. А.</author>
+        <date>2017.</date>
+        <title>Постколониальный дискурс в западноевропейской прозе 1980–2010-х годов.</title>
+        <editor>Соловьев, Н. Д. (Ред.).</editor>
+        <container-title>История зарубежной литературы XX века: исследования и интерпретации.</container-title>
+        <pages>С. 214–239.</pages>
+        <location>Москва:</location>
+        <publisher>Флинта.</publisher>
+    </sequence>
+    <sequence>
+        <author>Суворов, В. К.</author>
+        <date>2020.</date>
+        <title>Налоговое право.</title>
+        <edition>4-е изд., перераб. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>Норма.</publisher>
+        <isbn>9785001560876</isbn>
+    </sequence>
+    <sequence>
+        <editor>Громов, И. А., &amp; Захаров, Н. В. (Ред.).</editor>
+        <date>2019.</date>
+        <title>Современная западная социология: классические традиции и поиски новой парадигмы.</title>
+        <location>Москва:</location>
+        <publisher>Наука.</publisher>
+    </sequence>
+    <sequence>
+        <author>Ларин, Е. С.</author>
+        <date>2022.</date>
+        <title>Геополитика и международная безопасность.</title>
+        <location>Москва:</location>
+        <publisher>Аспект Пресс.</publisher>
+        <isbn>9785756716050</isbn>
+    </sequence>
+    <sequence>
+        <author>Митрофанов, А. И., &amp; Рябова, С. Ю.</author>
+        <date>2018.</date>
+        <title>Биохимия: учебник для медицинских вузов.</title>
+        <edition>2-е изд.</edition>
+        <location>Москва:</location>
+        <publisher>ГЭОТАР-Медиа.</publisher>
+    </sequence>
+    <sequence>
+        <author>Нечаев, Б. В.</author>
+        <translator>Петрова, О. Н. (Пер. с нем.).</translator>
+        <date>2016.</date>
+        <title>Современная немецкая историография.</title>
+        <location>Санкт-Петербург:</location>
+        <publisher>Алетейя.</publisher>
+        <isbn>9785907115279</isbn>
+    </sequence>
+    <sequence>
+        <author>Осипов, Г. В.</author>
+        <date>2021.</date>
+        <title>Социология: основы общей теории.</title>
+        <edition>2-е изд., перераб. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>ИНФРА-М.</publisher>
+    </sequence>
+    <sequence>
+        <author>Прокопьев, С. М.</author>
+        <date>2020.</date>
+        <title>Административное право Российской Федерации.</title>
+        <location>Москва:</location>
+        <publisher>Проспект.</publisher>
+        <isbn>9785392316946</isbn>
+    </sequence>
+    <sequence>
+        <author>Рогозина, И. В., &amp; Скворцов, Д. А.</author>
+        <date>2019.</date>
+        <title>Психология личности и деятельности.</title>
+        <location>Москва:</location>
+        <publisher>Академия.</publisher>
+    </sequence>
+    <sequence>
+        <editor>Ушакова, Т. Н. (Ред.).</editor>
+        <date>2023.</date>
+        <title>Язык и мышление: психологические и лингвистические аспекты.</title>
+        <location>Москва:</location>
+        <publisher>Флинта.</publisher>
+        <isbn>9785976526129</isbn>
+    </sequence>
+    <sequence>
+        <author>Сафонов, В. А.</author>
+        <date>2017.</date>
+        <title>История государства и права России.</title>
+        <edition>5-е изд., перераб. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>Юрайт.</publisher>
+    </sequence>
+    <sequence>
+        <author>Тарханова, Е. Б.</author>
+        <translator>Сидоров, А. В. (Пер. с англ.).</translator>
+        <date>2020.</date>
+        <title>Когнитивная психология.</title>
+        <location>Санкт-Петербург:</location>
+        <publisher>Питер.</publisher>
+        <isbn>9785446113019</isbn>
+    </sequence>
+    <sequence>
+        <author>Уваров, П. Д.</author>
+        <date>2022.</date>
+        <title>Экономика труда.</title>
+        <location>Москва:</location>
+        <publisher>КноРус.</publisher>
+    </sequence>
+    <sequence>
+        <author>Фоменко, А. С.</author>
+        <date>2018.</date>
+        <title>Теория государства и права.</title>
+        <edition>8-е изд., перераб. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>Проспект.</publisher>
+        <isbn>9785392278466</isbn>
+    </sequence>
+    <sequence>
+        <author>Харитонов, Р. Н., &amp; Цветков, И. А.</author>
+        <date>2021.</date>
+        <title>Базы данных и системы управления базами данных.</title>
+        <location>Москва:</location>
+        <publisher>ИНФРА-М.</publisher>
+    </sequence>
+    <sequence>
+        <editor>Чекмарев, В. В. (Ред.).</editor>
+        <date>2019.</date>
+        <title>Экономика образования: теория и практика.</title>
+        <location>Кострома:</location>
+        <publisher>Издательство КГУ.</publisher>
+        <isbn>9785827404456</isbn>
+    </sequence>
+    <sequence>
+        <author>Шаповалов, Е. И.</author>
+        <date>2023.</date>
+        <title>Политические партии и партийные системы.</title>
+        <location>Москва:</location>
+        <publisher>Аспект Пресс.</publisher>
+    </sequence>
+    <sequence>
+        <author>Щербаков, Д. Л.</author>
+        <translator>Романова, Е. В. (Пер. с фр.).</translator>
+        <date>2016.</date>
+        <title>Семиотика культуры.</title>
+        <location>Москва:</location>
+        <publisher>Новое литературное обозрение.</publisher>
+        <isbn>9785444809044</isbn>
+    </sequence>
+    <sequence>
+        <author>Эфендиев, А. Г.</author>
+        <date>2020.</date>
+        <title>Общая социология.</title>
+        <edition>3-е изд.</edition>
+        <location>Москва:</location>
+        <publisher>ИНФРА-М.</publisher>
+    </sequence>
+    <sequence>
+        <author>Юдин, Б. Г.</author>
+        <date>2018.</date>
+        <title>Этика науки и биоэтика.</title>
+        <location>Москва:</location>
+        <publisher>Наука.</publisher>
+        <isbn>9785020408395</isbn>
+    </sequence>
+    <sequence>
+        <author>Якимов, А. В., &amp; Яковенко, С. Д.</author>
+        <date>2021.</date>
+        <title>Основы программирования на Python.</title>
+        <location>Москва:</location>
+        <publisher>ДМК Пресс.</publisher>
+    </sequence>
+    <sequence>
+        <author>Аверьянов, Л. Я.</author>
+        <date>2017.</date>
+        <title>Социология: искусство задавать вопросы.</title>
+        <edition>2-е изд., перераб. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>Наука.</publisher>
+        <isbn>9785020041424</isbn>
+    </sequence>
+    <sequence>
+        <editor>Батыгин, Г. С. (Ред.).</editor>
+        <date>2022.</date>
+        <title>Профессионалы в социологии.</title>
+        <location>Москва:</location>
+        <publisher>Едиториал УРСС.</publisher>
+    </sequence>
+    <sequence>
+        <author>Власов, Н. А.</author>
+        <translator>Антонова, Т. Б. (Пер. с нем.).</translator>
+        <date>2019.</date>
+        <title>Германия в годы Первой мировой войны.</title>
+        <location>Санкт-Петербург:</location>
+        <publisher>Издательство СПбГУ.</publisher>
+        <isbn>9785288059575</isbn>
+    </sequence>
+    <sequence>
+        <author>Горелов, А. А.</author>
+        <date>2020.</date>
+        <title>Концепции современного естествознания.</title>
+        <edition>3-е изд., перераб. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>Академия.</publisher>
+    </sequence>
+    <sequence>
+        <author>Десятов, В. В.</author>
+        <date>2023.</date>
+        <title>Метафора памяти в постмодернистском романе 1990–2000-х годов.</title>
+        <editor>Казаркин, А. П. (Ред.).</editor>
+        <container-title>Постмодернизм в русской литературе: коллективная монография.</container-title>
+        <pages>С. 56–84.</pages>
+        <location>Томск:</location>
+        <publisher>Издательство ТГУ.</publisher>
+        <isbn>9785706205782</isbn>
+    </sequence>
+    <sequence>
+        <author>Ефименко, И. А., &amp; Журавлев, Д. К.</author>
+        <date>2018.</date>
+        <title>Теория и практика связей с общественностью.</title>
+        <location>Москва:</location>
+        <publisher>Аспект Пресс.</publisher>
+    </sequence>
+    <sequence>
+        <author>Завьялова, Т. Г.</author>
+        <date>2021.</date>
+        <title>Социальная философия.</title>
+        <edition>2-е изд.</edition>
+        <location>Москва:</location>
+        <publisher>Юрайт.</publisher>
+        <isbn>9785534118733</isbn>
+    </sequence>
+    <sequence>
+        <editor>Иванченко, В. М. (Ред.).</editor>
+        <date>2019.</date>
+        <title>Трансформация российской экономики в постсоветский период.</title>
+        <location>Москва:</location>
+        <publisher>РОССПЭН.</publisher>
+    </sequence>
+    <sequence>
+        <author>Калашников, А. П.</author>
+        <translator>Федорова, Л. М. (Пер. с англ.).</translator>
+        <date>2017.</date>
+        <title>Организационное развитие и изменения.</title>
+        <location>Москва:</location>
+        <publisher>Вильямс.</publisher>
+        <isbn>9785845912084</isbn>
+    </sequence>
+    <sequence>
+        <author>Лапин, Н. И.</author>
+        <date>2022.</date>
+        <title>Социокультурная трансформация России.</title>
+        <location>Москва:</location>
+        <publisher>Наука.</publisher>
+    </sequence>
+    <sequence>
+        <author>Мелехин, А. В.</author>
+        <date>2020.</date>
+        <title>Теория государства и права.</title>
+        <edition>4-е изд., перераб. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>КноРус.</publisher>
+        <isbn>9785406070376</isbn>
+    </sequence>
+    <sequence>
+        <author>Назаров, М. М.</author>
+        <date>2019.</date>
+        <title>Массовые коммуникации и медиапланирование.</title>
+        <location>Москва:</location>
+        <publisher>Дашков и К.</publisher>
+    </sequence>
+    <sequence>
+        <author>Обухова, Л. Ф.</author>
+        <date>2021.</date>
+        <title>Детская психология: теории, факты, проблемы.</title>
+        <edition>6-е изд.</edition>
+        <location>Москва:</location>
+        <publisher>Академия.</publisher>
+        <isbn>9785446044559</isbn>
+    </sequence>
+    <sequence>
+        <editor>Плотников, А. Д., &amp; Разумова, И. В. (Ред.).</editor>
+        <date>2022.</date>
+        <title>Молодёжная политика: российский и зарубежный опыт.</title>
+        <location>Москва:</location>
+        <publisher>Флинта.</publisher>
+    </sequence>
+    <sequence>
+        <author>Рыбаков, В. А.</author>
+        <date>2018.</date>
+        <title>Экономическая история России: XX — начало XXI века.</title>
+        <location>Москва:</location>
+        <publisher>РОССПЭН.</publisher>
+        <isbn>9785824328967</isbn>
+    </sequence>
+    <sequence>
+        <author>Сахаров, Н. В.</author>
+        <translator>Морозова, А. Д. (Пер. с англ.).</translator>
+        <date>2017.</date>
+        <title>Политические институты и демократизация.</title>
+        <location>Москва:</location>
+        <publisher>Аспект Пресс.</publisher>
+    </sequence>
+    <sequence>
+        <author>Тумусов, Ф. С.</author>
+        <date>2023.</date>
+        <title>Арктическая политика России.</title>
+        <location>Москва:</location>
+        <publisher>Наука.</publisher>
+        <isbn>9785020428003</isbn>
+    </sequence>
+    <sequence>
+        <author>Усов, Г. А., &amp; Федосеева, Н. Н.</author>
+        <date>2020.</date>
+        <title>Право социального обеспечения.</title>
+        <edition>3-е изд., перераб. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>Норма.</publisher>
+    </sequence>
+    <sequence>
+        <author>Фалин, В. М.</author>
+        <date>2019.</date>
+        <title>Второй фронт: антигитлеровская коалиция — конфликт интересов.</title>
+        <location>Москва:</location>
+        <publisher>Центрполиграф.</publisher>
+        <isbn>9785227082183</isbn>
+    </sequence>
+    <sequence>
+        <editor>Харченко, В. К. (Ред.).</editor>
+        <date>2021.</date>
+        <title>Речевое поведение в современном обществе.</title>
+        <location>Москва:</location>
+        <publisher>Флинта.</publisher>
+    </sequence>
+    <sequence>
+        <author>Цыпин, В. Л.</author>
+        <date>2018.</date>
+        <title>История Русской церкви.</title>
+        <edition>2-е изд., испр. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>Издательство Сретенского монастыря.</publisher>
+        <isbn>9785753305381</isbn>
+    </sequence>
+    <sequence>
+        <author>Чигарев, А. В.</author>
+        <translator>Соловьев, П. В. (Пер. с фр.).</translator>
+        <date>2016.</date>
+        <title>Теория международных отношений.</title>
+        <location>Москва:</location>
+        <publisher>Аспект Пресс.</publisher>
+    </sequence>
+    <sequence>
+        <author>Шабров, О. Ф.</author>
+        <date>2022.</date>
+        <title>Политическое управление: проблема стабильности и развития.</title>
+        <location>Москва:</location>
+        <publisher>ИНФРА-М.</publisher>
+        <isbn>9785001568971</isbn>
+    </sequence>
+    <sequence>
+        <author>Щекин, Г. В.</author>
+        <date>2019.</date>
+        <title>Теория социального управления.</title>
+        <location>Москва:</location>
+        <publisher>Академия.</publisher>
+    </sequence>
+    <sequence>
+        <author>Абрамов, Р. Н.</author>
+        <date>2017.</date>
+        <title>Профессиональный комплекс в социальной структуре общества.</title>
+        <location>Москва:</location>
+        <publisher>Наука.</publisher>
+        <isbn>9785020046405</isbn>
+    </sequence>
+    <sequence>
+        <author>Богатырёв, Е. Д., &amp; Бурлаков, В. Н.</author>
+        <date>2020.</date>
+        <title>Криминология.</title>
+        <edition>5-е изд., перераб. и доп.</edition>
+        <location>Санкт-Петербург:</location>
+        <publisher>Издательство СПбГУ.</publisher>
+    </sequence>
+    <sequence>
+        <author>Вишневский, А. Г.</author>
+        <date>2021.</date>
+        <title>Демографическая история России: 1927–1959.</title>
+        <location>Москва:</location>
+        <publisher>Новое издательство.</publisher>
+        <isbn>9785985440597</isbn>
+    </sequence>
+    <sequence>
+        <editor>Григорьев, С. И. (Ред.).</editor>
+        <date>2023.</date>
+        <title>Социальные технологии в системе управления.</title>
+        <location>Москва:</location>
+        <publisher>Дашков и К.</publisher>
+    </sequence>
+    <sequence>
+        <author>Денисова, Г. С.</author>
+        <date>2018.</date>
+        <title>Этносоциология.</title>
+        <edition>2-е изд., перераб.</edition>
+        <location>Ростов-на-Дону:</location>
+        <publisher>Феникс.</publisher>
+        <isbn>9785222298855</isbn>
+    </sequence>
+    <sequence>
+        <author>Елисеев, А. Л.</author>
+        <date>2019.</date>
+        <title>Советская правовая доктрина 1920–1930-х годов: идеологические основания.</title>
+        <editor>Исаев, И. А. (Ред.).</editor>
+        <container-title>История советского государства и права: сборник научных статей.</container-title>
+        <pages>С. 17–51.</pages>
+        <location>Москва:</location>
+        <publisher>РОССПЭН.</publisher>
+    </sequence>
+    <sequence>
+        <author>Зиновьев, В. П.</author>
+        <translator>Попова, Л. В. (Пер. с англ.).</translator>
+        <date>2022.</date>
+        <title>Промышленная революция и её последствия.</title>
+        <location>Томск:</location>
+        <publisher>Издательство ТГУ.</publisher>
+        <isbn>9785706205799</isbn>
+    </sequence>
+    <sequence>
+        <author>Иноземцев, В. Л.</author>
+        <date>2020.</date>
+        <title>Современное постиндустриальное общество.</title>
+        <edition>2-е изд., доп.</edition>
+        <location>Москва:</location>
+        <publisher>Логос.</publisher>
+    </sequence>
+    <sequence>
+        <author>Казаков, Н. Д.</author>
+        <date>2017.</date>
+        <title>Безопасность и синергетика: опыт философского осмысления.</title>
+        <location>Москва:</location>
+        <publisher>Наука.</publisher>
+        <isbn>9785020412804</isbn>
+    </sequence>
+    <sequence>
+        <author>Лавров, С. В., &amp; Лебедева, М. М.</author>
+        <date>2021.</date>
+        <title>Мировая политика и международные отношения.</title>
+        <location>Москва:</location>
+        <publisher>Аспект Пресс.</publisher>
+    </sequence>
+    <sequence>
+        <editor>Ляпунов, А. Н. (Ред.).</editor>
+        <date>2019.</date>
+        <title>Системный анализ и принятие решений.</title>
+        <edition>3-е изд.</edition>
+        <location>Москва:</location>
+        <publisher>Высшая школа.</publisher>
+        <isbn>9785060043175</isbn>
+    </sequence>
+    <sequence>
+        <author>Мамардашвили, М. К.</author>
+        <date>2014.</date>
+        <title>Классический и неклассический идеалы рациональности.</title>
+        <location>Санкт-Петербург:</location>
+        <publisher>Азбука-Аттикус.</publisher>
+    </sequence>
+    <sequence>
+        <author>Нуреев, Р. М.</author>
+        <date>2022.</date>
+        <title>Курс микроэкономики.</title>
+        <edition>3-е изд., перераб. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>Норма.</publisher>
+        <isbn>9785001565031</isbn>
+    </sequence>
+    <sequence>
+        <author>Оленьев, В. В., &amp; Федотов, А. П.</author>
+        <date>2018.</date>
+        <title>Глобалистика на пороге XXI века.</title>
+        <location>Москва:</location>
+        <publisher>Наука.</publisher>
+    </sequence>
+    <sequence>
+        <author>Парсонс, Т.</author>
+        <translator>Бурдье, В. С. (Пер. с англ.).</translator>
+        <date>2015.</date>
+        <title>О структуре социального действия.</title>
+        <edition>2-е изд.</edition>
+        <location>Москва:</location>
+        <publisher>Академический проект.</publisher>
+        <isbn>9785829109349</isbn>
+    </sequence>
+    <sequence>
+        <author>Разумов, В. И.</author>
+        <date>2021.</date>
+        <title>Методология научного творчества.</title>
+        <location>Москва:</location>
+        <publisher>Инфра-М.</publisher>
+    </sequence>
+    <sequence>
+        <author>Соколова, Р. И., &amp; Спиридонов, В. И.</author>
+        <date>2020.</date>
+        <title>Государство в современном мире.</title>
+        <location>Москва:</location>
+        <publisher>Наука.</publisher>
+        <isbn>9785020416710</isbn>
+    </sequence>
+    <sequence>
+        <editor>Тавокин, Е. П. (Ред.).</editor>
+        <date>2022.</date>
+        <title>Социология управления: теоретические основания.</title>
+        <location>Москва:</location>
+        <publisher>ИНФРА-М.</publisher>
+    </sequence>
+    <sequence>
+        <author>Ульянов, В. И.</author>
+        <date>2017.</date>
+        <title>Физика плазмы.</title>
+        <location>Новосибирск:</location>
+        <publisher>Наука.</publisher>
+        <isbn>9785020317499</isbn>
+    </sequence>
+    <sequence>
+        <author>Фатхутдинов, Р. А.</author>
+        <date>2019.</date>
+        <title>Управление конкурентоспособностью организации.</title>
+        <edition>3-е изд., перераб. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>Маркет ДС.</publisher>
+    </sequence>
+    <sequence>
+        <author>Хомяков, П. М.</author>
+        <date>2023.</date>
+        <title>Системный анализ: краткий курс лекций.</title>
+        <location>Москва:</location>
+        <publisher>КноРус.</publisher>
+        <isbn>9785406076095</isbn>
+    </sequence>
+    <sequence>
+        <author>Цветаев, В. М.</author>
+        <date>2021.</date>
+        <title>Управление персоналом.</title>
+        <edition>4-е изд.</edition>
+        <location>Санкт-Петербург:</location>
+        <publisher>Питер.</publisher>
+    </sequence>
+    <sequence>
+        <author>Чернявская, В. Е.</author>
+        <date>2020.</date>
+        <title>Дискурс власти и власть дискурса: проблемы речевого воздействия.</title>
+        <location>Москва:</location>
+        <publisher>Флинта.</publisher>
+        <isbn>9785976523968</isbn>
+    </sequence>
+    <sequence>
+        <author>Шамхалов, Ф. И.</author>
+        <date>2018.</date>
+        <title>Государство и экономика: основы взаимодействия.</title>
+        <location>Москва:</location>
+        <publisher>Экономика.</publisher>
+    </sequence>
+    <sequence>
+        <author>Щуркова, Н. Е.</author>
+        <date>2022.</date>
+        <title>Педагогическая технология.</title>
+        <edition>3-е изд., доп.</edition>
+        <location>Москва:</location>
+        <publisher>Академия.</publisher>
+        <isbn>9785446046331</isbn>
+    </sequence>
+    <sequence>
+        <author>Алексеева, Т. А.</author>
+        <date>2019.</date>
+        <title>Современные политические теории.</title>
+        <location>Москва:</location>
+        <publisher>РОССПЭН.</publisher>
+    </sequence>
+    <sequence>
+        <author>Байков, А. А.</author>
+        <date>2021.</date>
+        <title>Сравнительная интеграция.</title>
+        <location>Москва:</location>
+        <publisher>Аспект Пресс.</publisher>
+        <isbn>9785756716227</isbn>
+    </sequence>
+    <sequence>
+        <author>Власова, Н. М.</author>
+        <translator>Комаров, Б. А. (Пер. с швед.).</translator>
+        <date>2018.</date>
+        <title>Северные страны: опыт государственного строительства.</title>
+        <location>Москва:</location>
+        <publisher>Весь мир.</publisher>
+    </sequence>
+    <sequence>
+        <author>Гаман-Голутвина, О. В., &amp; Никитин, А. И.</author>
+        <date>2020.</date>
+        <title>Современная политическая наука.</title>
+        <edition>2-е изд., перераб. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>Аспект Пресс.</publisher>
+        <isbn>9785756716289</isbn>
+    </sequence>
+    <sequence>
+        <editor>Данилов, А. И. (Ред.).</editor>
+        <date>2023.</date>
+        <title>Россия в системе международных отношений XXI века.</title>
+        <location>Москва:</location>
+        <publisher>Наука.</publisher>
+    </sequence>
+    <sequence>
+        <author>Ефремова, Н. Н.</author>
+        <date>2017.</date>
+        <title>История государства и права зарубежных стран.</title>
+        <edition>3-е изд., перераб. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>Норма.</publisher>
+        <isbn>9785001560890</isbn>
+    </sequence>
+    <sequence>
+        <author>Журавлев, А. Л., &amp; Знаков, В. В.</author>
+        <date>2022.</date>
+        <title>Психология социального познания.</title>
+        <location>Москва:</location>
+        <publisher>Академия.</publisher>
+    </sequence>
+    <sequence>
+        <author>Загладин, Н. В.</author>
+        <date>2019.</date>
+        <title>История. XX — начало XXI века.</title>
+        <edition>4-е изд., перераб.</edition>
+        <location>Москва:</location>
+        <publisher>Русское слово.</publisher>
+        <isbn>9785533013748</isbn>
+    </sequence>
+    <sequence>
+        <author>Иванов, О. И.</author>
+        <date>2021.</date>
+        <title>Человеческий потенциал: формирование, развитие, использование.</title>
+        <location>Санкт-Петербург:</location>
+        <publisher>Скифия-принт.</publisher>
+    </sequence>
+    <sequence>
+        <author>Кармин, А. С., &amp; Бернацкий, Г. Г.</author>
+        <date>2018.</date>
+        <title>Философия.</title>
+        <edition>4-е изд.</edition>
+        <location>Санкт-Петербург:</location>
+        <publisher>Питер.</publisher>
+        <isbn>9785446113163</isbn>
+    </sequence>
+    <sequence>
+        <author>Лапина, Т. С.</author>
+        <date>2020.</date>
+        <title>Этика социальной активности личности.</title>
+        <location>Москва:</location>
+        <publisher>Наука.</publisher>
+    </sequence>
+    <sequence>
+        <editor>Малинов, А. В. (Ред.).</editor>
+        <date>2022.</date>
+        <title>Философская мысль России XVIII–XX веков.</title>
+        <location>Санкт-Петербург:</location>
+        <publisher>Издательство СПбГУ.</publisher>
+        <isbn>9785288059940</isbn>
+    </sequence>
+    <sequence>
+        <author>Нарочницкая, Н. А.</author>
+        <date>2019.</date>
+        <title>Россия и русские в мировой истории.</title>
+        <edition>2-е изд.</edition>
+        <location>Москва:</location>
+        <publisher>Международные отношения.</publisher>
+    </sequence>
+    <sequence>
+        <author>Окунев, И. Ю.</author>
+        <date>2021.</date>
+        <title>Политическая география.</title>
+        <location>Москва:</location>
+        <publisher>Аспект Пресс.</publisher>
+        <isbn>9785756714865</isbn>
+    </sequence>
+    <sequence>
+        <author>Поляков, Л. В., &amp; Попова, О. В.</author>
+        <date>2023.</date>
+        <title>Политический анализ и прогнозирование.</title>
+        <location>Москва:</location>
+        <publisher>Аспект Пресс.</publisher>
+    </sequence>
+    <sequence>
+        <author>Рахманин, В. С.</author>
+        <translator>Климова, Н. П. (Пер. с англ.).</translator>
+        <date>2017.</date>
+        <title>Образование и глобализация.</title>
+        <location>Воронеж:</location>
+        <publisher>Издательство ВГУ.</publisher>
+        <isbn>9785927500559</isbn>
+    </sequence>
+    <sequence>
+        <author>Сирота, Н. М.</author>
+        <date>2022.</date>
+        <title>Идеологии современного мира.</title>
+        <edition>2-е изд., перераб. и доп.</edition>
+        <location>Санкт-Петербург:</location>
+        <publisher>Питер.</publisher>
+    </sequence>
+    <sequence>
+        <author>Тоффлер, Э.</author>
+        <translator>Бурмистров, К. Ю. (Пер. с англ.).</translator>
+        <date>2014.</date>
+        <title>Третья волна.</title>
+        <location>Москва:</location>
+        <publisher>АСТ.</publisher>
+        <isbn>9785170428557</isbn>
+    </sequence>
+    <sequence>
+        <author>Уткин, А. И.</author>
+        <date>2018.</date>
+        <title>Мировой порядок XXI века.</title>
+        <location>Москва:</location>
+        <publisher>Алгоритм.</publisher>
+    </sequence>
+    <sequence>
+        <author>Фатенков, А. Н.</author>
+        <date>2021.</date>
+        <title>Онтология субъективного.</title>
+        <location>Нижний Новгород:</location>
+        <publisher>Издательство ННГУ.</publisher>
+        <isbn>9785521006823</isbn>
+    </sequence>
+    <sequence>
+        <editor>Хлебников, Г. В. (Ред.).</editor>
+        <date>2020.</date>
+        <title>Аналитическая философия: проблемы и дискуссии.</title>
+        <location>Москва:</location>
+        <publisher>ИФРАН.</publisher>
+    </sequence>
+    <sequence>
+        <author>Цыганов, В. В., &amp; Цыганова, Л. А.</author>
+        <date>2022.</date>
+        <title>Управление социально-экономическими системами.</title>
+        <edition>2-е изд.</edition>
+        <location>Москва:</location>
+        <publisher>ИНФРА-М.</publisher>
+        <isbn>9785160180434</isbn>
+    </sequence>
+    <sequence>
+        <author>Чичановский, А. А.</author>
+        <date>2019.</date>
+        <title>Национальная система массовой коммуникации.</title>
+        <location>Москва:</location>
+        <publisher>Академия.</publisher>
+    </sequence>
+    <sequence>
+        <author>Шаповал, Г. Ф.</author>
+        <date>2017.</date>
+        <title>История государства и права России.</title>
+        <edition>6-е изд., перераб.</edition>
+        <location>Минск:</location>
+        <publisher>БГЭУ.</publisher>
+        <isbn>9789850409560</isbn>
+    </sequence>
+    <sequence>
+        <author>Щербина, В. В.</author>
+        <date>2021.</date>
+        <title>Социальные теории организации.</title>
+        <location>Москва:</location>
+        <publisher>ИНФРА-М.</publisher>
+    </sequence>
+    <sequence>
+        <author>Ядов, В. А.</author>
+        <date>2016.</date>
+        <title>Стратегия социологического исследования.</title>
+        <edition>4-е изд.</edition>
+        <location>Москва:</location>
+        <publisher>Омега-Л.</publisher>
+        <isbn>9785370038005</isbn>
+    </sequence>
+    <sequence>
+        <author>Яницкий, О. Н.</author>
+        <date>2020.</date>
+        <title>Социология риска.</title>
+        <location>Москва:</location>
+        <publisher>Издательство ЛКИ.</publisher>
+    </sequence>
+    <sequence>
+        <author>Аберкромби, Н.</author>
+        <translator>Ерохин, И. Г. (Пер. с англ.).</translator>
+        <date>2015.</date>
+        <title>Социологический словарь.</title>
+        <edition>2-е изд., перераб. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>Экономика.</publisher>
+        <isbn>9785282030524</isbn>
+    </sequence>
+    <sequence>
+        <author>Барулин, В. С.</author>
+        <date>2019.</date>
+        <title>Социальная философия.</title>
+        <edition>3-е изд.</edition>
+        <location>Москва:</location>
+        <publisher>Гранд ФАИР.</publisher>
+    </sequence>
+    <sequence>
+        <author>Веблен, Т.</author>
+        <translator>Сорокин, А. А. (Пер. с англ.).</translator>
+        <date>2011.</date>
+        <title>Теория праздного класса.</title>
+        <location>Москва:</location>
+        <publisher>Либроком.</publisher>
+        <isbn>9785397020413</isbn>
+    </sequence>
+    <sequence>
+        <author>Гидденс, Э.</author>
+        <translator>Малюкова, И. А. (Пер. с англ.).</translator>
+        <date>2018.</date>
+        <title>Устроение общества.</title>
+        <edition>2-е изд.</edition>
+        <location>Москва:</location>
+        <publisher>Академический проект.</publisher>
+    </sequence>
+    <sequence>
+        <editor>Добреньков, В. И. (Ред.).</editor>
+        <date>2020.</date>
+        <title>Социология: история и современность.</title>
+        <location>Москва:</location>
+        <publisher>Академический проект.</publisher>
+        <isbn>9785829121129</isbn>
+    </sequence>
+    <sequence>
+        <author>Ефимов, В. С.</author>
+        <date>2021.</date>
+        <title>Форсайт высшей школы России.</title>
+        <location>Красноярск:</location>
+        <publisher>Сибирский федеральный университет.</publisher>
+    </sequence>
+    <sequence>
+        <author>Жуков, В. И.</author>
+        <date>2019.</date>
+        <title>Российские реформы: социология, экономика, политика.</title>
+        <edition>2-е изд., перераб.</edition>
+        <location>Москва:</location>
+        <publisher>Издательство РГСУ.</publisher>
+        <isbn>9785742201041</isbn>
+    </sequence>
+    <sequence>
+        <author>Запесоцкий, А. С.</author>
+        <date>2022.</date>
+        <title>Образование: философия, культурология, политика.</title>
+        <location>Москва:</location>
+        <publisher>Наука.</publisher>
+    </sequence>
+    <sequence>
+        <author>Иноземцев, Н. Н.</author>
+        <translator>Сафронов, Л. Ю. (Пер. с англ.).</translator>
+        <date>2017.</date>
+        <title>Американская внешняя политика эпохи холодной войны.</title>
+        <location>Москва:</location>
+        <publisher>Международные отношения.</publisher>
+        <isbn>9785713317735</isbn>
+    </sequence>
+    <sequence>
+        <author>Кравченко, А. И.</author>
+        <date>2021.</date>
+        <title>Социология.</title>
+        <edition>10-е изд., перераб. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>Академический проект.</publisher>
+    </sequence>
+    <sequence>
+        <author>Луман, Н.</author>
+        <translator>Антоновский, А. Ю. (Пер. с нем.).</translator>
+        <date>2016.</date>
+        <title>Социальные системы.</title>
+        <location>Санкт-Петербург:</location>
+        <publisher>Наука.</publisher>
+        <isbn>9785020271456</isbn>
+    </sequence>
+    <sequence>
+        <author>Медушевский, А. Н.</author>
+        <date>2020.</date>
+        <title>Теория конституционных циклов.</title>
+        <location>Москва:</location>
+        <publisher>Издательский дом ГУ ВШЭ.</publisher>
+    </sequence>
+    <sequence>
+        <editor>Нечипоренко, О. В. (Ред.).</editor>
+        <date>2022.</date>
+        <title>Сельское сообщество XXI века: устойчивость или деградация?</title>
+        <location>Новосибирск:</location>
+        <publisher>Наука.</publisher>
+        <isbn>9785020323001</isbn>
+    </sequence>
+    <sequence>
+        <author>Олейников, Ю. В., &amp; Оносов, А. А.</author>
+        <date>2018.</date>
+        <title>Ноосферный проект социоприродной эволюции.</title>
+        <location>Москва:</location>
+        <publisher>ИФРАН.</publisher>
+    </sequence>
+    <sequence>
+        <author>Патрушев, В. Д.</author>
+        <date>2021.</date>
+        <title>Жизнь горожанина: бюджет времени.</title>
+        <location>Москва:</location>
+        <publisher>Academia.</publisher>
+        <isbn>9785874440411</isbn>
+    </sequence>
+    <sequence>
+        <author>Решетников, М. М.</author>
+        <date>2019.</date>
+        <title>Психология войны.</title>
+        <location>Санкт-Петербург:</location>
+        <publisher>Восточно-Европейский институт психоанализа.</publisher>
+    </sequence>
+    <sequence>
+        <author>Сорокин, П. А.</author>
+        <date>2006.</date>
+        <title>Социальная и культурная динамика.</title>
+        <location>Москва:</location>
+        <publisher>Астрель.</publisher>
+        <isbn>9785271129758</isbn>
+    </sequence>
+    <sequence>
+        <author>Тощенко, Ж. Т.</author>
+        <date>2020.</date>
+        <title>Общество травмы: между эволюцией и революцией.</title>
+        <edition>2-е изд., доп.</edition>
+        <location>Москва:</location>
+        <publisher>Весь мир.</publisher>
+    </sequence>
+    <sequence>
+        <author>Урсул, А. Д.</author>
+        <date>2022.</date>
+        <title>Природа информации: философский очерк.</title>
+        <edition>3-е изд.</edition>
+        <location>Москва:</location>
+        <publisher>Чем.</publisher>
+        <isbn>9785950025419</isbn>
+    </sequence>
+    <sequence>
+        <author>Фирсов, М. В., &amp; Студенова, Е. Г.</author>
+        <date>2019.</date>
+        <title>Теория социальной работы.</title>
+        <edition>4-е изд., перераб. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>Академический проект.</publisher>
+    </sequence>
+    <sequence>
+        <author>Хабермас, Ю.</author>
+        <translator>Скляднев, М. Б. (Пер. с нем.).</translator>
+        <date>2015.</date>
+        <title>Теория коммуникативного действия.</title>
+        <location>Москва:</location>
+        <publisher>Весь мир.</publisher>
+        <isbn>9785777705037</isbn>
+    </sequence>
+    <sequence>
+        <author>Цапф, В.</author>
+        <translator>Рябов, А. В. (Пер. с нем.).</translator>
+        <date>2017.</date>
+        <title>Модернизация и общественное развитие.</title>
+        <location>Москва:</location>
+        <publisher>РОССПЭН.</publisher>
+    </sequence>
+    <sequence>
+        <author>Чаянов, А. В.</author>
+        <date>2013.</date>
+        <title>Крестьянское хозяйство.</title>
+        <location>Москва:</location>
+        <publisher>Экономика.</publisher>
+        <isbn>9785282028422</isbn>
+    </sequence>
+    <sequence>
+        <author>Шанин, Т.</author>
+        <translator>Дождиков, А. В. (Пер. с англ.).</translator>
+        <date>2019.</date>
+        <title>Неудобный класс: политическая социология крестьянства в развивающемся обществе.</title>
+        <location>Москва:</location>
+        <publisher>Дело.</publisher>
+    </sequence>
+    <sequence>
+        <editor>Щепаньская, Т. Б. (Ред.).</editor>
+        <date>2021.</date>
+        <title>Антропология власти.</title>
+        <location>Санкт-Петербург:</location>
+        <publisher>Издательство СПбГУ.</publisher>
+        <isbn>9785288060282</isbn>
+    </sequence>
+    <sequence>
+        <author>Ядов, В. А., &amp; Климова, С. Г.</author>
+        <date>2020.</date>
+        <title>Самосознание, идентификация и мотивация труда.</title>
+        <location>Москва:</location>
+        <publisher>ИНФРА-М.</publisher>
+    </sequence>
+    <sequence>
+        <author>Абельс, Х.</author>
+        <translator>Зотов, А. Б. (Пер. с нем.).</translator>
+        <date>2016.</date>
+        <title>Интеракция, идентичность, презентация.</title>
+        <location>Санкт-Петербург:</location>
+        <publisher>Алетейя.</publisher>
+        <isbn>9785907115897</isbn>
+    </sequence>
+    <sequence>
+        <author>Бергер, П., &amp; Лукман, Т.</author>
+        <translator>Руткевич, Е. Д. (Пер. с англ.).</translator>
+        <date>2018.</date>
+        <title>Социальное конструирование реальности.</title>
+        <edition>2-е изд.</edition>
+        <location>Москва:</location>
+        <publisher>Медиум.</publisher>
+    </sequence>
+    <sequence>
+        <author>Водолазов, Г. Г.</author>
+        <date>2023.</date>
+        <title>Диалектика и революция.</title>
+        <location>Москва:</location>
+        <publisher>Политиздат.</publisher>
+        <isbn>9785250015928</isbn>
+    </sequence>
+    <sequence>
+        <author>Глотов, М. Б.</author>
+        <date>2020.</date>
+        <title>Социология искусства.</title>
+        <edition>2-е изд.</edition>
+        <location>Санкт-Петербург:</location>
+        <publisher>Алетейя.</publisher>
+    </sequence>
+    <sequence>
+        <editor>Давыдов, А. А. (Ред.).</editor>
+        <date>2019.</date>
+        <title>Системная социология: прикладные аспекты.</title>
+        <location>Москва:</location>
+        <publisher>КомКнига.</publisher>
+        <isbn>9785484010748</isbn>
+    </sequence>
+    <sequence>
+        <author>Ельчанинов, М. С.</author>
+        <date>2021.</date>
+        <title>Социальная синергетика и катастрофы России в эпоху модерна.</title>
+        <location>Москва:</location>
+        <publisher>КомКнига.</publisher>
+    </sequence>
+    <sequence>
+        <author>Жуков, Д. С.</author>
+        <date>2022.</date>
+        <title>Стохастические модели социальной самоорганизации.</title>
+        <location>Москва:</location>
+        <publisher>ИНФРА-М.</publisher>
+        <isbn>9785000994382</isbn>
+    </sequence>
+    <sequence>
+        <author>Зборовский, Г. Е.</author>
+        <date>2018.</date>
+        <title>Общая социология.</title>
+        <edition>3-е изд., испр. и доп.</edition>
+        <location>Москва:</location>
+        <publisher>Гардарики.</publisher>
+    </sequence>
+</dataset>
