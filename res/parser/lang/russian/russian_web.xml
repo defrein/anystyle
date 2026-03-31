@@ -1,0 +1,1425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <sequence>
+        <author>Иванов, А. В.</author>
+        <date>2023.</date>
+        <title>Цифровая трансформация государственного управления в России.</title>
+        <publisher>Министерство цифрового развития, связи и массовых коммуникаций РФ.</publisher>
+        <url>https://digital.gov.ru/ru/activity/directions/858/</url>
+        <note>Дата обращения: 15.02.2024.</note>
+    </sequence>
+    <sequence>
+        <author>Петров, С. И., &amp; Сидоров, М. Н.</author>
+        <date>2022.</date>
+        <title>Искусственный интеллект в здравоохранении: перспективы развития.</title>
+        <url>https://minzdrav.gov.ru/documents/reports/ai-healthcare-2022.pdf</url>
+        <note>Дата обращения: 20.11.2023.</note>
+    </sequence>
+    <sequence>
+        <date>2024.</date>
+        <title>Доклад о состоянии окружающей среды Российской Федерации 2023.</title>
+        <publisher>Федеральная служба по гидрометеорологии и мониторингу окружающей среды.</publisher>
+        <url>https://meteorf.ru/reports/ecology/2023</url>
+        <note>Дата обращения: 10.03.2024.</note>
+    </sequence>
+    <sequence>
+        <title>Справочник государственных услуг Российской Федерации.</title>
+        <publisher>Министерство экономического развития РФ.</publisher>
+        <url>https://www.gosuslugi.ru/help/catalog</url>
+        <note>Дата обращения: 28.01.2024.</note>
+    </sequence>
+    <sequence>
+        <author>Смирнова, Е. Л.</author>
+        <date>2023.</date>
+        <title>Анализ открытых данных государственных органов.</title>
+        <url>https://data.gov.ru/reports/analysis-2023/</url>
+        <note>Дата обращения: 05.12.2023.</note>
+    </sequence>
+    <sequence>
+        <author>Кузнецов, И. А., Морозов, Д. С., &amp; Волков, Е. Н.</author>
+        <date>2022.</date>
+        <title>Машинное обучение для медицинской диагностики.</title>
+        <publisher>Министерство здравоохранения РФ.</publisher>
+        <url>https://minzdrav.gov.ru/ministry/61/22/stranitsa-978/zachita-disertatsii</url>
+        <note>Дата обращения: 18.09.2023.</note>
+    </sequence>
+    <sequence>
+        <title>Портал правовой информации: справочная система.</title>
+        <publisher>Министерство юстиции РФ.</publisher>
+        <url>https://pravo.gov.ru/reference</url>
+    </sequence>
+    <sequence>
+        <author>Федорова, О. В.</author>
+        <date>2021.</date>
+        <title>Электронное обучение в российских вузах.</title>
+        <publisher>Министерство науки и высшего образования РФ.</publisher>
+        <url>https://minobrnauki.gov.ru/activity/directions/817/</url>
+        <note>Дата обращения: 30.06.2022.</note>
+    </sequence>
+    <sequence>
+        <date>2023.</date>
+        <title>Статистика внешнеторгового оборота России 2022.</title>
+        <publisher>Федеральная таможенная служба.</publisher>
+        <url>https://customs.gov.ru/statistics/foreign-trade/2022</url>
+        <note>Дата обращения: 15.01.2024.</note>
+    </sequence>
+    <sequence>
+        <author>Николаев, В. П., &amp; Тихонов, П. С.</author>
+        <date>2024.</date>
+        <title>Устойчивое городское развитие: российские практики.</title>
+        <url>https://minstroyrf.gov.ru/activity/urban-development/trends-2024/</url>
+        <note>Дата обращения: 01.03.2024.</note>
+    </sequence>
+    <sequence>
+        <title>Федеральный реестр нормативных правовых актов.</title>
+        <publisher>Министерство юстиции РФ.</publisher>
+        <url>https://minjust.ru/ru/registry/legal-acts</url>
+    </sequence>
+    <sequence>
+        <author>Громова, Т. С.</author>
+        <date>2022.</date>
+        <title>Социальная политика и демография в России.</title>
+        <publisher>Федеральная служба государственной статистики.</publisher>
+        <url>https://rosstat.gov.ru/social/demography/policy</url>
+        <note>Дата обращения: 22.07.2023.</note>
+    </sequence>
+    <sequence>
+        <date>2023.</date>
+        <title>Национальный доклад о климате Российской Федерации.</title>
+        <publisher>Министерство природных ресурсов и экологии РФ.</publisher>
+        <url>https://mnr.gov.ru/climate/report-2023.pdf</url>
+        <note>Дата обращения: 28.02.2024.</note>
+    </sequence>
+    <sequence>
+        <author>Соколов, А. М., Ершова, Н. И., &amp; Рыжов, А. К.</author>
+        <date>2021.</date>
+        <title>Инновационное развитие университетов России.</title>
+        <publisher>Министерство науки и высшего образования РФ.</publisher>
+        <url>https://minobrnauki.gov.ru/activity/innovation/universities/</url>
+        <note>Дата обращения: 10.11.2022.</note>
+    </sequence>
+    <sequence>
+        <title>Общероссийский классификатор видов экономической деятельности.</title>
+        <publisher>Федеральное агентство по техническому регулированию и метрологии.</publisher>
+        <url>https://docs.cntd.ru/document/1200010697</url>
+    </sequence>
+    <sequence>
+        <author>Орлов, Н. Д.</author>
+        <date>2023.</date>
+        <title>Информационная безопасность в государственных органах.</title>
+        <publisher>Федеральная служба по техническому и экспортному контролю.</publisher>
+        <url>https://fstec.ru/activity/information-security</url>
+        <note>Дата обращения: 05.01.2024.</note>
+    </sequence>
+    <sequence>
+        <date>2022.</date>
+        <title>Бюллетень банковской статистики.</title>
+        <publisher>Центральный банк Российской Федерации.</publisher>
+        <url>https://cbr.ru/statistics/bbs/2022</url>
+        <note>Дата обращения: 14.05.2023.</note>
+    </sequence>
+    <sequence>
+        <author>Антонова, Л. Р., &amp; Лебедев, К. Г.</author>
+        <date>2024.</date>
+        <title>Программы поддержки занятости населения.</title>
+        <publisher>Министерство труда и социальной защиты РФ.</publisher>
+        <url>https://mintrud.gov.ru/ministry/programms/employment/2024</url>
+        <note>Дата обращения: 20.03.2024.</note>
+    </sequence>
+    <sequence>
+        <title>Единая система пенсионного обеспечения.</title>
+        <publisher>Пенсионный фонд Российской Федерации.</publisher>
+        <url>https://pfr.gov.ru/pension-system</url>
+    </sequence>
+    <sequence>
+        <author>Зайцева, О. В.</author>
+        <date>2023.</date>
+        <title>Управление отходами в крупных городах России.</title>
+        <url>https://mnr.gov.ru/waste-management/cities</url>
+        <note>Дата обращения: 30.10.2023.</note>
+    </sequence>
+    <sequence>
+        <date>2021.</date>
+        <title>Отчет об исполнении федерального бюджета 2020.</title>
+        <publisher>Федеральное казначейство.</publisher>
+        <url>https://roskazna.gov.ru/budget/2020/report.pdf</url>
+        <note>Дата обращения: 15.04.2022.</note>
+    </sequence>
+    <sequence>
+        <author>Морозова, А. Ю., Павлов, С. Е., &amp; Козлов, П. А.</author>
+        <date>2022.</date>
+        <title>Борьба с неграмотностью: федеральные программы.</title>
+        <publisher>Министерство просвещения РФ.</publisher>
+        <url>https://minprosvet.gov.ru/literacy/programs-2022</url>
+        <note>Дата обращения: 28.02.2023.</note>
+    </sequence>
+    <sequence>
+        <title>Концепция развития гражданского общества в РФ.</title>
+        <url>https://oprf.ru/documents/civil-society-concept</url>
+        <note>Дата обращения: 10.02.2024.</note>
+    </sequence>
+    <sequence>
+        <author>Васильев, П. Л.</author>
+        <date>2023.</date>
+        <title>Налоговые льготы для научных организаций.</title>
+        <publisher>Федеральная налоговая служба.</publisher>
+        <url>https://nalog.gov.ru/rn77/taxation/benefits/science</url>
+        <note>Дата обращения: 22.01.2024.</note>
+    </sequence>
+    <sequence>
+        <date>2024.</date>
+        <title>Индикаторы устойчивого развития Российской Федерации 2023.</title>
+        <publisher>Министерство экономического развития РФ.</publisher>
+        <url>https://economy.gov.ru/material/file/indicators-2023.pdf</url>
+        <note>Дата обращения: 15.03.2024.</note>
+    </sequence>
+    <sequence>
+        <author>Павлова, М. В., &amp; Виноградов, С. А.</author>
+        <date>2022.</date>
+        <title>Психиатрическая помощь в системе ОМС.</title>
+        <publisher>Министерство здравоохранения РФ.</publisher>
+        <url>https://minzdrav.gov.ru/policy/mental-health/2022.pdf</url>
+        <note>Дата обращения: 05.08.2023.</note>
+    </sequence>
+    <sequence>
+        <title>Государственная информационная система ЖКХ.</title>
+        <publisher>Министерство строительства и жилищно-коммунального хозяйства РФ.</publisher>
+        <url>https://dom.gosuslugi.ru/portal-gis-zhkh</url>
+    </sequence>
+    <sequence>
+        <author>Киселев, М. Ф.</author>
+        <date>2021.</date>
+        <title>Земельная реформа в городских агломерациях.</title>
+        <url>https://rosreestr.ru/site/press/news/land-reform/</url>
+        <note>Дата обращения: 20.09.2022.</note>
+    </sequence>
+    <sequence>
+        <date>2023.</date>
+        <title>Отчет о деятельности программы школьного питания.</title>
+        <publisher>Федеральная служба по надзору в сфере защиты прав потребителей.</publisher>
+        <url>https://rospotrebnadzor.ru/activities/school-meals/2023.pdf</url>
+        <note>Дата обращения: 05.02.2024.</note>
+    </sequence>
+    <sequence>
+        <author>Беляев, Р. М., Григорьев, А. Л., &amp; Денисов, Б. С.</author>
+        <date>2024.</date>
+        <title>Модернизация системы государственного управления.</title>
+        <publisher>Аппарат Правительства Российской Федерации.</publisher>
+        <url>https://government.ru/news/modernization-2024</url>
+        <note>Дата обращения: 25.03.2024.</note>
+    </sequence>
+    <sequence>
+        <title>Федеральный портал управленческих кадров.</title>
+        <url>https://gossluzhba.gov.ru/portal</url>
+    </sequence>
+    <sequence>
+        <author>Ермаков, Л. Н.</author>
+        <date>2022.</date>
+        <title>Общественный контроль государственных закупок.</title>
+        <publisher>Федеральная антимонопольная служба.</publisher>
+        <url>https://fas.gov.ru/procurement/control</url>
+        <note>Дата обращения: 12.04.2023.</note>
+    </sequence>
+    <sequence>
+        <date>2023.</date>
+        <title>Демографический ежегодник России 2023.</title>
+        <publisher>Федеральная служба государственной статистики.</publisher>
+        <url>https://rosstat.gov.ru/folder/12781</url>
+        <note>Дата обращения: 30.01.2024.</note>
+    </sequence>
+    <sequence>
+        <author>Жукова, Ф. С., &amp; Ильин, М. К.</author>
+        <date>2021.</date>
+        <title>Доступное жилье для молодых семей.</title>
+        <publisher>Министерство строительства и жилищно-коммунального хозяйства РФ.</publisher>
+        <url>https://minstroyrf.gov.ru/housing/young-families</url>
+        <note>Дата обращения: 18.12.2022.</note>
+    </sequence>
+    <sequence>
+        <title>Методические рекомендации по предоставлению грантов.</title>
+        <publisher>Фонд президентских грантов.</publisher>
+        <url>https://президентскиегранты.рф/guidelines</url>
+    </sequence>
+    <sequence>
+        <author>Комиссаров, С. А.</author>
+        <date>2023.</date>
+        <title>Управление данными в органах власти.</title>
+        <url>https://digital.gov.ru/ru/activity/directions/data-governance/</url>
+        <note>Дата обращения: 20.02.2024.</note>
+    </sequence>
+    <sequence>
+        <date>2022.</date>
+        <title>Отчет о работе уполномоченных по правам человека.</title>
+        <publisher>Уполномоченный по правам человека в Российской Федерации.</publisher>
+        <url>https://ombudsmanrf.org/reports/2022.pdf</url>
+        <note>Дата обращения: 25.06.2023.</note>
+    </sequence>
+    <sequence>
+        <author>Лаврентьев, П. Р., &amp; Максимова, Л. М.</author>
+        <date>2024.</date>
+        <title>Закупки для государственных нужд: новые правила.</title>
+        <publisher>Министерство финансов РФ.</publisher>
+        <url>https://minfin.gov.ru/ru/procurement/new-rules-2024</url>
+        <note>Дата обращения: 28.03.2024.</note>
+    </sequence>
+    <sequence>
+        <title>Реестр коррупционеров.</title>
+        <publisher>Министерство труда и социальной защиты РФ.</publisher>
+        <url>https://mls.gov.ru/corruption-register</url>
+    </sequence>
+    <sequence>
+        <author>Мельникова, Т. Р.</author>
+        <date>2023.</date>
+        <title>Гендерное равенство в трудовой сфере.</title>
+        <publisher>Министерство труда и социальной защиты РФ.</publisher>
+        <url>https://mintrud.gov.ru/ministry/gender/equality</url>
+        <note>Дата обращения: 08.01.2024.</note>
+    </sequence>
+    <sequence>
+        <date>2021.</date>
+        <title>Мониторинг качества образования в регионах.</title>
+        <publisher>Федеральная служба по надзору в сфере образования и науки.</publisher>
+        <url>https://obrnadzor.gov.ru/education-monitoring</url>
+        <note>Дата обращения: 14.08.2022.</note>
+    </sequence>
+    <sequence>
+        <author>Новиков, А. С., Орехов, М. В., &amp; Петренко, Ф. Л.</author>
+        <date>2022.</date>
+        <title>Оценка эффективности социальных программ.</title>
+        <publisher>Институт народного хозяйства.</publisher>
+        <url>https://ranepa.ru/research/social-programs/2022.pdf</url>
+        <note>Дата обращения: 19.03.2023.</note>
+    </sequence>
+    <sequence>
+        <title>Порядок лицензирования медицинской деятельности.</title>
+        <publisher>Федеральная служба по надзору в сфере здравоохранения.</publisher>
+        <url>https://roszdravnadzor.gov.ru/licensing/medical</url>
+    </sequence>
+    <sequence>
+        <author>Поляков, Р. Л.</author>
+        <date>2023.</date>
+        <title>Оцифровка государственных услуг.</title>
+        <url>https://digital.gov.ru/ru/services/digitalization/</url>
+        <note>Дата обращения: 12.02.2024.</note>
+    </sequence>
+    <sequence>
+        <date>2024.</date>
+        <title>Ежегодный доклад о состоянии системы здравоохранения.</title>
+        <publisher>Министерство здравоохранения РФ.</publisher>
+        <url>https://minzdrav.gov.ru/reports/healthcare-2024.pdf</url>
+        <note>Дата обращения: 30.03.2024.</note>
+    </sequence>
+    <sequence>
+        <author>Романов, М. Л., &amp; Семенов, Р. Т.</author>
+        <date>2021.</date>
+        <title>Культурная политика в отношении коренных народов.</title>
+        <publisher>Министерство культуры РФ.</publisher>
+        <url>https://mkrf.ru/culture/indigenous-peoples</url>
+        <note>Дата обращения: 05.10.2022.</note>
+    </sequence>
+    <sequence>
+        <title>Госуслуги: портал для граждан.</title>
+        <url>https://www.gosuslugi.ru/</url>
+    </sequence>
+    <sequence>
+        <author>Степанов, А. М.</author>
+        <date>2022.</date>
+        <title>Управление рисками в ИТ-проектах.</title>
+        <publisher>Министерство цифрового развития, связи и массовых коммуникаций РФ.</publisher>
+        <url>https://digital.gov.ru/ru/activity/risk-management/</url>
+        <note>Дата обращения: 10.07.2023.</note>
+    </sequence>
+    <sequence>
+        <date>2023.</date>
+        <title>Бухгалтерская отчетность органов власти 2022.</title>
+        <publisher>Федеральное казначейство.</publisher>
+        <url>https://roskazna.gov.ru/accounting/2022.pdf</url>
+        <note>Дата обращения: 25.01.2024.</note>
+    </sequence>
+    <sequence>
+        <author>Тихомиров, П. С., Успенский, М. В., &amp; Федоров, А. Р.</author>
+        <date>2024.</date>
+        <title>Энергоэффективность в государственных зданиях.</title>
+        <publisher>Министерство энергетики РФ.</publisher>
+        <url>https://minenergo.gov.ru/efficiency/public-buildings</url>
+        <note>Дата обращения: 05.03.2024.</note>
+    </sequence>
+    <sequence>
+        <title>Реестр экологически чистых технологий.</title>
+        <url>https://mnr.gov.ru/eco-tech/register</url>
+    </sequence>
+    <sequence>
+        <author>Ушаков, С. М.</author>
+        <date>2021.</date>
+        <title>Контроль качества воды в водоемах.</title>
+        <publisher>Федеральное агентство водных ресурсов.</publisher>
+        <url>https://water.gov.ru/monitoring/water-quality</url>
+        <note>Дата обращения: 20.05.2022.</note>
+    </sequence>
+    <sequence>
+        <date>2022.</date>
+        <title>Отчет о проверке государственных контрактов.</title>
+        <publisher>Федеральная антимонопольная служба.</publisher>
+        <url>https://fas.gov.ru/reports/contracts-2022.pdf</url>
+        <note>Дата обращения: 08.09.2023.</note>
+    </sequence>
+    <sequence>
+        <author>Цветков, Р. Л., &amp; Щербаков, М. А.</author>
+        <date>2023.</date>
+        <title>Искусственный интеллект в борьбе с мошенничеством.</title>
+        <publisher>Федеральная служба по финансовому мониторингу.</publisher>
+        <url>https://fedsfm.ru/ai-fraud-detection</url>
+        <note>Дата обращения: 18.02.2024.</note>
+    </sequence>
+    <sequence>
+        <title>Информационная система управления госимуществом.</title>
+        <publisher>Федеральное агентство по управлению государственным имуществом.</publisher>
+        <url>https://rosim.ru/gis</url>
+    </sequence>
+    <sequence>
+        <author>Шишов, Ф. С.</author>
+        <date>2024.</date>
+        <title>Оптимизация государственного аппарата.</title>
+        <url>https://government.ru/optimization-2024</url>
+        <note>Дата обращения: 22.03.2024.</note>
+    </sequence>
+    <sequence>
+        <date>2021.</date>
+        <title>Атлас социально-экономического развития регионов.</title>
+        <publisher>Министерство экономического развития РФ.</publisher>
+        <url>https://economy.gov.ru/atlas-2021</url>
+        <note>Дата обращения: 15.07.2022.</note>
+    </sequence>
+    <sequence>
+        <author>Юдин, А. Р., Крылов, П. А., &amp; Зорин, С. М.</author>
+        <date>2022.</date>
+        <title>Стимулирование научных исследований.</title>
+        <publisher>Министерство науки и высшего образования РФ.</publisher>
+        <url>https://minobrnauki.gov.ru/science/incentives</url>
+        <note>Дата обращения: 28.04.2023.</note>
+    </sequence>
+    <sequence>
+        <title>Справочник лекарственных препаратов.</title>
+        <publisher>Министерство здравоохранения РФ.</publisher>
+        <url>https://grls.rosminzdrav.ru</url>
+    </sequence>
+    <sequence>
+        <author>Абрамов, Д. М.</author>
+        <date>2023.</date>
+        <title>Открытость бюджетных данных.</title>
+        <url>https://budgetrf.ru/openness</url>
+        <note>Дата обращения: 12.01.2024.</note>
+    </sequence>
+    <sequence>
+        <date>2024.</date>
+        <title>Обзор гендерной статистики 2023.</title>
+        <publisher>Федеральная служба государственной статистики.</publisher>
+        <url>https://rosstat.gov.ru/gender-2023.pdf</url>
+        <note>Дата обращения: 08.03.2024.</note>
+    </sequence>
+    <sequence>
+        <author>Борисов, Т. В., &amp; Воронин, А. Л.</author>
+        <date>2021.</date>
+        <title>Молодежная политика в регионах.</title>
+        <publisher>Федеральное агентство по делам молодежи.</publisher>
+        <url>https://fadm.gov.ru/activity/policy/regional</url>
+        <note>Дата обращения: 30.11.2022.</note>
+    </sequence>
+    <sequence>
+        <title>Единый реестр проверок.</title>
+        <publisher>Генеральная прокуратура Российской Федерации.</publisher>
+        <url>https://epp.genproc.gov.ru/inspections</url>
+    </sequence>
+    <sequence>
+        <author>Григорьев, П. Р.</author>
+        <date>2022.</date>
+        <title>Интегрированное управление водными ресурсами.</title>
+        <publisher>Федеральное агентство водных ресурсов.</publisher>
+        <url>https://water.gov.ru/integrated-management</url>
+        <note>Дата обращения: 14.06.2023.</note>
+    </sequence>
+    <sequence>
+        <date>2023.</date>
+        <title>Отчет о научно-исследовательской деятельности 2022.</title>
+        <publisher>Министерство науки и высшего образования РФ.</publisher>
+        <url>https://minobrnauki.gov.ru/science/report-2023.pdf</url>
+        <note>Дата обращения: 22.02.2024.</note>
+    </sequence>
+    <sequence>
+        <author>Дмитриев, А. С., &amp; Егоров, М. Ф.</author>
+        <date>2024.</date>
+        <title>Ценовое регулирование на социально значимые товары.</title>
+        <publisher>Федеральная антимонопольная служба.</publisher>
+        <url>https://fas.gov.ru/price-regulation/2024</url>
+        <note>Дата обращения: 18.03.2024.</note>
+    </sequence>
+    <sequence>
+        <title>Классификатор профессий и специальностей.</title>
+        <publisher>Министерство труда и социальной защиты РФ.</publisher>
+        <url>https://minsoc.gov.ru/classifier</url>
+    </sequence>
+    <sequence>
+        <author>Ершов, Р. М.</author>
+        <date>2021.</date>
+        <title>Программы развития сельского туризма.</title>
+        <publisher>Министерство сельского хозяйства РФ.</publisher>
+        <url>https://mcx.gov.ru/tourism/rural</url>
+        <note>Дата обращения: 05.09.2022.</note>
+    </sequence>
+    <sequence>
+        <date>2022.</date>
+        <title>Судебная статистика по уголовным делам.</title>
+        <publisher>Судебный департамент при Верховном Суде РФ.</publisher>
+        <url>https://cdep.ru/statistics/criminal-2022</url>
+        <note>Дата обращения: 20.01.2023.</note>
+    </sequence>
+    <sequence>
+        <author>Журавлев, С. П., Захаров, А. Л., &amp; Иванов, М. С.</author>
+        <date>2023.</date>
+        <title>Оценка программ продовольственной безопасности.</title>
+        <publisher>Министерство сельского хозяйства РФ.</publisher>
+        <url>https://mcx.gov.ru/food-security/assessment-2023</url>
+        <note>Дата обращения: 08.02.2024.</note>
+    </sequence>
+    <sequence>
+        <title>Система мониторинга инфраструктурных проектов.</title>
+        <publisher>Министерство экономического развития РФ.</publisher>
+        <url>https://economy.gov.ru/infrastructure/monitoring</url>
+    </sequence>
+    <sequence>
+        <author>Зимин, Ф. А.</author>
+        <date>2024.</date>
+        <title>Стратегия цифровой экономики России.</title>
+        <url>https://digital.gov.ru/ru/activity/directions/858/strategy-2024</url>
+        <note>Дата обращения: 12.03.2024.</note>
+    </sequence>
+    <sequence>
+        <date>2021.</date>
+        <title>Отчет о деятельности Совета Федерации.</title>
+        <publisher>Совет Федерации Федерального Собрания РФ.</publisher>
+        <url>https://council.gov.ru/reports/2021.pdf</url>
+        <note>Дата обращения: 10.06.2022.</note>
+    </sequence>
+    <sequence>
+        <author>Игнатьев, М. Р., &amp; Козырев, А. П.</author>
+        <date>2022.</date>
+        <title>Поддержка молодежного предпринимательства.</title>
+        <publisher>Корпорация МСП.</publisher>
+        <url>https://corpmsp.ru/youth-business</url>
+        <note>Дата обращения: 25.05.2023.</note>
+    </sequence>
+    <sequence>
+        <title>Справочник административных регламентов.</title>
+        <publisher>Министерство экономического развития РФ.</publisher>
+        <url>https://economy.gov.ru/regulations</url>
+    </sequence>
+    <sequence>
+        <author>Коновалов, Ф. Л.</author>
+        <date>2023.</date>
+        <title>Картографирование охраняемых природных территорий.</title>
+        <publisher>Федеральная служба по надзору в сфере природопользования.</publisher>
+        <url>https://rpn.gov.ru/mapping/protected-areas</url>
+        <note>Дата обращения: 30.01.2024.</note>
+    </sequence>
+    <sequence>
+        <date>2024.</date>
+        <title>Панель индикаторов инновационного развития.</title>
+        <publisher>Министерство экономического развития РФ.</publisher>
+        <url>https://economy.gov.ru/innovation/indicators-2024</url>
+        <note>Дата обращения: 26.03.2024.</note>
+    </sequence>
+    <sequence>
+        <author>Лебедев, С. В., &amp; Михайлов, Р. А.</author>
+        <date>2021.</date>
+        <title>Регулирование самозанятости в России.</title>
+        <publisher>Федеральная налоговая служба.</publisher>
+        <url>https://nalog.gov.ru/self-employed/regulation</url>
+        <note>Дата обращения: 22.08.2022.</note>
+    </sequence>
+    <sequence>
+        <title>Портал государственных закупок.</title>
+        <publisher>Министерство финансов РФ.</publisher>
+        <url>https://zakupki.gov.ru/portal</url>
+    </sequence>
+    <sequence>
+        <author>Маслов, А. Р.</author>
+        <date>2022.</date>
+        <title>Развитие креативных индустрий.</title>
+        <publisher>Министерство культуры РФ.</publisher>
+        <url>https://mkrf.ru/creative-industries</url>
+        <note>Дата обращения: 15.10.2023.</note>
+    </sequence>
+    <sequence>
+        <date>2023.</date>
+        <title>Ежегодный отчет Пенсионного фонда.</title>
+        <publisher>Пенсионный фонд Российской Федерации.</publisher>
+        <url>https://pfr.gov.ru/report-2023.pdf</url>
+        <note>Дата обращения: 25.02.2024.</note>
+    </sequence>
+    <sequence>
+        <author>Наумов, В. С., &amp; Осипов, Ф. М.</author>
+        <date>2024.</date>
+        <title>Содействие здоровью работающего населения.</title>
+        <publisher>Министерство здравоохранения РФ.</publisher>
+        <url>https://minzdrav.gov.ru/occupational-health/strategies-2024</url>
+        <note>Дата обращения: 29.03.2024.</note>
+    </sequence>
+    <sequence>
+        <title>Федеральный центр образовательного законодательства.</title>
+        <publisher>Министерство просвещения РФ.</publisher>
+        <url>https://edulaw.ru</url>
+    </sequence>
+    <sequence>
+        <author>Орлов, М. Л.</author>
+        <date>2021.</date>
+        <title>Программы сертификации органической продукции.</title>
+        <publisher>Министерство сельского хозяйства РФ.</publisher>
+        <url>https://mcx.gov.ru/organic/certification</url>
+        <note>Дата обращения: 08.04.2022.</note>
+    </sequence>
+    <sequence>
+        <date>2022.</date>
+        <title>Статистика правоприменения в сфере антимонопольного регулирования.</title>
+        <publisher>Федеральная антимонопольная служба.</publisher>
+        <url>https://fas.gov.ru/statistics/enforcement-2022</url>
+        <note>Дата обращения: 30.07.2023.</note>
+    </sequence>
+    <sequence>
+        <author>Павлов, А. Т., &amp; Романов, С. Л.</author>
+        <date>2023.</date>
+        <title>Оценка регулирующего воздействия законодательства.</title>
+        <publisher>Министерство экономического развития РФ.</publisher>
+        <url>https://economy.gov.ru/regulatory-impact/2023</url>
+        <note>Дата обращения: 14.01.2024.</note>
+    </sequence>
+    <sequence>
+        <title>Национальная система пространственных данных.</title>
+        <publisher>Федеральная служба государственной регистрации, кадастра и картографии.</publisher>
+        <url>https://nsdd.rosreestr.ru</url>
+    </sequence>
+    <sequence>
+        <author>Соловьев, Ф. Р.</author>
+        <date>2024.</date>
+        <title>Инициативы открытого правительства.</title>
+        <url>https://open.gov.ru/initiatives-2024</url>
+        <note>Дата обращения: 15.03.2024.</note>
+    </sequence>
+    <sequence>
+        <date>2021.</date>
+        <title>Отчет о деятельности Общественной палаты РФ.</title>
+        <publisher>Общественная палата Российской Федерации.</publisher>
+        <url>https://oprf.ru/report-2021.pdf</url>
+        <note>Дата обращения: 05.12.2022.</note>
+    </sequence>
+    <sequence>
+        <author>Тарасов, П. М., &amp; Устинов, А. Р.</author>
+        <date>2022.</date>
+        <title>Профилактика насилия в образовательных учреждениях.</title>
+        <publisher>Министерство просвещения РФ.</publisher>
+        <url>https://minprosvet.gov.ru/school-safety/prevention</url>
+        <note>Дата обращения: 20.08.2023.</note>
+    </sequence>
+    <sequence>
+        <title>Справочник патентных поверенных.</title>
+        <publisher>Федеральная служба по интеллектуальной собственности.</publisher>
+        <url>https://rupto.ru/attorneys</url>
+    </sequence>
+    <sequence>
+        <author>Федотов, М. Л.</author>
+        <date>2023.</date>
+        <title>Мониторинг уязвимых групп населения.</title>
+        <url>https://mintrud.gov.ru/monitoring/vulnerable-groups</url>
+        <note>Дата обращения: 14.02.2024.</note>
+    </sequence>
+    <sequence>
+        <date>2024.</date>
+        <title>Индикаторы эффективности государственного управления 2023.</title>
+        <publisher>Аппарат Правительства Российской Федерации.</publisher>
+        <url>https://government.ru/efficiency-indicators-2024.pdf</url>
+        <note>Дата обращения: 31.03.2024.</note>
+    </sequence>
+    <sequence>
+        <author>Хохлов, С. П., &amp; Цветков, А. М.</author>
+        <date>2021.</date>
+        <title>Поддержка семей с детьми.</title>
+        <publisher>Министерство труда и социальной защиты РФ.</publisher>
+        <url>https://mintrud.gov.ru/ministry/programms/family</url>
+        <note>Дата обращения: 28.10.2022.</note>
+    </sequence>
+    <sequence>
+        <title>Федеральный реестр инвалидов.</title>
+        <publisher>Министерство труда и социальной защиты РФ.</publisher>
+        <url>https://sfri.ru</url>
+    </sequence>
+    <sequence>
+        <author>Чернышов, А. В.</author>
+        <date>2022.</date>
+        <title>Электронный документооборот в госорганах.</title>
+        <publisher>Федеральное архивное агентство.</publisher>
+        <url>https://archives.ru/edo/government</url>
+        <note>Дата обращения: 12.09.2023.</note>
+    </sequence>
+    <sequence>
+        <date>2023.</date>
+        <title>Статистика миграционных потоков 2022.</title>
+        <publisher>Министерство внутренних дел РФ.</publisher>
+        <url>https://mvd.ru/statistics/migration-2023.pdf</url>
+        <note>Дата обращения: 05.02.2024.</note>
+    </sequence>
+    <sequence>
+        <author>Шаронов, Р. М., &amp; Щукин, Ф. С.</author>
+        <date>2024.</date>
+        <title>Модернизация службы занятости.</title>
+        <publisher>Министерство труда и социальной защиты РФ.</publisher>
+        <url>https://mintrud.gov.ru/employment/modernization-2024</url>
+        <note>Дата обращения: 25.03.2024.</note>
+    </sequence>
+
+    <sequence>
+        <author>Александров, М. В.</author>
+        <date>2023.</date>
+        <title>Правовое регулирование криптовалют в Российской Федерации.</title>
+        <genre>Кандидатская диссертация</genre>
+        <publisher>Московский государственный университет имени М. В. Ломоносова.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Борисова, Е. Л.</author>
+        <date>2022.</date>
+        <title>Методы машинного обучения для анализа медицинских изображений.</title>
+        <genre>Диссертация на соискание степени кандидата наук</genre>
+        <publisher>Санкт-Петербургский государственный университет.</publisher>
+        <location>Санкт-Петербург.</location>
+    </sequence>
+    <sequence>
+        <author>Васильев, Д. М.</author>
+        <date>2024.</date>
+        <title>Квантовые вычисления в задачах криптографии.</title>
+        <genre>Докторская диссертация</genre>
+        <publisher>Московский физико-технический институт.</publisher>
+        <location>Долгопрудный.</location>
+    </sequence>
+    <sequence>
+        <author>Григорьев, А. С.</author>
+        <date>2021.</date>
+        <title>Социально-экономическое развитие арктических регионов.</title>
+        <genre>Диссертация на соискание степени кандидата наук</genre>
+        <publisher>Высшая школа экономики.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Дмитриев, П. Р.</author>
+        <date>2023.</date>
+        <title>Экологические риски нефтегазовой промышленности в Сибири.</title>
+        <genre>Докторская диссертация</genre>
+        <publisher>Новосибирский государственный университет.</publisher>
+        <location>Новосибирск.</location>
+    </sequence>
+    <sequence>
+        <author>Ермакова, Т. В.</author>
+        <date>2022.</date>
+        <title>Психологические аспекты дистанционного обучения.</title>
+        <genre>Диссертация на соискание степени кандидата наук</genre>
+        <publisher>Московский педагогический государственный университет.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Жуков, С. А.</author>
+        <date>2024.</date>
+        <title>Оптимизация транспортных потоков в мегаполисах.</title>
+        <genre>Кандидатская диссертация</genre>
+        <publisher>Московский автомобильно-дорожный государственный технический университет.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Зимина, О. Л.</author>
+        <date>2021.</date>
+        <title>Гендерное представительство в органах власти.</title>
+        <genre>Диссертация на соискание степени кандидата наук</genre>
+        <publisher>Российская академия народного хозяйства и государственной службы.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Иванов, Р. М.</author>
+        <date>2023.</date>
+        <title>Биомаркеры онкологических заболеваний.</title>
+        <genre>Докторская диссертация</genre>
+        <publisher>Первый Московский государственный медицинский университет.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Козлов, М. Ф.</author>
+        <date>2022.</date>
+        <title>Региональная дифференциация доходов населения.</title>
+        <genre>Диссертация на соискание степени кандидата наук</genre>
+        <publisher>Экономический факультет МГУ.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Кузнецова, А. П.</author>
+        <date>2024.</date>
+        <title>Глубокие нейронные сети для распознавания речи.</title>
+        <genre>Кандидатская диссертация</genre>
+        <publisher>Институт проблем передачи информации РАН.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Лебедев, В. С.</author>
+        <date>2021.</date>
+        <title>Правовое регулирование искусственного интеллекта.</title>
+        <genre>Диссертация на соискание степени кандидата наук</genre>
+        <publisher>Институт государства и права РАН.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Морозов, Д. Л.</author>
+        <date>2023.</date>
+        <title>Устойчивое развитие сельских территорий.</title>
+        <genre>Докторская диссертация</genre>
+        <publisher>Российский государственный аграрный университет.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Никитин, А. В.</author>
+        <date>2022.</date>
+        <title>Когнитивные искажения в принятии управленческих решений.</title>
+        <genre>Диссертация на соискание степени кандидата наук</genre>
+        <publisher>Высшая школа экономики.</publisher>
+        <location>Санкт-Петербург.</location>
+    </sequence>
+    <sequence>
+        <author>Орлова, Е. М.</author>
+        <date>2024.</date>
+        <title>Наноматериалы для энергетики.</title>
+        <genre>Кандидатская диссертация</genre>
+        <publisher>Санкт-Петербургский государственный технологический институт.</publisher>
+        <location>Санкт-Петербург.</location>
+    </sequence>
+    <sequence>
+        <author>Павлов, С. Р.</author>
+        <date>2021.</date>
+        <title>История дипломатических отношений России и Китая.</title>
+        <genre>Диссертация на соискание степени кандидата наук</genre>
+        <publisher>Московский государственный институт международных отношений.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Романов, Ф. А.</author>
+        <date>2023.</date>
+        <title>Моделирование климатических изменений в Арктике.</title>
+        <genre>Докторская диссертация</genre>
+        <publisher>Главная геофизическая обсерватория имени А. И. Воейкова.</publisher>
+        <location>Санкт-Петербург.</location>
+    </sequence>
+    <sequence>
+        <author>Смирнов, И. П.</author>
+        <date>2022.</date>
+        <title>Миграционные процессы на Дальнем Востоке.</title>
+        <genre>Диссертация на соискание степени кандидата наук</genre>
+        <publisher>Дальневосточный федеральный университет.</publisher>
+        <location>Владивосток.</location>
+    </sequence>
+    <sequence>
+        <author>Тарасов, М. Л.</author>
+        <date>2024.</date>
+        <title>Генная терапия наследственных заболеваний.</title>
+        <genre>Кандидатская диссертация</genre>
+        <publisher>Институт молекулярной биологии РАН.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Ушаков, А. С.</author>
+        <date>2021.</date>
+        <title>Финансовая устойчивость пенсионной системы.</title>
+        <genre>Диссертация на соискание степени кандидата наук</genre>
+        <publisher>Финансовый университет при Правительстве РФ.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Федоров, В. М.</author>
+        <date>2023.</date>
+        <title>Фотонные кристаллы для оптических коммуникаций.</title>
+        <genre>Докторская диссертация</genre>
+        <publisher>Физический институт имени П. Н. Лебедева РАН.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Харитонов, С. П.</author>
+        <date>2022.</date>
+        <title>Этнокультурная идентичность в современном обществе.</title>
+        <genre>Диссертация на соискание степени кандидата наук</genre>
+        <publisher>Институт этнологии и антропологии РАН.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Цветков, Д. Р.</author>
+        <date>2024.</date>
+        <title>Алгоритмы сжатия данных для мультимедиа.</title>
+        <genre>Кандидатская диссертация</genre>
+        <publisher>Московский технический университет связи и информатики.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Шаров, А. М.</author>
+        <date>2021.</date>
+        <title>Трансформация семьи в постсоветской России.</title>
+        <genre>Диссертация на соискание степени кандидата наук</genre>
+        <publisher>Институт социологии РАН.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Щербаков, П. В.</author>
+        <date>2023.</date>
+        <title>Сейсмическая активность Кавказского региона.</title>
+        <genre>Докторская диссертация</genre>
+        <publisher>Геофизический центр РАН.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Юдин, М. С.</author>
+        <date>2022.</date>
+        <title>Цифровая трансформация банковского сектора.</title>
+        <genre>Диссертация на соискание степени кандидата наук</genre>
+        <publisher>Банковская академия.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Андреева, О. Л.</author>
+        <date>2024.</date>
+        <title>Иммунотерапия аутоиммунных заболеваний.</title>
+        <genre>Кандидатская диссертация</genre>
+        <publisher>Институт иммунологии ФМБА.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Беляев, Ф. Р.</author>
+        <date>2021.</date>
+        <title>Лексикографическое описание русских диалектов.</title>
+        <genre>Диссертация на соискание степени кандидата наук</genre>
+        <publisher>Институт русского языка имени В. В. Виноградова РАН.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Виноградов, С. М.</author>
+        <date>2023.</date>
+        <title>Синтез новых полимерных материалов.</title>
+        <genre>Докторская диссертация</genre>
+        <publisher>Институт синтетических полимерных материалов РАН.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Гусев, А. Л.</author>
+        <date>2022.</date>
+        <title>Образовательные траектории школьников.</title>
+        <genre>Диссертация на соискание степени кандидата наук</genre>
+        <publisher>Институт образования НИУ ВШЭ.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Давыдов, М. Р.</author>
+        <date>2024.</date>
+        <title>Беспилотные летательные аппараты для мониторинга.</title>
+        <genre>Кандидатская диссертация</genre>
+        <publisher>Московский авиационный институт.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Евсеев, П. С.</author>
+        <date>2021.</date>
+        <title>История крестьянской реформы 1861 года.</title>
+        <genre>Диссертация на соискание степени кандидата наук</genre>
+        <publisher>Институт российской истории РАН.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Журавлев, Д. А.</author>
+        <date>2023.</date>
+        <title>Протеомика рака поджелудочной железы.</title>
+        <genre>Докторская диссертация</genre>
+        <publisher>Институт биоорганической химии РАН.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Захаров, М. В.</author>
+        <date>2022.</date>
+        <title>Управление проектами в ИТ-индустрии.</title>
+        <genre>Диссертация на соискание степени кандидата наук</genre>
+        <publisher>Московский государственный технический университет.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Ильин, С. А.</author>
+        <date>2024.</date>
+        <title>Сверхпроводящие материалы для ускорителей.</title>
+        <genre>Кандидатская диссертация</genre>
+        <publisher>Объединенный институт ядерных исследований.</publisher>
+        <location>Дубна.</location>
+    </sequence>
+    <sequence>
+        <author>Киселев, Ф. М.</author>
+        <date>2021.</date>
+        <title>Медиапотребление в цифровой среде.</title>
+        <genre>Диссертация на соискание степени кандидата наук</genre>
+        <publisher>Факультет журналистики МГУ.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Комиссаров, А. Л.</author>
+        <date>2023.</date>
+        <title>Эволюция вселенной на ранних этапах.</title>
+        <genre>Докторская диссертация</genre>
+        <publisher>Специальная астрофизическая обсерватория РАН.</publisher>
+        <location>Нижний Архыз.</location>
+    </sequence>
+    <sequence>
+        <author>Крылов, П. Р.</author>
+        <date>2022.</date>
+        <title>Корпоративное управление в государственных компаниях.</title>
+        <genre>Диссертация на соискание степени кандидата наук</genre>
+        <publisher>Российская академия народного хозяйства.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Лазарев, М. С.</author>
+        <date>2024.</date>
+        <title>Нейроинтерфейсы для реабилитации.</title>
+        <genre>Кандидатская диссертация</genre>
+        <publisher>Институт высшей нервной деятельности и нейрофизиологии РАН.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Максимов, Д. В.</author>
+        <date>2021.</date>
+        <title>Фольклорные традиции народов Поволжья.</title>
+        <genre>Диссертация на соискание степени кандидата наук</genre>
+        <publisher>Казанский федеральный университет.</publisher>
+        <location>Казань.</location>
+    </sequence>
+    <sequence>
+        <author>Назаров, А. П.</author>
+        <date>2023.</date>
+        <title>Оптимизация логистических цепочек.</title>
+        <genre>Докторская диссертация</genre>
+        <publisher>Санкт-Петербургский государственный университет экономики и финансов.</publisher>
+        <location>Санкт-Петербург.</location>
+    </sequence>
+    <sequence>
+        <author>Осипов, В. Л.</author>
+        <date>2022.</date>
+        <title>Социальная адаптация мигрантов.</title>
+        <genre>Диссертация на соискание степени кандидата наук</genre>
+        <publisher>Институт социально-политических исследований РАН.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Петренко, С. М.</author>
+        <date>2024.</date>
+        <title>Криоэлектронная микроскопия белков.</title>
+        <genre>Кандидатская диссертация</genre>
+        <publisher>Институт молекулярной биологии РАН.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Рябов, Ф. Л.</author>
+        <date>2021.</date>
+        <title>Экономическая история НЭПа.</title>
+        <genre>Диссертация на соискание степени кандидата наук</genre>
+        <publisher>Экономический факультет СПбГУ.</publisher>
+        <location>Санкт-Петербург.</location>
+    </sequence>
+    <sequence>
+        <author>Савельев, А. Р.</author>
+        <date>2023.</date>
+        <title>Магнитогидродинамические течения в астрофизике.</title>
+        <genre>Докторская диссертация</genre>
+        <publisher>Институт прикладной математики имени М. В. Келдыша РАН.</publisher>
+        <location>Москва.</location>
+    </sequence>
+
+    <sequence>
+        <author>Институт народного хозяйства имени Г. В. Плеханова.</author>
+        <date>2024.</date>
+        <title>Прогноз социально-экономического развития России на 2024-2026 годы.</title>
+        <genre>Научный доклад</genre>
+        <volume>Рабочие тетради № 145.</volume>
+        <publisher>РЭУ имени Г. В. Плеханова.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Алексеев, В. М., &amp; Богданов, С. Р.</author>
+        <date>2023.</date>
+        <title>Влияние санкций на промышленное производство.</title>
+        <genre>Рабочий документ</genre>
+        <volume>Препринт ВШЭ № 12/2023.</volume>
+        <publisher>Высшая школа экономики.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Центральный банк Российской Федерации.</author>
+        <date>2024.</date>
+        <title>Доклад о денежно-кредитной политике.</title>
+        <genre>Квартальный отчет</genre>
+        <publisher>Банк России.</publisher>
+        <location>Москва.</location>
+        <url>https://cbr.ru/Content/Document/File/156789/dkp_2024_q1.pdf</url>
+    </sequence>
+    <sequence>
+        <author>Волков, А. Л.</author>
+        <date>2023.</date>
+        <title>Неравенство доходов в регионах России.</title>
+        <genre>Препринт</genre>
+        <publisher>SSRN.</publisher>
+        <url>https://ssrn.com/abstract=4523891</url>
+        <doi>10.2139/ssrn.4523891</doi>
+    </sequence>
+    <sequence>
+        <author>Российский союз промышленников и предпринимателей.</author>
+        <date>2024.</date>
+        <title>Обзор состояния обрабатывающей промышленности.</title>
+        <genre>Экономический бюллетень</genre>
+        <volume>Выпуск № 23.</volume>
+        <publisher>РСПП.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Кузнецов, М. С., Лебедев, А. Р., &amp; Морозов, П. Т.</author>
+        <date>2023.</date>
+        <title>Эффекты удаленной работы на производительность.</title>
+        <genre>Рабочий документ</genre>
+        <volume>Рабочие тетради ИЭП № 08/2023.</volume>
+        <publisher>Институт экономической политики.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Федеральная служба государственной статистики.</author>
+        <date>2024.</date>
+        <title>Социально-экономическое положение России.</title>
+        <genre>Статистический доклад</genre>
+        <volume>Январь-март 2024 года.</volume>
+        <publisher>Росстат.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Смирнов, П. А.</author>
+        <date>2023.</date>
+        <title>Монетарная политика и инфляционные ожидания.</title>
+        <genre>Препринт</genre>
+        <publisher>EconPapers.</publisher>
+        <url>https://econpapers.repec.org/paper/rus/wpaper/2023_3a12.htm</url>
+    </sequence>
+    <sequence>
+        <author>Министерство финансов Российской Федерации.</author>
+        <date>2024.</date>
+        <title>Отчет об исполнении федерального бюджета за 2023 год.</title>
+        <genre>Годовой отчет</genre>
+        <publisher>Минфин России.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Ермаков, С. В., &amp; Жаров, М. Л.</author>
+        <date>2023.</date>
+        <title>Мобильность населения и уровень образования.</title>
+        <genre>Рабочий документ</genre>
+        <volume>Препринт ЦЭФИР № 34.</volume>
+        <publisher>Центр экономических и финансовых исследований.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Организация экономического сотрудничества и развития.</author>
+        <date>2024.</date>
+        <title>Экономический обзор Российской Федерации 2024.</title>
+        <genre>Страновой отчет</genre>
+        <publisher>OECD Publishing.</publisher>
+        <location>Париж.</location>
+    </sequence>
+    <sequence>
+        <author>Борисов, А. Р.</author>
+        <date>2023.</date>
+        <title>Оценка программы импортозамещения.</title>
+        <genre>Исследовательский отчет</genre>
+        <volume>Доклад № 56.</volume>
+        <publisher>Институт экономической политики.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Аналитический центр при Правительстве РФ.</author>
+        <date>2024.</date>
+        <title>Ежемесячный доклад о социально-экономической ситуации.</title>
+        <genre>Аналитический отчет</genre>
+        <publisher>АЦ.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Никитин, Д. С., &amp; Орехов, А. П.</author>
+        <date>2023.</date>
+        <title>Экономический рост и экология: компромиссы.</title>
+        <genre>Препринт</genre>
+        <publisher>RePEc.</publisher>
+        <url>https://ideas.repec.org/p/rus/wpaper/2023-15.html</url>
+    </sequence>
+    <sequence>
+        <author>Министерство экономического развития РФ.</author>
+        <date>2024.</date>
+        <title>Прогноз долгосрочного социально-экономического развития.</title>
+        <genre>Национальный доклад</genre>
+        <publisher>Минэкономразвития России.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Павлов, М. В.</author>
+        <date>2023.</date>
+        <title>Цифровизация и занятость в банковском секторе.</title>
+        <genre>Рабочий документ</genre>
+        <volume>Рабочие тетради ВШЭ № 87.</volume>
+        <publisher>НИУ ВШЭ.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Всемирный банк.</author>
+        <date>2024.</date>
+        <title>Доклад о мировой экономике: Россия в контексте.</title>
+        <genre>Региональный отчет</genre>
+        <publisher>World Bank.</publisher>
+        <location>Вашингтон.</location>
+        <doi>10.1596/978-1-4648-1234-5</doi>
+    </sequence>
+    <sequence>
+        <author>Соколов, А. М., &amp; Тихонов, Р. А.</author>
+        <date>2023.</date>
+        <title>Динамика регионального рынка труда.</title>
+        <genre>Технический бюллетень</genre>
+        <volume>Бюллетень ЦМАКП № 12.</volume>
+        <publisher>Центр макроэкономического анализа.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Счетная палата Российской Федерации.</author>
+        <date>2024.</date>
+        <title>Отчет о проверке исполнения бюджета.</title>
+        <genre>Отчет о проверке</genre>
+        <volume>Бюллетень № 3.</volume>
+        <publisher>Счетная палата РФ.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Федоров, С. А.</author>
+        <date>2023.</date>
+        <title>Технологические инновации в промышленности.</title>
+        <genre>Рабочий документ</genre>
+        <volume>Препринт ИЭПП № 04/2023.</volume>
+        <publisher>Институт экономики переходного периода.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Программа развития ООН.</author>
+        <date>2024.</date>
+        <title>Доклад о человеческом развитии в России.</title>
+        <genre>Годовой отчет</genre>
+        <publisher>ПРООН.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Крылов, М. Р., &amp; Зорин, С. П.</author>
+        <date>2023.</date>
+        <title>Финансовая грамотность и долги домохозяйств.</title>
+        <genre>Препринт</genre>
+        <publisher>ResearchGate.</publisher>
+        <url>https://www.researchgate.net/publication/371234567</url>
+    </sequence>
+    <sequence>
+        <author>Федеральная служба государственной статистики.</author>
+        <date>2024.</date>
+        <title>Бюллетень о заболеваемости неинфекционными болезнями.</title>
+        <genre>Эпидемиологический бюллетень</genre>
+        <volume>Том 67, № 4.</volume>
+        <publisher>Росстат.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Лебедев, Ф. А. Р.</author>
+        <date>2023.</date>
+        <title>Детерминанты прямых иностранных инвестиций.</title>
+        <genre>Рабочий документ</genre>
+        <volume>Рабочие тетради РЭШ № 09.</volume>
+        <publisher>Российская экономическая школа.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Институт экономики РАН.</author>
+        <date>2024.</date>
+        <title>Анализ федерального бюджета 2024: приоритеты.</title>
+        <genre>Технический отчет</genre>
+        <volume>Доклад № 12.</volume>
+        <publisher>ИЭ РАН.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Маслов, П. М., Ершова, Л. С., &amp; Козлов, Д. В.</author>
+        <date>2023.</date>
+        <title>Конкуренция на телекоммуникационном рынке.</title>
+        <genre>Отраслевой отчет</genre>
+        <publisher>Институт защиты потребителей.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Федеральная сетевая компания.</author>
+        <date>2024.</date>
+        <title>Годовой отчет за 2023 год.</title>
+        <genre>Годовой отчет</genre>
+        <publisher>ФСК ЕЭС.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Григорьев, Р. С.</author>
+        <date>2023.</date>
+        <title>Влияние трудового законодательства на коллективные переговоры.</title>
+        <genre>Рабочий документ</genre>
+        <volume>Препринт ЦСТД № 02.</volume>
+        <publisher>Центр социально-трудовых прав.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Министерство туризма РФ.</author>
+        <date>2024.</date>
+        <title>Статистический ежегодник туризма 2023.</title>
+        <genre>Годовой отчет</genre>
+        <publisher>Минтуризм России.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Васильев, А. М., &amp; Петров, С. П.</author>
+        <date>2023.</date>
+        <title>Трудовая миграция и рынок труда Юга России.</title>
+        <genre>Препринт</genre>
+        <publisher>SciELO Preprints.</publisher>
+        <url>https://doi.org/10.1590/scielopreprints.5678</url>
+        <doi>10.1590/scielopreprints.5678</doi>
+    </sequence>
+    <sequence>
+        <author>Российская академия сельского хозяйства.</author>
+        <date>2024.</date>
+        <title>Прогнозы развития агросектора 2024-2034.</title>
+        <genre>Прогнозный отчет</genre>
+        <publisher>РАСХН.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Соловьев, А. М.</author>
+        <date>2023.</date>
+        <title>Образовательные технологии: систематический обзор.</title>
+        <genre>Рабочий документ</genre>
+        <volume>Рабочие тетради ИО № 11.</volume>
+        <publisher>Институт образования.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Министерство науки и высшего образования РФ.</author>
+        <date>2024.</date>
+        <title>Национальные индикаторы науки и технологий 2023.</title>
+        <genre>Годовой отчет</genre>
+        <publisher>Минобрнауки России.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Дмитриев, С. Р., &amp; Антонов, А. Л.</author>
+        <date>2023.</date>
+        <title>Сельскохозяйственное кредитование.</title>
+        <genre>Исследовательский отчет</genre>
+        <volume>Доклад № 78.</volume>
+        <publisher>Институт экономической политики.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Федеральная антимонопольная служба.</author>
+        <date>2024.</date>
+        <title>Ежегодный доклад о состоянии конкуренции.</title>
+        <genre>Годовой отчет</genre>
+        <publisher>ФАС России.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Комиссаров, М. Л.</author>
+        <date>2023.</date>
+        <title>Прогнозирование спроса на электроэнергию.</title>
+        <genre>Препринт</genre>
+        <publisher>arXiv.</publisher>
+        <url>https://arxiv.org/abs/2312.12345</url>
+    </sequence>
+    <sequence>
+        <author>Министерство сельского хозяйства РФ.</author>
+        <date>2024.</date>
+        <title>Отчет о выполнении программы развития сельских территорий.</title>
+        <genre>Отчет об исполнении</genre>
+        <publisher>Минсельхоз России.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Щербаков, П. Р., Лебедев, М. С., &amp; Федоров, А. А.</author>
+        <date>2023.</date>
+        <title>Фискальная устойчивость и экономический рост.</title>
+        <genre>Рабочий документ</genre>
+        <volume>Препринт АНПЭК № 22.</volume>
+        <publisher>Ассоциация прогнозов.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Министерство иностранных дел РФ.</author>
+        <date>2024.</date>
+        <title>Отчет о внешней торговле России 2023.</title>
+        <genre>Годовой отчет</genre>
+        <publisher>МИД России.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Николаев, С. С.</author>
+        <date>2023.</date>
+        <title>Инновационная политика в государственных корпорациях.</title>
+        <genre>Технический отчет</genre>
+        <volume>Рабочие тетради ВЭБ № 34.</volume>
+        <publisher>ВЭБ.РФ.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Росстат.</author>
+        <date>2024.</date>
+        <title>Ежегодник статистики транспорта 2023.</title>
+        <genre>Годовой отчет</genre>
+        <publisher>Федеральная служба государственной статистики.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Тарасов, Р. М., &amp; Ушаков, Д. Т.</author>
+        <date>2023.</date>
+        <title>Автоматизация и квалификация работников.</title>
+        <genre>Рабочий документ</genre>
+        <volume>Препринт ЦЭФИР № 45.</volume>
+        <publisher>НИУ ВШЭ.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Министерство рыбной отрасли.</author>
+        <date>2024.</date>
+        <title>Бюллетень рыболовства 2023.</title>
+        <genre>Технический бюллетень</genre>
+        <volume>Том 15, № 04.</volume>
+        <publisher>Минрыбхоз.</publisher>
+        <location>Москва.</location>
+    </sequence>
+    <sequence>
+        <author>Виноградов, А. С.</author>
+        <date>2023.</date>
+        <title>Анализ сетей научного сотрудничества.</title>
+        <genre>Препринт</genre>
+        <publisher>OSF Preprints.</publisher>
+        <url>https://osf.io/preprints/socarxiv/abc123</url>
+    </sequence>
+    <sequence>
+        <author>Федеральная таможенная служба.</author>
+        <date>2024.</date>
+        <title>Отчет о торговых保障措施 2023.</title>
+        <genre>Технический отчет</genre>
+        <publisher>ФТС России.</publisher>
+        <location>Москва.</location>
+    </sequence>
+
+</dataset>

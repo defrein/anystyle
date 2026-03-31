@@ -1,0 +1,1450 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <sequence>
+        <author>Иванов, А. В.</author>
+        <title>Проблемы современной лингвистики</title>
+        <editor>Петров, Б. С.</editor>
+        <container-title>Актуальные вопросы языкознания</container-title>
+        <publisher>Наука</publisher>
+        <location>Москва</location>
+        <date>2018</date>
+        <pages>45–67</pages>
+    </sequence>
+    <sequence>
+        <author>Смирнова, Е. Н.</author>
+        <title>Семантические трансформации в русском языке XX века</title>
+        <editor>Кузнецов, П. А.</editor>
+        <editor>Волкова, Т. Д.</editor>
+        <container-title>История русского языка: новые подходы</container-title>
+        <publisher>Просвещение</publisher>
+        <location>Санкт-Петербург</location>
+        <date>2015</date>
+        <pages>112–134</pages>
+    </sequence>
+    <sequence>
+        <author>Морозов, Г. К.</author>
+        <title>Философия истории в трудах Соловьёва</title>
+        <editor>Белов, И. Р.</editor>
+        <container-title>Русская философская мысль XIX века</container-title>
+        <edition>2-е изд.</edition>
+        <publisher>Академический проект</publisher>
+        <location>Москва</location>
+        <date>2020</date>
+        <pages>78–105</pages>
+    </sequence>
+    <sequence>
+        <author>Козлова, М. Ф.</author>
+        <title>Социокультурные аспекты модернизации</title>
+        <editor>Тихонов, С. Л.</editor>
+        <container-title>Россия в эпоху перемен</container-title>
+        <publisher>РОССПЭН</publisher>
+        <location>Москва</location>
+        <date>2017</date>
+        <pages>203–228</pages>
+    </sequence>
+    <sequence>
+        <author>Андреев, В. Ю.</author>
+        <title>Нарративные стратегии в прозе Достоевского</title>
+        <editor>Захаров, К. В.</editor>
+        <container-title>Поэтика русского романа</container-title>
+        <translator>Schmidt, H.</translator>
+        <publisher>Языки славянской культуры</publisher>
+        <location>Москва</location>
+        <date>2019</date>
+        <pages>34–59</pages>
+    </sequence>
+    <sequence>
+        <author>Фёдорова, О. П.</author>
+        <title>Детерминизм и свобода воли в классической механике</title>
+        <editor>Лазарев, Ю. Н.</editor>
+        <container-title>Философия естественных наук</container-title>
+        <publisher>Наука</publisher>
+        <location>Новосибирск</location>
+        <date>2014</date>
+        <pages>189–214</pages>
+    </sequence>
+    <sequence>
+        <author>Белкин, Д. С.</author>
+        <title>Экономическая политика в период НЭПа</title>
+        <editor>Семёнов, А. И.</editor>
+        <editor>Романова, Е. В.</editor>
+        <container-title>Советская экономика 1920-х годов</container-title>
+        <edition>3-е изд., перераб.</edition>
+        <publisher>Политиздат</publisher>
+        <location>Москва</location>
+        <date>2016</date>
+        <pages>67–98</pages>
+    </sequence>
+    <sequence>
+        <author>Новикова, Л. Г.</author>
+        <title>Гендерные аспекты советской литературы</title>
+        <editor>Попов, Р. М.</editor>
+        <container-title>Литература и идеология в СССР</container-title>
+        <publisher>НЛО</publisher>
+        <location>Москва</location>
+        <date>2021</date>
+        <pages>145–170</pages>
+    </sequence>
+    <sequence>
+        <author>Крылов, П. Е.</author>
+        <title>Институциональные реформы в постсоветской России</title>
+        <editor>Волков, Д. Г.</editor>
+        <container-title>Трансформация политических систем</container-title>
+        <translator>Jones, M. R.</translator>
+        <publisher>Аспект Пресс</publisher>
+        <location>Москва</location>
+        <date>2013</date>
+        <pages>256–289</pages>
+    </sequence>
+    <sequence>
+        <author>Савельева, И. М.</author>
+        <author>Полетаев, А. В.</author>
+        <title>Теория и методология исторического знания</title>
+        <editor>Репина, Л. П.</editor>
+        <container-title>История исторического знания</container-title>
+        <edition>Изд. 2-е</edition>
+        <publisher>Юрайт</publisher>
+        <location>Москва</location>
+        <date>2022</date>
+        <pages>11–45</pages>
+    </sequence>
+    <sequence>
+        <author>Григорьев, А. Б.</author>
+        <title>Метафора в политическом дискурсе</title>
+        <editor>Чудинов, А. П.</editor>
+        <container-title>Политическая лингвистика</container-title>
+        <publisher>Флинта</publisher>
+        <location>Екатеринбург</location>
+        <date>2018</date>
+        <pages>23–48</pages>
+    </sequence>
+    <sequence>
+        <author>Яковлева, Т. А.</author>
+        <title>Православная этика и предпринимательство</title>
+        <editor>Митрохин, Н. А.</editor>
+        <container-title>Религия и экономика в России</container-title>
+        <publisher>РГГУ</publisher>
+        <location>Москва</location>
+        <date>2019</date>
+        <pages>88–117</pages>
+    </sequence>
+    <sequence>
+        <author>Орлов, В. С.</author>
+        <title>Принципы системного анализа в биологии</title>
+        <editor>Миронов, Г. А.</editor>
+        <editor>Карпов, Н. Л.</editor>
+        <container-title>Методология биологических исследований</container-title>
+        <publisher>МГУ</publisher>
+        <location>Москва</location>
+        <date>2017</date>
+        <pages>130–158</pages>
+    </sequence>
+    <sequence>
+        <author>Тарасова, С. Ю.</author>
+        <title>Концепт «Родина» в русской поэзии</title>
+        <editor>Воркачёв, С. Г.</editor>
+        <container-title>Концептосфера русской культуры</container-title>
+        <edition>1-е изд.</edition>
+        <publisher>Гнозис</publisher>
+        <location>Краснодар</location>
+        <date>2015</date>
+        <pages>199–223</pages>
+    </sequence>
+    <sequence>
+        <author>Ершов, К. Д.</author>
+        <title>Правовое регулирование интернета в России</title>
+        <editor>Савельев, А. И.</editor>
+        <container-title>Право в цифровую эпоху</container-title>
+        <publisher>Статут</publisher>
+        <location>Москва</location>
+        <date>2020</date>
+        <pages>301–335</pages>
+    </sequence>
+    <sequence>
+        <author>Михайлова, Р. В.</author>
+        <title>Образовательные реформы в постсоветский период</title>
+        <editor>Дмитриев, М. Э.</editor>
+        <container-title>Социальные трансформации в России</container-title>
+        <translator>Weiss, K.</translator>
+        <publisher>ВШЭ</publisher>
+        <location>Москва</location>
+        <date>2016</date>
+        <pages>54–79</pages>
+    </sequence>
+    <sequence>
+        <author>Борисов, Н. И.</author>
+        <title>Иван Грозный: исторический образ и мифология</title>
+        <editor>Флоря, Б. Н.</editor>
+        <container-title>Средневековая Русь</container-title>
+        <edition>2-е изд., доп.</edition>
+        <publisher>Наука</publisher>
+        <location>Москва</location>
+        <date>2014</date>
+        <pages>178–207</pages>
+    </sequence>
+    <sequence>
+        <author>Степанова, Г. В.</author>
+        <title>Экология городской среды и здоровье населения</title>
+        <editor>Лукьянов, В. С.</editor>
+        <container-title>Урбоэкология и устойчивое развитие</container-title>
+        <publisher>Экология</publisher>
+        <location>Москва</location>
+        <date>2021</date>
+        <pages>67–93</pages>
+    </sequence>
+    <sequence>
+        <author>Николаев, Е. Г.</author>
+        <title>Постструктурализм и гуманитарные науки</title>
+        <editor>Автономова, Н. С.</editor>
+        <editor>Усманова, А. Р.</editor>
+        <container-title>Современная западная философия</container-title>
+        <publisher>Политиздат</publisher>
+        <location>Москва</location>
+        <date>2013</date>
+        <pages>344–378</pages>
+    </sequence>
+    <sequence>
+        <author>Алексеева, О. Н.</author>
+        <title>Женская проза в русской литературе 1990-х годов</title>
+        <editor>Скоропанова, И. С.</editor>
+        <container-title>Русский постмодернизм</container-title>
+        <edition>3-е изд.</edition>
+        <publisher>Флинта</publisher>
+        <location>Минск</location>
+        <date>2018</date>
+        <pages>211–240</pages>
+    </sequence>
+    <sequence>
+        <author>Громов, С. А.</author>
+        <title>Ядерная энергетика и проблема безопасности</title>
+        <editor>Адамов, Е. О.</editor>
+        <container-title>Атомная энергетика России</container-title>
+        <publisher>ИздАт</publisher>
+        <location>Москва</location>
+        <date>2019</date>
+        <pages>115–142</pages>
+    </sequence>
+    <sequence>
+        <author>Куликова, Л. В.</author>
+        <title>Межкультурная коммуникация и перевод</title>
+        <editor>Тер-Минасова, С. Г.</editor>
+        <container-title>Язык и межкультурная коммуникация</container-title>
+        <translator>Brown, P. L.</translator>
+        <publisher>МГУ</publisher>
+        <location>Москва</location>
+        <date>2017</date>
+        <pages>89–114</pages>
+    </sequence>
+    <sequence>
+        <author>Лебедев, А. К.</author>
+        <title>Дошкольное образование: теория и практика</title>
+        <editor>Венгер, Л. А.</editor>
+        <container-title>Психология развития ребёнка</container-title>
+        <edition>4-е изд., испр.</edition>
+        <publisher>Педагогика</publisher>
+        <location>Москва</location>
+        <date>2015</date>
+        <pages>28–53</pages>
+    </sequence>
+    <sequence>
+        <author>Соколов, В. Н.</author>
+        <title>Военная стратегия России в Первой мировой войне</title>
+        <editor>Айрапетов, О. Р.</editor>
+        <container-title>Россия в Первой мировой войне</container-title>
+        <publisher>Прогресс-Традиция</publisher>
+        <location>Москва</location>
+        <date>2014</date>
+        <pages>167–198</pages>
+    </sequence>
+    <sequence>
+        <author>Пономарёва, Н. В.</author>
+        <title>Психоаналитические концепции в современной педагогике</title>
+        <editor>Братусь, Б. С.</editor>
+        <editor>Леонтьев, Д. А.</editor>
+        <container-title>Психология личности</container-title>
+        <publisher>Смысл</publisher>
+        <location>Москва</location>
+        <date>2020</date>
+        <pages>243–268</pages>
+    </sequence>
+    <sequence>
+        <author>Власов, Р. Д.</author>
+        <title>Русское барокко: архитектура и синтез искусств</title>
+        <editor>Бусева-Давыдова, И. Л.</editor>
+        <container-title>История русского искусства XVII–XVIII веков</container-title>
+        <edition>2-е изд.</edition>
+        <publisher>Искусство</publisher>
+        <location>Москва</location>
+        <date>2016</date>
+        <pages>78–112</pages>
+    </sequence>
+    <sequence>
+        <author>Зубков, И. Т.</author>
+        <title>Миграционные процессы в современной России</title>
+        <editor>Зайончковская, Ж. А.</editor>
+        <container-title>Демографические вызовы для России</container-title>
+        <publisher>Институт демографии ВШЭ</publisher>
+        <location>Москва</location>
+        <date>2022</date>
+        <pages>156–183</pages>
+    </sequence>
+    <sequence>
+        <author>Кирилова, Е. А.</author>
+        <title>Синтаксис разговорной речи</title>
+        <editor>Земская, Е. А.</editor>
+        <container-title>Русская разговорная речь</container-title>
+        <translator>Halliday, M.</translator>
+        <publisher>Наука</publisher>
+        <location>Москва</location>
+        <date>2013</date>
+        <pages>45–72</pages>
+    </sequence>
+    <sequence>
+        <author>Поляков, О. В.</author>
+        <title>Математическое моделирование климата</title>
+        <editor>Дымников, В. П.</editor>
+        <container-title>Современные проблемы климатологии</container-title>
+        <publisher>ГЕОС</publisher>
+        <location>Москва</location>
+        <date>2018</date>
+        <pages>201–229</pages>
+    </sequence>
+    <sequence>
+        <author>Романенко, Ю. А.</author>
+        <title>Биоэтика и права пациентов</title>
+        <editor>Юдин, Б. Г.</editor>
+        <container-title>Биоэтика в России</container-title>
+        <edition>1-е изд.</edition>
+        <publisher>Прогресс</publisher>
+        <location>Москва</location>
+        <date>2019</date>
+        <pages>99–124</pages>
+    </sequence>
+    <sequence>
+        <author>Щербакова, Т. С.</author>
+        <title>Теория игр в экономическом анализе</title>
+        <editor>Полтерович, В. М.</editor>
+        <editor>Дементьев, В. Е.</editor>
+        <container-title>Современная экономическая теория</container-title>
+        <publisher>ЦЭМИ РАН</publisher>
+        <location>Москва</location>
+        <date>2017</date>
+        <pages>310–341</pages>
+    </sequence>
+    <sequence>
+        <author>Лисицын, Б. Г.</author>
+        <title>Культурная дипломатия России в ХХ веке</title>
+        <editor>Торкунов, А. В.</editor>
+        <container-title>Российская дипломатия</container-title>
+        <publisher>МГИМО</publisher>
+        <location>Москва</location>
+        <date>2021</date>
+        <pages>234–261</pages>
+    </sequence>
+    <sequence>
+        <author>Митина, А. В.</author>
+        <title>Детская литература и социализация</title>
+        <editor>Арзамасцева, И. Н.</editor>
+        <container-title>Детская литература в России XX века</container-title>
+        <translator>Wachtel, A.</translator>
+        <edition>2-е изд., доп.</edition>
+        <publisher>Академия</publisher>
+        <location>Москва</location>
+        <date>2015</date>
+        <pages>56–81</pages>
+    </sequence>
+    <sequence>
+        <author>Черников, Д. Н.</author>
+        <title>Феноменология религиозного опыта</title>
+        <editor>Яблоков, И. Н.</editor>
+        <container-title>Религиоведение</container-title>
+        <edition>3-е изд.</edition>
+        <publisher>Гардарики</publisher>
+        <location>Москва</location>
+        <date>2016</date>
+        <pages>188–213</pages>
+    </sequence>
+    <sequence>
+        <author>Осипова, Л. Д.</author>
+        <title>Социальная мобильность в советском обществе</title>
+        <editor>Сенявский, А. С.</editor>
+        <container-title>Советское общество: история и современность</container-title>
+        <publisher>ИРИ РАН</publisher>
+        <location>Москва</location>
+        <date>2014</date>
+        <pages>123–149</pages>
+    </sequence>
+    <sequence>
+        <author>Тимофеев, А. С.</author>
+        <title>Нейронные сети и машинное обучение</title>
+        <editor>Воронцов, К. В.</editor>
+        <container-title>Методы искусственного интеллекта</container-title>
+        <publisher>МФТИ</publisher>
+        <location>Долгопрудный</location>
+        <date>2022</date>
+        <pages>77–103</pages>
+    </sequence>
+    <sequence>
+        <author>Горбачёва, К. И.</author>
+        <title>Этнические меньшинства в русской живописи</title>
+        <editor>Давыдова, О. С.</editor>
+        <container-title>Репрезентация «другого» в русском искусстве</container-title>
+        <translator>Kelly, C.</translator>
+        <publisher>БуксМАрт</publisher>
+        <location>Москва</location>
+        <date>2020</date>
+        <pages>45–71</pages>
+    </sequence>
+    <sequence>
+        <author>Самсонов, Е. Р.</author>
+        <title>Трудовые отношения в рыночной экономике</title>
+        <editor>Капелюшников, Р. И.</editor>
+        <container-title>Рынок труда в России</container-title>
+        <edition>2-е изд., перераб. и доп.</edition>
+        <publisher>ВШЭ</publisher>
+        <location>Москва</location>
+        <date>2018</date>
+        <pages>167–196</pages>
+    </sequence>
+    <sequence>
+        <author>Путилова, Н. Г.</author>
+        <title>Классическая риторика и современность</title>
+        <editor>Волков, А. А.</editor>
+        <container-title>Риторика и культура речи</container-title>
+        <publisher>МГУ</publisher>
+        <location>Москва</location>
+        <date>2019</date>
+        <pages>13–38</pages>
+    </sequence>
+    <sequence>
+        <author>Зорин, В. Л.</author>
+        <title>Геополитика и национальные интересы</title>
+        <editor>Дугин, А. Г.</editor>
+        <editor>Нартов, Н. А.</editor>
+        <container-title>Геополитика</container-title>
+        <edition>4-е изд.</edition>
+        <publisher>ЮНИТИ-ДАНА</publisher>
+        <location>Москва</location>
+        <date>2017</date>
+        <pages>289–318</pages>
+    </sequence>
+    <sequence>
+        <author>Мещерякова, О. Б.</author>
+        <title>Роль интуиции в научном открытии</title>
+        <editor>Пружинин, Б. И.</editor>
+        <container-title>Эпистемология и философия науки</container-title>
+        <publisher>Российская политическая энциклопедия</publisher>
+        <location>Москва</location>
+        <date>2015</date>
+        <pages>222–248</pages>
+    </sequence>
+    <sequence>
+        <author>Демидов, Ю. П.</author>
+        <title>Архаизмы и историзмы в современном тексте</title>
+        <editor>Шанский, Н. М.</editor>
+        <container-title>Лексикология современного русского языка</container-title>
+        <translator>Feshbach, M.</translator>
+        <publisher>Просвещение</publisher>
+        <location>Москва</location>
+        <date>2013</date>
+        <pages>102–127</pages>
+    </sequence>
+    <sequence>
+        <author>Воронова, С. В.</author>
+        <title>Транснациональные корпорации и глобальное управление</title>
+        <editor>Богатуров, А. Д.</editor>
+        <container-title>Мировая политика и международные отношения</container-title>
+        <publisher>МГИМО</publisher>
+        <location>Москва</location>
+        <date>2021</date>
+        <pages>178–204</pages>
+    </sequence>
+    <sequence>
+        <author>Тереньтьев, К. Н.</author>
+        <title>Кризис 1998 года и его последствия для банковской системы</title>
+        <editor>Мау, В. А.</editor>
+        <container-title>Экономические реформы в России 1990-х годов</container-title>
+        <edition>2-е изд.</edition>
+        <publisher>Дело</publisher>
+        <location>Москва</location>
+        <date>2016</date>
+        <pages>234–259</pages>
+    </sequence>
+    <sequence>
+        <author>Ильченко, М. А.</author>
+        <title>Советский город: архитектура и идеология</title>
+        <editor>Хмельницкий, Д. С.</editor>
+        <container-title>Архитектура и власть в СССР</container-title>
+        <translator>Paperny, V.</translator>
+        <publisher>Новое литературное обозрение</publisher>
+        <location>Москва</location>
+        <date>2019</date>
+        <pages>56–89</pages>
+    </sequence>
+    <sequence>
+        <author>Сахарова, О. М.</author>
+        <title>Педагогическая психология и развивающее обучение</title>
+        <editor>Давыдов, В. В.</editor>
+        <container-title>Теория развивающего обучения</container-title>
+        <edition>5-е изд.</edition>
+        <publisher>ИНТОР</publisher>
+        <location>Москва</location>
+        <date>2014</date>
+        <pages>88–115</pages>
+    </sequence>
+    <sequence>
+        <author>Фёдоров, Д. А.</author>
+        <title>Квантовая механика и философия детерминизма</title>
+        <editor>Омельяновский, М. Э.</editor>
+        <editor>Кузнецов, И. В.</editor>
+        <container-title>Философские проблемы физики</container-title>
+        <publisher>Наука</publisher>
+        <location>Москва</location>
+        <date>2018</date>
+        <pages>145–172</pages>
+    </sequence>
+    <sequence>
+        <author>Якунина, В. Г.</author>
+        <title>Деловой этикет в современной организации</title>
+        <editor>Кузин, Ф. А.</editor>
+        <container-title>Деловая культура и коммуникации</container-title>
+        <publisher>Ось-89</publisher>
+        <location>Москва</location>
+        <date>2017</date>
+        <pages>67–91</pages>
+    </sequence>
+    <sequence>
+        <author>Нечаев, А. Г.</author>
+        <title>Протоиндустриализация и аграрный вопрос в России</title>
+        <editor>Миронов, Б. Н.</editor>
+        <container-title>Социальная история России периода империи</container-title>
+        <translator>Pallot, J.</translator>
+        <edition>2-е изд., перераб.</edition>
+        <publisher>Дмитрий Буланин</publisher>
+        <location>Санкт-Петербург</location>
+        <date>2015</date>
+        <pages>311–345</pages>
+    </sequence>
+    <sequence>
+        <author>Кривошеина, Т. Л.</author>
+        <title>Танатология и отношение к смерти в русской культуре</title>
+        <editor>Арьес, Ф.</editor>
+        <container-title>Смерть как культурный феномен</container-title>
+        <publisher>Алетейя</publisher>
+        <location>Санкт-Петербург</location>
+        <date>2020</date>
+        <pages>99–128</pages>
+    </sequence>
+    <sequence>
+        <author>Логинов, П. В.</author>
+        <title>Налоговая система и бюджетный федерализм</title>
+        <editor>Христенко, В. Б.</editor>
+        <container-title>Межбюджетные отношения в России</container-title>
+        <edition>3-е изд.</edition>
+        <publisher>Дело</publisher>
+        <location>Москва</location>
+        <date>2016</date>
+        <pages>156–183</pages>
+    </sequence>
+    <sequence>
+        <author>Широкова, Е. И.</author>
+        <title>Слово и образ в иконописи</title>
+        <editor>Языкова, И. К.</editor>
+        <container-title>Богословие иконы</container-title>
+        <publisher>Общедоступный православный университет</publisher>
+        <location>Москва</location>
+        <date>2013</date>
+        <pages>44–69</pages>
+    </sequence>
+    <sequence>
+        <author>Арутюнян, Г. А.</author>
+        <title>Постколониальный дискурс и русская литература</title>
+        <editor>Эткинд, А. М.</editor>
+        <container-title>Внутренняя колонизация</container-title>
+        <translator>Layton, S.</translator>
+        <publisher>НЛО</publisher>
+        <location>Москва</location>
+        <date>2021</date>
+        <pages>177–205</pages>
+    </sequence>
+    <sequence>
+        <author>Барсуков, Н. И.</author>
+        <title>Коллективизация и голод 1932–1933 годов</title>
+        <editor>Хлевнюк, О. В.</editor>
+        <container-title>Сталинская эпоха в документах</container-title>
+        <edition>1-е изд.</edition>
+        <publisher>РОССПЭН</publisher>
+        <location>Москва</location>
+        <date>2014</date>
+        <pages>234–271</pages>
+    </sequence>
+    <sequence>
+        <author>Волошина, Т. Г.</author>
+        <title>Фольклор и литературная сказка</title>
+        <editor>Пропп, В. Я.</editor>
+        <container-title>Морфология фольклора</container-title>
+        <publisher>Лабиринт</publisher>
+        <location>Москва</location>
+        <date>2019</date>
+        <pages>22–47</pages>
+    </sequence>
+    <sequence>
+        <author>Дьяконов, Е. М.</author>
+        <title>Нанотехнологии в медицине</title>
+        <editor>Зеленин, А. В.</editor>
+        <editor>Дронова, Т. А.</editor>
+        <container-title>Биотехнологии и здоровье человека</container-title>
+        <publisher>БИНОМ</publisher>
+        <location>Москва</location>
+        <date>2018</date>
+        <pages>189–215</pages>
+    </sequence>
+    <sequence>
+        <author>Ковалёва, Н. С.</author>
+        <title>Феминистская критика и русская классика</title>
+        <editor>Рябов, О. В.</editor>
+        <container-title>Гендер в русской культуре</container-title>
+        <translator>Clyman, T.</translator>
+        <publisher>Аспект Пресс</publisher>
+        <location>Москва</location>
+        <date>2017</date>
+        <pages>133–161</pages>
+    </sequence>
+    <sequence>
+        <author>Матвеев, А. Д.</author>
+        <title>Народничество и аграрный социализм</title>
+        <editor>Твардовская, В. А.</editor>
+        <container-title>Общественная мысль России XIX века</container-title>
+        <edition>2-е изд.</edition>
+        <publisher>Мысль</publisher>
+        <location>Москва</location>
+        <date>2015</date>
+        <pages>211–244</pages>
+    </sequence>
+    <sequence>
+        <author>Никитина, Е. В.</author>
+        <title>Психология конфликта и посредничество</title>
+        <editor>Гришина, Н. В.</editor>
+        <container-title>Психология конфликта</container-title>
+        <publisher>Питер</publisher>
+        <location>Санкт-Петербург</location>
+        <date>2020</date>
+        <pages>88–117</pages>
+    </sequence>
+    <sequence>
+        <author>Осипов, В. Б.</author>
+        <title>Аграрная политика в условиях рыночной экономики</title>
+        <editor>Серова, Е. В.</editor>
+        <container-title>Аграрная реформа в России</container-title>
+        <publisher>ИЭТ</publisher>
+        <location>Москва</location>
+        <date>2016</date>
+        <pages>67–94</pages>
+    </sequence>
+    <sequence>
+        <author>Петрова, Ю. Д.</author>
+        <title>Теория текста и лингвистика дискурса</title>
+        <editor>Касевич, В. Б.</editor>
+        <container-title>Общее языкознание</container-title>
+        <translator>Beaugrande, R. de</translator>
+        <edition>3-е изд., испр.</edition>
+        <publisher>Высшая школа</publisher>
+        <location>Москва</location>
+        <date>2013</date>
+        <pages>345–378</pages>
+    </sequence>
+    <sequence>
+        <author>Разумов, Г. В.</author>
+        <title>Биология старения и геропротекция</title>
+        <editor>Скулачёв, В. П.</editor>
+        <container-title>Проблемы геронтологии</container-title>
+        <publisher>МГУ</publisher>
+        <location>Москва</location>
+        <date>2022</date>
+        <pages>45–73</pages>
+    </sequence>
+    <sequence>
+        <author>Самойлова, К. Н.</author>
+        <title>Городская топонимика и историческая память</title>
+        <editor>Живов, В. М.</editor>
+        <container-title>Имя и место в культурном пространстве</container-title>
+        <publisher>ОГИ</publisher>
+        <location>Москва</location>
+        <date>2019</date>
+        <pages>111–138</pages>
+    </sequence>
+    <sequence>
+        <author>Тоскина, И. А.</author>
+        <title>Интертекстуальность в поэзии Бродского</title>
+        <editor>Полухина, В. П.</editor>
+        <container-title>Иосиф Бродский: стратегии чтения</container-title>
+        <translator>Loseff, L.</translator>
+        <publisher>РГГУ</publisher>
+        <location>Москва</location>
+        <date>2017</date>
+        <pages>89–114</pages>
+    </sequence>
+    <sequence>
+        <author>Уваров, С. Е.</author>
+        <title>Международное гуманитарное право и права человека</title>
+        <editor>Тиунов, О. И.</editor>
+        <container-title>Международное право</container-title>
+        <edition>5-е изд., перераб. и доп.</edition>
+        <publisher>НОРМА</publisher>
+        <location>Москва</location>
+        <date>2021</date>
+        <pages>278–307</pages>
+    </sequence>
+    <sequence>
+        <author>Хомякова, Р. Е.</author>
+        <title>Синергетика и нелинейная динамика социальных систем</title>
+        <editor>Аршинов, В. И.</editor>
+        <container-title>Синергетическая парадигма</container-title>
+        <publisher>Прогресс-Традиция</publisher>
+        <location>Москва</location>
+        <date>2014</date>
+        <pages>201–228</pages>
+    </sequence>
+    <sequence>
+        <author>Цыганков, Б. Д.</author>
+        <title>Психиатрическое освидетельствование и права пациента</title>
+        <editor>Дмитриева, Т. Б.</editor>
+        <editor>Положий, Б. С.</editor>
+        <container-title>Социальная психиатрия</container-title>
+        <publisher>Медицина</publisher>
+        <location>Москва</location>
+        <date>2018</date>
+        <pages>134–159</pages>
+    </sequence>
+    <sequence>
+        <author>Шабанова, А. И.</author>
+        <title>Мотив пути в русском романтизме</title>
+        <editor>Манн, Ю. В.</editor>
+        <container-title>Русский романтизм</container-title>
+        <translator>Cornwell, N.</translator>
+        <publisher>Наука</publisher>
+        <location>Москва</location>
+        <date>2016</date>
+        <pages>55–80</pages>
+    </sequence>
+    <sequence>
+        <author>Щукин, Г. В.</author>
+        <title>Принципы построения конституционного строя</title>
+        <editor>Авакьян, С. А.</editor>
+        <container-title>Конституционное право России</container-title>
+        <edition>6-е изд., перераб.</edition>
+        <publisher>НОРМА–ИНФРА-М</publisher>
+        <location>Москва</location>
+        <date>2020</date>
+        <pages>23–49</pages>
+    </sequence>
+    <sequence>
+        <author>Эрнст, В. О.</author>
+        <title>Квантовая химия и молекулярные расчёты</title>
+        <editor>Минкин, В. И.</editor>
+        <container-title>Теоретические основы химии</container-title>
+        <publisher>Наука</publisher>
+        <location>Ростов-на-Дону</location>
+        <date>2019</date>
+        <pages>177–205</pages>
+    </sequence>
+    <sequence>
+        <author>Южакова, О. Г.</author>
+        <title>Принципы оказания паллиативной помощи</title>
+        <editor>Новиков, Г. А.</editor>
+        <container-title>Паллиативная медицина в России</container-title>
+        <publisher>Медицина</publisher>
+        <location>Москва</location>
+        <date>2015</date>
+        <pages>44–68</pages>
+    </sequence>
+    <sequence>
+        <author>Яблочкина, Т. С.</author>
+        <title>Восприятие Запада в русской публицистике</title>
+        <editor>Нойманн, И. Б.</editor>
+        <container-title>Использование «другого»: образы Востока в формировании европейских идентичностей</container-title>
+        <translator>Лунькин, Р. Н.</translator>
+        <publisher>НЛО</publisher>
+        <location>Москва</location>
+        <date>2018</date>
+        <pages>123–151</pages>
+    </sequence>
+    <sequence>
+        <author>Абрамова, О. В.</author>
+        <title>Правовая охрана объектов культурного наследия</title>
+        <editor>Богуславский, М. М.</editor>
+        <container-title>Международное частное право</container-title>
+        <edition>7-е изд.</edition>
+        <publisher>Норма</publisher>
+        <location>Москва</location>
+        <date>2017</date>
+        <pages>312–337</pages>
+    </sequence>
+    <sequence>
+        <author>Берестов, К. А.</author>
+        <title>Экологические права граждан</title>
+        <editor>Бринчук, М. М.</editor>
+        <container-title>Экологическое право</container-title>
+        <publisher>Юристъ</publisher>
+        <location>Москва</location>
+        <date>2016</date>
+        <pages>89–115</pages>
+    </sequence>
+    <sequence>
+        <author>Виноградов, С. К.</author>
+        <title>Структурные особенности сонета в русской поэзии</title>
+        <editor>Гаспаров, М. Л.</editor>
+        <container-title>Очерк истории европейского стиха</container-title>
+        <translator>Bailey, J.</translator>
+        <publisher>Фортуна Лимитед</publisher>
+        <location>Москва</location>
+        <date>2014</date>
+        <pages>234–260</pages>
+    </sequence>
+    <sequence>
+        <author>Гусева, И. Д.</author>
+        <title>Трансформация системы здравоохранения в 1990-е годы</title>
+        <editor>Шейман, И. М.</editor>
+        <container-title>Реформы здравоохранения в России</container-title>
+        <edition>2-е изд.</edition>
+        <publisher>ВШЭ</publisher>
+        <location>Москва</location>
+        <date>2021</date>
+        <pages>145–172</pages>
+    </sequence>
+    <sequence>
+        <author>Дорохин, Е. В.</author>
+        <title>Русские крестьяне и земельная реформа Столыпина</title>
+        <editor>Давыдов, М. А.</editor>
+        <container-title>Аграрная история России начала XX века</container-title>
+        <publisher>Российская политическая энциклопедия</publisher>
+        <location>Москва</location>
+        <date>2019</date>
+        <pages>178–207</pages>
+    </sequence>
+    <sequence>
+        <author>Евдокимова, Г. Р.</author>
+        <title>Интонационный строй русской речи</title>
+        <editor>Брызгунова, Е. А.</editor>
+        <container-title>Русская грамматика</container-title>
+        <publisher>Наука</publisher>
+        <location>Москва</location>
+        <date>2013</date>
+        <pages>56–82</pages>
+    </sequence>
+    <sequence>
+        <author>Журавлёв, П. С.</author>
+        <title>Искусственный интеллект в системах управления</title>
+        <editor>Поспелов, Г. С.</editor>
+        <editor>Попов, Э. В.</editor>
+        <container-title>Искусственный интеллект</container-title>
+        <edition>3-е изд., испр. и доп.</edition>
+        <publisher>Наука</publisher>
+        <location>Москва</location>
+        <date>2020</date>
+        <pages>267–295</pages>
+    </sequence>
+    <sequence>
+        <author>Зимина, М. А.</author>
+        <title>Государственная идентичность и национализм</title>
+        <editor>Малинова, О. Ю.</editor>
+        <container-title>Символическая политика</container-title>
+        <translator>Smith, A. D.</translator>
+        <publisher>ИНИОН РАН</publisher>
+        <location>Москва</location>
+        <date>2018</date>
+        <pages>99–127</pages>
+    </sequence>
+    <sequence>
+        <author>Иноземцев, В. Л.</author>
+        <title>Постиндустриальное общество и экономика знаний</title>
+        <editor>Кастельс, М.</editor>
+        <container-title>Информационное общество</container-title>
+        <publisher>Academia</publisher>
+        <location>Москва</location>
+        <date>2016</date>
+        <pages>211–238</pages>
+    </sequence>
+    <sequence>
+        <author>Кабанов, О. Р.</author>
+        <title>Уголовно-правовая охрана компьютерной информации</title>
+        <editor>Лопашенко, Н. А.</editor>
+        <container-title>Уголовное право России</container-title>
+        <edition>4-е изд., перераб.</edition>
+        <publisher>Юрлитинформ</publisher>
+        <location>Москва</location>
+        <date>2022</date>
+        <pages>399–426</pages>
+    </sequence>
+    <sequence>
+        <author>Ларина, Т. В.</author>
+        <title>Вежливость и коммуникативный стиль</title>
+        <editor>Формановская, Н. И.</editor>
+        <container-title>Культура русской речи</container-title>
+        <publisher>Норма</publisher>
+        <location>Москва</location>
+        <date>2017</date>
+        <pages>67–94</pages>
+    </sequence>
+    <sequence>
+        <author>Малышева, Д. Б.</author>
+        <title>Центральная Азия в системе международной безопасности</title>
+        <editor>Кожокин, Е. М.</editor>
+        <container-title>Международная безопасность после холодной войны</container-title>
+        <translator>Rumer, E.</translator>
+        <publisher>ИМЭМО РАН</publisher>
+        <location>Москва</location>
+        <date>2019</date>
+        <pages>267–294</pages>
+    </sequence>
+    <sequence>
+        <author>Нестеров, Д. Ф.</author>
+        <title>Теория и практика медиации в гражданских спорах</title>
+        <editor>Носырева, Е. И.</editor>
+        <container-title>Альтернативное разрешение споров</container-title>
+        <edition>2-е изд.</edition>
+        <publisher>Инфотропик Медиа</publisher>
+        <location>Москва</location>
+        <date>2015</date>
+        <pages>123–149</pages>
+    </sequence>
+    <sequence>
+        <author>Овсянникова, Л. В.</author>
+        <title>Теория множеств и математическая логика</title>
+        <editor>Мальцев, А. И.</editor>
+        <container-title>Основы математики</container-title>
+        <publisher>Наука</publisher>
+        <location>Новосибирск</location>
+        <date>2014</date>
+        <pages>23–50</pages>
+    </sequence>
+    <sequence>
+        <author>Панков, В. И.</author>
+        <title>Малый бизнес и государственное регулирование</title>
+        <editor>Виленский, А. В.</editor>
+        <container-title>Малое предпринимательство в России</container-title>
+        <publisher>Дело</publisher>
+        <location>Москва</location>
+        <date>2020</date>
+        <pages>111–137</pages>
+    </sequence>
+    <sequence>
+        <author>Рогова, Н. К.</author>
+        <title>Антропология болезни и культура лечения</title>
+        <editor>Харитонова, В. И.</editor>
+        <container-title>Медицинская антропология</container-title>
+        <translator>Good, B.</translator>
+        <publisher>ИЭА РАН</publisher>
+        <location>Москва</location>
+        <date>2018</date>
+        <pages>45–72</pages>
+    </sequence>
+    <sequence>
+        <author>Ситникова, Е. А.</author>
+        <title>Народное образование в Российской империи</title>
+        <editor>Днепров, Э. Д.</editor>
+        <container-title>История образования в России</container-title>
+        <edition>2-е изд., доп.</edition>
+        <publisher>Мнемозина</publisher>
+        <location>Москва</location>
+        <date>2016</date>
+        <pages>178–205</pages>
+    </sequence>
+    <sequence>
+        <author>Туманов, Г. Е.</author>
+        <title>Управление рисками в финансовых организациях</title>
+        <editor>Лобанов, А. А.</editor>
+        <editor>Чугунов, А. В.</editor>
+        <container-title>Управление рисками в банковской деятельности</container-title>
+        <publisher>Альпина Бизнес Букс</publisher>
+        <location>Москва</location>
+        <date>2019</date>
+        <pages>212–241</pages>
+    </sequence>
+    <sequence>
+        <author>Уланова, В. Б.</author>
+        <title>Цветаева и эмигрантская поэзия</title>
+        <editor>Швейцер, В.</editor>
+        <container-title>Серебряный век: поэзия и судьбы</container-title>
+        <translator>Feinstein, E.</translator>
+        <publisher>РГГУ</publisher>
+        <location>Москва</location>
+        <date>2017</date>
+        <pages>133–160</pages>
+    </sequence>
+    <sequence>
+        <author>Фадеев, Б. В.</author>
+        <title>Теория вероятностей в страховании</title>
+        <editor>Гомеля, В. Б.</editor>
+        <container-title>Страховое дело</container-title>
+        <edition>5-е изд., испр.</edition>
+        <publisher>Маркет ДС</publisher>
+        <location>Москва</location>
+        <date>2021</date>
+        <pages>89–116</pages>
+    </sequence>
+    <sequence>
+        <author>Харченко, О. Л.</author>
+        <title>Эволюция понятия «гражданское общество»</title>
+        <editor>Резник, Ю. М.</editor>
+        <container-title>Гражданское общество в России</container-title>
+        <publisher>ИНИОН РАН</publisher>
+        <location>Москва</location>
+        <date>2015</date>
+        <pages>11–38</pages>
+    </sequence>
+    <sequence>
+        <author>Цветков, А. Н.</author>
+        <title>Менеджмент знаний и организационное обучение</title>
+        <editor>Мильнер, Б. З.</editor>
+        <container-title>Управление знаниями в организациях</container-title>
+        <publisher>ИНФРА-М</publisher>
+        <location>Москва</location>
+        <date>2020</date>
+        <pages>67–95</pages>
+    </sequence>
+    <sequence>
+        <author>Черная, Л. А.</author>
+        <title>Культурный идеал в Московской Руси XVII века</title>
+        <editor>Юрганов, А. Л.</editor>
+        <container-title>Русская культура в эпоху средневековья</container-title>
+        <translator>Hughes, L.</translator>
+        <publisher>РГГУ</publisher>
+        <location>Москва</location>
+        <date>2014</date>
+        <pages>234–261</pages>
+    </sequence>
+    <sequence>
+        <author>Шилова, Н. В.</author>
+        <title>Экспериментальная методика преподавания иностранных языков</title>
+        <editor>Щукин, А. Н.</editor>
+        <container-title>Методика обучения иностранным языкам</container-title>
+        <edition>4-е изд., перераб. и доп.</edition>
+        <publisher>Академия</publisher>
+        <location>Москва</location>
+        <date>2018</date>
+        <pages>145–173</pages>
+    </sequence>
+    <sequence>
+        <author>Энговатов, С. О.</author>
+        <title>Промышленная экология и чистые технологии</title>
+        <editor>Родионов, А. И.</editor>
+        <editor>Клушин, В. Н.</editor>
+        <container-title>Технологии защиты окружающей среды</container-title>
+        <publisher>Химия</publisher>
+        <location>Москва</location>
+        <date>2016</date>
+        <pages>311–340</pages>
+    </sequence>
+    <sequence>
+        <author>Юдина, О. С.</author>
+        <title>Когнитивные функции языка</title>
+        <editor>Демьянков, В. З.</editor>
+        <container-title>Когнитивная лингвистика</container-title>
+        <translator>Langacker, R.</translator>
+        <publisher>Гнозис</publisher>
+        <location>Москва</location>
+        <date>2022</date>
+        <pages>23–50</pages>
+    </sequence>
+    <sequence>
+        <author>Яковенко, Б. И.</author>
+        <title>Неокантианство в России</title>
+        <editor>Пустарнаков, В. Ф.</editor>
+        <container-title>История русской философии</container-title>
+        <edition>2-е изд.</edition>
+        <publisher>Республика</publisher>
+        <location>Москва</location>
+        <date>2017</date>
+        <pages>345–374</pages>
+    </sequence>
+    <sequence>
+        <author>Азарова, Л. Н.</author>
+        <title>Региональная идентичность в эпоху глобализации</title>
+        <editor>Горяченко, Е. Е.</editor>
+        <container-title>Регионы России: идентичность и развитие</container-title>
+        <publisher>ИС РАН</publisher>
+        <location>Москва</location>
+        <date>2019</date>
+        <pages>78–105</pages>
+    </sequence>
+    <sequence>
+        <author>Балашов, Е. М.</author>
+        <title>Школа в советской России 1920-х годов</title>
+        <editor>Смирнов, И. С.</editor>
+        <container-title>Советская культура в 1920-е годы</container-title>
+        <translator>Brandenberger, D.</translator>
+        <publisher>ИРИ РАН</publisher>
+        <location>Москва</location>
+        <date>2015</date>
+        <pages>199–227</pages>
+    </sequence>
+    <sequence>
+        <author>Вершинин, К. Г.</author>
+        <title>Математические методы в экономическом прогнозировании</title>
+        <editor>Клейнер, Г. Б.</editor>
+        <container-title>Методология и методы прогнозирования</container-title>
+        <edition>3-е изд.</edition>
+        <publisher>ЦЭМИ РАН</publisher>
+        <location>Москва</location>
+        <date>2020</date>
+        <pages>156–183</pages>
+    </sequence>
+    <sequence>
+        <author>Гончарова, М. К.</author>
+        <title>Женщина и семья в крестьянской России</title>
+        <editor>Безгин, В. Б.</editor>
+        <container-title>Крестьянский мир России конца XIX – начала XX века</container-title>
+        <publisher>Наука</publisher>
+        <location>Тамбов</location>
+        <date>2018</date>
+        <pages>88–117</pages>
+    </sequence>
+    <sequence>
+        <author>Дементьев, В. В.</author>
+        <title>Речевые жанры в повседневной коммуникации</title>
+        <editor>Гольдин, В. Е.</editor>
+        <container-title>Теория речевых жанров</container-title>
+        <translator>Bakhtin, M.</translator>
+        <publisher>Языки русской культуры</publisher>
+        <location>Саратов</location>
+        <date>2016</date>
+        <pages>23–49</pages>
+    </sequence>
+    <sequence>
+        <author>Ефимова, А. С.</author>
+        <title>Медиапространство и формирование общественного мнения</title>
+        <editor>Вартанова, Е. Л.</editor>
+        <container-title>Медиасистема России</container-title>
+        <edition>2-е изд., испр.</edition>
+        <publisher>Аспект Пресс</publisher>
+        <location>Москва</location>
+        <date>2021</date>
+        <pages>134–162</pages>
+    </sequence>
+    <sequence>
+        <author>Жуков, Н. В.</author>
+        <title>Ракетные двигатели на твёрдом топливе</title>
+        <editor>Алемасов, В. Е.</editor>
+        <editor>Тишин, А. Ф.</editor>
+        <container-title>Теория ракетных двигателей</container-title>
+        <publisher>Машиностроение</publisher>
+        <location>Москва</location>
+        <date>2014</date>
+        <pages>267–296</pages>
+    </sequence>
+    <sequence>
+        <author>Зубкова, Е. Ю.</author>
+        <title>Общественная жизнь в послевоенном СССР</title>
+        <editor>Пихоя, Р. Г.</editor>
+        <container-title>СССР после Сталина</container-title>
+        <translator>Jones, P.</translator>
+        <publisher>РОССПЭН</publisher>
+        <location>Москва</location>
+        <date>2017</date>
+        <pages>111–138</pages>
+    </sequence>
+    <sequence>
+        <author>Исаев, Б. А.</author>
+        <title>Теория государства и принципы федерализма</title>
+        <editor>Графский, В. Г.</editor>
+        <container-title>История политических и правовых учений</container-title>
+        <edition>5-е изд.</edition>
+        <publisher>Норма</publisher>
+        <location>Москва</location>
+        <date>2019</date>
+        <pages>399–427</pages>
+    </sequence>
+    <sequence>
+        <author>Климова, А. В.</author>
+        <title>Буддийская философия и русская религиозная мысль</title>
+        <editor>Торчинов, Е. А.</editor>
+        <container-title>Восток–Запад: диалог культур</container-title>
+        <publisher>Наука</publisher>
+        <location>Санкт-Петербург</location>
+        <date>2015</date>
+        <pages>56–83</pages>
+    </sequence>
+    <sequence>
+        <author>Лещенко, П. М.</author>
+        <title>Сравнительное литературоведение и проблема перевода</title>
+        <editor>Алексеев, М. П.</editor>
+        <container-title>Сравнительное литературоведение</container-title>
+        <translator>Bassnett, S.</translator>
+        <edition>1-е изд.</edition>
+        <publisher>Наука</publisher>
+        <location>Ленинград</location>
+        <date>2013</date>
+        <pages>234–260</pages>
+    </sequence>
+    <sequence>
+        <author>Медведев, А. Ю.</author>
+        <title>Экономическая география и размещение производительных сил</title>
+        <editor>Гранберг, А. Г.</editor>
+        <container-title>Основы региональной экономики</container-title>
+        <edition>3-е изд., перераб. и доп.</edition>
+        <publisher>ВШЭ</publisher>
+        <location>Москва</location>
+        <date>2022</date>
+        <pages>88–116</pages>
+    </sequence>
+    <sequence>
+        <author>Никонова, С. И.</author>
+        <title>Символизм и акмеизм: эстетические манифесты</title>
+        <editor>Кихней, Л. Г.</editor>
+        <container-title>Поэтика русского модернизма</container-title>
+        <publisher>Фортуна ЭЛ</publisher>
+        <location>Москва</location>
+        <date>2018</date>
+        <pages>67–93</pages>
+    </sequence>
+    <sequence>
+        <author>Остроухов, В. В.</author>
+        <title>Информационная безопасность государства</title>
+        <editor>Расторгуев, С. П.</editor>
+        <container-title>Информационная война</container-title>
+        <translator>Libicki, M.</translator>
+        <publisher>Радио и связь</publisher>
+        <location>Москва</location>
+        <date>2020</date>
+        <pages>145–172</pages>
+    </sequence>
+    <sequence>
+        <author>Павлова, Р. Ю.</author>
+        <title>Социальное обеспечение и пенсионная реформа</title>
+        <editor>Роик, В. Д.</editor>
+        <container-title>Социальная политика в России</container-title>
+        <edition>2-е изд., доп.</edition>
+        <publisher>РАГС</publisher>
+        <location>Москва</location>
+        <date>2016</date>
+        <pages>199–228</pages>
+    </sequence>
+    <sequence>
+        <author>Разин, К. В.</author>
+        <title>Философия языка и аналитическая традиция</title>
+        <editor>Грязнов, А. Ф.</editor>
+        <container-title>Аналитическая философия в XX веке</container-title>
+        <publisher>Прогресс</publisher>
+        <location>Москва</location>
+        <date>2014</date>
+        <pages>311–339</pages>
+    </sequence>
+    <sequence>
+        <author>Санникова, Т. О.</author>
+        <title>Оперное искусство в России XIX века</title>
+        <editor>Левашёв, Е. М.</editor>
+        <container-title>История русской музыки</container-title>
+        <translator>Taruskin, R.</translator>
+        <edition>4-е изд.</edition>
+        <publisher>Музыка</publisher>
+        <location>Москва</location>
+        <date>2019</date>
+        <pages>234–263</pages>
+    </sequence>
+    <sequence>
+        <author>Третьяков, Е. Г.</author>
+        <title>Конкуренция на рынках с несовершенной информацией</title>
+        <editor>Шаститко, А. Е.</editor>
+        <container-title>Теория организации отраслевых рынков</container-title>
+        <publisher>Экономический факультет МГУ</publisher>
+        <location>Москва</location>
+        <date>2021</date>
+        <pages>111–138</pages>
+    </sequence>
+    <sequence>
+        <author>Усова, Т. Е.</author>
+        <title>Теория и практика психологического консультирования</title>
+        <editor>Бондаренко, А. Ф.</editor>
+        <container-title>Психологическая помощь</container-title>
+        <publisher>Класс</publisher>
+        <location>Москва</location>
+        <date>2017</date>
+        <pages>45–72</pages>
+    </sequence>
+    <sequence>
+        <author>Фомин, Д. В.</author>
+        <title>Символика цвета в русской иконе</title>
+        <editor>Попов, Г. В.</editor>
+        <editor>Рындина, А. В.</editor>
+        <container-title>Живопись Древней Руси XI–XVII веков</container-title>
+        <publisher>Искусство</publisher>
+        <location>Москва</location>
+        <date>2015</date>
+        <pages>89–116</pages>
+    </sequence>
+    <sequence>
+        <author>Хорошева, Н. В.</author>
+        <title>Русская эмиграция в Париже: литературная жизнь</title>
+        <editor>Назаров, М. В.</editor>
+        <container-title>Русское зарубежье</container-title>
+        <translator>Johnston, R.</translator>
+        <edition>2-е изд.</edition>
+        <publisher>Русский путь</publisher>
+        <location>Москва</location>
+        <date>2018</date>
+        <pages>178–205</pages>
+    </sequence>
+    <sequence>
+        <author>Целиков, А. И.</author>
+        <title>Теория прокатки и технология металлов</title>
+        <editor>Смирнов, В. С.</editor>
+        <container-title>Теория обработки металлов давлением</container-title>
+        <edition>3-е изд., испр.</edition>
+        <publisher>Металлургия</publisher>
+        <location>Москва</location>
+        <date>2013</date>
+        <pages>23–52</pages>
+    </sequence>
+    <sequence>
+        <author>Шаповал, В. Д.</author>
+        <title>Украинско-российские отношения в постсоветский период</title>
+        <editor>Затулин, К. Ф.</editor>
+        <container-title>Россия и постсоветское пространство</container-title>
+        <publisher>Институт стран СНГ</publisher>
+        <location>Москва</location>
+        <date>2020</date>
+        <pages>134–161</pages>
+    </sequence>
+    <sequence>
+        <author>Эйдельман, Н. Я.</author>
+        <title>Декабристы и культурная элита России</title>
+        <editor>Нечкина, М. В.</editor>
+        <container-title>Декабристы</container-title>
+        <translator>Leighton, L.</translator>
+        <publisher>Наука</publisher>
+        <location>Москва</location>
+        <date>2016</date>
+        <pages>89–116</pages>
+    </sequence>
+    <sequence>
+        <author>Юрасова, О. Н.</author>
+        <title>Трансформация городских пространств постсоветской эпохи</title>
+        <editor>Глазычев, В. Л.</editor>
+        <container-title>Город в меняющемся мире</container-title>
+        <edition>1-е изд.</edition>
+        <publisher>Европа</publisher>
+        <location>Москва</location>
+        <date>2019</date>
+        <pages>56–83</pages>
+    </sequence>
+    <sequence>
+        <author>Яворская, А. К.</author>
+        <title>Мотивация в педагогическом процессе</title>
+        <editor>Маркова, А. К.</editor>
+        <container-title>Психология обучения</container-title>
+        <publisher>Педагогика</publisher>
+        <location>Москва</location>
+        <date>2014</date>
+        <pages>67–93</pages>
+    </sequence>
+    <sequence>
+        <author>Аверьянов, К. А.</author>
+        <title>Московское государство и удельные княжества XIV века</title>
+        <editor>Кучкин, В. А.</editor>
+        <container-title>Политическая история средневековой Руси</container-title>
+        <publisher>ИРИ РАН</publisher>
+        <location>Москва</location>
+        <date>2017</date>
+        <pages>189–218</pages>
+    </sequence>
+    <sequence>
+        <author>Бирюлёва, Н. В.</author>
+        <title>Психосоматика и телесно-ориентированная терапия</title>
+        <editor>Тхостов, А. Ш.</editor>
+        <container-title>Клиническая психология</container-title>
+        <translator>Lowen, A.</translator>
+        <edition>2-е изд., доп.</edition>
+        <publisher>Академия</publisher>
+        <location>Москва</location>
+        <date>2021</date>
+        <pages>312–339</pages>
+    </sequence>
+    <sequence>
+        <author>Глушкова, С. И.</author>
+        <title>Права человека и российская правовая система</title>
+        <editor>Матузов, Н. И.</editor>
+        <container-title>Теория государства и права</container-title>
+        <edition>4-е изд., перераб.</edition>
+        <publisher>Юристъ</publisher>
+        <location>Саратов</location>
+        <date>2018</date>
+        <pages>233–260</pages>
+    </sequence>
+    <sequence>
+        <author>Дарьин, О. Г.</author>
+        <title>Численные методы решения дифференциальных уравнений</title>
+        <editor>Самарский, А. А.</editor>
+        <editor>Михайлов, А. П.</editor>
+        <container-title>Математическое моделирование</container-title>
+        <publisher>Физматлит</publisher>
+        <location>Москва</location>
+        <date>2016</date>
+        <pages>111–140</pages>
+    </sequence>
+    <sequence>
+        <author>Ерофеева, Т. И.</author>
+        <title>Региональные варианты русского языка</title>
+        <editor>Баранникова, Л. И.</editor>
+        <container-title>Русская диалектология</container-title>
+        <translator>Comrie, B.</translator>
+        <publisher>Пермский университет</publisher>
+        <location>Пермь</location>
+        <date>2015</date>
+        <pages>44–71</pages>
+    </sequence>
+    <sequence>
+        <author>Жарков, А. В.</author>
+        <title>Теория и практика культурно-досуговой деятельности</title>
+        <editor>Киселёва, Т. Г.</editor>
+        <container-title>Социально-культурная деятельность</container-title>
+        <edition>5-е изд.</edition>
+        <publisher>МГУКИ</publisher>
+        <location>Москва</location>
+        <date>2022</date>
+        <pages>89–116</pages>
+    </sequence>
+    <sequence>
+        <author>Завьялов, Б. Е.</author>
+        <title>Прикладная статистика в социологических исследованиях</title>
+        <editor>Ядов, В. А.</editor>
+        <container-title>Социологические исследования</container-title>
+        <publisher>Наука</publisher>
+        <location>Москва</location>
+        <date>2013</date>
+        <pages>199–226</pages>
+    </sequence>
+    <sequence>
+        <author>Игнатьев, Д. К.</author>
+        <title>Взаимодействие государства и церкви в постсоветской России</title>
+        <editor>Лункин, Р. Н.</editor>
+        <container-title>Религия и власть в современной России</container-title>
+        <translator>Papkova, I.</translator>
+        <publisher>ИЕ РАН</publisher>
+        <location>Москва</location>
+        <date>2020</date>
+        <pages>78–105</pages>
+    </sequence>
+    <sequence>
+        <author>Казакова, Н. А.</author>
+        <title>Реформы местного самоуправления в России</title>
+        <editor>Бабун, Р. В.</editor>
+        <container-title>Муниципальное управление</container-title>
+        <edition>3-е изд., испр. и доп.</edition>
+        <publisher>КноРус</publisher>
+        <location>Москва</location>
+        <date>2017</date>
+        <pages>156–183</pages>
+    </sequence>
+    <sequence>
+        <author>Лазарева, В. С.</author>
+        <title>Судебное доказывание в уголовном процессе</title>
+        <editor>Смирнов, А. В.</editor>
+        <editor>Калиновский, К. Б.</editor>
+        <container-title>Уголовный процесс</container-title>
+        <publisher>КноРус</publisher>
+        <location>Москва</location>
+        <date>2019</date>
+        <pages>267–295</pages>
+    </sequence>
+</dataset>
