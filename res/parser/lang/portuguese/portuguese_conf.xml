@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <sequence>
+        <author>Silva, A. M., &amp; Santos, R. P.</author>
+        <date>2023.</date>
+        <title>Transformação digital na administração pública: desafios e oportunidades.</title>
+        <editor>Oliveira, M. C., &amp; Ferreira, L. S.</editor>
+        <container-title>Anais do Congresso Brasileiro de Administração Pública</container-title>
+        <volume>n. 15.</volume>
+        <location>São Paulo.</location>
+        <publisher>Associação Nacional de Pós-Graduação e Pesquisa em Administração.</publisher>
+        <pages>p. 234-251.</pages>
+    </sequence>
+    <sequence>
+        <author>Costa, M. R. L.</author>
+        <date>2022.</date>
+        <title>Inteligência artificial aplicada ao diagnóstico de doenças raras.</title>
+        <editor>Pereira, A. S.</editor>
+        <container-title>Proceedings of the Brazilian Symposium on Bioinformatics</container-title>
+        <volume>v. 8.</volume>
+        <location>Rio de Janeiro.</location>
+        <publisher>Sociedade Brasileira de Computação.</publisher>
+        <pages>p. 112-125.</pages>
+        <doi>10.5753/bsbio.2022.1234</doi>
+    </sequence>
+    <sequence>
+        <author>Ferreira, J. P., Souza, T. R., &amp; Almeida, C. A.</author>
+        <date>2024.</date>
+        <title>Blockchain para transparência em contratos públicos.</title>
+        <container-title>Anais da Conferência Internacional de Tecnologia da Informação</container-title>
+        <location>Brasília.</location>
+        <publisher>Universidade de Brasília.</publisher>
+        <pages>p. 45-59.</pages>
+    </sequence>
+    <sequence>
+        <author>Rodrigues, C. M.</author>
+        <date>2023.</date>
+        <title>Gestão de resíduos eletrônicos: modelo de economia circular.</title>
+        <editor>Martins, P. H., &amp; Lima, D. C.</editor>
+        <container-title>Anais do Congresso Brasileiro de Engenharia Ambiental</container-title>
+        <volume>t. 2.</volume>
+        <location>Curitiba.</location>
+        <publisher>Associação Brasileira de Engenharia Sanitária e Ambiental.</publisher>
+        <pages>p. 567-580.</pages>
+    </sequence>
+    <sequence>
+        <author>Souza, A. M., &amp; Carvalho, F. L.</author>
+        <date>2022.</date>
+        <title>Práticas pedagógicas inovadoras no ensino híbrido.</title>
+        <container-title>Proceedings of the Congress on Educational Technology</container-title>
+        <location>Fortaleza.</location>
+        <publisher>Universidade Federal do Ceará.</publisher>
+        <pages>p. 89-102.</pages>
+    </sequence>
+    <sequence>
+        <author>Nascimento, R. M.</author>
+        <date>2024.</date>
+        <title>Efeitos das mudanças climáticas na agricultura familiar nordestina.</title>
+        <editor>Barros, S. P., Dias, M. C., &amp; Correia, A. L.</editor>
+        <container-title>Anais do Simpósio Brasileiro de Sustentabilidade</container-title>
+        <volume>n. 10.</volume>
+        <location>Recife.</location>
+        <publisher>Editora UFPE.</publisher>
+        <pages>p. 178-195.</pages>
+    </sequence>
+    <sequence>
+        <author>Pinto, R. S.</author>
+        <date>2023.</date>
+        <title>Análise de políticas de redução de emissões no transporte urbano.</title>
+        <container-title>Anais da Conferência sobre Mudanças Climáticas</container-title>
+        <location>Belo Horizonte.</location>
+        <publisher>Instituto de Ciências Sociais Aplicadas.</publisher>
+        <pages>p. 312-328.</pages>
+    </sequence>
+    <sequence>
+        <author>Gomes, T. M., &amp; Azevedo, L. P.</author>
+        <date>2022.</date>
+        <title>Qualidade de vida de idosos em instituições de longa permanência.</title>
+        <editor>Campos, J. R.</editor>
+        <container-title>Anais do Congresso Brasileiro de Gerontologia</container-title>
+        <location>Porto Alegre.</location>
+        <publisher>Sociedade Brasileira de Geriatria e Gerontologia.</publisher>
+        <pages>p. 201-215.</pages>
+    </sequence>
+    <sequence>
+        <author>Moreira, C. A.</author>
+        <date>2024.</date>
+        <title>Governança colaborativa em arranjos intermunicipais de saúde.</title>
+        <container-title>Proceedings of the International Conference on Public Policy</container-title>
+        <volume>v. 3.</volume>
+        <location>São Paulo.</location>
+        <publisher>Fundação Getulio Vargas.</publisher>
+        <pages>p. 67-84.</pages>
+        <doi>10.12662/icpp.v3.2024.67-84</doi>
+    </sequence>
+    <sequence>
+        <author>Castro, M. F., &amp; Nogueira, P. R.</author>
+        <date>2023.</date>
+        <title>Formação continuada de professores para educação digital.</title>
+        <editor>Vieira, S. L.</editor>
+        <container-title>Anais do Seminário Nacional de Educação</container-title>
+        <location>Goiânia.</location>
+        <publisher>Universidade Federal de Goiás.</publisher>
+        <pages>p. 145-162.</pages>
+    </sequence>
+    <sequence>
+        <author>Monteiro, D. A.</author>
+        <date>2022.</date>
+        <title>Avaliação de impacto de programas de transferência de renda.</title>
+        <container-title>Anais do Encontro Nacional de Economia</container-title>
+        <volume>n. 50.</volume>
+        <location>Salvador.</location>
+        <publisher>Associação Nacional dos Centros de Pós-Graduação em Economia.</publisher>
+        <pages>p. 890-910.</pages>
+    </sequence>
+    <sequence>
+        <author>Teixeira, R. M., &amp; Farias, A. C.</author>
+        <date>2024.</date>
+        <title>Aplicativos móveis para educação financeira escolar.</title>
+        <editor>Guimarães, L. S., &amp; Rocha, F. M.</editor>
+        <container-title>Anais da Jornada de Iniciação Científica em Computação</container-title>
+        <location>Manaus.</location>
+        <publisher>Sociedade Brasileira de Computação.</publisher>
+        <pages>p. 34-47.</pages>
+    </sequence>
+    <sequence>
+        <author>Medeiros, T. P.</author>
+        <date>2023.</date>
+        <title>Segurança pública e políticas de prevenção em grandes centros.</title>
+        <container-title>Anais do Congresso Brasileiro de Sociologia</container-title>
+        <volume>t. 1.</volume>
+        <location>Brasília.</location>
+        <publisher>Sociedade Brasileira de Sociologia.</publisher>
+        <pages>p. 423-440.</pages>
+    </sequence>
+    <sequence>
+        <author>Queiroz, M. R.</author>
+        <date>2022.</date>
+        <title>Detecção de fraudes em licitações usando aprendizado de máquina.</title>
+        <editor>Paiva, C. S., &amp; Bezerra, P. L.</editor>
+        <container-title>Proceedings of the Latin American Conference on Artificial Intelligence</container-title>
+        <location>Natal.</location>
+        <publisher>Springer.</publisher>
+        <pages>p. 256-270.</pages>
+        <doi>10.1007/978-3-031-12345-6_18</doi>
+    </sequence>
+    <sequence>
+        <author>Xavier, A. M.</author>
+        <date>2024.</date>
+        <title>Mediação de conflitos escolares: experiência piloto.</title>
+        <container-title>Anais do Seminário de Pesquisa em Educação</container-title>
+        <location>João Pessoa.</location>
+        <publisher>Universidade Federal da Paraíba.</publisher>
+        <pages>p. 78-92.</pages>
+    </sequence>
+    <sequence>
+        <author>Andrade, R. F., &amp; Drumond, S. C.</author>
+        <date>2023.</date>
+        <title>Classificação de imagens de satélite com redes neurais profundas.</title>
+        <editor>Tavares, M. J., &amp; Leite, A. P.</editor>
+        <container-title>Anais do Workshop de Visão Computacional</container-title>
+        <volume>n. 19.</volume>
+        <location>Florianópolis.</location>
+        <publisher>Universidade Federal de Santa Catarina.</publisher>
+        <pages>p. 123-138.</pages>
+    </sequence>
+    <sequence>
+        <author>Tavares, M. J.</author>
+        <date>2022.</date>
+        <title>Incentivos fiscais para energia solar fotovoltaica.</title>
+        <container-title>Anais do Congresso de Energia Renovável</container-title>
+        <location>São Paulo.</location>
+        <publisher>Associação Brasileira de Energia Solar.</publisher>
+        <pages>p. 345-360.</pages>
+    </sequence>
+    <sequence>
+        <author>Leite, A. P., &amp; Marques, D. L.</author>
+        <date>2024.</date>
+        <title>Práticas integrativas no SUS: revisão sistemática.</title>
+        <editor>Prado, L. M.</editor>
+        <container-title>Anais do Congresso Brasileiro de Saúde Coletiva</container-title>
+        <location>Rio de Janeiro.</location>
+        <publisher>Associação Brasileira de Saúde Coletiva.</publisher>
+        <pages>p. 512-528.</pages>
+    </sequence>
+    <sequence>
+        <author>Resende, C. F.</author>
+        <date>2023.</date>
+        <title>Políticas de inovação em universidades públicas.</title>
+        <container-title>Proceedings of the Conference on Innovation and Technology</container-title>
+        <volume>v. 7.</volume>
+        <location>Belo Horizonte.</location>
+        <publisher>Universidade Federal de Minas Gerais.</publisher>
+        <pages>p. 189-205.</pages>
+        <doi>10.5753/cit.2023.189</doi>
+    </sequence>
+    <sequence>
+        <author>Vargas, T. R., &amp; Gonçalves, P. A.</author>
+        <date>2022.</date>
+        <title>Processamento de linguagem natural para português jurídico.</title>
+        <editor>Batista, M. S., &amp; Freitas, R. L.</editor>
+        <container-title>Anais do Simpósio Brasileiro de Processamento de Linguagem Natural</container-title>
+        <location>Curitiba.</location>
+        <publisher>Sociedade Brasileira de Computação.</publisher>
+        <pages>p. 67-81.</pages>
+    </sequence>
+    <sequence>
+        <author>Albuquerque, J. C.</author>
+        <date>2024.</date>
+        <title>Computação quântica: aplicações em criptografia.</title>
+        <container-title>Anais da Escola Regional de Informática</container-title>
+        <volume>n. 24.</volume>
+        <location>Porto Alegre.</location>
+        <publisher>Sociedade Brasileira de Computação.</publisher>
+        <pages>p. 234-248.</pages>
+    </sequence>
+    <sequence>
+        <author>Mendonça, L. R., &amp; Souza, K. M.</author>
+        <date>2023.</date>
+        <title>Acessibilidade digital em portais governamentais.</title>
+        <editor>Ribeiro, T. A.</editor>
+        <container-title>Anais do Congresso Brasileiro de Informática na Educação</container-title>
+        <location>Recife.</location>
+        <publisher>Sociedade Brasileira de Computação.</publisher>
+        <pages>p. 456-470.</pages>
+    </sequence>
+    <sequence>
+        <author>Cordeiro, A. F.</author>
+        <date>2022.</date>
+        <title>Mineração de dados educacionais para evasão escolar.</title>
+        <container-title>Proceedings of the Brazilian Conference on Intelligent Systems</container-title>
+        <location>Brasília.</location>
+        <publisher>IEEE Computer Society.</publisher>
+        <pages>p. 178-192.</pages>
+        <doi>10.1109/BRACIS56087.2022.00034</doi>
+    </sequence>
+    <sequence>
+        <author>Funari, M. P., &amp; Gregori, M. L.</author>
+        <date>2024.</date>
+        <title>Otimização de rotas logísticas com algoritmos bioinspirados.</title>
+        <editor>Nakamura, E. Y.</editor>
+        <container-title>Anais do Simpósio de Pesquisa Operacional</container-title>
+        <volume>t. 3.</volume>
+        <location>Campinas.</location>
+        <publisher>Sociedade Brasileira de Pesquisa Operacional.</publisher>
+        <pages>p. 289-304.</pages>
+    </sequence>
+    <sequence>
+        <author>Hessel, P. A.</author>
+        <date>2023.</date>
+        <title>Telemedicina em áreas remotas da Amazônia.</title>
+        <container-title>Anais do Congresso de Telessaúde</container-title>
+        <location>Belém.</location>
+        <publisher>Universidade Federal do Pará.</publisher>
+        <pages>p. 123-137.</pages>
+    </sequence>
+    <sequence>
+        <author>Issa, J. H., &amp; Junqueira, L. M.</author>
+        <date>2022.</date>
+        <title>Governança de TI em organizações públicas.</title>
+        <editor>Koga, R. T.</editor>
+        <container-title>Anais da Conferência de Gestão Pública</container-title>
+        <location>São Paulo.</location>
+        <publisher>Fundação Instituto de Administração.</publisher>
+        <pages>p. 345-360.</pages>
+    </sequence>
+    <sequence>
+        <author>Kramer, C. V.</author>
+        <date>2024.</date>
+        <title>Educação ambiental e conservação de recursos hídricos.</title>
+        <container-title>Anais do Seminário de Meio Ambiente</container-title>
+        <volume>n. 12.</volume>
+        <location>Curitiba.</location>
+        <publisher>Instituto Ambiental do Paraná.</publisher>
+        <pages>p. 89-104.</pages>
+    </sequence>
+    <sequence>
+        <author>Lins, R. B., &amp; Maia, C. E.</author>
+        <date>2023.</date>
+        <title>Análise de sentimentos em redes sociais políticas.</title>
+        <editor>Nunes, F. G.</editor>
+        <container-title>Anais do Workshop de Computação Aplicada</container-title>
+        <location>Natal.</location>
+        <publisher>Sociedade Brasileira de Computação.</publisher>
+        <pages>p. 201-216.</pages>
+    </sequence>
+    <sequence>
+        <author>Moura, G. P.</author>
+        <date>2022.</date>
+        <title>Realidade aumentada para ensino de ciências.</title>
+        <container-title>Proceedings of the Symposium on Virtual and Augmented Reality</container-title>
+        <location>Rio de Janeiro.</location>
+        <publisher>Sociedade Brasileira de Computação.</publisher>
+        <pages>p. 156-170.</pages>
+        <doi>10.5753/svr.2022.156</doi>
+    </sequence>
+    <sequence>
+        <author>Nobrega, S. R., &amp; Orsini, M. Q.</author>
+        <date>2024.</date>
+        <title>Interfaces cérebro-computador para reabilitação.</title>
+        <editor>Pires, L. A.</editor>
+        <container-title>Anais do Congresso de Engenharia Biomédica</container-title>
+        <volume>v. 28.</volume>
+        <location>São Carlos.</location>
+        <publisher>Universidade Federal de São Carlos.</publisher>
+        <pages>p. 412-427.</pages>
+    </sequence>
+    <sequence>
+        <author>Pacheco, D. M.</author>
+        <date>2023.</date>
+        <title>Cidades inteligentes e mobilidade urbana sustentável.</title>
+        <container-title>Anais da Conferência Brasileira de Smart Cities</container-title>
+        <location>Belo Horizonte.</location>
+        <publisher>Associação Nacional de Transportes Públicos.</publisher>
+        <pages>p. 234-249.</pages>
+    </sequence>
+    <sequence>
+        <author>Quintela, R. F., &amp; Ramos, A. C.</author>
+        <date>2022.</date>
+        <title>Segurança em Internet das Coisas industrial.</title>
+        <editor>Siqueira, M. H.</editor>
+        <container-title>Anais do Simpósio Brasileiro de Segurança da Informação</container-title>
+        <location>Fortaleza.</location>
+        <publisher>Sociedade Brasileira de Computação.</publisher>
+        <pages>p. 78-93.</pages>
+    </sequence>
+    <sequence>
+        <author>Rios, F. L.</author>
+        <date>2024.</date>
+        <title>Agricultura de precisão com drones e sensores.</title>
+        <container-title>Anais do Congresso de Agricultura Digital</container-title>
+        <volume>n. 5.</volume>
+        <location>Goiânia.</location>
+        <publisher>Embrapa.</publisher>
+        <pages>p. 167-182.</pages>
+    </sequence>
+    <sequence>
+        <author>Simões, C. P., &amp; Trindade, J. B.</author>
+        <date>2023.</date>
+        <title>Preservação digital de acervos históricos.</title>
+        <editor>Uchôa, A. M.</editor>
+        <container-title>Anais do Seminário de Biblioteconomia</container-title>
+        <location>Salvador.</location>
+        <publisher>Associação Brasileira de Bibliotecários.</publisher>
+        <pages>p. 312-327.</pages>
+    </sequence>
+    <sequence>
+        <author>Teles, M. O.</author>
+        <date>2022.</date>
+        <title>Biometria facial para autenticação em dispositivos móveis.</title>
+        <container-title>Proceedings of the Iberian Conference on Information Systems</container-title>
+        <location>Foz do Iguaçu.</location>
+        <publisher>IEEE.</publisher>
+        <pages>p. 445-459.</pages>
+        <doi>10.23919/CISTI58030.2022.9821456</doi>
+    </sequence>
+    <sequence>
+        <author>Urias, P. G., &amp; Viana, R. S.</author>
+        <date>2024.</date>
+        <title>Energia eólica offshore no litoral brasileiro.</title>
+        <editor>Xavier, M. C.</editor>
+        <container-title>Anais do Congresso de Energias Renováveis</container-title>
+        <volume>t. 2.</volume>
+        <location>Florianópolis.</location>
+        <publisher>Centro de Referência para Energia Solar.</publisher>
+        <pages>p. 289-305.</pages>
+    </sequence>
+    <sequence>
+        <author>Vasconcelos, E. M.</author>
+        <date>2023.</date>
+        <title>Psicossomática e saúde mental no trabalho.</title>
+        <container-title>Anais do Congresso Brasileiro de Psicologia</container-title>
+        <location>Brasília.</location>
+        <publisher>Conselho Federal de Psicologia.</publisher>
+        <pages>p. 178-193.</pages>
+    </sequence>
+    <sequence>
+        <author>Watanabe, K. H., &amp; Yamamoto, R. Y.</author>
+        <date>2022.</date>
+        <title>Robótica colaborativa na indústria 4.0.</title>
+        <editor>Zanetti, P. L.</editor>
+        <container-title>Anais da Conferência de Automação Industrial</container-title>
+        <location>São Paulo.</location>
+        <publisher>Associação Brasileira de Automação.</publisher>
+        <pages>p. 234-249.</pages>
+    </sequence>
+    <sequence>
+        <author>Aquino, T. R.</author>
+        <date>2024.</date>
+        <title>Conservação de manguezais e comunidades costeiras.</title>
+        <container-title>Anais do Simpósio de Ecossistemas Costeiros</container-title>
+        <volume>n. 8.</volume>
+        <location>São Luís.</location>
+        <publisher>Universidade Federal do Maranhão.</publisher>
+        <pages>p. 123-138.</pages>
+    </sequence>
+    <sequence>
+        <author>Brito, M. S., &amp; Carneiro, L. F.</author>
+        <date>2023.</date>
+        <title>Comércio eletrônico e logística reversa.</title>
+        <editor>Dantas, I. J.</editor>
+        <container-title>Anais do Encontro de Logística e Supply Chain</container-title>
+        <location>Curitiba.</location>
+        <publisher>Universidade Federal do Paraná.</publisher>
+        <pages>p. 345-360.</pages>
+    </sequence>
+    <sequence>
+        <author>Dourado, P. R.</author>
+        <date>2022.</date>
+        <title>Neurociência cognitiva e aprendizagem matemática.</title>
+        <container-title>Proceedings of the Conference on Cognitive Science</container-title>
+        <location>Rio de Janeiro.</location>
+        <publisher>Sociedade Brasileira de Neurociências.</publisher>
+        <pages>p. 89-104.</pages>
+        <doi>10.1016/j.neurosci.2022.09.008</doi>
+    </sequence>
+    <sequence>
+        <author>Espinosa, J. M., &amp; Fuentes, A. L.</author>
+        <date>2024.</date>
+        <title>Mineração de textos jurídicos para descoberta de precedentes.</title>
+        <editor>Guedes, O. P.</editor>
+        <container-title>Anais do Workshop de Informática e Direito</container-title>
+        <volume>v. 4.</volume>
+        <location>Belo Horizonte.</location>
+        <publisher>Universidade Federal de Minas Gerais.</publisher>
+        <pages>p. 56-71.</pages>
+    </sequence>
+    <sequence>
+        <author>Fonseca, C. A.</author>
+        <date>2023.</date>
+        <title>Turismo sustentável em unidades de conservação.</title>
+        <container-title>Anais do Congresso de Turismo e Sustentabilidade</container-title>
+        <location>Manaus.</location>
+        <publisher>Instituto Brasileiro de Turismo.</publisher>
+        <pages>p. 234-249.</pages>
+    </sequence>
+    <sequence>
+        <author>Galvão, R. M., &amp; Henriques, P. S.</author>
+        <date>2022.</date>
+        <title>Genômica de patógenos emergentes.</title>
+        <editor>Ibarra, M. T.</editor>
+        <container-title>Anais do Simpósio de Genômica e Bioinformática</container-title>
+        <location>São Paulo.</location>
+        <publisher>Instituto Butantan.</publisher>
+        <pages>p. 167-182.</pages>
+    </sequence>
+    <sequence>
+        <author>Jorge, A. C.</author>
+        <date>2024.</date>
+        <title>Patrimônio cultural imaterial e identidades locais.</title>
+        <container-title>Anais do Seminário de Patrimônio Cultural</container-title>
+        <volume>n. 15.</volume>
+        <location>Ouro Preto.</location>
+        <publisher>Instituto do Patrimônio Histórico e Artístico Nacional.</publisher>
+        <pages>p. 89-104.</pages>
+    </sequence>
+    <sequence>
+        <author>Lacerda, M. V., &amp; Macedo, R. T.</author>
+        <date>2023.</date>
+        <title>Veículos autônomos e legislação brasileira.</title>
+        <editor>Nogueira, S. L.</editor>
+        <container-title>Anais do Congresso de Direito e Tecnologia</container-title>
+        <location>Porto Alegre.</location>
+        <publisher>Universidade Federal do Rio Grande do Sul.</publisher>
+        <pages>p. 312-328.</pages>
+    </sequence>
+    <sequence>
+        <author>Meireles, C. F.</author>
+        <date>2022.</date>
+        <title>Nanotecnologia para tratamento de águas residuais.</title>
+        <container-title>Proceedings of the Conference on Environmental Engineering</container-title>
+        <location>Recife.</location>
+        <publisher>Associação Brasileira de Engenharia Sanitária.</publisher>
+        <pages>p. 445-460.</pages>
+        <doi>10.1007/978-3-031-23456-7_32</doi>
+    </sequence>
+    <sequence>
+        <author>Nascimento, E. P., &amp; Oviedo, L. M.</author>
+        <date>2024.</date>
+        <title>Políticas de equidade de gênero na ciência.</title>
+        <editor>Pedrosa, I. R.</editor>
+        <container-title>Anais do Congresso de Estudos de Gênero</container-title>
+        <volume>t. 1.</volume>
+        <location>Florianópolis.</location>
+        <publisher>Associação Brasileira de Estudos Populacionais.</publisher>
+        <pages>p. 178-194.</pages>
+    </sequence>
+    <sequence>
+        <author>Queirós, A. M.</author>
+        <date>2023.</date>
+        <title>Fotônica integrada para comunicações ópticas.</title>
+        <container-title>Anais do Simpósio de Fotônica</container-title>
+        <location>Campinas.</location>
+        <publisher>Centro de Inovação em Fotônica.</publisher>
+        <pages>p. 56-70.</pages>
+    </sequence>
+    <sequence>
+        <author>Reis, F. A., &amp; Soares, B. C.</author>
+        <date>2022.</date>
+        <title>Economia criativa e desenvolvimento local.</title>
+        <editor>Toledo, J. P.</editor>
+        <container-title>Anais do Encontro de Economia Criativa</container-title>
+        <location>Salvador.</location>
+        <publisher>Universidade Federal da Bahia.</publisher>
+        <pages>p. 234-250.</pages>
+    </sequence>
+    <sequence>
+        <author>Santana, R. L.</author>
+        <date>2024.</date>
+        <title>Biomateriais para engenharia de tecidos.</title>
+        <container-title>Anais do Congresso de Biomateriais</container-title>
+        <volume>n. 11.</volume>
+        <location>São Carlos.</location>
+        <publisher>Universidade Federal de São Carlos.</publisher>
+        <pages>p. 123-138.</pages>
+    </sequence>
+    <sequence>
+        <author>Torres, M. A., &amp; Ubatuba, F. G.</author>
+        <date>2023.</date>
+        <title>Arqueologia digital e reconstrução 3D de sítios.</title>
+        <editor>Ventura, D. L.</editor>
+        <container-title>Anais do Seminário de Arqueologia</container-title>
+        <location>Pedra Furada.</location>
+        <publisher>Associação Científica de Arqueologia.</publisher>
+        <pages>p. 89-105.</pages>
+    </sequence>
+    <sequence>
+        <author>Valente, P. R.</author>
+        <date>2022.</date>
+        <title>Segurança alimentar e nutricional em comunidades quilombolas.</title>
+        <container-title>Anais do Congresso de Segurança Alimentar</container-title>
+        <location>Goiânia.</location>
+        <publisher>Conselho Nacional de Segurança Alimentar.</publisher>
+        <pages>p. 345-361.</pages>
+    </sequence>
+    <sequence>
+        <author>Ximenes, A. C., &amp; Zarif, M. H.</author>
+        <date>2024.</date>
+        <title>Computação em névoa para cidades inteligentes.</title>
+        <editor>Andrade, B. F.</editor>
+        <container-title>Proceedings of the Edge Computing Symposium</container-title>
+        <volume>v. 6.</volume>
+        <location>Rio de Janeiro.</location>
+        <publisher>Sociedade Brasileira de Computação.</publisher>
+        <pages>p. 167-183.</pages>
+        <doi>10.5753/ecs.2024.167</doi>
+    </sequence>
+    <sequence>
+        <author>Arruda, S. M.</author>
+        <date>2023.</date>
+        <title>Etnomatemática e saberes tradicionais.</title>
+        <container-title>Anais do Seminário de Etnomatemática</container-title>
+        <location>Belém.</location>
+        <publisher>Sociedade Brasileira de Educação Matemática.</publisher>
+        <pages>p. 78-93.</pages>
+    </sequence>
+    <sequence>
+        <author>Barreto, L. C., &amp; Coutinho, R. M.</author>
+        <date>2022.</date>
+        <title>Dinâmica de sistemas complexos em epidemias.</title>
+        <editor>Frazão, A. P.</editor>
+        <container-title>Anais do Workshop de Sistemas Complexos</container-title>
+        <location>São Paulo.</location>
+        <publisher>Instituto de Física Teórica.</publisher>
+        <pages>p. 201-217.</pages>
+    </sequence>
+    <sequence>
+        <author>Camargo, P. H.</author>
+        <date>2024.</date>
+        <title>Microplásticos em ecossistemas aquáticos.</title>
+        <container-title>Anais do Congresso de Oceanografia</container-title>
+        <volume>n. 20.</volume>
+        <location>Rio Grande.</location>
+        <publisher>Associação Brasileira de Oceanografia.</publisher>
+        <pages>p. 312-328.</pages>
+    </sequence>
+    <sequence>
+        <author>Dias, R. C., &amp; Esteves, M. L.</author>
+        <date>2023.</date>
+        <title>Literacia de dados na educação básica.</title>
+        <editor>Garcia, S. T.</editor>
+        <container-title>Anais da Conferência de Educação Estatística</container-title>
+        <location>Natal.</location>
+        <publisher>Sociedade Brasileira de Educação Matemática.</publisher>
+        <pages>p. 145-161.</pages>
+    </sequence>
+    <sequence>
+        <author>Figueiredo, A. J.</author>
+        <date>2022.</date>
+        <title>Espectroscopia Raman para diagnóstico médico.</title>
+        <container-title>Proceedings of the Conference on Photonics</container-title>
+        <location>Florianópolis.</location>
+        <publisher>Sociedade Brasileira de Física.</publisher>
+        <pages>p. 234-249.</pages>
+        <doi>10.1063/1.2345678</doi>
+    </sequence>
+    <sequence>
+        <author>Green, T. A., &amp; Harris, N. P.</author>
+        <date>2024.</date>
+        <title>Collaborative learning environments in Brazilian universities.</title>
+        <editor>Hernandes, O. M.</editor>
+        <container-title>Anais da Conferência Internacional de Educação Superior</container-title>
+        <volume>t. 3.</volume>
+        <location>Campinas.</location>
+        <publisher>Universidade Estadual de Campinas.</publisher>
+        <pages>p. 456-472.</pages>
+    </sequence>
+    <sequence>
+        <author>Heitor, M. R.</author>
+        <date>2023.</date>
+        <title>Gestão de riscos de desastres naturais.</title>
+        <container-title>Anais do Congresso de Defesa Civil</container-title>
+        <location>Petrópolis.</location>
+        <publisher>Instituto Brasileiro de Administração Municipal.</publisher>
+        <pages>p. 89-104.</pages>
+    </sequence>
+    <sequence>
+        <author>Infante, C. L., &amp; Jardim, P. S.</author>
+        <date>2022.</date>
+        <title>Metabolômica de plantas medicinais.</title>
+        <editor>Klein, A. R.</editor>
+        <container-title>Anais do Simpósio de Química de Produtos Naturais</container-title>
+        <location>Manaus.</location>
+        <publisher>Sociedade Brasileira de Química.</publisher>
+        <pages>p. 178-193.</pages>
+    </sequence>
+    <sequence>
+        <author>Kfouri, A. M.</author>
+        <date>2024.</date>
+        <title>Vacinação e saúde pública: lições da pandemia.</title>
+        <container-title>Anais do Congresso de Imunologia</container-title>
+        <volume>n. 25.</volume>
+        <location>São Paulo.</location>
+        <publisher>Sociedade Brasileira de Imunologia.</publisher>
+        <pages>p. 234-250.</pages>
+    </sequence>
+    <sequence>
+        <author>Larsson, K., &amp; Magnusson, P.</author>
+        <date>2023.</date>
+        <title>Sustainable forestry practices in the Amazon.</title>
+        <editor>Martinez, R. L.</editor>
+        <container-title>Proceedings of the International Forestry Conference</container-title>
+        <location>Curitiba.</location>
+        <publisher>International Union of Forest Research Organizations.</publisher>
+        <pages>p. 312-328.</pages>
+        <doi>10.1007/978-3-031-34567-8_24</doi>
+    </sequence>
+    <sequence>
+        <author>Matos, F. G.</author>
+        <date>2022.</date>
+        <title>Inteligência emocional e liderança organizacional.</title>
+        <container-title>Anais do Encontro de Administração de Empresas</container-title>
+        <volume>v. 18.</volume>
+        <location>Porto Alegre.</location>
+        <publisher>Associação Nacional de Pós-Graduação e Pesquisa em Administração.</publisher>
+        <pages>p. 567-583.</pages>
+    </sequence>
+    <sequence>
+        <author>Napoli, M. V., &amp; Ortega, L. P.</author>
+        <date>2024.</date>
+        <title>Hidroginástica para idosos: benefícios cardiovasculares.</title>
+        <editor>Pinto, R. A.</editor>
+        <container-title>Anais do Congresso de Ciências do Esporte</container-title>
+        <location>Rio de Janeiro.</location>
+        <publisher>Colégio Brasileiro de Ciências do Esporte.</publisher>
+        <pages>p. 123-138.</pages>
+    </sequence>
+    <sequence>
+        <author>Oliveira, E. M.</author>
+        <date>2023.</date>
+        <title>Curadoria de dados científicos em repositórios institucionais.</title>
+        <container-title>Anais do Seminário de Biblioteconomia Digital</container-title>
+        <location>Belo Horizonte.</location>
+        <publisher>Associação Brasileira de Bibliotecários.</publisher>
+        <pages>p. 201-216.</pages>
+    </sequence>
+    <sequence>
+        <author>Pereira, L. H., &amp; Quaresma, M. S.</author>
+        <date>2022.</date>
+        <title>Fotovoltaico orgânico: novos materiais.</title>
+        <editor>Ramalho, A. C.</editor>
+        <container-title>Anais do Simpósio de Energia Solar</container-title>
+        <volume>t. 7.</volume>
+        <location>Fortaleza.</location>
+        <publisher>Centro de Referência para Energia Solar.</publisher>
+        <pages>p. 89-105.</pages>
+    </sequence>
+    <sequence>
+        <author>Rocha, D. M.</author>
+        <date>2024.</date>
+        <title>Governança de dados em hospitais universitários.</title>
+        <container-title>Anais da Conferência de Informática em Saúde</container-title>
+        <location>São Paulo.</location>
+        <publisher>Sociedade Brasileira de Informática em Saúde.</publisher>
+        <pages>p. 345-361.</pages>
+    </sequence>
+    <sequence>
+        <author>Silveira, A. P., &amp; Tavares, R. C.</author>
+        <date>2023.</date>
+        <title>Antropoceno e justiça ambiental.</title>
+        <editor>Umarizales, M. G.</editor>
+        <container-title>Anais do Congresso de Ciências Ambientais</container-title>
+        <volume>n. 14.</volume>
+        <location>Brasília.</location>
+        <publisher>Instituto Brasileiro do Meio Ambiente.</publisher>
+        <pages>p. 178-194.</pages>
+    </sequence>
+    <sequence>
+        <author>Trigueiro, A. L.</author>
+        <date>2022.</date>
+        <title>Jornalismo de dados e transparência pública.</title>
+        <container-title>Anais do Congresso de Jornalismo</container-title>
+        <location>Florianópolis.</location>
+        <publisher>Sociedade Brasileira de Estudos Interdisciplinares da Comunicação.</publisher>
+        <pages>p. 234-250.</pages>
+    </sequence>
+    <sequence>
+        <author>Uchoa, F. M., &amp; Velloso, R. T.</author>
+        <date>2024.</date>
+        <title>Acústica arquitetônica em teatros históricos.</title>
+        <editor>Werneck, L. P.</editor>
+        <container-title>Anais do Seminário de Acústica</container-title>
+        <location>Rio de Janeiro.</location>
+        <publisher>Sociedade Brasileira de Acústica.</publisher>
+        <pages>p. 67-82.</pages>
+    </sequence>
+    <sequence>
+        <author>Viana, M. A.</author>
+        <date>2023.</date>
+        <title>Políticas de memória e arquivos da ditadura.</title>
+        <container-title>Anais do Encontro de Arquivos</container-title>
+        <volume>v. 9.</volume>
+        <location>São Paulo.</location>
+        <publisher>Conselho Nacional de Arquivos.</publisher>
+        <pages>p. 312-328.</pages>
+    </sequence>
+    <sequence>
+        <author>Zanetti, R. M., &amp; Alves, C. F.</author>
+        <date>2022.</date>
+        <title>Compósitos de fibra natural para construção civil.</title>
+        <editor>Borges, T. S.</editor>
+        <container-title>Anais do Congresso de Materiais</container-title>
+        <location>Gramado.</location>
+        <publisher>Associação Brasileira de Metalurgia.</publisher>
+        <pages>p. 445-461.</pages>
+    </sequence>
+    <sequence>
+        <author>Aguiar, L. F.</author>
+        <date>2024.</date>
+        <title>Tradução automática para línguas indígenas.</title>
+        <container-title>Anais do Workshop de Línguas Indígenas</container-title>
+        <location>Manaus.</location>
+        <publisher>Instituto do Patrimônio Histórico e Artístico Nacional.</publisher>
+        <pages>p. 89-104.</pages>
+    </sequence>
+    <sequence>
+        <author>Bessa, M. H., &amp; Castro, D. R.</author>
+        <date>2023.</date>
+        <title>Finanças comportamentais e investimentos.</title>
+        <editor>Delgado, P. M.</editor>
+        <container-title>Anais do Encontro de Finanças</container-title>
+        <volume>n. 22.</volume>
+        <location>São Paulo.</location>
+        <publisher>Fundação Instituto de Pesquisas Contábeis.</publisher>
+        <pages>p. 234-250.</pages>
+    </sequence>
+    <sequence>
+        <author>Correia, J. A.</author>
+        <date>2022.</date>
+        <title>Cartografia social de comunidades tradicionais.</title>
+        <container-title>Anais do Seminário de Cartografia</container-title>
+        <location>Salvador.</location>
+        <publisher>Instituto Brasileiro de Geografia e Estatística.</publisher>
+        <pages>p. 156-171.</pages>
+    </sequence>
+    <sequence>
+        <author>Duarte, S. P., &amp; Evangelista, M. R.</author>
+        <date>2024.</date>
+        <title>Odontologia digital e impressão 3D.</title>
+        <editor>Figueiredo, L. A.</editor>
+        <container-title>Anais do Congresso de Odontologia</container-title>
+        <volume>t. 5.</volume>
+        <location>Belo Horizonte.</location>
+        <publisher>Conselho Federal de Odontologia.</publisher>
+        <pages>p. 312-328.</pages>
+    </sequence>
+    <sequence>
+        <author>Guedes, P. M.</author>
+        <date>2023.</date>
+        <title>Hidrologia de bacias amazônicas.</title>
+        <container-title>Anais do Simpósio de Recursos Hídricos</container-title>
+        <location>Porto Velho.</location>
+        <publisher>Associação Brasileira de Recursos Hídricos.</publisher>
+        <pages>p. 78-93.</pages>
+    </sequence>
+    <sequence>
+        <author>Hojeije, M. L., &amp; Ibrahim, R. S.</author>
+        <date>2022.</date>
+        <title>Telecirurgia e robótica médica.</title>
+        <editor>Jordão, A. C.</editor>
+        <container-title>Anais do Congresso de Cirurgia</container-title>
+        <location>Rio de Janeiro.</location>
+        <publisher>Colégio Brasileiro de Cirurgiões.</publisher>
+        <pages>p. 201-217.</pages>
+        <doi>10.1016/j.rbcd.2022.08.012</doi>
+    </sequence>
+    <sequence>
+        <author>Kanaan, R. M.</author>
+        <date>2024.</date>
+        <title>Psicanálise e cultura contemporânea.</title>
+        <container-title>Anais do Congresso de Psicanálise</container-title>
+        <volume>n. 30.</volume>
+        <location>Curitiba.</location>
+        <publisher>Instituto Brasileiro de Psicanálise.</publisher>
+        <pages>p. 145-160.</pages>
+    </sequence>
+    <sequence>
+        <author>Lima, A. T., &amp; Moreira, B. S.</author>
+        <date>2023.</date>
+        <title>Geoquímica de solos tropicais.</title>
+        <editor>Napoles, R. G.</editor>
+        <container-title>Anais do Congresso de Geologia</container-title>
+        <location>Gramado.</location>
+        <publisher>Sociedade Brasileira de Geologia.</publisher>
+        <pages>p. 389-405.</pages>
+    </sequence>
+    <sequence>
+        <author>Osório, C. M.</author>
+        <date>2022.</date>
+        <title>Educação do campo e saberes locais.</title>
+        <container-title>Anais do Seminário de Educação Rural</container-title>
+        <location>Goiânia.</location>
+        <publisher>Universidade Federal de Goiás.</publisher>
+        <pages>p. 234-250.</pages>
+    </sequence>
+    <sequence>
+        <author>Padilha, R. F., &amp; Queiroga, M. V.</author>
+        <date>2024.</date>
+        <title>Nutrição esportiva de alto rendimento.</title>
+        <editor>Ribeiro, S. L.</editor>
+        <container-title>Anais do Congresso de Nutrição</container-title>
+        <volume>v. 12.</volume>
+        <location>Fortaleza.</location>
+        <publisher>Sociedade Brasileira de Alimentação e Nutrição.</publisher>
+        <pages>p. 167-183.</pages>
+    </sequence>
+    <sequence>
+        <author>Queiroz, D. L.</author>
+        <date>2023.</date>
+        <title>Sismotectônica da plataforma brasileira.</title>
+        <container-title>Anais do Simpósio de Sismologia</container-title>
+        <location>Brasília.</location>
+        <publisher>Observatório Sismológico.</publisher>
+        <pages>p. 56-71.</pages>
+    </sequence>
+    <sequence>
+        <author>Ramos, E. A., &amp; Silva, F. N.</author>
+        <date>2022.</date>
+        <title>Didática da matemática no ensino fundamental.</title>
+        <editor>Tristan, A. M.</editor>
+        <container-title>Anais do Encontro de Educação Matemática</container-title>
+        <location>Cuiabá.</location>
+        <publisher>Sociedade Brasileira de Educação Matemática.</publisher>
+        <pages>p. 312-328.</pages>
+    </sequence>
+    <sequence>
+        <author>Siqueira, G. P.</author>
+        <date>2024.</date>
+        <title>Fitoquímica de plantas do Cerrado.</title>
+        <container-title>Anais do Congresso de Química</container-title>
+        <volume>n. 40.</volume>
+        <location>Águas de Lindoia.</location>
+        <publisher>Sociedade Brasileira de Química.</publisher>
+        <pages>p. 234-250.</pages>
+    </sequence>
+    <sequence>
+        <author>Tomaz, R. M., &amp; Ursulini, P. S.</author>
+        <date>2023.</date>
+        <title>Gestão de pessoas em organizações públicas.</title>
+        <editor>Vieira, M. A.</editor>
+        <container-title>Anais do Encontro de Administração Pública</container-title>
+        <location>Porto Alegre.</location>
+        <publisher>Associação Nacional de Pós-Graduação e Pesquisa em Administração.</publisher>
+        <pages>p. 456-472.</pages>
+    </sequence>
+    <sequence>
+        <author>Veloso, A. C.</author>
+        <date>2022.</date>
+        <title>Arquitetura vernacular e sustentabilidade.</title>
+        <container-title>Anais do Seminário de Arquitetura</container-title>
+        <volume>t. 8.</volume>
+        <location>Ouro Preto.</location>
+        <publisher>Instituto de Arquitetos do Brasil.</publisher>
+        <pages>p. 89-105.</pages>
+    </sequence>
+    <sequence>
+        <author>Willers, M. C., &amp; Xavier, P. L.</author>
+        <date>2024.</date>
+        <title>Biologia sintética e biossegurança.</title>
+        <editor>Yokoya, K. S.</editor>
+        <container-title>Anais do Congresso de Biotecnologia</container-title>
+        <location>Campinas.</location>
+        <publisher>Associação Brasileira de Biotecnologia.</publisher>
+        <pages>p. 178-194.</pages>
+    </sequence>
+    <sequence>
+        <author>Zanotto, D. M.</author>
+        <date>2023.</date>
+        <title>Vidro metálico: propriedades e aplicações.</title>
+        <container-title>Anais do Simpósio de Ciência dos Materiais</container-title>
+        <location>Florianópolis.</location>
+        <publisher>Associação Brasileira de Metalurgia.</publisher>
+        <pages>p. 312-328.</pages>
+    </sequence>
+    <sequence>
+        <author>Amaral, R. S., &amp; Borges, M. T.</author>
+        <date>2022.</date>
+        <title>Historiografia da ciência no Brasil.</title>
+        <editor>Costa, J. R.</editor>
+        <container-title>Anais do Seminário de História da Ciência</container-title>
+        <volume>n. 16.</volume>
+        <location>São Paulo.</location>
+        <publisher>Sociedade Brasileira de História da Ciência.</publisher>
+        <pages>p. 145-161.</pages>
+    </sequence>
+    <sequence>
+        <author>Cunha, A. M.</author>
+        <date>2024.</date>
+        <title>Paleontologia de vertebrados do Triássico.</title>
+        <container-title>Anais do Congresso de Paleontologia</container-title>
+        <location>Santa Maria.</location>
+        <publisher>Sociedade Brasileira de Paleontologia.</publisher>
+        <pages>p. 234-250.</pages>
+    </sequence>
+    <sequence>
+        <author>Delgado, F. R., &amp; Esteves, P. L.</author>
+        <date>2023.</date>
+        <title>Filosofia da tecnologia e ética digital.</title>
+        <editor>Ferreira, M. S.</editor>
+        <container-title>Anais do Congresso de Filosofia</container-title>
+        <volume>v. 15.</volume>
+        <location>Niterói.</location>
+        <publisher>Sociedade Brasileira de Filosofia.</publisher>
+        <pages>p. 389-405.</pages>
+    </sequence>
+    <sequence>
+        <author>Garcia, L. P.</author>
+        <date>2022.</date>
+        <title>Epidemiologia de doenças tropicais negligenciadas.</title>
+        <container-title>Proceedings of the Conference on Tropical Medicine</container-title>
+        <location>Manaus.</location>
+        <publisher>Instituto de Medicina Tropical.</publisher>
+        <pages>p. 67-82.</pages>
+        <doi>10.1590/S0036-4665202264012</doi>
+    </sequence>
+    <sequence>
+        <author>Henriques, R. M., &amp; Islas, A. D.</author>
+        <date>2024.</date>
+        <title>Design instrucional para cursos online.</title>
+        <editor>Jacinto, P. R.</editor>
+        <container-title>Anais da Conferência de Educação a Distância</container-title>
+        <volume>t. 4.</volume>
+        <location>Brasília.</location>
+        <publisher>Associação Brasileira de Educação a Distância.</publisher>
+        <pages>p. 234-250.</pages>
+    </sequence>
+    <sequence>
+        <author>Klein, S. R.</author>
+        <date>2023.</date>
+        <title>Sociolinguística urbana e variação dialetal.</title>
+        <container-title>Anais do Congresso de Linguística</container-title>
+        <location>Porto Alegre.</location>
+        <publisher>Associação Nacional de Pesquisa e Pós-Graduação em Letras e Linguística.</publisher>
+        <pages>p. 178-194.</pages>
+    </sequence>
+    <sequence>
+        <author>Lopes, C. A., &amp; Marins, P. S.</author>
+        <date>2022.</date>
+        <title>Imunoterapia para câncer de mama.</title>
+        <editor>Nunes, R. T.</editor>
+        <container-title>Anais do Congresso de Oncologia</container-title>
+        <location>Rio de Janeiro.</location>
+        <publisher>Sociedade Brasileira de Oncologia.</publisher>
+        <pages>p. 312-328.</pages>
+    </sequence>
+    <sequence>
+        <author>Ortega, M. V.</author>
+        <date>2024.</date>
+        <title>Antropologia visual e documentário etnográfico.</title>
+        <container-title>Anais do Encontro de Antropologia</container-title>
+        <volume>n. 33.</volume>
+        <location>Brasília.</location>
+        <publisher>Associação Brasileira de Antropologia.</publisher>
+        <pages>p. 456-472.</pages>
+    </sequence>
+    <sequence>
+        <author>Paes, L. H., &amp; Quadros, M. E.</author>
+        <date>2023.</date>
+        <title>Engenharia de pesca e aquicultura sustentável.</title>
+        <editor>Rodrigues, A. F.</editor>
+        <container-title>Anais do Congresso de Engenharia de Pesca</container-title>
+        <location>Florianópolis.</location>
+        <publisher>Sociedade Brasileira de Engenharia de Pesca.</publisher>
+        <pages>p. 89-105.</pages>
+    </sequence>
+    <sequence>
+        <author>Ramalho, C. M.</author>
+        <date>2022.</date>
+        <title>Física de partículas e aceleradores.</title>
+        <container-title>Anais do Workshop de Física</container-title>
+        <location>São Paulo.</location>
+        <publisher>Sociedade Brasileira de Física.</publisher>
+        <pages>p. 201-217.</pages>
+    </sequence>
+    <sequence>
+        <author>Santana, F. A., &amp; Teixeira, R. L.</author>
+        <date>2024.</date>
+        <title>Musicoterapia e saúde mental.</title>
+        <editor>Urbano, M. G.</editor>
+        <container-title>Anais do Congresso de Musicoterapia</container-title>
+        <volume>v. 10.</volume>
+        <location>Salvador.</location>
+        <publisher>União Brasileira das Associações de Musicoterapia.</publisher>
+        <pages>p. 145-161.</pages>
+    </sequence>
+    <sequence>
+        <author>Teles, D. R.</author>
+        <date>2023.</date>
+        <title>Geoprocessamento aplicado ao planejamento urbano.</title>
+        <container-title>Anais do Simpósio de Geoprocessamento</container-title>
+        <location>Belo Horizonte.</location>
+        <publisher>Instituto de Geociências.</publisher>
+        <pages>p. 234-250.</pages>
+    </sequence>
+    <sequence>
+        <author>Valadares, M. R., &amp; Wolff, A. C.</author>
+        <date>2022.</date>
+        <title>Física médica e radioterapia.</title>
+        <editor>Xavier, L. P.</editor>
+        <container-title>Anais do Congresso de Física Médica</container-title>
+        <location>São Paulo.</location>
+        <publisher>Sociedade Brasileira de Física Médica.</publisher>
+        <pages>p. 312-328.</pages>
+        <doi>10.1016/j.ejmp.2022.09.015</doi>
+    </sequence>
+    <sequence>
+        <author>Zimmer, C. E.</author>
+        <date>2024.</date>
+        <title>Estudos de tradução e literatura comparada.</title>
+        <container-title>Anais do Congresso de Tradução</container-title>
+        <volume>n. 18.</volume>
+        <location>Florianópolis.</location>
+        <publisher>Associação Nacional de Pesquisa e Pós-Graduação em Letras e Linguística.</publisher>
+        <pages>p. 178-194.</pages>
+    </sequence>
+    <sequence>
+        <author>Andrade, P. M., &amp; Batista, R. S.</author>
+        <date>2023.</date>
+        <title>Climatologia urbana e ilhas de calor.</title>
+        <editor>Correia, M. L.</editor>
+        <container-title>Anais do Congresso de Climatologia</container-title>
+        <location>Presidente Prudente.</location>
+        <publisher>Sociedade Brasileira de Meteorologia.</publisher>
+        <pages>p. 234-250.</pages>
+    </sequence>
+    <sequence>
+        <author>Dias, M. F.</author>
+        <date>2022.</date>
+        <title>Engenharia de requisitos para sistemas críticos.</title>
+        <container-title>Anais do Workshop de Engenharia de Software</container-title>
+        <volume>t. 12.</volume>
+        <location>Curitiba.</location>
+        <publisher>Sociedade Brasileira de Computação.</publisher>
+        <pages>p. 89-105.</pages>
+    </sequence>
+    <sequence>
+        <author>Elias, R. P., &amp; Freitas, S. M.</author>
+        <date>2024.</date>
+        <title>Ecotoxicologia de pesticidas.</title>
+        <editor>Gonçalves, A. R.</editor>
+        <container-title>Anais do Congresso de Toxicologia</container-title>
+        <location>Águas de Lindoia.</location>
+        <publisher>Sociedade Brasileira de Toxicologia.</publisher>
+        <pages>p. 167-183.</pages>
+    </sequence>
+    <sequence>
+        <author>Gomes, H. L.</author>
+        <date>2023.</date>
+        <title>História oral e memória operária.</title>
+        <container-title>Anais do Seminário de História Oral</container-title>
+        <location>São Paulo.</location>
+        <publisher>Associação Brasileira de História Oral.</publisher>
+        <pages>p. 312-328.</pages>
+    </sequence>
+    <sequence>
+        <author>Imbassahy, C. A., &amp; Jansen, M. R.</author>
+        <date>2022.</date>
+        <title>Oftalmologia e cirurgia refrativa.</title>
+        <editor>Khoury, D. P.</editor>
+        <container-title>Anais do Congresso de Oftalmologia</container-title>
+        <volume>n. 55.</volume>
+        <location>Fortaleza.</location>
+        <publisher>Conselho Brasileiro de Oftalmologia.</publisher>
+        <pages>p. 201-217.</pages>
+    </sequence>
+    <sequence>
+        <author>Junqueira, A. M.</author>
+        <date>2024.</date>
+        <title>Jardinagem paisagística e biodiversidade.</title>
+        <container-title>Anais do Congresso de Paisagismo</container-title>
+        <location>Curitiba.</location>
+        <publisher>Instituto de Arquitetos do Brasil.</publisher>
+        <pages>p. 78-93.</pages>
+    </sequence>
+    <sequence>
+        <author>Koga, M. S., &amp; Leme, P. C.</author>
+        <date>2023.</date>
+        <title>Cristalografia de proteínas.</title>
+        <editor>Marinho, J. R.</editor>
+        <container-title>Anais do Workshop de Biologia Estrutural</container-title>
+        <volume>v. 8.</volume>
+        <location>São Carlos.</location>
+        <publisher>Universidade de São Paulo.</publisher>
+        <pages>p. 145-161.</pages>
+    </sequence>
+    <sequence>
+        <author>Noronha, F. S.</author>
+        <date>2022.</date>
+        <title>Direito digital e proteção de dados.</title>
+        <container-title>Anais do Congresso de Direito Digital</container-title>
+        <location>Rio de Janeiro.</location>
+        <publisher>Instituto Brasileiro de Direito Digital.</publisher>
+        <pages>p. 234-250.</pages>
+    </sequence>
+    <sequence>
+        <author>Oliveira, M. A., &amp; Pontes, L. R.</author>
+        <date>2024.</date>
+        <title>Petrologia ígnea e vulcanismo.</title>
+        <editor>Queiroz, E. T.</editor>
+        <container-title>Anais do Congresso de Petrologia</container-title>
+        <volume>t. 6.</volume>
+        <location>Natal.</location>
+        <publisher>Sociedade Brasileira de Geologia.</publisher>
+        <pages>p. 389-405.</pages>
+    </sequence>
+    <sequence>
+        <author>Ribeiro, D. M.</author>
+        <date>2023.</date>
+        <title>Saúde indígena e medicina tradicional.</title>
+        <container-title>Anais do Congresso de Saúde Indígena</container-title>
+        <location>Brasília.</location>
+        <publisher>Fundação Nacional de Saúde.</publisher>
+        <pages>p. 123-138.</pages>
+    </sequence>
+    <sequence>
+        <author>Simão, P. R., &amp; Tavares, M. E.</author>
+        <date>2022.</date>
+        <title>Planejamento tributário e elisão fiscal.</title>
+        <editor>Uliana, M. C.</editor>
+        <container-title>Anais do Encontro de Contabilidade</container-title>
+        <volume>n. 18.</volume>
+        <location>Gramado.</location>
+        <publisher>Conselho Federal de Contabilidade.</publisher>
+        <pages>p. 456-472.</pages>
+    </sequence>
+    <sequence>
+        <author>Vasques, A. L.</author>
+        <date>2024.</date>
+        <title>Espectrometria de massas aplicada.</title>
+        <container-title>Anais do Congresso de Química Analítica</container-title>
+        <location>Águas de Lindoia.</location>
+        <publisher>Sociedade Brasileira de Química.</publisher>
+        <pages>p. 178-194.</pages>
+    </sequence>
+    <sequence>
+        <author>Westphal, M. R., &amp; Ximenes, P. S.</author>
+        <date>2023.</date>
+        <title>Promoção de saúde em escolas.</title>
+        <editor>Yoshida, E. M.</editor>
+        <container-title>Anais do Congresso de Saúde Escolar</container-title>
+        <volume>v. 14.</volume>
+        <location>São Paulo.</location>
+        <publisher>Sociedade Brasileira de Pediatria.</publisher>
+        <pages>p. 234-250.</pages>
+    </sequence>
+    <sequence>
+        <author>Zanetti, M. A.</author>
+        <date>2022.</date>
+        <title>Mineralogia de argilas brasileiras.</title>
+        <container-title>Anais do Congresso de Mineralogia</container-title>
+        <location>Ouro Preto.</location>
+        <publisher>Sociedade Brasileira de Mineralogia.</publisher>
+        <pages>p. 89-105.</pages>
+    </sequence>
+    <sequence>
+        <author>Abreu, C. M., &amp; Barcelos, F. R.</author>
+        <date>2024.</date>
+        <title>Engenharia sísmica e estruturas.</title>
+        <editor>Castro, N. A.</editor>
+        <container-title>Anais do Congresso de Engenharia Civil</container-title>
+        <location>Porto Alegre.</location>
+        <publisher>Associação Nacional de Engenharia Civil.</publisher>
+        <pages>p. 312-328.</pages>
+    </sequence>
+    <sequence>
+        <author>Cardoso, E. P.</author>
+        <date>2023.</date>
+        <title>Fonoaudiologia e distúrbios da linguagem.</title>
+        <container-title>Anais do Congresso de Fonoaudiologia</container-title>
+        <volume>n. 28.</volume>
+        <location>Recife.</location>
+        <publisher>Conselho Federal de Fonoaudiologia.</publisher>
+        <pages>p. 167-183.</pages>
+    </sequence>
+    <sequence>
+        <author>Dantas, M. J., &amp; Edwards, R. T.</author>
+        <date>2022.</date>
+        <title>Machine learning for biodiversity conservation.</title>
+        <editor>França, G. S.</editor>
+        <container-title>Proceedings of the Conference on Computational Ecology</container-title>
+        <location>Manaus.</location>
+        <publisher>International Society for Ecological Modelling.</publisher>
+        <pages>p. 201-217.</pages>
+        <doi>10.1016/j.ecolmodel.2022.110234</doi>
+    </sequence>
+    <sequence>
+        <author>Guimarães, S. A.</author>
+        <date>2024.</date>
+        <title>Terapia ocupacional e inclusão social.</title>
+        <container-title>Anais do Congresso de Terapia Ocupacional</container-title>
+        <volume>t. 9.</volume>
+        <location>São Paulo.</location>
+        <publisher>Associação Brasileira de Terapia Ocupacional.</publisher>
+        <pages>p. 234-250.</pages>
+    </sequence>
+    <sequence>
+        <author>Haddock, M. C., &amp; Iturriaga, L. M.</author>
+        <date>2023.</date>
+        <title>Logística humanitária e gestão de desastres.</title>
+        <editor>Juárez, P. R.</editor>
+        <container-title>Anais da Conferência de Logística</container-title>
+        <location>Curitiba.</location>
+        <publisher>Associação Nacional de Engenharia de Produção.</publisher>
+        <pages>p. 389-405.</pages>
+    </sequence>
+    <sequence>
+        <author>Khater, L. M.</author>
+        <date>2022.</date>
+        <title>Arqueologia pré-colonial brasileira.</title>
+        <container-title>Anais do Congresso de Arqueologia</container-title>
+        <location>Pedra Furada.</location>
+        <publisher>Associação Científica de Arqueologia.</publisher>
+        <pages>p. 123-138.</pages>
+    </sequence>
+</dataset>

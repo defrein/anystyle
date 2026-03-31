@@ -1,0 +1,1410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <sequence>
+        <author>Silva, A. M.</author>
+        <date>2023.</date>
+        <title>Transformação digital na administração pública brasileira.</title>
+        <publisher>Ministério da Gestão e da Inovação em Serviços Públicos.</publisher>
+        <url>https://www.gov.br/gestao/pt-br/assuntos/transformacao-digital</url>
+        <note>Acessado em 2024-02-15.</note>
+    </sequence>
+    <sequence>
+        <author>Santos, J. P., &amp; Oliveira, M. R.</author>
+        <date>2022.</date>
+        <title>Políticas de sustentabilidade ambiental no setor público.</title>
+        <url>https://www.mma.gov.br/imagens/arquivos/politicas_sustentabilidade_2022.pdf</url>
+        <note>Acessado em 2023-11-20.</note>
+    </sequence>
+    <sequence>
+        <date>2024.</date>
+        <title>Relatório anual de atividades 2023.</title>
+        <publisher>Instituto Brasileiro de Geografia e Estatística.</publisher>
+        <url>https://www.ibge.gov.br/estatisticas/relatorio-anual-2023.html</url>
+        <note>Acessado em 2024-03-10.</note>
+    </sequence>
+    <sequence>
+        <title>Guia de boas práticas para acessibilidade digital.</title>
+        <publisher>Secretaria de Governo Digital.</publisher>
+        <url>https://www.gov.br/sgd/pt-br/acessibilidade/guia</url>
+        <note>Acessado em 2024-01-28.</note>
+    </sequence>
+    <sequence>
+        <author>Costa, R. F.</author>
+        <date>2023.</date>
+        <title>Análise de dados abertos governamentais: desafios e oportunidades.</title>
+        <url>https://dados.gov.br/publicacoes/analise-dados-abertos-2023/</url>
+        <note>Acessado em 2023-12-05.</note>
+    </sequence>
+    <sequence>
+        <author>Ferreira, L. M., Souza, T. R., &amp; Almeida, C. A.</author>
+        <date>2022.</date>
+        <title>Impactos da inteligência artificial no setor saúde.</title>
+        <publisher>Ministério da Saúde.</publisher>
+        <url>https://www.gov.br/saude/pt-br/composicao/sctie/anexos/relatorio-ia-saude-2022.pdf</url>
+        <note>Acessado em 2023-09-18.</note>
+    </sequence>
+    <sequence>
+        <title>Portal da Transparência: manual do usuário.</title>
+        <publisher>Controladoria-Geral da União.</publisher>
+        <url>https://portaldatransparencia.gov.br/manual</url>
+    </sequence>
+    <sequence>
+        <author>Pereira, M. S.</author>
+        <date>2021.</date>
+        <title>Educação a distância no ensino superior brasileiro.</title>
+        <publisher>Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira.</publisher>
+        <url>https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ead</url>
+        <note>Acessado em 2022-06-30.</note>
+    </sequence>
+    <sequence>
+        <date>2023.</date>
+        <title>Estatísticas de comércio exterior 2022.</title>
+        <publisher>Ministério do Desenvolvimento, Indústria, Comércio e Serviços.</publisher>
+        <url>https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas-2022.pdf</url>
+        <note>Acessado em 2024-01-15.</note>
+    </sequence>
+    <sequence>
+        <author>Rodrigues, A. C., &amp; Martins, P. H.</author>
+        <date>2024.</date>
+        <title>Tendências em mobilidade urbana sustentável.</title>
+        <url>https://www.gov.br/cidades/pt-br/mobilidade-urbana/tendencias-2024</url>
+        <note>Acessado em 2024-03-01.</note>
+    </sequence>
+    <sequence>
+        <title>Legislação sobre proteção de dados pessoais no Brasil.</title>
+        <publisher>Autoridade Nacional de Proteção de Dados.</publisher>
+        <url>https://www.gov.br/anpd/pt-br/legislacao</url>
+    </sequence>
+    <sequence>
+        <author>Carvalho, E. R.</author>
+        <date>2022.</date>
+        <title>Políticas públicas para igualdade racial.</title>
+        <publisher>Secretaria de Políticas de Promoção da Igualdade Racial.</publisher>
+        <url>https://www.gov.br/mdh/pt-br/navegue-por-temas/igualdade-racial/politicas-publicas</url>
+        <note>Acessado em 2023-07-22.</note>
+    </sequence>
+    <sequence>
+        <date>2023.</date>
+        <title>Plano Nacional de Mudança do Clima.</title>
+        <publisher>Ministério do Meio Ambiente e Mudança do Clima.</publisher>
+        <url>https://www.gov.br/mma/pt-br/clima/pnmc-2023.pdf</url>
+        <note>Acessado em 2024-02-28.</note>
+    </sequence>
+    <sequence>
+        <author>Lima, F. A., Barbosa, G. M., &amp; Nunes, R. S.</author>
+        <date>2021.</date>
+        <title>Inovação tecnológica nas universidades federais.</title>
+        <publisher>Ministério da Educação.</publisher>
+        <url>https://www.gov.br/mec/pt-br/orgaos/secretarias/setec/inovacao-tecnologica</url>
+        <note>Acessado em 2022-11-10.</note>
+    </sequence>
+    <sequence>
+        <title>Diretrizes curriculares nacionais para cursos de graduação.</title>
+        <publisher>Conselho Nacional de Educação.</publisher>
+        <url>https://www.gov.br/mec/pt-br/assuntos/diretrizes-curriculares</url>
+    </sequence>
+    <sequence>
+        <author>Oliveira, T. M.</author>
+        <date>2023.</date>
+        <title>Segurança da informação em órgãos públicos.</title>
+        <publisher>Departamento de Governo Digital.</publisher>
+        <url>https://www.gov.br/gestao/pt-br/seguranca-informacao</url>
+        <note>Acessado em 2024-01-05.</note>
+    </sequence>
+    <sequence>
+        <date>2022.</date>
+        <title>Balanço energético nacional 2021.</title>
+        <publisher>Empresa de Pesquisa Energética.</publisher>
+        <url>https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/balanco-energetico-nacional-2021</url>
+        <note>Acessado em 2023-05-14.</note>
+    </sequence>
+    <sequence>
+        <author>Souza, M. V., &amp; Cunha, L. R.</author>
+        <date>2024.</date>
+        <title>Programas de inclusão social no mercado de trabalho.</title>
+        <publisher>Ministério do Trabalho e Emprego.</publisher>
+        <url>https://www.gov.br/trabalho-e-emprego/pt-br/inclusao-social-2024.pdf</url>
+        <note>Acessado em 2024-03-20.</note>
+    </sequence>
+    <sequence>
+        <title>Cadastro Nacional de Informações Sociais.</title>
+        <publisher>Ministério da Previdência Social.</publisher>
+        <url>https://www.gov.br/previdencia/pt-br/cnis</url>
+    </sequence>
+    <sequence>
+        <author>Almeida, R. P.</author>
+        <date>2023.</date>
+        <title>Gestão de resíduos sólidos urbanos no Brasil.</title>
+        <url>https://www.gov.br/mma/pt-br/residuos-solidos/gestao-urbana</url>
+        <note>Acessado em 2023-10-30.</note>
+    </sequence>
+    <sequence>
+        <date>2021.</date>
+        <title>Relatório de gestão fiscal 2020.</title>
+        <publisher>Tesouro Nacional.</publisher>
+        <url>https://www.tesourotransparente.gov.br/publicacoes/rgf-2020.pdf</url>
+        <note>Acessado em 2022-04-15.</note>
+    </sequence>
+    <sequence>
+        <author>Mendes, A. S., Ferreira, C. T., &amp; Rocha, D. M.</author>
+        <date>2022.</date>
+        <title>Avaliação de programas de erradicação do analfabetismo.</title>
+        <publisher>Secretaria de Alfabetização.</publisher>
+        <url>https://www.gov.br/mec/pt-br/alfabetizacao/avaliacao-programas-2022</url>
+        <note>Acessado em 2023-02-28.</note>
+    </sequence>
+    <sequence>
+        <title>Marco Civil da Internet: guia explicativo.</title>
+        <url>https://www.gov.br/mcti/pt-br/marco-civil</url>
+        <note>Acessado em 2024-02-10.</note>
+    </sequence>
+    <sequence>
+        <author>Barros, P. L.</author>
+        <date>2023.</date>
+        <title>Incentivos fiscais para pesquisa e desenvolvimento.</title>
+        <publisher>Receita Federal do Brasil.</publisher>
+        <url>https://www.gov.br/receitafederal/pt-br/assuntos/incentivos-fiscais-pd</url>
+        <note>Acessado em 2024-01-22.</note>
+    </sequence>
+    <sequence>
+        <date>2024.</date>
+        <title>Indicadores de desenvolvimento sustentável 2023.</title>
+        <publisher>Instituto de Pesquisa Econômica Aplicada.</publisher>
+        <url>https://www.ipea.gov.br/portal/index.php?option=com_content&amp;view=article&amp;id=indicadores-2023</url>
+        <note>Acessado em 2024-03-15.</note>
+    </sequence>
+    <sequence>
+        <author>Nascimento, J. C., &amp; Vieira, S. A.</author>
+        <date>2022.</date>
+        <title>Políticas de saúde mental no SUS.</title>
+        <publisher>Ministério da Saúde.</publisher>
+        <url>https://www.gov.br/saude/pt-br/saude-mental/politicas-2022.pdf</url>
+        <note>Acessado em 2023-08-05.</note>
+    </sequence>
+    <sequence>
+        <title>Sistema Nacional de Informações sobre Saneamento.</title>
+        <publisher>Ministério das Cidades.</publisher>
+        <url>https://www.gov.br/cidades/pt-br/snis</url>
+    </sequence>
+    <sequence>
+        <author>Correia, M. F.</author>
+        <date>2021.</date>
+        <title>Regularização fundiária em áreas urbanas.</title>
+        <url>https://www.gov.br/cidades/pt-br/regularizacao-fundiaria</url>
+        <note>Acessado em 2022-09-20.</note>
+    </sequence>
+    <sequence>
+        <date>2023.</date>
+        <title>Programa Nacional de Alimentação Escolar: relatório de execução.</title>
+        <publisher>Fundo Nacional de Desenvolvimento da Educação.</publisher>
+        <url>https://www.fnde.gov.br/index.php/programas/pnae/relatorio-2023.pdf</url>
+        <note>Acessado em 2024-02-05.</note>
+    </sequence>
+    <sequence>
+        <author>Dias, R. M., Cardoso, A. L., &amp; Teixeira, B. S.</author>
+        <date>2024.</date>
+        <title>Modernização da gestão pública federal.</title>
+        <publisher>Secretaria de Gestão e Inovação.</publisher>
+        <url>https://www.gov.br/gestao/pt-br/modernizacao-gestao-publica-2024</url>
+        <note>Acessado em 2024-03-25.</note>
+    </sequence>
+    <sequence>
+        <title>Plataforma Digital do Governo Federal.</title>
+        <url>https://www.gov.br/plataforma</url>
+    </sequence>
+    <sequence>
+        <author>Pinto, L. H.</author>
+        <date>2022.</date>
+        <title>Controle social das políticas públicas.</title>
+        <publisher>Secretaria-Geral da Presidência da República.</publisher>
+        <url>https://www.gov.br/secretariageral/pt-br/controle-social</url>
+        <note>Acessado em 2023-04-12.</note>
+    </sequence>
+    <sequence>
+        <date>2023.</date>
+        <title>Estatísticas do registro civil 2022.</title>
+        <publisher>Instituto Brasileiro de Geografia e Estatística.</publisher>
+        <url>https://www.ibge.gov.br/estatisticas/sociais/populacao/registro-civil-2022.html</url>
+        <note>Acessado em 2024-01-30.</note>
+    </sequence>
+    <sequence>
+        <author>Gomes, F. S., &amp; Araújo, M. C.</author>
+        <date>2021.</date>
+        <title>Programas de habitação de interesse social.</title>
+        <publisher>Ministério das Cidades.</publisher>
+        <url>https://www.gov.br/cidades/pt-br/habitacao/programas-sociais</url>
+        <note>Acessado em 2022-12-18.</note>
+    </sequence>
+    <sequence>
+        <title>Guia prático para concessão de bolsas de pesquisa.</title>
+        <publisher>Conselho Nacional de Desenvolvimento Científico e Tecnológico.</publisher>
+        <url>https://www.gov.br/cnpq/pt-br/bolsas/guia-pratico</url>
+    </sequence>
+    <sequence>
+        <author>Ribeiro, C. A.</author>
+        <date>2023.</date>
+        <title>Governança de dados na administração pública.</title>
+        <url>https://www.gov.br/gestao/pt-br/governanca-dados</url>
+        <note>Acessado em 2024-02-20.</note>
+    </sequence>
+    <sequence>
+        <date>2022.</date>
+        <title>Relatório de atividades da Ouvidoria-Geral da União.</title>
+        <publisher>Controladoria-Geral da União.</publisher>
+        <url>https://www.gov.br/cgu/pt-br/ouvidoria/relatorio-2022.pdf</url>
+        <note>Acessado em 2023-06-25.</note>
+    </sequence>
+    <sequence>
+        <author>Machado, P. R., &amp; Freitas, L. M.</author>
+        <date>2024.</date>
+        <title>Inovações em compras públicas sustentáveis.</title>
+        <publisher>Ministério da Gestão e da Inovação.</publisher>
+        <url>https://www.gov.br/compras/pt-br/compras-sustentaveis-2024</url>
+        <note>Acessado em 2024-03-28.</note>
+    </sequence>
+    <sequence>
+        <title>Sistema de Informações de Cidadania.</title>
+        <publisher>Ministério da Justiça e Segurança Pública.</publisher>
+        <url>https://www.gov.br/mj/pt-br/sic</url>
+    </sequence>
+    <sequence>
+        <author>Azevedo, T. R.</author>
+        <date>2023.</date>
+        <title>Políticas de promoção da mulher no trabalho.</title>
+        <publisher>Secretaria de Políticas para as Mulheres.</publisher>
+        <url>https://www.gov.br/mdh/pt-br/mulher/trabalho</url>
+        <note>Acessado em 2024-01-08.</note>
+    </sequence>
+    <sequence>
+        <date>2021.</date>
+        <title>Painel de indicadores da educação básica.</title>
+        <publisher>Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira.</publisher>
+        <url>https://www.gov.br/inep/pt-br/painel-indicadores</url>
+        <note>Acessado em 2022-08-14.</note>
+    </sequence>
+    <sequence>
+        <author>Campos, R. S., Melo, A. V., &amp; Duarte, F. L.</author>
+        <date>2022.</date>
+        <title>Avaliação de impacto de programas sociais.</title>
+        <publisher>Instituto de Pesquisa Econômica Aplicada.</publisher>
+        <url>https://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_2022_avaliacao.pdf</url>
+        <note>Acessado em 2023-03-19.</note>
+    </sequence>
+    <sequence>
+        <title>Manual de licenciamento ambiental simplificado.</title>
+        <publisher>Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis.</publisher>
+        <url>https://www.gov.br/ibama/pt-br/licenciamento/manual</url>
+    </sequence>
+    <sequence>
+        <author>Moreira, J. A.</author>
+        <date>2023.</date>
+        <title>Digitalização de serviços públicos federais.</title>
+        <url>https://www.gov.br/gestao/pt-br/servicos-digitais</url>
+        <note>Acessado em 2024-02-12.</note>
+    </sequence>
+    <sequence>
+        <date>2024.</date>
+        <title>Relatório anual do Sistema Único de Saúde.</title>
+        <publisher>Ministério da Saúde.</publisher>
+        <url>https://www.gov.br/saude/pt-br/relatorio-anual-sus-2024.pdf</url>
+        <note>Acessado em 2024-03-30.</note>
+    </sequence>
+    <sequence>
+        <author>Castro, M. L., &amp; Borges, R. T.</author>
+        <date>2021.</date>
+        <title>Políticas culturais para comunidades tradicionais.</title>
+        <publisher>Ministério da Cultura.</publisher>
+        <url>https://www.gov.br/cultura/pt-br/politicas-comunidades-tradicionais</url>
+        <note>Acessado em 2022-10-05.</note>
+    </sequence>
+    <sequence>
+        <title>Portal de Serviços do Governo Federal.</title>
+        <url>https://www.gov.br/servicos</url>
+    </sequence>
+    <sequence>
+        <author>Nogueira, A. M.</author>
+        <date>2022.</date>
+        <title>Gestão de riscos em projetos de TI.</title>
+        <publisher>Secretaria de Governo Digital.</publisher>
+        <url>https://www.gov.br/governodigital/pt-br/gestao-riscos-ti</url>
+        <note>Acessado em 2023-07-10.</note>
+    </sequence>
+    <sequence>
+        <date>2023.</date>
+        <title>Demonstrativos contábeis do governo federal 2022.</title>
+        <publisher>Tesouro Nacional.</publisher>
+        <url>https://www.tesourotransparente.gov.br/publicacoes/demonstrativos-2022.pdf</url>
+        <note>Acessado em 2024-01-25.</note>
+    </sequence>
+    <sequence>
+        <author>Vieira, P. C., Lopes, M. S., &amp; Duarte, A. R.</author>
+        <date>2024.</date>
+        <title>Programas de eficiência energética em edifícios públicos.</title>
+        <publisher>Ministério de Minas e Energia.</publisher>
+        <url>https://www.gov.br/mme/pt-br/eficiencia-energetica-edificios</url>
+        <note>Acessado em 2024-03-05.</note>
+    </sequence>
+    <sequence>
+        <title>Cadastro Ambiental Rural: manual de orientação.</title>
+        <url>https://www.gov.br/agricultura/pt-br/car/manual</url>
+    </sequence>
+    <sequence>
+        <author>Farias, C. M.</author>
+        <date>2021.</date>
+        <title>Monitoramento da qualidade da água em bacias hidrográficas.</title>
+        <publisher>Agência Nacional de Águas e Saneamento Básico.</publisher>
+        <url>https://www.gov.br/ana/pt-br/monitoramento-qualidade-agua</url>
+        <note>Acessado em 2022-05-20.</note>
+    </sequence>
+    <sequence>
+        <date>2022.</date>
+        <title>Relatório de fiscalização de contratos administrativos.</title>
+        <publisher>Tribunal de Contas da União.</publisher>
+        <url>https://portal.tcu.gov.br/publicacoes/fiscalizacao-contratos-2022.pdf</url>
+        <note>Acessado em 2023-09-08.</note>
+    </sequence>
+    <sequence>
+        <author>Teixeira, R. L., &amp; Souza, M. A.</author>
+        <date>2023.</date>
+        <title>Inteligência artificial aplicada ao combate à fraude.</title>
+        <publisher>Controladoria-Geral da União.</publisher>
+        <url>https://www.gov.br/cgu/pt-br/ia-combate-fraude</url>
+        <note>Acessado em 2024-02-18.</note>
+    </sequence>
+    <sequence>
+        <title>Sistema de Gestão de Convênios e Contratos de Repasse.</title>
+        <publisher>Ministério da Gestão e da Inovação.</publisher>
+        <url>https://www.gov.br/siconv</url>
+    </sequence>
+    <sequence>
+        <author>Monteiro, F. S.</author>
+        <date>2024.</date>
+        <title>Estratégias para redução da burocracia estatal.</title>
+        <url>https://www.gov.br/gestao/pt-br/desburocratizacao</url>
+        <note>Acessado em 2024-03-22.</note>
+    </sequence>
+    <sequence>
+        <date>2021.</date>
+        <title>Atlas do desenvolvimento humano no Brasil 2021.</title>
+        <publisher>Programa das Nações Unidas para o Desenvolvimento.</publisher>
+        <url>https://www.pnud.org.br/atlas-desenvolvimento-2021</url>
+        <note>Acessado em 2022-07-15.</note>
+    </sequence>
+    <sequence>
+        <author>Cardoso, L. R., Mendes, P. A., &amp; Silva, R. C.</author>
+        <date>2022.</date>
+        <title>Políticas de incentivo à produção científica nacional.</title>
+        <publisher>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior.</publisher>
+        <url>https://www.gov.br/capes/pt-br/incentivos-producao-cientifica</url>
+        <note>Acessado em 2023-04-28.</note>
+    </sequence>
+    <sequence>
+        <title>Guia de direitos do consumidor.</title>
+        <publisher>Secretaria Nacional do Consumidor.</publisher>
+        <url>https://www.gov.br/senacon/pt-br/guia-consumidor</url>
+    </sequence>
+    <sequence>
+        <author>Araújo, D. M.</author>
+        <date>2023.</date>
+        <title>Transparência na gestão de recursos públicos.</title>
+        <url>https://www.gov.br/cgu/pt-br/transparencia-gestao</url>
+        <note>Acessado em 2024-01-12.</note>
+    </sequence>
+    <sequence>
+        <date>2024.</date>
+        <title>Balanço das políticas de igualdade de gênero 2023.</title>
+        <publisher>Ministério das Mulheres.</publisher>
+        <url>https://www.gov.br/mulheres/pt-br/balanco-2023.pdf</url>
+        <note>Acessado em 2024-03-08.</note>
+    </sequence>
+    <sequence>
+        <author>Rocha, T. V., &amp; Pereira, G. L.</author>
+        <date>2021.</date>
+        <title>Monitoramento de políticas para juventude.</title>
+        <publisher>Secretaria Nacional de Juventude.</publisher>
+        <url>https://www.gov.br/snj/pt-br/monitoramento-politicas-juventude</url>
+        <note>Acessado em 2022-11-30.</note>
+    </sequence>
+    <sequence>
+        <title>Sistema Nacional de Informações em Segurança Pública.</title>
+        <url>https://www.gov.br/sinesp</url>
+    </sequence>
+    <sequence>
+        <author>Costa, P. R.</author>
+        <date>2022.</date>
+        <title>Gestão integrada de recursos hídricos.</title>
+        <publisher>Agência Nacional de Águas.</publisher>
+        <url>https://www.gov.br/ana/pt-br/gestao-recursos-hidricos</url>
+        <note>Acessado em 2023-06-14.</note>
+    </sequence>
+    <sequence>
+        <date>2023.</date>
+        <title>Relatório de gestão do Ministério da Ciência e Tecnologia.</title>
+        <publisher>Ministério da Ciência, Tecnologia e Inovação.</publisher>
+        <url>https://www.gov.br/mcti/pt-br/relatorio-gestao-2023.pdf</url>
+        <note>Acessado em 2024-02-22.</note>
+    </sequence>
+    <sequence>
+        <author>Medeiros, A. C., &amp; Lira, M. F.</author>
+        <date>2024.</date>
+        <title>Políticas de valorização do salário mínimo.</title>
+        <publisher>Instituto de Pesquisa Econômica Aplicada.</publisher>
+        <url>https://www.ipea.gov.br/portal/index.php?option=com_content&amp;view=article&amp;id=salario-minimo-2024</url>
+        <note>Acessado em 2024-03-18.</note>
+    </sequence>
+    <sequence>
+        <title>Portal da Aposentadoria e Previdência.</title>
+        <publisher>Ministério da Previdência Social.</publisher>
+        <url>https://www.gov.br/previdencia/pt-br/portal</url>
+    </sequence>
+    <sequence>
+        <author>Bezerra, R. M.</author>
+        <date>2021.</date>
+        <title>Programas de desenvolvimento regional sustentável.</title>
+        <publisher>Ministério da Integração e do Desenvolvimento Regional.</publisher>
+        <url>https://www.gov.br/midr/pt-br/desenvolvimento-regional</url>
+        <note>Acessado em 2022-09-05.</note>
+    </sequence>
+    <sequence>
+        <date>2022.</date>
+        <title>Estatísticas da justiça trabalhista 2021.</title>
+        <publisher>Tribunal Superior do Trabalho.</publisher>
+        <url>https://www.tst.jus.br/estatisticas-2021</url>
+        <note>Acessado em 2023-01-20.</note>
+    </sequence>
+    <sequence>
+        <author>Guimarães, S. P., Xavier, A. L., &amp; Moura, C. R.</author>
+        <date>2023.</date>
+        <title>Avaliação de programas de segurança alimentar.</title>
+        <publisher>Ministério do Desenvolvimento e Assistência Social, da Família e do Combate à Fome.</publisher>
+        <url>https://www.gov.br/mds/pt-br/seguranca-alimentar/avaliacao-2023</url>
+        <note>Acessado em 2024-02-08.</note>
+    </sequence>
+    <sequence>
+        <title>Sistema de Informações sobre Projetos de Infraestrutura.</title>
+        <publisher>Ministério do Planejamento e Orçamento.</publisher>
+        <url>https://www.gov.br/planejamento/pt-br/sippi</url>
+    </sequence>
+    <sequence>
+        <author>Paiva, M. S.</author>
+        <date>2024.</date>
+        <title>Estratégias nacionais para economia digital.</title>
+        <url>https://www.gov.br/mcti/pt-br/economia-digital-2024</url>
+        <note>Acessado em 2024-03-12.</note>
+    </sequence>
+    <sequence>
+        <date>2021.</date>
+        <title>Relatório de atividades do Conselho de Controle de Atividades Financeiras.</title>
+        <publisher>Conselho de Controle de Atividades Financeiras.</publisher>
+        <url>https://www.gov.br/coaf/pt-br/relatorio-2021.pdf</url>
+        <note>Acessado em 2022-06-10.</note>
+    </sequence>
+    <sequence>
+        <author>Queiroz, A. R., &amp; Vasconcelos, L. P.</author>
+        <date>2022.</date>
+        <title>Políticas de incentivo ao empreendedorismo jovem.</title>
+        <publisher>Sebrae Nacional.</publisher>
+        <url>https://www.sebrae.com.br/sites/PortalSebrae/empreendedorismo-jovem</url>
+        <note>Acessado em 2023-05-25.</note>
+    </sequence>
+    <sequence>
+        <title>Guia de orientações para importação e exportação.</title>
+        <publisher>Receita Federal do Brasil.</publisher>
+        <url>https://www.gov.br/receitafederal/pt-br/comercio-exterior/guia</url>
+    </sequence>
+    <sequence>
+        <author> Drumond, F. A.</author>
+        <date>2023.</date>
+        <title>Mapeamento de áreas de preservação ambiental.</title>
+        <publisher>Instituto Chico Mendes de Conservação da Biodiversidade.</publisher>
+        <url>https://www.gov.br/icmbio/pt-br/mapeamento-preservacao</url>
+        <note>Acessado em 2024-01-30.</note>
+    </sequence>
+    <sequence>
+        <date>2024.</date>
+        <title>Painel de indicadores de inovação tecnológica.</title>
+        <publisher>Ministério da Ciência, Tecnologia e Inovação.</publisher>
+        <url>https://www.gov.br/mcti/pt-br/painel-inovacao-2024</url>
+        <note>Acessado em 2024-03-26.</note>
+    </sequence>
+    <sequence>
+        <author>Xavier, M. C., &amp; Tavares, R. A.</author>
+        <date>2021.</date>
+        <title>Regulamentação de profissões regulamentadas no Brasil.</title>
+        <publisher>Ministério da Economia.</publisher>
+        <url>https://www.gov.br/economia/pt-br/profissoes-regulamentadas</url>
+        <note>Acessado em 2022-08-22.</note>
+    </sequence>
+    <sequence>
+        <title>Sistema de Informações do Mercado de Trabalho.</title>
+        <publisher>Ministério do Trabalho e Emprego.</publisher>
+        <url>https://www.gov.br/trabalho-e-emprego/pt-br/simt</url>
+    </sequence>
+    <sequence>
+        <author>Andrade, L. F.</author>
+        <date>2022.</date>
+        <title>Políticas de desenvolvimento da economia criativa.</title>
+        <publisher>Ministério da Cultura.</publisher>
+        <url>https://www.gov.br/cultura/pt-br/economia-criativa</url>
+        <note>Acessado em 2023-10-15.</note>
+    </sequence>
+    <sequence>
+        <date>2023.</date>
+        <title>Relatório anual de gestão do INSS.</title>
+        <publisher>Instituto Nacional do Seguro Social.</publisher>
+        <url>https://www.gov.br/inss/pt-br/relatorio-anual-2023.pdf</url>
+        <note>Acessado em 2024-02-25.</note>
+    </sequence>
+    <sequence>
+        <author>Batista, C. R., Melo, F. S., &amp; Nunes, A. M.</author>
+        <date>2024.</date>
+        <title>Estratégias para promoção da saúde do trabalhador.</title>
+        <publisher>Ministério da Saúde.</publisher>
+        <url>https://www.gov.br/saude/pt-br/saude-trabalhador/estrategias-2024</url>
+        <note>Acessado em 2024-03-29.</note>
+    </sequence>
+    <sequence>
+        <title>Portal da Indústria.</title>
+        <publisher>Confederação Nacional da Indústria.</publisher>
+        <url>https://www.portaldaindustria.com.br</url>
+    </sequence>
+    <sequence>
+        <author>Leite, M. P.</author>
+        <date>2021.</date>
+        <title>Programas de certificação de produtos orgânicos.</title>
+        <publisher>Ministério da Agricultura e Pecuária.</publisher>
+        <url>https://www.gov.br/agricultura/pt-br/organicos/certificacao</url>
+        <note>Acessado em 2022-04-08.</note>
+    </sequence>
+    <sequence>
+        <date>2022.</date>
+        <title>Atlas energético do Brasil 2022.</title>
+        <publisher>Empresa de Pesquisa Energética.</publisher>
+        <url>https://www.epe.gov.br/pt/atlas-energetico-2022</url>
+        <note>Acessado em 2023-07-30.</note>
+    </sequence>
+    <sequence>
+        <author>Marques, R. C., &amp; Fonseca, T. M.</author>
+        <date>2023.</date>
+        <title>Avaliação do impacto de políticas tributárias.</title>
+        <publisher>Receita Federal do Brasil.</publisher>
+        <url>https://www.gov.br/receitafederal/pt-br/estudos/avaliacao-tributaria-2023</url>
+        <note>Acessado em 2024-01-18.</note>
+    </sequence>
+    <sequence>
+        <title>Sistema de Controle de Produtos Controlados.</title>
+        <publisher>Polícia Federal.</publisher>
+        <url>https://www.gov.br/pf/pt-br/sispro</url>
+    </sequence>
+    <sequence>
+        <author>Prado, A. L.</author>
+        <date>2024.</date>
+        <title>Iniciativas de governo aberto no Brasil.</title>
+        <url>https://www.gov.br/gestao/pt-br/governo-aberto/iniciativas-2024</url>
+        <note>Acessado em 2024-03-15.</note>
+    </sequence>
+    <sequence>
+        <date>2021.</date>
+        <title>Relatório de atividades do Sistema Nacional de Cultura.</title>
+        <publisher>Ministério da Cultura.</publisher>
+        <url>https://www.gov.br/cultura/pt-br/snc/relatorio-2021.pdf</url>
+        <note>Acessado em 2022-12-05.</note>
+    </sequence>
+    <sequence>
+        <author>Gonçalves, P. M., Araújo, S. R., &amp; Cunha, D. F.</author>
+        <date>2022.</date>
+        <title>Políticas de prevenção à violência nas escolas.</title>
+        <publisher>Ministério da Educação.</publisher>
+        <url>https://www.gov.br/mec/pt-br/prevencao-violencia-escolas</url>
+        <note>Acessado em 2023-08-20.</note>
+    </sequence>
+    <sequence>
+        <title>Guia de procedimentos para registro de patentes.</title>
+        <publisher>Instituto Nacional da Propriedade Industrial.</publisher>
+        <url>https://www.gov.br/inpi/pt-br/guia-patentes</url>
+    </sequence>
+    <sequence>
+        <author>Resende, C. A.</author>
+        <date>2023.</date>
+        <title>Monitoramento de políticas para populações vulneráveis.</title>
+        <url>https://www.gov.br/mdh/pt-br/monitoramento-vulneraveis</url>
+        <note>Acessado em 2024-02-14.</note>
+    </sequence>
+    <sequence>
+        <date>2024.</date>
+        <title>Indicadores de desempenho do setor público 2023.</title>
+        <publisher>Instituto de Pesquisa Econômica Aplicada.</publisher>
+        <url>https://www.ipea.gov.br/portal/index.php?option=com_content&amp;view=article&amp;id=indicadores-setor-publico-2024</url>
+        <note>Acessado em 2024-03-31.</note>
+    </sequence>
+    <sequence>
+        <author>Vargas, L. S., &amp; Correia, M. R.</author>
+        <date>2021.</date>
+        <title>Programas de apoio à agricultura familiar.</title>
+        <publisher>Ministério do Desenvolvimento Agrário.</publisher>
+        <url>https://www.gov.br/mda/pt-br/apoio-agricultura-familiar</url>
+        <note>Acessado em 2022-10-28.</note>
+    </sequence>
+    <sequence>
+        <title>Portal de Normas da ANVISA.</title>
+        <publisher>Agência Nacional de Vigilância Sanitária.</publisher>
+        <url>https://www.gov.br/anvisa/pt-br/normas</url>
+    </sequence>
+    <sequence>
+        <author>Duarte, F. C.</author>
+        <date>2022.</date>
+        <title>Gestão de documentos eletrônicos no setor público.</title>
+        <publisher>Arquivo Nacional.</publisher>
+        <url>https://www.gov.br/arquivonacional/pt-br/gestao-documentos</url>
+        <note>Acessado em 2023-09-12.</note>
+    </sequence>
+
+    <!-- Thesis/Dissertation (45 sequences) -->
+    <sequence>
+        <author>Silveira, M. A.</author>
+        <date>2023.</date>
+        <title>Inteligência artificial aplicada ao diagnóstico médico: uma análise ética e jurídica.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Universidade de São Paulo.</publisher>
+        <location>São Paulo.</location>
+    </sequence>
+    <sequence>
+        <author>Oliveira, R. C.</author>
+        <date>2022.</date>
+        <title>Políticas públicas de inclusão digital no semiárido brasileiro.</title>
+        <genre>Dissertação de Mestrado</genre>
+        <publisher>Universidade Federal de Pernambuco.</publisher>
+        <location>Recife.</location>
+    </sequence>
+    <sequence>
+        <author>Santos, L. F. M.</author>
+        <date>2024.</date>
+        <title>Modelos preditivos para análise de crédito bancário usando machine learning.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Universidade Federal do Rio de Janeiro.</publisher>
+        <location>Rio de Janeiro.</location>
+    </sequence>
+    <sequence>
+        <author>Pereira, A. S.</author>
+        <date>2021.</date>
+        <title>Impactos da pandemia de COVID-19 na saúde mental de profissionais de saúde.</title>
+        <genre>Dissertação de Mestrado</genre>
+        <publisher>Universidade Federal de Minas Gerais.</publisher>
+        <location>Belo Horizonte.</location>
+    </sequence>
+    <sequence>
+        <author>Costa, M. R. L.</author>
+        <date>2023.</date>
+        <title>Transformações urbanas e gentrificação em São Paulo: estudo de caso da região central.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Universidade Estadual de Campinas.</publisher>
+        <location>Campinas.</location>
+    </sequence>
+    <sequence>
+        <author>Ferreira, J. P.</author>
+        <date>2022.</date>
+        <title>Avaliação de programas de alfabetização no ensino fundamental.</title>
+        <genre>Dissertação de Mestrado</genre>
+        <publisher>Universidade Federal da Bahia.</publisher>
+        <location>Salvador.</location>
+    </sequence>
+    <sequence>
+        <author>Almeida, T. R.</author>
+        <date>2024.</date>
+        <title>Desenvolvimento de materiais didáticos acessíveis para estudantes com deficiência visual.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Universidade Federal do Ceará.</publisher>
+        <location>Fortaleza.</location>
+    </sequence>
+    <sequence>
+        <author>Rodrigues, C. M.</author>
+        <date>2021.</date>
+        <title>Gestão de resíduos eletrônicos: proposta de modelo sustentável.</title>
+        <genre>Dissertação de Mestrado</genre>
+        <publisher>Universidade Federal do Rio Grande do Sul.</publisher>
+        <location>Porto Alegre.</location>
+    </sequence>
+    <sequence>
+        <author>Martins, P. H. S.</author>
+        <date>2023.</date>
+        <title>Análise de redes sociais aplicadas ao estudo de movimentos sociais urbanos.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Universidade de Brasília.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+    <sequence>
+        <author>Souza, A. M.</author>
+        <date>2022.</date>
+        <title>Práticas pedagógicas inovadoras no ensino de ciências.</title>
+        <genre>Dissertação de Mestrado</genre>
+        <publisher>Universidade Federal Fluminense.</publisher>
+        <location>Niterói.</location>
+    </sequence>
+    <sequence>
+        <author>Lima, D. C.</author>
+        <date>2024.</date>
+        <title>Blockchain para transparência em contratos públicos: estudo de viabilidade.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Instituto Tecnológico de Aeronáutica.</publisher>
+        <location>São José dos Campos.</location>
+    </sequence>
+    <sequence>
+        <author>Carvalho, F. L.</author>
+        <date>2021.</date>
+        <title>Representações sociais da violência em comunidades periféricas.</title>
+        <genre>Dissertação de Mestrado</genre>
+        <publisher>Universidade Federal de Goiás.</publisher>
+        <location>Goiânia.</location>
+    </sequence>
+    <sequence>
+        <author>Nascimento, R. M.</author>
+        <date>2023.</date>
+        <title>Efeitos das mudanças climáticas na agricultura familiar do Nordeste.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Universidade Federal Rural de Pernambuco.</publisher>
+        <location>Recife.</location>
+    </sequence>
+    <sequence>
+        <author>Barros, S. P.</author>
+        <date>2022.</date>
+        <title>Uso de tecnologias assistivas na educação inclusiva.</title>
+        <genre>Dissertação de Mestrado</genre>
+        <publisher>Universidade Federal de Santa Catarina.</publisher>
+        <location>Florianópolis.</location>
+    </sequence>
+    <sequence>
+        <author>Dias, M. C.</author>
+        <date>2024.</date>
+        <title>Computação em nuvem para pequenos negócios: análise de adoção e segurança.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Universidade Federal de Minas Gerais.</publisher>
+        <location>Belo Horizonte.</location>
+    </sequence>
+    <sequence>
+        <author>Correia, A. L.</author>
+        <date>2021.</date>
+        <title>Memória e identidade em comunidades quilombolas.</title>
+        <genre>Dissertação de Mestrado</genre>
+        <publisher>Universidade Federal do Maranhão.</publisher>
+        <location>São Luís.</location>
+    </sequence>
+    <sequence>
+        <author>Pinto, R. S.</author>
+        <date>2023.</date>
+        <title>Análise de políticas de redução de emissões de carbono no setor de transportes.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Universidade Federal do Paraná.</publisher>
+        <location>Curitiba.</location>
+    </sequence>
+    <sequence>
+        <author>Gomes, T. M.</author>
+        <date>2022.</date>
+        <title>Percepções sobre qualidade de vida em idosos institucionalizados.</title>
+        <genre>Dissertação de Mestrado</genre>
+        <publisher>Universidade Federal do Espírito Santo.</publisher>
+        <location>Vitória.</location>
+    </sequence>
+    <sequence>
+        <author>Azevedo, L. P.</author>
+        <date>2024.</date>
+        <title>Aplicações de sensores IoT para monitoramento ambiental em áreas urbanas.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Universidade Federal de São Carlos.</publisher>
+        <location>São Carlos.</location>
+    </sequence>
+    <sequence>
+        <author>Campos, J. R.</author>
+        <date>2021.</date>
+        <title>Narrativas de migração em literatura contemporânea brasileira.</title>
+        <genre>Dissertação de Mestrado</genre>
+        <publisher>Universidade Federal de Juiz de Fora.</publisher>
+        <location>Juiz de Fora.</location>
+    </sequence>
+    <sequence>
+        <author>Moreira, C. A.</author>
+        <date>2023.</date>
+        <title>Governança colaborativa em arranjos intermunicipais de saúde.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Fundação Getulio Vargas.</publisher>
+        <location>São Paulo.</location>
+    </sequence>
+    <sequence>
+        <author>Castro, M. F.</author>
+        <date>2022.</date>
+        <title>Formação de professores para educação a distância.</title>
+        <genre>Dissertação de Mestrado</genre>
+        <publisher>Universidade Federal de Sergipe.</publisher>
+        <location>Aracaju.</location>
+    </sequence>
+    <sequence>
+        <author>Nogueira, P. R.</author>
+        <date>2024.</date>
+        <title>Otimização de rotas de entrega usando algoritmos genéticos.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Universidade Federal de Minas Gerais.</publisher>
+        <location>Belo Horizonte.</location>
+    </sequence>
+    <sequence>
+        <author>Vieira, S. L.</author>
+        <date>2021.</date>
+        <title>Relações de gênero e trabalho no setor de tecnologia da informação.</title>
+        <genre>Dissertação de Mestrado</genre>
+        <publisher>Universidade Estadual Paulista.</publisher>
+        <location>Araraquara.</location>
+    </sequence>
+    <sequence>
+        <author>Monteiro, D. A.</author>
+        <date>2023.</date>
+        <title>Avaliação de impacto de programas de transferência de renda na educação.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Universidade de São Paulo.</publisher>
+        <location>São Paulo.</location>
+    </sequence>
+    <sequence>
+        <author>Teixeira, R. M.</author>
+        <date>2022.</date>
+        <title>Práticas de letramento digital em escolas públicas.</title>
+        <genre>Dissertação de Mestrado</genre>
+        <publisher>Universidade Federal do Amazonas.</publisher>
+        <location>Manaus.</location>
+    </sequence>
+    <sequence>
+        <author>Farias, A. C.</author>
+        <date>2024.</date>
+        <title>Desenvolvimento de aplicativos móveis para educação financeira.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Universidade Federal do Rio Grande do Norte.</publisher>
+        <location>Natal.</location>
+    </sequence>
+    <sequence>
+        <author>Guimarães, L. S.</author>
+        <date>2021.</date>
+        <title>Identidade cultural e patrimônio imaterial em comunidades tradicionais.</title>
+        <genre>Dissertação de Mestrado</genre>
+        <publisher>Universidade Federal do Pará.</publisher>
+        <location>Belém.</location>
+    </sequence>
+    <sequence>
+        <author>Rocha, F. M.</author>
+        <date>2023.</date>
+        <title>Regulação de plataformas digitais de trabalho: desafios e perspectivas.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Universidade Federal de Minas Gerais.</publisher>
+        <location>Belo Horizonte.</location>
+    </sequence>
+    <sequence>
+        <author>Medeiros, T. P.</author>
+        <date>2022.</date>
+        <title>Avaliação de políticas de segurança pública em grandes centros urbanos.</title>
+        <genre>Dissertação de Mestrado</genre>
+        <publisher>Universidade de Brasília.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+    <sequence>
+        <author>Queiroz, M. R.</author>
+        <date>2024.</date>
+        <title>Machine learning para detecção de fraudes em licitações públicas.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Instituto Tecnológico de Aeronáutica.</publisher>
+        <location>São José dos Campos.</location>
+    </sequence>
+    <sequence>
+        <author>Paiva, C. S.</author>
+        <date>2021.</date>
+        <title>Educação patrimonial e consciência histórica em museus comunitários.</title>
+        <genre>Dissertação de Mestrado</genre>
+        <publisher>Universidade Federal de Viçosa.</publisher>
+        <location>Viçosa.</location>
+    </sequence>
+    <sequence>
+        <author>Bezerra, P. L.</author>
+        <date>2023.</date>
+        <title>Sustentabilidade na cadeia produtiva da soja no Cerrado.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Universidade Federal de Mato Grosso.</publisher>
+        <location>Cuiabá.</location>
+    </sequence>
+    <sequence>
+        <author>Xavier, A. M.</author>
+        <date>2022.</date>
+        <title>Mediação de conflitos em escolas: experiências e desafios.</title>
+        <genre>Dissertação de Mestrado</genre>
+        <publisher>Universidade Federal da Paraíba.</publisher>
+        <location>João Pessoa.</location>
+    </sequence>
+    <sequence>
+        <author>Andrade, R. F.</author>
+        <date>2024.</date>
+        <title>Redes neurais convolucionais para classificação de imagens de satélite.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Universidade Federal de Santa Catarina.</publisher>
+        <location>Florianópolis.</location>
+    </sequence>
+    <sequence>
+        <author>Drumond, S. C.</author>
+        <date>2021.</date>
+        <title>Trajetórias de vida de jovens em situação de rua.</title>
+        <genre>Dissertação de Mestrado</genre>
+        <publisher>Universidade Federal de Minas Gerais.</publisher>
+        <location>Belo Horizonte.</location>
+    </sequence>
+    <sequence>
+        <author>Tavares, M. J.</author>
+        <date>2023.</date>
+        <title>Análise econômica de incentivos fiscais para energia renovável.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Universidade Federal do Rio de Janeiro.</publisher>
+        <location>Rio de Janeiro.</location>
+    </sequence>
+    <sequence>
+        <author>Leite, A. P.</author>
+        <date>2022.</date>
+        <title>Práticas integrativas e complementares no Sistema Único de Saúde.</title>
+        <genre>Dissertação de Mestrado</genre>
+        <publisher>Universidade Federal de São Paulo.</publisher>
+        <location>São Paulo.</location>
+    </sequence>
+    <sequence>
+        <author>Marques, D. L.</author>
+        <date>2024.</date>
+        <title>Criptografia pós-quântica: análise de algoritmos e aplicações.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Universidade Estadual de Campinas.</publisher>
+        <location>Campinas.</location>
+    </sequence>
+    <sequence>
+        <author>Prado, L. M.</author>
+        <date>2021.</date>
+        <title>Comunicação de risco em situações de desastres naturais.</title>
+        <genre>Dissertação de Mestrado</genre>
+        <publisher>Universidade Federal de São Carlos.</publisher>
+        <location>São Carlos.</location>
+    </sequence>
+    <sequence>
+        <author>Resende, C. F.</author>
+        <date>2023.</date>
+        <title>Políticas de inovação em universidades públicas brasileiras.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Universidade Federal de Minas Gerais.</publisher>
+        <location>Belo Horizonte.</location>
+    </sequence>
+    <sequence>
+        <author>Vargas, T. R.</author>
+        <date>2022.</date>
+        <title>Experiências de discriminação de migrantes venezuelanos no Brasil.</title>
+        <genre>Dissertação de Mestrado</genre>
+        <publisher>Universidade Federal de Roraima.</publisher>
+        <location>Boa Vista.</location>
+    </sequence>
+    <sequence>
+        <author>Gonçalves, P. A.</author>
+        <date>2024.</date>
+        <title>Processamento de linguagem natural para análise de jurisprudência brasileira.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Universidade de São Paulo.</publisher>
+        <location>São Paulo.</location>
+    </sequence>
+    <sequence>
+        <author>Batista, M. S.</author>
+        <date>2021.</date>
+        <title>Acesso à justiça em comunidades rurais.</title>
+        <genre>Dissertação de Mestrado</genre>
+        <publisher>Universidade Federal do Tocantins.</publisher>
+        <location>Palmas.</location>
+    </sequence>
+    <sequence>
+        <author>Freitas, R. L.</author>
+        <date>2023.</date>
+        <title>Modelos de precificação de seguros agrícolas com mudanças climáticas.</title>
+        <genre>Tese de Doutorado</genre>
+        <publisher>Universidade de São Paulo.</publisher>
+        <location>Piracicaba.</location>
+    </sequence>
+
+    <!-- Report/Working Paper/Preprint (45 sequences) -->
+    <sequence>
+        <author>Instituto de Pesquisa Econômica Aplicada.</author>
+        <date>2024.</date>
+        <title>Projeções macroeconômicas para 2024-2025.</title>
+        <genre>Relatório Técnico</genre>
+        <volume>Texto para Discussão nº 2891.</volume>
+        <publisher>IPEA.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+    <sequence>
+        <author>Silva, A. M., &amp; Santos, R. P.</author>
+        <date>2023.</date>
+        <title>Impactos da reforma tributária sobre setores produtivos.</title>
+        <genre>Working Paper</genre>
+        <volume>FGV IBRE Working Paper nº 15.</volume>
+        <publisher>Fundação Getulio Vargas.</publisher>
+        <location>Rio de Janeiro.</location>
+    </sequence>
+    <sequence>
+        <author>Banco Central do Brasil.</author>
+        <date>2024.</date>
+        <title>Relatório de inflação: março 2024.</title>
+        <genre>Relatório Trimestral</genre>
+        <publisher>Banco Central do Brasil.</publisher>
+        <location>Brasília.</location>
+        <url>https://www.bcb.gov.br/publicacoes/relatorio-inflacao-marco-2024.pdf</url>
+    </sequence>
+    <sequence>
+        <author>Oliveira, C. L.</author>
+        <date>2023.</date>
+        <title>Desigualdade de renda no Brasil pós-pandemia.</title>
+        <genre>Preprint</genre>
+        <publisher>SSRN.</publisher>
+        <url>https://ssrn.com/abstract=4523891</url>
+        <doi>10.2139/ssrn.4523891</doi>
+    </sequence>
+    <sequence>
+        <author>Confederação Nacional da Indústria.</author>
+        <date>2024.</date>
+        <title>Desempenho da indústria de transformação no primeiro trimestre.</title>
+        <genre>Boletim Econômico</genre>
+        <volume>Edição nº 45.</volume>
+        <publisher>CNI.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+    <sequence>
+        <author>Ferreira, M. S., Costa, L. R., &amp; Almeida, P. T.</author>
+        <date>2023.</date>
+        <title>Efeitos do trabalho remoto sobre produtividade: evidências para o setor de serviços.</title>
+        <genre>Working Paper</genre>
+        <volume>USP Working Paper nº 2023-08.</volume>
+        <publisher>Universidade de São Paulo.</publisher>
+        <location>São Paulo.</location>
+    </sequence>
+    <sequence>
+        <author>Instituto Brasileiro de Geografia e Estatística.</author>
+        <date>2024.</date>
+        <title>Pesquisa Nacional por Amostra de Domicílios Contínua.</title>
+        <genre>Relatório Trimestral</genre>
+        <volume>Primeiro trimestre de 2024.</volume>
+        <publisher>IBGE.</publisher>
+        <location>Rio de Janeiro.</location>
+    </sequence>
+    <sequence>
+        <author>Martins, J. P.</author>
+        <date>2023.</date>
+        <title>Política monetária e expectativas de inflação no Brasil.</title>
+        <genre>Preprint</genre>
+        <publisher>EconPapers.</publisher>
+        <url>https://econpapers.repec.org/paper/bra/wpaper/2023_3a12.htm</url>
+    </sequence>
+    <sequence>
+        <author>Ministério da Economia.</author>
+        <date>2024.</date>
+        <title>Balanço das contas públicas 2023.</title>
+        <genre>Relatório Anual</genre>
+        <publisher>Secretaria de Orçamento Federal.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+    <sequence>
+        <author>Cardoso, A. R., &amp; Souza, M. F.</author>
+        <date>2023.</date>
+        <title>Mobilidade social e educação no Brasil contemporâneo.</title>
+        <genre>Working Paper</genre>
+        <volume>Insper Working Paper nº 56.</volume>
+        <publisher>Insper Instituto de Ensino e Pesquisa.</publisher>
+        <location>São Paulo.</location>
+    </sequence>
+    <sequence>
+        <author>Comissão Econômica para a América Latina e o Caribe.</author>
+        <date>2024.</date>
+        <title>Perspectivas econômicas da América Latina e do Caribe 2024.</title>
+        <genre>Relatório Regional</genre>
+        <publisher>CEPAL.</publisher>
+        <location>Santiago.</location>
+    </sequence>
+    <sequence>
+        <author>Barros, R. M.</author>
+        <date>2023.</date>
+        <title>Avaliação de impacto do programa de aquisição de alimentos.</title>
+        <genre>Relatório de Pesquisa</genre>
+        <volume>Relatório Técnico nº 34.</volume>
+        <publisher>Instituto de Pesquisa Econômica Aplicada.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+    <sequence>
+        <author>Fundação João Pinheiro.</author>
+        <date>2024.</date>
+        <title>Déficit habitacional no Brasil 2023.</title>
+        <genre>Relatório Técnico</genre>
+        <publisher>FJP.</publisher>
+        <location>Belo Horizonte.</location>
+    </sequence>
+    <sequence>
+        <author>Nascimento, L. C., &amp; Vieira, A. P.</author>
+        <date>2023.</date>
+        <title>Crescimento econômico e sustentabilidade ambiental: há trade-off?</title>
+        <genre>Preprint</genre>
+        <publisher>RePEc.</publisher>
+        <url>https://ideas.repec.org/p/bra/wpaper/2023-15.html</url>
+    </sequence>
+    <sequence>
+        <author>Ministério do Meio Ambiente.</author>
+        <date>2024.</date>
+        <title>Relatório de emissões e remoções de gases de efeito estufa 2023.</title>
+        <genre>Relatório Nacional</genre>
+        <publisher>MMA.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+    <sequence>
+        <author>Pereira, S. M.</author>
+        <date>2023.</date>
+        <title>Efeitos da digitalização sobre emprego formal no setor bancário.</title>
+        <genre>Working Paper</genre>
+        <volume>IPEA Texto para Discussão nº 2875.</volume>
+        <publisher>IPEA.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+    <sequence>
+        <author>Organização para Cooperação e Desenvolvimento Econômico.</author>
+        <date>2024.</date>
+        <title>Estudos econômicos da OCDE: Brasil 2024.</title>
+        <genre>Relatório de País</genre>
+        <publisher>OECD Publishing.</publisher>
+        <location>Paris.</location>
+        <doi>10.1787/oecd-brazil-2024</doi>
+    </sequence>
+    <sequence>
+        <author>Campos, R. S., &amp; Lima, T. A.</author>
+        <date>2023.</date>
+        <title>Dinâmica do mercado de trabalho metropolitano.</title>
+        <genre>Boletim Técnico</genre>
+        <volume>Boletim DIEESE nº 145.</volume>
+        <publisher>DIEESE.</publisher>
+        <location>São Paulo.</location>
+    </sequence>
+    <sequence>
+        <author>Secretaria de Política Econômica.</author>
+        <date>2024.</date>
+        <title>Relatório de acompanhamento fiscal 2024.</title>
+        <genre>Relatório Trimestral</genre>
+        <volume>Edição 95.</volume>
+        <publisher>Ministério da Fazenda.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+    <sequence>
+        <author>Drumond, A. L.</author>
+        <date>2023.</date>
+        <title>Inovação tecnológica e competitividade na indústria brasileira.</title>
+        <genre>Working Paper</genre>
+        <volume>UFRJ Working Paper nº 2023/04.</volume>
+        <publisher>Universidade Federal do Rio de Janeiro.</publisher>
+        <location>Rio de Janeiro.</location>
+    </sequence>
+    <sequence>
+        <author>Programa das Nações Unidas para o Desenvolvimento.</author>
+        <date>2024.</date>
+        <title>Relatório de desenvolvimento humano Brasil 2024.</title>
+        <genre>Relatório Anual</genre>
+        <publisher>PNUD Brasil.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+    <sequence>
+        <author>Queiroz, M. R., &amp; Tavares, C. M.</author>
+        <date>2023.</date>
+        <title>Educação financeira e endividamento das famílias.</title>
+        <genre>Preprint</genre>
+        <publisher>ResearchGate.</publisher>
+        <url>https://www.researchgate.net/publication/371234567</url>
+    </sequence>
+    <sequence>
+        <author>Ministério da Saúde.</author>
+        <date>2024.</date>
+        <title>Boletim epidemiológico de doenças crônicas não transmissíveis.</title>
+        <genre>Boletim Epidemiológico</genre>
+        <volume>Ano 55, nº 12.</volume>
+        <publisher>Secretaria de Vigilância em Saúde.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+    <sequence>
+        <author>Gomes, F. A. R.</author>
+        <date>2023.</date>
+        <title>Determinantes do investimento estrangeiro direto no Brasil.</title>
+        <genre>Working Paper</genre>
+        <volume>FEARC Working Paper nº 2023-09.</volume>
+        <publisher>Faculdade de Economia, Administração e Contabilidade de Ribeirão Preto.</publisher>
+        <location>Ribeirão Preto.</location>
+    </sequence>
+    <sequence>
+        <author>Instituto de Estudos Socioeconômicos.</author>
+        <date>2024.</date>
+        <title>Análise do orçamento federal 2024: prioridades e desafios.</title>
+        <genre>Relatório Técnico</genre>
+        <volume>Nota Técnica nº 45.</volume>
+        <publisher>INESC.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+    <sequence>
+        <author>Azevedo, P. M., Ferreira, L. S., &amp; Rocha, D. C.</author>
+        <date>2023.</date>
+        <title>Concorrência no setor de telecomunicações: análise de mercado.</title>
+        <genre>Relatório Setorial</genre>
+        <publisher>Instituto de Defesa do Consumidor.</publisher>
+        <location>São Paulo.</location>
+    </sequence>
+    <sequence>
+        <author>Agência Nacional de Energia Elétrica.</author>
+        <date>2024.</date>
+        <title>Relatório de gestão 2023.</title>
+        <genre>Relatório Anual</genre>
+        <publisher>ANEEL.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+    <sequence>
+        <author>Monteiro, R. C.</author>
+        <date>2023.</date>
+        <title>Efeitos da reforma trabalhista sobre negociação coletiva.</title>
+        <genre>Working Paper</genre>
+        <volume>Cesit Working Paper nº 012.</volume>
+        <publisher>Centro de Estudos Sindicais e de Economia do Trabalho.</publisher>
+        <location>Campinas.</location>
+    </sequence>
+    <sequence>
+        <author>Ministério do Turismo.</author>
+        <date>2024.</date>
+        <title>Anuário estatístico do turismo 2023.</title>
+        <genre>Relatório Anual</genre>
+        <publisher>Ministério do Turismo.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+    <sequence>
+        <author>Vargas, L. M., &amp; Correia, S. P.</author>
+        <date>2023.</date>
+        <title>Migração internacional e mercado de trabalho no Sul do Brasil.</title>
+        <genre>Preprint</genre>
+        <publisher>SciELO Preprints.</publisher>
+        <url>https://doi.org/10.1590/scielopreprints.5678</url>
+        <doi>10.1590/scielopreprints.5678</doi>
+    </sequence>
+    <sequence>
+        <author>Empresa Brasileira de Pesquisa Agropecuária.</author>
+        <date>2024.</date>
+        <title>Projeções do agronegócio brasileiro 2024-2034.</title>
+        <genre>Relatório de Projeções</genre>
+        <publisher>Embrapa.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+    <sequence>
+        <author>Teixeira, A. M.</author>
+        <date>2023.</date>
+        <title>Tecnologias educacionais e aprendizagem: revisão sistemática.</title>
+        <genre>Working Paper</genre>
+        <volume>UFMG Working Paper nº 2023-11.</volume>
+        <publisher>Universidade Federal de Minas Gerais.</publisher>
+        <location>Belo Horizonte.</location>
+    </sequence>
+    <sequence>
+        <author>Ministério da Ciência e Tecnologia.</author>
+        <date>2024.</date>
+        <title>Indicadores nacionais de ciência, tecnologia e inovação 2023.</title>
+        <genre>Relatório Anual</genre>
+        <publisher>MCTI.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+    <sequence>
+        <author>Paiva, C. R., &amp; Santos, A. L.</author>
+        <date>2023.</date>
+        <title>Crédito rural e desenvolvimento agrícola familiar.</title>
+        <genre>Relatório de Pesquisa</genre>
+        <volume>Nota Técnica nº 67.</volume>
+        <publisher>Instituto de Pesquisa Econômica Aplicada.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+    <sequence>
+        <author>Conselho Administrativo de Defesa Econômica.</author>
+        <date>2024.</date>
+        <title>Relatório anual de concentração econômica 2023.</title>
+        <genre>Relatório Anual</genre>
+        <publisher>CADE.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+    <sequence>
+        <author>Resende, M. L.</author>
+        <date>2023.</date>
+        <title>Análise de séries temporais para previsão de demanda de energia.</title>
+        <genre>Preprint</genre>
+        <publisher>arXiv.</publisher>
+        <url>https://arxiv.org/abs/2312.12345</url>
+    </sequence>
+    <sequence>
+        <author>Instituto Nacional de Colonização e Reforma Agrária.</author>
+        <date>2024.</date>
+        <title>Balanço de metas do programa de reforma agrária.</title>
+        <genre>Relatório de Gestão</genre>
+        <publisher>INCRA.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+    <sequence>
+        <author>Xavier, P. R., Lima, M. S., &amp; Costa, F. A.</author>
+        <date>2023.</date>
+        <title>Sustentabilidade fiscal e crescimento econômico: evidências para estados brasileiros.</title>
+        <genre>Working Paper</genre>
+        <volume>ANPEC Working Paper nº 2023-22.</volume>
+        <publisher>Associação Nacional dos Centros de Pós-Graduação em Economia.</publisher>
+        <location>Niterói.</location>
+    </sequence>
+    <sequence>
+        <author>Ministério das Relações Exteriores.</author>
+        <date>2024.</date>
+        <title>Relatório de comércio exterior do Brasil 2023.</title>
+        <genre>Relatório Anual</genre>
+        <publisher>Itamaraty.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+    <sequence>
+        <author>Andrade, S. C.</author>
+        <date>2023.</date>
+        <title>Políticas de inovação em empresas estatais.</title>
+        <genre>Relatório Técnico</genre>
+        <volume>BNDES Working Paper nº 178.</volume>
+        <publisher>BNDES.</publisher>
+        <location>Rio de Janeiro.</location>
+    </sequence>
+    <sequence>
+        <author>Agência Nacional de Transportes Terrestres.</author>
+        <date>2024.</date>
+        <title>Anuário estatístico de transportes terrestres 2023.</title>
+        <genre>Relatório Anual</genre>
+        <publisher>ANTT.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+    <sequence>
+        <author>Freitas, R. M., &amp; Oliveira, D. T.</author>
+        <date>2023.</date>
+        <title>Efeitos da automação sobre qualificação da mão de obra industrial.</title>
+        <genre>Working Paper</genre>
+        <volume>Unicamp Working Paper nº 045.</volume>
+        <publisher>Universidade Estadual de Campinas.</publisher>
+        <location>Campinas.</location>
+    </sequence>
+    <sequence>
+        <author>Ministério da Pesca e Aquicultura.</author>
+        <date>2024.</date>
+        <title>Boletim da produção pesqueira 2023.</title>
+        <genre>Boletim Técnico</genre>
+        <volume>Ano 12, nº 04.</volume>
+        <publisher>MPA.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+    <sequence>
+        <author>Leite, A. C. M.</author>
+        <date>2023.</date>
+        <title>Análise de redes de colaboração científica no Brasil.</title>
+        <genre>Preprint</genre>
+        <publisher>OSF Preprints.</publisher>
+        <url>https://osf.io/preprints/socarxiv/abc123</url>
+    </sequence>
+    <sequence>
+        <author>Secretaria de Comércio Exterior.</author>
+        <date>2024.</date>
+        <title>Relatório de salvaguardas comerciais 2023.</title>
+        <genre>Relatório Técnico</genre>
+        <publisher>SECEX.</publisher>
+        <location>Brasília.</location>
+    </sequence>
+</dataset>
