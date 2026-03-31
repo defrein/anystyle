@@ -1,0 +1,1276 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <sequence>
+        <author>Иванов, А. В.</author>
+        <date>(2021).</date>
+        <title>Методы машинного обучения в задачах классификации текстов на русском языке.</title>
+        <container-title>Труды Международной конференции по искусственному интеллекту и машинному обучению (МКАИМО-2021).</container-title>
+        <location>Москва:</location>
+        <publisher>Издательство МГУ.</publisher>
+        <pages>45–58.</pages>
+    </sequence>
+    <sequence>
+        <author>Петрова, Н. С., &amp; Сидоров, К. Л.</author>
+        <date>2019.</date>
+        <title>Нейросетевые архитектуры для анализа временных рядов в финансовом секторе.</title>
+        <container-title>Сборник материалов VII Всероссийской конференции по интеллектуальным системам «ИнтеллектSystems-2019».</container-title>
+        <editor>Смирнов, Д. П. (ред.).</editor>
+        <location>Санкт-Петербург:</location>
+        <publisher>Политехника.</publisher>
+        <pages>112–120.</pages>
+    </sequence>
+    <sequence>
+        <author>Козлов, М. Е.</author>
+        <date>2020.</date>
+        <title>Применение глубокого обучения для распознавания речи в условиях зашумленной среды.</title>
+        <container-title>Материалы II Международного симпозиума по цифровой обработке сигналов.</container-title>
+        <location>Новосибирск:</location>
+        <publisher>Наука.</publisher>
+        <pages>77–85.</pages>
+    </sequence>
+    <sequence>
+        <author>Федорова, Е. И., Никитин, В. А., &amp; Белов, С. Г.</author>
+        <date>(2022).</date>
+        <title>Оптимизация алгоритмов сжатия данных для встроенных систем реального времени.</title>
+        <container-title>Труды Международной научно-технической конференции «Информационные технологии в управлении» (ИТУ-2022).</container-title>
+        <editor>Горбунов, Т. Р. (отв. ред.).</editor>
+        <location>Екатеринбург:</location>
+        <publisher>УрФУ.</publisher>
+        <pages>201–214.</pages>
+        <doi>10.18799/24559386/2022/0201</doi>
+    </sequence>
+    <sequence>
+        <author>Захаров, П. Ю.</author>
+        <date>2018.</date>
+        <title>Сравнительный анализ методов кластеризации больших данных.</title>
+        <container-title>Proceedings of the 5th Russian Conference on Data Science and Analytics.</container-title>
+        <location>Казань:</location>
+        <publisher>Казанский федеральный университет.</publisher>
+        <pages>33–41.</pages>
+    </sequence>
+    <sequence>
+        <author>Морозова, А. К., &amp; Лебедев, Н. В.</author>
+        <date>(2017).</date>
+        <title>Методы обработки естественного языка для автоматического реферирования научных текстов.</title>
+        <container-title>Сборник трудов X Национальной конференции по искусственному интеллекту с международным участием (КИИ-2017).</container-title>
+        <editor>Ветров, Д. П. (ред.).</editor>
+        <location>Нижний Новгород:</location>
+        <publisher>НГТУ им. Р. Е. Алексеева.</publisher>
+        <pages>158–166.</pages>
+    </sequence>
+    <sequence>
+        <author>Семенов, Г. Б.</author>
+        <date>2023.</date>
+        <title>Квантовые вычисления в задачах криптографии: современное состояние и перспективы.</title>
+        <container-title>Материалы Всероссийской научной конференции «Квантовые технологии и информатика».</container-title>
+        <location>Москва:</location>
+        <publisher>МФТИ.</publisher>
+        <pages>89–97.</pages>
+        <doi>10.1134/s1064562423050021</doi>
+    </sequence>
+    <sequence>
+        <author>Алексеева, О. В., &amp; Громов, Р. С.</author>
+        <date>2016.</date>
+        <title>Блокчейн-технологии в системах управления реестрами данных.</title>
+        <container-title>Труды IV Международной конференции «Распределённые вычисления и грид-технологии в науке и образовании».</container-title>
+        <editor>Коваль, А. Н., &amp; Рябов, С. Д. (ред.).</editor>
+        <location>Дубна:</location>
+        <publisher>ОИЯИ.</publisher>
+        <pages>320–327.</pages>
+    </sequence>
+    <sequence>
+        <author>Новиков, Д. А.</author>
+        <date>(2021).</date>
+        <title>Адаптивные системы управления производственными процессами на основе данных.</title>
+        <container-title>Сборник материалов конференции «Автоматизация и роботизация промышленных предприятий».</container-title>
+        <location>Самара:</location>
+        <publisher>СамГТУ.</publisher>
+        <pages>14–22.</pages>
+    </sequence>
+    <sequence>
+        <author>Жукова, Т. В., Поляков, И. М., &amp; Скворцов, А. Е.</author>
+        <date>2020.</date>
+        <title>Разработка интеллектуальной системы поддержки принятия решений в медицинской диагностике.</title>
+        <container-title>Материалы XII Международной конференции «Компьютерная медицина и здравоохранение» (MedInfo-2020).</container-title>
+        <editor>Попов, В. Б. (отв. ред.).</editor>
+        <location>Санкт-Петербург:</location>
+        <publisher>СПбГМУ.</publisher>
+        <pages>245–253.</pages>
+        <doi>10.1109/medinfo.2020.00245</doi>
+    </sequence>
+    <sequence>
+        <author>Тихонов, Б. Д.</author>
+        <date>2019.</date>
+        <title>Компьютерное зрение в системах технического контроля качества на производстве.</title>
+        <container-title>Труды III Российской конференции по компьютерному зрению и анализу изображений.</container-title>
+        <location>Москва:</location>
+        <publisher>Институт проблем передачи информации РАН.</publisher>
+        <pages>61–70.</pages>
+    </sequence>
+    <sequence>
+        <author>Миронова, Л. С., &amp; Власов, Е. К.</author>
+        <date>(2022).</date>
+        <title>Федеративное машинное обучение: сохранение приватности данных при обучении распределённых моделей.</title>
+        <container-title>Сборник научных трудов конференции «Информационная безопасность и цифровые технологии» (ИБЦТ-2022).</container-title>
+        <editor>Шестопал, М. И. (ред.).</editor>
+        <location>Нижний Новгород:</location>
+        <publisher>НГТУ.</publisher>
+        <pages>178–186.</pages>
+    </sequence>
+    <sequence>
+        <author>Соколов, В. Н.</author>
+        <date>2015.</date>
+        <title>Параллельные алгоритмы линейной алгебры для GPU-вычислений.</title>
+        <container-title>Материалы Международной конференции «Параллельные вычислительные технологии» (ПаВТ-2015).</container-title>
+        <location>Новосибирск:</location>
+        <publisher>Институт вычислительной математики и математической геофизики СО РАН.</publisher>
+        <pages>392–403.</pages>
+    </sequence>
+    <sequence>
+        <author>Кузнецова, Ю. П., Антонов, Ф. Г., &amp; Крылов, О. Р.</author>
+        <date>2023.</date>
+        <title>Анализ социальных сетей методами глубокого обучения на графах.</title>
+        <container-title>Труды Всероссийской конференции «Социальные медиа и цифровые коммуникации».</container-title>
+        <editor>Лукьянов, П. В. (ред.).</editor>
+        <location>Москва:</location>
+        <publisher>НИУ ВШЭ.</publisher>
+        <pages>102–115.</pages>
+        <doi>10.17323/978-5-7598-2785-3_102</doi>
+    </sequence>
+    <sequence>
+        <author>Орлов, Д. С.</author>
+        <date>(2018).</date>
+        <title>Применение трансформерных архитектур для машинного перевода с низкоресурсных языков.</title>
+        <container-title>Сборник трудов конференции «Компьютерная лингвистика и интеллектуальные технологии» (Диалог-2018).</container-title>
+        <location>Москва:</location>
+        <publisher>РГГУ.</publisher>
+        <pages>541–552.</pages>
+    </sequence>
+    <sequence>
+        <author>Зайцева, А. В., &amp; Гришин, С. П.</author>
+        <date>2017.</date>
+        <title>Оптимизация маршрутизации в беспроводных сенсорных сетях с использованием роевого интеллекта.</title>
+        <container-title>Материалы IX Международной конференции «Беспроводные сети и телекоммуникации» (WirelessCom-2017).</container-title>
+        <editor>Ефимов, К. Л., &amp; Голубев, В. А. (ред.).</editor>
+        <location>Казань:</location>
+        <publisher>КФУ.</publisher>
+        <pages>29–38.</pages>
+    </sequence>
+    <sequence>
+        <author>Пономарев, Г. В.</author>
+        <date>2021.</date>
+        <title>Интерпретируемость моделей машинного обучения в медицинских приложениях.</title>
+        <container-title>Труды Всероссийского симпозиума «Биомедицинская информатика» (БМИ-2021).</container-title>
+        <location>Москва:</location>
+        <publisher>НМИЦ онкологии им. Н. Н. Блохина.</publisher>
+        <pages>57–65.</pages>
+    </sequence>
+    <sequence>
+        <author>Логинова, И. Д., Черников, А. Б., &amp; Суворов, Т. Н.</author>
+        <date>(2020).</date>
+        <title>Имитационное моделирование городских транспортных потоков с учётом стохастических факторов.</title>
+        <container-title>Материалы Международной конференции «Транспортные системы и логистика» (ТСЛ-2020).</container-title>
+        <editor>Маринин, С. Б. (отв. ред.).</editor>
+        <location>Ростов-на-Дону:</location>
+        <publisher>ДГТУ.</publisher>
+        <pages>134–145.</pages>
+    </sequence>
+    <sequence>
+        <author>Устинов, Р. М.</author>
+        <date>2016.</date>
+        <title>Методы верификации программного обеспечения критически важных систем.</title>
+        <container-title>Сборник материалов конференции «Программная инженерия» (ПИ-2016).</container-title>
+        <location>Москва:</location>
+        <publisher>Институт системного программирования РАН.</publisher>
+        <pages>203–211.</pages>
+        <doi>10.15514/ispras-2016-28(5)-11</doi>
+    </sequence>
+    <sequence>
+        <author>Белякова, О. А., &amp; Дмитриев, В. С.</author>
+        <date>2022.</date>
+        <title>Автоматическое обнаружение аномалий в промышленных системах мониторинга.</title>
+        <container-title>Труды XIV Международной конференции «Проблемы управления и моделирования в сложных системах» (ПУМСС-2022).</container-title>
+        <editor>Самсонов, Г. Н. (ред.).</editor>
+        <location>Самара:</location>
+        <publisher>Самарский научный центр РАН.</publisher>
+        <pages>88–96.</pages>
+    </sequence>
+    <sequence>
+        <author>Котов, Е. Л.</author>
+        <date>(2019).</date>
+        <title>Генеративно-состязательные сети в задачах синтеза изображений высокого разрешения.</title>
+        <container-title>Материалы I Российской конференции по компьютерному зрению (RuCVision-2019).</container-title>
+        <location>Москва:</location>
+        <publisher>Сколтех.</publisher>
+        <pages>11–19.</pages>
+    </sequence>
+    <sequence>
+        <author>Степанова, К. И., Фёдоров, Н. С., &amp; Ларионов, Б. В.</author>
+        <date>2023.</date>
+        <title>Диаграммно-ориентированные методы проектирования микросервисных архитектур.</title>
+        <container-title>Сборник трудов Всероссийской конференции «Программные системы: теория и приложения» (ПСТА-2023).</container-title>
+        <editor>Иванова, Т. К. (отв. ред.).</editor>
+        <location>Ярославль:</location>
+        <publisher>ПГУ.</publisher>
+        <pages>167–179.</pages>
+        <doi>10.25209/2079-3316-2023-14-2-167</doi>
+    </sequence>
+    <sequence>
+        <author>Яковлев, А. Н.</author>
+        <date>2018.</date>
+        <title>Защита персональных данных в облачных вычислительных средах.</title>
+        <container-title>Материалы VIII Всероссийской конференции «Проблемы информационной безопасности» (ПИБ-2018).</container-title>
+        <location>Санкт-Петербург:</location>
+        <publisher>СПбПУ Петра Великого.</publisher>
+        <pages>312–320.</pages>
+    </sequence>
+    <sequence>
+        <author>Горбачёва, М. В., &amp; Трофимов, Д. А.</author>
+        <date>(2021).</date>
+        <title>Разработка мультиагентных систем для управления распределёнными энергетическими ресурсами.</title>
+        <container-title>Труды Международной конференции «Электроэнергетика и интеллектуальные системы» (ЭИИС-2021).</container-title>
+        <editor>Фролов, С. В. (ред.).</editor>
+        <location>Томск:</location>
+        <publisher>ТПУ.</publisher>
+        <pages>76–84.</pages>
+        <doi>10.1109/powersystems.2021.00076</doi>
+    </sequence>
+    <sequence>
+        <author>Малышев, Р. К.</author>
+        <date>2014.</date>
+        <title>Формальные методы верификации распределённых алгоритмов консенсуса.</title>
+        <container-title>Труды III Международной конференции «Теоретические основы компьютерных наук».</container-title>
+        <location>Москва:</location>
+        <publisher>МГУ им. М. В. Ломоносова.</publisher>
+        <pages>225–234.</pages>
+    </sequence>
+    <sequence>
+        <author>Давыдова, С. Е., Ефремов, Л. Н., &amp; Кириллов, О. Г.</author>
+        <date>2022.</date>
+        <title>Применение методов обработки естественного языка для анализа юридических документов.</title>
+        <container-title>Материалы Международной научной конференции «Право и цифровые технологии» (ПЦТ-2022).</container-title>
+        <editor>Архипов, Д. В., &amp; Тихомирова, Г. С. (ред.).</editor>
+        <location>Москва:</location>
+        <publisher>МГЮА им. О. Е. Кутафина.</publisher>
+        <pages>43–51.</pages>
+    </sequence>
+    <sequence>
+        <author>Воробьёв, П. Г.</author>
+        <date>(2020).</date>
+        <title>Реализация протоколов безопасной многосторонней вычислимости в практических приложениях.</title>
+        <container-title>Сборник трудов VI Российской конференции «Криптография и информационная безопасность».</container-title>
+        <location>Москва:</location>
+        <publisher>КРИПТО-ПРО.</publisher>
+        <pages>118–127.</pages>
+    </sequence>
+    <sequence>
+        <author>Кириченко, А. Б., &amp; Носкова, Е. В.</author>
+        <date>2023.</date>
+        <title>Рекуррентные нейронные сети для прогнозирования потребления электроэнергии.</title>
+        <container-title>Труды VIII Всероссийской конференции «Энергетика: управление, качество и эффективность использования энергоресурсов» (ЭКУР-2023).</container-title>
+        <editor>Зотов, К. В. (отв. ред.).</editor>
+        <location>Благовещенск:</location>
+        <publisher>АмГУ.</publisher>
+        <pages>55–63.</pages>
+    </sequence>
+    <sequence>
+        <author>Лазарева, Т. М.</author>
+        <date>2019.</date>
+        <title>Методы интеллектуального анализа данных в геоинформационных системах.</title>
+        <container-title>Материалы Всероссийской конференции с международным участием «ГИС-технологии и геопространственные данные» (ГИС-2019).</container-title>
+        <location>Иркутск:</location>
+        <publisher>ИГУ.</publisher>
+        <pages>191–199.</pages>
+    </sequence>
+    <sequence>
+        <author>Романов, С. И., Боброва, А. К., &amp; Тарасов, В. Е.</author>
+        <date>(2017).</date>
+        <title>Применение технологий Интернета вещей в системах «умный дом».</title>
+        <container-title>Сборник материалов II Международной конференции «Интернет вещей и встроенные системы» (IoTEmbedded-2017).</container-title>
+        <editor>Волков, Г. А. (ред.).</editor>
+        <location>Москва:</location>
+        <publisher>МТУСИ.</publisher>
+        <pages>34–42.</pages>
+        <doi>10.1109/iotembedded.2017.00034</doi>
+    </sequence>
+    <sequence>
+        <author>Третьякова, Н. П.</author>
+        <date>2021.</date>
+        <title>Алгоритмы оптимизации расписания для задач планирования производства.</title>
+        <container-title>Труды Всероссийской конференции по исследованию операций (ВКИО-2021).</container-title>
+        <location>Екатеринбург:</location>
+        <publisher>ИММ УрО РАН.</publisher>
+        <pages>267–275.</pages>
+    </sequence>
+    <sequence>
+        <author>Чернов, А. В., &amp; Лисицына, О. С.</author>
+        <date>2022.</date>
+        <title>Интерпретация медицинских изображений методами глубокого обучения.</title>
+        <container-title>Материалы Международного конгресса «Информационные технологии в медицине» (ИТМ-2022).</container-title>
+        <editor>Авдеев, М. Р., &amp; Крупина, С. Г. (ред.).</editor>
+        <location>Санкт-Петербург:</location>
+        <publisher>НМИЦ им. В. А. Алмазова.</publisher>
+        <pages>303–314.</pages>
+        <doi>10.17816/itm2022303</doi>
+    </sequence>
+    <sequence>
+        <author>Ильин, Е. Б.</author>
+        <date>(2016).</date>
+        <title>Самоорганизующиеся нейронные сети для анализа многомерных данных.</title>
+        <container-title>Материалы конференции «Нейроинформатика-2016».</container-title>
+        <location>Москва:</location>
+        <publisher>НИЯУ МИФИ.</publisher>
+        <pages>125–133.</pages>
+    </sequence>
+    <sequence>
+        <author>Золотарёва, Г. В., Куликов, Д. А., &amp; Савельев, Н. О.</author>
+        <date>2020.</date>
+        <title>Разработка алгоритмов динамической балансировки нагрузки в облачных платформах.</title>
+        <container-title>Труды V Международной конференции «Облачные вычисления, большие данные и информационная безопасность» (CloudBD-2020).</container-title>
+        <editor>Плотников, Б. В. (отв. ред.).</editor>
+        <location>Уфа:</location>
+        <publisher>УГАТУ.</publisher>
+        <pages>72–81.</pages>
+    </sequence>
+    <sequence>
+        <author>Маслов, А. Т.</author>
+        <date>2023.</date>
+        <title>Обнаружение мошенничества в банковских транзакциях с помощью методов ансамблевого обучения.</title>
+        <container-title>Сборник докладов конференции «Финансовые технологии и цифровая экономика» (ФинТех-2023).</container-title>
+        <location>Москва:</location>
+        <publisher>НИУ ВШЭ.</publisher>
+        <pages>49–58.</pages>
+        <doi>10.17323/fintech2023049</doi>
+    </sequence>
+    <sequence>
+        <author>Соловьёва, Р. Д., &amp; Никифоров, А. И.</author>
+        <date>(2018).</date>
+        <title>Методы семантического анализа вопросов и ответов для создания диалоговых агентов.</title>
+        <container-title>Материалы Ежегодной конференции «Технологии искусственного интеллекта в образовании» (КТАИО-2018).</container-title>
+        <editor>Яковлева, Е. С. (ред.).</editor>
+        <location>Казань:</location>
+        <publisher>КФУ.</publisher>
+        <pages>214–222.</pages>
+    </sequence>
+    <sequence>
+        <author>Харламов, В. Б.</author>
+        <date>2015.</date>
+        <title>Распределённые алгоритмы обработки потоков данных в реальном времени.</title>
+        <container-title>Труды Международной конференции «Распределённые системы обработки данных» (РСОД-2015).</container-title>
+        <location>Москва:</location>
+        <publisher>ИСП РАН.</publisher>
+        <pages>145–153.</pages>
+    </sequence>
+    <sequence>
+        <author>Гусева, Т. А., Ермилов, С. Н., &amp; Борисова, К. О.</author>
+        <date>2019.</date>
+        <title>Управление проектами разработки программного обеспечения с применением методологии Agile.</title>
+        <container-title>Материалы Всероссийской научно-практической конференции «Современные технологии управления проектами» (СТУП-2019).</container-title>
+        <editor>Кузьмин, Р. Г. (отв. ред.).</editor>
+        <location>Воронеж:</location>
+        <publisher>ВГТУ.</publisher>
+        <pages>98–106.</pages>
+    </sequence>
+    <sequence>
+        <author>Туманов, А. К.</author>
+        <date>(2022).</date>
+        <title>Проектирование масштабируемых баз данных для высоконагруженных веб-приложений.</title>
+        <container-title>Труды XI Международной конференции «Базы данных и информационные системы» (БД-2022).</container-title>
+        <location>Санкт-Петербург:</location>
+        <publisher>СПбГУ.</publisher>
+        <pages>188–196.</pages>
+        <doi>10.1145/3568141.3568169</doi>
+    </sequence>
+    <sequence>
+        <author>Баранова, Л. В., &amp; Прохоров, Д. Е.</author>
+        <date>2021.</date>
+        <title>Многокритериальная оптимизация в задачах управления ресурсами умного города.</title>
+        <container-title>Сборник материалов Международной конференции «Умные города и технологии» (SmartCity-2021).</container-title>
+        <editor>Волкова, М. Б. (ред.).</editor>
+        <location>Казань:</location>
+        <publisher>Академия наук РТ.</publisher>
+        <pages>27–35.</pages>
+    </sequence>
+    <sequence>
+        <author>Шилов, Г. Р.</author>
+        <date>2017.</date>
+        <title>Вероятностные графические модели для задач распознавания образов.</title>
+        <container-title>Материалы конференции «Машинное обучение и анализ данных» (МОДА-2017).</container-title>
+        <location>Москва:</location>
+        <publisher>ИППИ РАН.</publisher>
+        <pages>63–72.</pages>
+    </sequence>
+    <sequence>
+        <author>Мельникова, Е. Л., Старовойтов, К. Г., &amp; Колесникова, П. А.</author>
+        <date>(2023).</date>
+        <title>Приложения дифференциальной геометрии в задачах геометрической глубокого обучения.</title>
+        <container-title>Труды III Российской конференции по геометрическим методам в машинном обучении (ГМОЛ-2023).</container-title>
+        <editor>Беляков, А. С. (отв. ред.).</editor>
+        <location>Москва:</location>
+        <publisher>МЦНМО.</publisher>
+        <pages>141–152.</pages>
+        <doi>10.4213/mzm13521</doi>
+    </sequence>
+    <sequence>
+        <author>Королёва, И. С.</author>
+        <date>2020.</date>
+        <title>Разработка системы рекомендаций для персонализации контента в медиаплатформах.</title>
+        <container-title>Материалы I Всероссийской конференции «Цифровые медиа и рекомендательные системы».</container-title>
+        <location>Москва:</location>
+        <publisher>Фонд «Сколково».</publisher>
+        <pages>38–46.</pages>
+    </sequence>
+    <sequence>
+        <author>Кравченко, В. М., &amp; Суханов, Е. К.</author>
+        <date>2018.</date>
+        <title>Применение методов топологического анализа данных в исследовании сложных сетей.</title>
+        <container-title>Сборник трудов XII Конференции по анализу данных и машинному обучению (КАМО-2018).</container-title>
+        <editor>Ерёмин, П. Д., &amp; Тюрина, А. В. (ред.).</editor>
+        <location>Новосибирск:</location>
+        <publisher>ИМ СО РАН.</publisher>
+        <pages>225–233.</pages>
+    </sequence>
+    <sequence>
+        <author>Субботин, Н. А.</author>
+        <date>(2021).</date>
+        <title>Разработка языково-ориентированных интерфейсов для систем технической документации.</title>
+        <container-title>Труды Всероссийской конференции «Языковые технологии и компьютерная лингвистика» (ЯТ-2021).</container-title>
+        <location>Санкт-Петербург:</location>
+        <publisher>СПбГУ.</publisher>
+        <pages>156–165.</pages>
+        <doi>10.21638/spbu02.2021.156</doi>
+    </sequence>
+    <sequence>
+        <author>Вишневская, О. Д., Дронов, А. М., &amp; Пахомов, С. В.</author>
+        <date>2016.</date>
+        <title>Мета-обучение и адаптация нейросетевых моделей к новым доменам с малым количеством данных.</title>
+        <container-title>Сборник материалов IV Российской конференции по нейронным сетям «НС-2016».</container-title>
+        <editor>Буров, В. К. (отв. ред.).</editor>
+        <location>Тула:</location>
+        <publisher>ТГУ.</publisher>
+        <pages>80–89.</pages>
+    </sequence>
+    <sequence>
+        <author>Фомин, Б. В.</author>
+        <date>2023.</date>
+        <title>Оценка безопасности протоколов аутентификации в распределённых системах.</title>
+        <container-title>Материалы XI Всероссийской конференции «Проблемы информационной безопасности в системе высшей школы».</container-title>
+        <location>Москва:</location>
+        <publisher>НИЯУ МИФИ.</publisher>
+        <pages>44–52.</pages>
+    </sequence>
+    <sequence>
+        <author>Нестерова, А. М., &amp; Власенко, К. В.</author>
+        <date>(2019).</date>
+        <title>Методы активного обучения для сокращения трудозатрат при разметке данных.</title>
+        <container-title>Труды VI Всероссийской конференции «Информационные технологии для интеллектуальных систем» (ИТИС-2019).</container-title>
+        <editor>Чуркин, Г. Л. (ред.).</editor>
+        <location>Ульяновск:</location>
+        <publisher>УлГТУ.</publisher>
+        <pages>195–203.</pages>
+    </sequence>
+    <sequence>
+        <author>Рябов, Д. С.</author>
+        <date>2022.</date>
+        <title>Безопасные многопартийные вычисления для сохранения конфиденциальности в совместных задачах машинного обучения.</title>
+        <container-title>Материалы Международного симпозиума «Криптография и безопасность информационных систем» (КБИС-2022).</container-title>
+        <location>Москва:</location>
+        <publisher>ИПМ им. М. В. Келдыша РАН.</publisher>
+        <pages>71–79.</pages>
+        <doi>10.20948/kbis-2022-71</doi>
+    </sequence>
+    <sequence>
+        <author>Громова, К. Е., Маков, С. П., &amp; Сорокина, Л. Н.</author>
+        <date>2020.</date>
+        <title>Разработка интерактивных образовательных систем на основе адаптивного обучения.</title>
+        <container-title>Сборник трудов VII Международной конференции «Электронное обучение и дистанционные образовательные технологии» (eLearning-2020).</container-title>
+        <editor>Пирогов, Н. Д. (ред.).</editor>
+        <location>Краснодар:</location>
+        <publisher>КубГУ.</publisher>
+        <pages>113–121.</pages>
+    </sequence>
+    <sequence>
+        <author>Овчинников, М. А.</author>
+        <date>(2015).</date>
+        <title>Алгоритмы выявления аномалий в сетевом трафике методами статистического анализа.</title>
+        <container-title>Труды Международной конференции «Безопасность информационных технологий» (БИТ-2015).</container-title>
+        <location>Санкт-Петербург:</location>
+        <publisher>ГУАП.</publisher>
+        <pages>257–265.</pages>
+    </sequence>
+    <sequence>
+        <author>Тимошенко, Е. Д., &amp; Голубева, В. Н.</author>
+        <date>2021.</date>
+        <title>Применение обучения с подкреплением в задачах робототехники и автономной навигации.</title>
+        <container-title>Материалы XV Конференции «Мехатроника, автоматизация, управление» (МАУ-2021).</container-title>
+        <editor>Орешкин, А. В. (отв. ред.).</editor>
+        <location>Москва:</location>
+        <publisher>МГТУ им. Н. Э. Баумана.</publisher>
+        <pages>38–47.</pages>
+        <doi>10.1109/mau.2021.00038</doi>
+    </sequence>
+    <sequence>
+        <author>Калинин, Р. Б.</author>
+        <date>2019.</date>
+        <title>Оптимальное управление в задачах автоматического пилотирования беспилотных летательных аппаратов.</title>
+        <container-title>Труды Всероссийской научно-технической конференции «Актуальные проблемы авиации и космонавтики».</container-title>
+        <location>Красноярск:</location>
+        <publisher>СибГАУ им. академика М. Ф. Решетнёва.</publisher>
+        <pages>174–182.</pages>
+    </sequence>
+    <sequence>
+        <author>Беликова, Ю. А., Горшков, С. Л., &amp; Ушаков, Т. В.</author>
+        <date>2022.</date>
+        <title>Нейросимволические методы для задач логического вывода и объяснимого искусственного интеллекта.</title>
+        <container-title>Сборник материалов XIII Национальной конференции по искусственному интеллекту с международным участием (КИИ-2022).</container-title>
+        <editor>Котов, А. Б. (ред.).</editor>
+        <location>Красноярск:</location>
+        <publisher>Сибирское отделение РАН.</publisher>
+        <pages>56–66.</pages>
+    </sequence>
+    <sequence>
+        <author>Журавлёв, П. С.</author>
+        <date>(2017).</date>
+        <title>Защита от атак на уязвимые веб-приложения с применением методов машинного обучения.</title>
+        <container-title>Материалы VI Международной конференции «Информационная безопасность и защита информации» (ИБЗИ-2017).</container-title>
+        <location>Уфа:</location>
+        <publisher>УГАТУ.</publisher>
+        <pages>89–97.</pages>
+    </sequence>
+    <sequence>
+        <author>Лунёва, А. О., &amp; Максимов, Н. К.</author>
+        <date>2023.</date>
+        <title>Автоматическая генерация кода с помощью больших языковых моделей.</title>
+        <container-title>Труды Всероссийской конференции «Программирование и системы» (ПС-2023).</container-title>
+        <editor>Захаров, В. А. (отв. ред.).</editor>
+        <location>Москва:</location>
+        <publisher>МГУ им. М. В. Ломоносова.</publisher>
+        <pages>127–138.</pages>
+        <doi>10.17223/20710410/62/11</doi>
+    </sequence>
+    <sequence>
+        <author>Ершов, Г. Д.</author>
+        <date>2018.</date>
+        <title>Системы автоматического тестирования программного обеспечения: методы и инструменты.</title>
+        <container-title>Материалы Всероссийской конференции «Качество программного обеспечения» (КПО-2018).</container-title>
+        <location>Новосибирск:</location>
+        <publisher>ИСИ СО РАН.</publisher>
+        <pages>234–242.</pages>
+    </sequence>
+    <sequence>
+        <author>Кузина, Е. Б., Яшин, К. Р., &amp; Попков, С. А.</author>
+        <date>(2020).</date>
+        <title>Платформы управления данными в научных исследованиях: архитектура и интеграция.</title>
+        <container-title>Труды IX Международной конференции «Электронные библиотеки» (RCDL-2020).</container-title>
+        <editor>Антонова, Н. В. (ред.).</editor>
+        <location>Волгоград:</location>
+        <publisher>ВолГУ.</publisher>
+        <pages>190–198.</pages>
+    </sequence>
+    <sequence>
+        <author>Богданов, С. М.</author>
+        <date>2016.</date>
+        <title>Методы машинного обучения для классификации сетевых атак и вторжений.</title>
+        <container-title>Сборник материалов конференции «Безопасные информационные технологии» (БИТ-2016).</container-title>
+        <location>Москва:</location>
+        <publisher>МГТУ им. Н. Э. Баумана.</publisher>
+        <pages>44–53.</pages>
+        <doi>10.18698/bit2016044</doi>
+    </sequence>
+    <sequence>
+        <author>Степаненко, В. К., &amp; Романова, А. Д.</author>
+        <date>2021.</date>
+        <title>Реализация приватного поиска информации на основе гомоморфного шифрования.</title>
+        <container-title>Материалы Международной конференции «Математические методы в технике и технологиях» (ММТТ-2021).</container-title>
+        <editor>Тарасова, Е. Л. (отв. ред.).</editor>
+        <location>Воронеж:</location>
+        <publisher>ВГТУ.</publisher>
+        <pages>67–76.</pages>
+    </sequence>
+    <sequence>
+        <author>Огарков, Е. Н.</author>
+        <date>(2023).</date>
+        <title>Методы управления конфигурациями в DevOps-процессах разработки программных систем.</title>
+        <container-title>Труды конференции «Современные информационные технологии» (СИТ-2023).</container-title>
+        <location>Пенза:</location>
+        <publisher>ПГТУ.</publisher>
+        <pages>148–157.</pages>
+    </sequence>
+    <sequence>
+        <author>Исаева, Д. В., Захаров, А. Л., &amp; Бирюков, Г. В.</author>
+        <date>2019.</date>
+        <title>Кросс-лингвальные модели представления слов для многоязычного машинного перевода.</title>
+        <container-title>Материалы XI Международной конференции «Компьютерная лингвистика и интеллектуальные технологии» (Диалог-2019).</container-title>
+        <editor>Добров, Б. В., &amp; Кобзева, А. С. (ред.).</editor>
+        <location>Москва:</location>
+        <publisher>РГГУ.</publisher>
+        <pages>350–361.</pages>
+        <doi>10.28995/2075-7182-2019-18-350</doi>
+    </sequence>
+    <sequence>
+        <author>Кисляков, М. В.</author>
+        <date>2022.</date>
+        <title>Агентное моделирование экономических систем в условиях неопределённости.</title>
+        <container-title>Сборник трудов Всероссийской конференции по экономической кибернетике (ЭК-2022).</container-title>
+        <location>Москва:</location>
+        <publisher>ЦЭМИ РАН.</publisher>
+        <pages>88–97.</pages>
+    </sequence>
+    <sequence>
+        <author>Ляшенко, Т. И., &amp; Карпухин, А. Д.</author>
+        <date>(2018).</date>
+        <title>Автоматизация тестирования программного обеспечения с использованием методов поиска по символическому пространству состояний.</title>
+        <container-title>Труды Всероссийской конференции «Верификация и тестирование ПО» (ВТПО-2018).</container-title>
+        <editor>Мальцев, В. П. (ред.).</editor>
+        <location>Москва:</location>
+        <publisher>ИСП РАН.</publisher>
+        <pages>112–120.</pages>
+    </sequence>
+    <sequence>
+        <author>Наумов, К. Г.</author>
+        <date>2020.</date>
+        <title>Языки описания аппаратуры и синтез цифровых схем на основе машинного обучения.</title>
+        <container-title>Материалы IX Международной конференции «Системы проектирования, технологическая подготовка производства и управление этапами жизненного цикла промышленного продукта» (CAD/CAM/PDM-2020).</container-title>
+        <location>Москва:</location>
+        <publisher>ИПМ им. М. В. Келдыша РАН.</publisher>
+        <pages>201–209.</pages>
+    </sequence>
+    <sequence>
+        <author>Юдина, В. А., Андреев, С. М., &amp; Ряховский, Н. П.</author>
+        <date>2017.</date>
+        <title>Моделирование дорожно-транспортных происшествий с использованием ГИС.</title>
+        <container-title>Труды Всероссийской конференции «Транспорт России: проблемы и перспективы» (ТРП-2017).</container-title>
+        <editor>Павлов, Е. В. (отв. ред.).</editor>
+        <location>Санкт-Петербург:</location>
+        <publisher>ИПТ РАН.</publisher>
+        <pages>78–86.</pages>
+    </sequence>
+    <sequence>
+        <author>Синицын, О. Б.</author>
+        <date>(2022).</date>
+        <title>Методы построения цифровых двойников промышленных объектов.</title>
+        <container-title>Сборник материалов IV Всероссийской конференции «Цифровые технологии в промышленности» (ЦТП-2022).</container-title>
+        <location>Тверь:</location>
+        <publisher>ТвГТУ.</publisher>
+        <pages>56–65.</pages>
+        <doi>10.18799/9785957703839/2022/56</doi>
+    </sequence>
+    <sequence>
+        <author>Михайлова, О. В., &amp; Плетнёв, А. Д.</author>
+        <date>2023.</date>
+        <title>Предсказание результатов клинических испытаний с помощью методов машинного обучения.</title>
+        <container-title>Материалы Международной конференции «Биоинформатика России» (БиоИнфо-2023).</container-title>
+        <editor>Туманов, А. С. (ред.).</editor>
+        <location>Новосибирск:</location>
+        <publisher>ГНЦ «Вектор».</publisher>
+        <pages>131–139.</pages>
+    </sequence>
+    <sequence>
+        <author>Панфилов, Г. Л.</author>
+        <date>2015.</date>
+        <title>Экстремальное программирование и тест-ориентированная разработка в условиях малых команд.</title>
+        <container-title>Труды конференции «Молодёжь и наука» (МиН-2015).</container-title>
+        <location>Красноярск:</location>
+        <publisher>СФУ.</publisher>
+        <pages>44–50.</pages>
+    </sequence>
+    <sequence>
+        <author>Тюленева, А. Е., Сазонов, В. П., &amp; Грачёв, Н. И.</author>
+        <date>(2021).</date>
+        <title>Прогностические модели технического обслуживания оборудования на основе данных сенсоров.</title>
+        <container-title>Сборник трудов III Международной конференции «Промышленный Интернет вещей» (IIoT-2021).</container-title>
+        <editor>Лукьяненко, В. Г. (отв. ред.).</editor>
+        <location>Екатеринбург:</location>
+        <publisher>УрФУ.</publisher>
+        <pages>167–175.</pages>
+        <doi>10.1109/iiot.2021.00167</doi>
+    </sequence>
+    <sequence>
+        <author>Абрамов, Д. В.</author>
+        <date>2019.</date>
+        <title>Алгоритмы кластеризации для анализа геномных данных в биоинформатике.</title>
+        <container-title>Материалы VII Всероссийской конференции «Геномика и биоинформатика» (ГБИ-2019).</container-title>
+        <location>Санкт-Петербург:</location>
+        <publisher>СПбГУ.</publisher>
+        <pages>22–31.</pages>
+    </sequence>
+    <sequence>
+        <author>Корнилова, С. И., &amp; Власов, П. А.</author>
+        <date>2022.</date>
+        <title>Динамическая оптимизация маршрутов логистических сетей в условиях неопределённости.</title>
+        <container-title>Сборник материалов IV конференции «Оптимизация в управлении и технологиях» (ОУТ-2022).</container-title>
+        <editor>Гончаров, Д. Н. (ред.).</editor>
+        <location>Москва:</location>
+        <publisher>ИПТМУ РАН.</publisher>
+        <pages>59–68.</pages>
+    </sequence>
+    <sequence>
+        <author>Кострикин, А. В.</author>
+        <date>(2016).</date>
+        <title>Сравнительный анализ архитектур свёрточных нейронных сетей для классификации изображений.</title>
+        <container-title>Труды II Российской конференции «Компьютерное зрение и машинное обучение» (КВМО-2016).</container-title>
+        <location>Москва:</location>
+        <publisher>ИППИ РАН.</publisher>
+        <pages>87–96.</pages>
+    </sequence>
+    <sequence>
+        <author>Осипова, Ю. Л., Карелин, Д. Б., &amp; Стрельников, А. М.</author>
+        <date>2023.</date>
+        <title>Применение трансформерных моделей для анализа тональности в социальных сетях.</title>
+        <container-title>Материалы V Международной конференции «Анализ текста и разработка интеллектуальных систем» (АТРИС-2023).</container-title>
+        <editor>Романенко, Т. Б. (отв. ред.).</editor>
+        <location>Новосибирск:</location>
+        <publisher>НГУ.</publisher>
+        <pages>204–213.</pages>
+        <doi>10.25205/atris2023204</doi>
+    </sequence>
+    <sequence>
+        <author>Лобанов, Р. А.</author>
+        <date>2017.</date>
+        <title>Методы машинного обучения для оценки кредитного риска заёмщиков.</title>
+        <container-title>Труды Международной конференции «Финансовые рынки и экономический рост».</container-title>
+        <location>Москва:</location>
+        <publisher>Финансовый университет при Правительстве РФ.</publisher>
+        <pages>143–152.</pages>
+    </sequence>
+    <sequence>
+        <author>Хохлова, М. Б., &amp; Долгополов, А. Н.</author>
+        <date>(2020).</date>
+        <title>Методы анализа медицинских изображений для ранней диагностики онкологических заболеваний.</title>
+        <container-title>Сборник материалов конференции «Биомедицинские системы и технологии» (БСТ-2020).</container-title>
+        <editor>Суворова, Г. В. (ред.).</editor>
+        <location>Рязань:</location>
+        <publisher>РГМУ им. акад. И. П. Павлова.</publisher>
+        <pages>48–57.</pages>
+    </sequence>
+    <sequence>
+        <author>Смолин, Г. Д.</author>
+        <date>2021.</date>
+        <title>Разработка протоколов маршрутизации для самоорганизующихся беспроводных сетей.</title>
+        <container-title>Труды XX Международной научной конференции «Телекоммуникационные системы и технологии» (ТелеКом-2021).</container-title>
+        <location>Санкт-Петербург:</location>
+        <publisher>СПбГУТ им. проф. М. А. Бонч-Бруевича.</publisher>
+        <pages>223–231.</pages>
+        <doi>10.1109/telecom.2021.00223</doi>
+    </sequence>
+    <sequence>
+        <author>Кириллова, А. В., Лысенко, В. О., &amp; Шумилов, Т. П.</author>
+        <date>2018.</date>
+        <title>Методы верификации и валидации имитационных моделей сложных технических систем.</title>
+        <container-title>Материалы конференции «Модели и методы системного анализа» (ММСА-2018).</container-title>
+        <editor>Черноусов, В. Д. (отв. ред.).</editor>
+        <location>Обнинск:</location>
+        <publisher>ИАТЭ НИЯУ МИФИ.</publisher>
+        <pages>185–193.</pages>
+    </sequence>
+    <sequence>
+        <author>Гаврилов, С. А.</author>
+        <date>(2022).</date>
+        <title>Дифференциально-частные уравнения в задачах моделирования тепломассопереноса.</title>
+        <container-title>Труды Международного симпозиума «Тепломассообмен и вычислительные методы» (ТМ-2022).</container-title>
+        <location>Новосибирск:</location>
+        <publisher>ИТПМ СО РАН.</publisher>
+        <pages>34–43.</pages>
+    </sequence>
+    <sequence>
+        <author>Платонова, Н. А., &amp; Вдовин, Е. И.</author>
+        <date>2019.</date>
+        <title>Методы интеграции данных из разнородных источников для бизнес-аналитики.</title>
+        <container-title>Сборник трудов VIII Конференции «Управление данными и знаниями» (УДЗ-2019).</container-title>
+        <editor>Зорина, А. Г. (ред.).</editor>
+        <location>Москва:</location>
+        <publisher>РФЯЦ ВНИИЭФ.</publisher>
+        <pages>103–112.</pages>
+    </sequence>
+    <sequence>
+        <author>Юрченко, Л. Е.</author>
+        <date>2023.</date>
+        <title>Дистилляция знаний из больших языковых моделей для создания компактных специализированных систем.</title>
+        <container-title>Материалы II Международной конференции «Языковые модели и их приложения» (ЯМП-2023).</container-title>
+        <location>Москва:</location>
+        <publisher>Яндекс.</publisher>
+        <pages>67–76.</pages>
+        <doi>10.18799/jmp2023067</doi>
+    </sequence>
+    <sequence>
+        <author>Чубаров, Д. И., Смирнова, К. Н., &amp; Горохов, В. Е.</author>
+        <date>(2020).</date>
+        <title>Системы мониторинга экологической обстановки на основе спутниковых данных и машинного обучения.</title>
+        <container-title>Труды Всероссийской конференции «Экологические информационные системы» (ЭИС-2020).</container-title>
+        <editor>Белоусов, Г. А. (отв. ред.).</editor>
+        <location>Иркутск:</location>
+        <publisher>ИГУ.</publisher>
+        <pages>148–157.</pages>
+    </sequence>
+    <sequence>
+        <author>Кулик, А. П.</author>
+        <date>2017.</date>
+        <title>Архитектуры потоковой обработки данных для задач реального времени.</title>
+        <container-title>Материалы XI Международной конференции «Высокопроизводительные вычислительные системы» (ВПВС-2017).</container-title>
+        <location>Москва:</location>
+        <publisher>ИВМ РАН.</publisher>
+        <pages>178–186.</pages>
+    </sequence>
+    <sequence>
+        <author>Дергачёва, В. О., &amp; Кузин, Л. Б.</author>
+        <date>2021.</date>
+        <title>Снижение размерности пространства признаков для задач классификации текстов методами глубокого обучения.</title>
+        <container-title>Сборник материалов IV Российской конференции «Обработка текста и вычислительная лингвистика» (ОТВЛ-2021).</container-title>
+        <editor>Янковский, А. М. (ред.).</editor>
+        <location>Москва:</location>
+        <publisher>ВЦ РАН.</publisher>
+        <pages>126–135.</pages>
+        <doi>10.20948/otvl-2021-126</doi>
+    </sequence>
+    <sequence>
+        <author>Сарычев, Н. Б.</author>
+        <date>(2016).</date>
+        <title>Системы управления версиями и оркестрация контейнеров в DevOps-практиках.</title>
+        <container-title>Труды конференции «Разработка программного обеспечения» (РПО-2016).</container-title>
+        <location>Нижний Новгород:</location>
+        <publisher>ННГУ им. Н. И. Лобачевского.</publisher>
+        <pages>89–97.</pages>
+    </sequence>
+    <sequence>
+        <author>Вернигора, О. П., Тихонов, А. К., &amp; Потапова, Е. В.</author>
+        <date>2022.</date>
+        <title>Платформы федеративного обучения в условиях гетерогенных сетей устройств Интернета вещей.</title>
+        <container-title>Материалы VIII Международной конференции «Распределённые вычисления и суперкомпьютерные технологии» (ДИСТ-2022).</container-title>
+        <editor>Варламов, Д. К. (отв. ред.).</editor>
+        <location>Ростов-на-Дону:</location>
+        <publisher>ЮФУ.</publisher>
+        <pages>213–222.</pages>
+    </sequence>
+    <sequence>
+        <author>Козырев, А. Н.</author>
+        <date>2020.</date>
+        <title>Оценка качества алгоритмов автоматического суммаризирования для системы новостных агрегаторов.</title>
+        <container-title>Труды XII Конференции «Системы и средства информатики» (ССИ-2020).</container-title>
+        <location>Москва:</location>
+        <publisher>ИПИ РАН.</publisher>
+        <pages>44–53.</pages>
+        <doi>10.14357/20790840200104</doi>
+    </sequence>
+    <sequence>
+        <author>Щербакова, М. Е., &amp; Тихомиров, В. А.</author>
+        <date>(2018).</date>
+        <title>Реализация и оценка производительности алгоритмов полнотекстового поиска в документальных базах данных.</title>
+        <container-title>Сборник трудов XVII Всероссийской научной конференции «Электронные библиотеки и информационные ресурсы» (РЦДЛ-2018).</container-title>
+        <editor>Кузнецов, О. Н. (ред.).</editor>
+        <location>Ярославль:</location>
+        <publisher>ЯрГУ им. П. Г. Демидова.</publisher>
+        <pages>194–202.</pages>
+    </sequence>
+    <sequence>
+        <author>Игнатов, Д. И.</author>
+        <date>2023.</date>
+        <title>Формальный анализ понятий в задачах извлечения знаний из данных.</title>
+        <container-title>Материалы конференции «Анализ данных и интеллектуальные системы» (АДИС-2023).</container-title>
+        <location>Москва:</location>
+        <publisher>НИУ ВШЭ.</publisher>
+        <pages>77–87.</pages>
+    </sequence>
+    <sequence>
+        <author>Барабанщикова, Т. Л., Ефимцев, А. С., &amp; Кучеров, В. Н.</author>
+        <date>2019.</date>
+        <title>Применение машинного обучения в системах предиктивного обслуживания авиационных двигателей.</title>
+        <container-title>Труды Всероссийской научно-технической конференции «Авиационные двигатели XXI века».</container-title>
+        <editor>Зарубин, В. С. (отв. ред.).</editor>
+        <location>Москва:</location>
+        <publisher>ЦИАМ им. П. И. Баранова.</publisher>
+        <pages>259–268.</pages>
+        <doi>10.18633/avtm.v12i1.259</doi>
+    </sequence>
+    <sequence>
+        <author>Сухачёв, Г. В.</author>
+        <date>(2022).</date>
+        <title>Применение методов глубокого обучения для оптимизации энергопотребления в зданиях.</title>
+        <container-title>Материалы III Международной конференции «Энергоэффективность и умные здания».</container-title>
+        <location>Волгоград:</location>
+        <publisher>ВолгГТУ.</publisher>
+        <pages>132–140.</pages>
+    </sequence>
+    <sequence>
+        <author>Фомичёва, Н. С., &amp; Прудников, Д. А.</author>
+        <date>2021.</date>
+        <title>Нейронные сети на основе механизма внимания для задач вопросно-ответных систем.</title>
+        <container-title>Сборник материалов IX Международной конференции «Искусственный интеллект в науке, технике, образовании» (ИИНТО-2021).</container-title>
+        <editor>Гришаев, Л. В. (ред.).</editor>
+        <location>Таганрог:</location>
+        <publisher>ЮФУ.</publisher>
+        <pages>56–65.</pages>
+    </sequence>
+    <sequence>
+        <author>Котельников, А. В.</author>
+        <date>2015.</date>
+        <title>Моделирование процессов распространения инноваций в социальных сетях.</title>
+        <container-title>Труды XI Международной конференции по проблемам управления (МКПУ-2015).</container-title>
+        <location>Москва:</location>
+        <publisher>ИПУ РАН.</publisher>
+        <pages>233–241.</pages>
+    </sequence>
+    <sequence>
+        <author>Гладков, И. Н., Зиновьева, А. О., &amp; Пашкевич, С. Г.</author>
+        <date>(2020).</date>
+        <title>Интеграция систем управления данными и микросервисных архитектур в платформах электронной коммерции.</title>
+        <container-title>Материалы VII Международной конференции «Электронная коммерция и цифровые рынки» (ЭКД-2020).</container-title>
+        <editor>Сухова, И. Б. (отв. ред.).</editor>
+        <location>Москва:</location>
+        <publisher>РЭУ им. Г. В. Плеханова.</publisher>
+        <pages>87–96.</pages>
+        <doi>10.17323/ekd2020087</doi>
+    </sequence>
+    <sequence>
+        <author>Добрынин, Р. С.</author>
+        <date>2023.</date>
+        <title>Методы трансфертного обучения для задач биомедицинского анализа изображений.</title>
+        <container-title>Труды II Всероссийской конференции «Искусственный интеллект в медицине» (ИИМ-2023).</container-title>
+        <location>Москва:</location>
+        <publisher>Сеченовский университет.</publisher>
+        <pages>101–110.</pages>
+    </sequence>
+    <sequence>
+        <author>Никонова, Е. В., &amp; Блинов, А. С.</author>
+        <date>2017.</date>
+        <title>Графические процессоры в задачах высокопроизводительного параллельного программирования.</title>
+        <container-title>Материалы Всероссийской суперкомпьютерной конференции «Научный сервис в сети Интернет».</container-title>
+        <editor>Духовная, Г. В. (ред.).</editor>
+        <location>Москва:</location>
+        <publisher>МГУ им. М. В. Ломоносова.</publisher>
+        <pages>289–297.</pages>
+    </sequence>
+    <sequence>
+        <author>Воронин, К. А.</author>
+        <date>(2021).</date>
+        <title>Методы ранжирования результатов поиска с обучением с подкреплением.</title>
+        <container-title>Труды VI Российской конференции по информационному поиску (РОМИП-2021).</container-title>
+        <location>Москва:</location>
+        <publisher>ИППИ РАН.</publisher>
+        <pages>45–54.</pages>
+        <doi>10.20948/romip-2021-45</doi>
+    </sequence>
+    <sequence>
+        <author>Фёдорова, В. Н., Шаповалов, А. Д., &amp; Куценко, Г. И.</author>
+        <date>2018.</date>
+        <title>Технологии блокчейн в системах управления цепочками поставок.</title>
+        <container-title>Сборник трудов III Международной конференции «Цифровые технологии в бизнесе и управлении» (ЦТБУ-2018).</container-title>
+        <editor>Рубцова, В. А. (отв. ред.).</editor>
+        <location>Казань:</location>
+        <publisher>КФУ.</publisher>
+        <pages>177–185.</pages>
+    </sequence>
+    <sequence>
+        <author>Прокопьев, Е. Б.</author>
+        <date>2022.</date>
+        <title>Безагентные методы обучения с подкреплением для управления манипуляционными роботами.</title>
+        <container-title>Материалы XVI Международной конференции «Мехатроника и роботизация» (МеР-2022).</container-title>
+        <location>Казань:</location>
+        <publisher>КФУ.</publisher>
+        <pages>203–212.</pages>
+    </sequence>
+    <sequence>
+        <author>Крутова, А. И., &amp; Монахов, Д. В.</author>
+        <date>(2019).</date>
+        <title>Криптографические протоколы для обеспечения анонимности в децентрализованных системах.</title>
+        <container-title>Труды IX Международной конференции «Математические и компьютерные методы в науке и технике» (МКМНТ-2019).</container-title>
+        <editor>Петраков, С. Г. (ред.).</editor>
+        <location>Обнинск:</location>
+        <publisher>ИАТЭ НИЯУ МИФИ.</publisher>
+        <pages>113–121.</pages>
+    </sequence>
+    <sequence>
+        <author>Богомолов, В. К.</author>
+        <date>2023.</date>
+        <title>Методы обнаружения угроз в сетях промышленной автоматизации на основе машинного обучения.</title>
+        <container-title>Материалы II Всероссийской конференции «Кибербезопасность промышленных систем».</container-title>
+        <location>Москва:</location>
+        <publisher>ИКСИ.</publisher>
+        <pages>37–46.</pages>
+        <doi>10.17816/cyberind2023037</doi>
+    </sequence>
+    <sequence>
+        <author>Щеголева, Н. А., Зыков, С. В., &amp; Пономарёв, А. Е.</author>
+        <date>2016.</date>
+        <title>Семантическая сегментация видеопотоков на основе нейронных сетей.</title>
+        <container-title>Труды III Российской конференции «Компьютерная графика и анализ изображений» (КГАИ-2016).</container-title>
+        <editor>Борисенко, В. Д. (отв. ред.).</editor>
+        <location>Москва:</location>
+        <publisher>ИППИ РАН.</publisher>
+        <pages>142–151.</pages>
+    </sequence>
+    <sequence>
+        <author>Назаров, Ю. Т.</author>
+        <date>(2021).</date>
+        <title>Вероятностное программирование для байесовского вывода в нейросетевых моделях.</title>
+        <container-title>Сборник материалов V Российской конференции «Математическое моделирование и вычислительная математика».</container-title>
+        <location>Новосибирск:</location>
+        <publisher>ИМ СО РАН.</publisher>
+        <pages>78–87.</pages>
+    </sequence>
+    <sequence>
+        <author>Гусарова, А. В., &amp; Шевченко, О. Н.</author>
+        <date>2020.</date>
+        <title>Методы нейропсихологического анализа речи для ранней диагностики нейродегенеративных заболеваний.</title>
+        <container-title>Материалы XV конференции «Компьютерные методы в биомедицине» (КМБ-2020).</container-title>
+        <editor>Тараненко, В. Н. (ред.).</editor>
+        <location>Москва:</location>
+        <publisher>ВМК МГУ.</publisher>
+        <pages>56–65.</pages>
+        <doi>10.17223/bio2020056</doi>
+    </sequence>
+    <sequence>
+        <author>Зубков, Г. А.</author>
+        <date>2018.</date>
+        <title>Разработка системы автоматического управления складскими роботами.</title>
+        <container-title>Труды Международной конференции «Роботизация и автоматизация» (РиА-2018).</container-title>
+        <location>Санкт-Петербург:</location>
+        <publisher>СПбГЭТУ «ЛЭТИ».</publisher>
+        <pages>165–173.</pages>
+    </sequence>
+    <sequence>
+        <author>Климова, Д. А., Берёзкин, А. М., &amp; Лапин, С. О.</author>
+        <date>(2022).</date>
+        <title>Обнаружение фейков и дезинформации в социальных медиа с применением NLP-методов.</title>
+        <container-title>Материалы VII Международной конференции «Социальные медиа и алгоритмы» (СМА-2022).</container-title>
+        <editor>Поляков, Г. В. (отв. ред.).</editor>
+        <location>Москва:</location>
+        <publisher>НИУ ВШЭ.</publisher>
+        <pages>94–103.</pages>
+        <doi>10.17323/sma2022094</doi>
+    </sequence>
+    <sequence>
+        <author>Мисюра, В. П.</author>
+        <date>2023.</date>
+        <title>Эффективные алгоритмы маршрутизации в сетях с программно-конфигурируемой архитектурой (SDN).</title>
+        <container-title>Труды Всероссийской конференции «Телекоммуникации и новые технологии» (ТНТ-2023).</container-title>
+        <location>Санкт-Петербург:</location>
+        <publisher>СПбГУТ.</publisher>
+        <pages>112–121.</pages>
+    </sequence>
+    <sequence>
+        <author>Ковалёва, Т. Г., &amp; Крашенинников, А. П.</author>
+        <date>2019.</date>
+        <title>Применение генетических алгоритмов для оптимизации нейроархитектур в задачах глубокого обучения.</title>
+        <container-title>Сборник трудов VIII конференции «Эволюционные вычисления и генетические алгоритмы» (ЭВГА-2019).</container-title>
+        <editor>Ставицкий, Д. В. (ред.).</editor>
+        <location>Москва:</location>
+        <publisher>ВЦ РАН.</publisher>
+        <pages>135–144.</pages>
+    </sequence>
+    <sequence>
+        <author>Рогов, Н. К.</author>
+        <date>(2016).</date>
+        <title>Обнаружение аномалий в электрокардиограммах методами машинного обучения.</title>
+        <container-title>Труды Всероссийской конференции «Биомедицинские технологии» (БМТ-2016).</container-title>
+        <location>Томск:</location>
+        <publisher>СибГМУ.</publisher>
+        <pages>67–75.</pages>
+    </sequence>
+    <sequence>
+        <author>Ильясова, Г. Ш., Жуков, Б. А., &amp; Долгих, Н. В.</author>
+        <date>2021.</date>
+        <title>Вычислительные методы оптимизации параметров квантовых схем для задач NISQ-вычислений.</title>
+        <container-title>Материалы I Всероссийской конференции «Квантовые алгоритмы и вычисления» (КАВ-2021).</container-title>
+        <editor>Марьясин, А. С. (отв. ред.).</editor>
+        <location>Москва:</location>
+        <publisher>МФТИ.</publisher>
+        <pages>22–31.</pages>
+        <doi>10.1134/s0032946021050021</doi>
+    </sequence>
+    <sequence>
+        <author>Лещенко, В. Д.</author>
+        <date>2022.</date>
+        <title>Построение интегральных данных для анализа потоков данных в реальном времени с помощью Kafka.</title>
+        <container-title>Труды Всероссийской конференции «Большие данные и машинное обучение» (БДМО-2022).</container-title>
+        <location>Москва:</location>
+        <publisher>ИСП РАН.</publisher>
+        <pages>45–54.</pages>
+    </sequence>
+    <sequence>
+        <author>Карпенко, О. В., &amp; Голиков, С. А.</author>
+        <date>(2018).</date>
+        <title>Формализация и верификация протоколов безопасной передачи данных в мобильных сетях.</title>
+        <container-title>Материалы XII Международной конференции «Мобильные системы, коммуникации и новые приложения» (МСКА-2018).</container-title>
+        <editor>Горелов, В. Н. (ред.).</editor>
+        <location>Санкт-Петербург:</location>
+        <publisher>СПбПУ.</publisher>
+        <pages>178–186.</pages>
+    </sequence>
+    <sequence>
+        <author>Митрохин, А. С.</author>
+        <date>2023.</date>
+        <title>Применение нейронных сетей для автоматического распознавания рукописных текстов на русском языке.</title>
+        <container-title>Труды Всероссийской конференции «Распознавание образов и анализ изображений» (РОАИ-2023).</container-title>
+        <location>Нижний Новгород:</location>
+        <publisher>НГТУ им. Р. Е. Алексеева.</publisher>
+        <pages>178–187.</pages>
+        <doi>10.18688/aa2313-04-178</doi>
+    </sequence>
+    <sequence>
+        <author>Трутнева, Е. Г., Ованесян, Г. Д., &amp; Аристов, П. В.</author>
+        <date>2017.</date>
+        <title>Разработка архитектуры программно-аппаратных комплексов для обработки видеопотоков на FPGA.</title>
+        <container-title>Сборник трудов VII Международной конференции «Встроенные системы и системы на кристалле» (ВССК-2017).</container-title>
+        <editor>Коробов, Д. К. (отв. ред.).</editor>
+        <location>Москва:</location>
+        <publisher>ЗНИИРЭС.</publisher>
+        <pages>190–198.</pages>
+    </sequence>
+    <sequence>
+        <author>Семёнова, И. А.</author>
+        <date>(2020).</date>
+        <title>Многозадачное обучение для совместной оптимизации задач классификации и детектирования объектов.</title>
+        <container-title>Материалы II Российской конференции «Компьютерное зрение и интеллектуальные системы обработки информации».</container-title>
+        <location>Москва:</location>
+        <publisher>ИППИ РАН.</publisher>
+        <pages>56–65.</pages>
+    </sequence>
+    <sequence>
+        <author>Аверин, К. Д., &amp; Орехова, Л. М.</author>
+        <date>2022.</date>
+        <title>Методы формального анализа безопасности криптографических протоколов в проверке моделей.</title>
+        <container-title>Труды Всероссийской конференции «Методы и инструменты безопасного программирования» (МиИБП-2022).</container-title>
+        <editor>Чистов, В. В. (ред.).</editor>
+        <location>Москва:</location>
+        <publisher>ИСП РАН.</publisher>
+        <pages>104–113.</pages>
+        <doi>10.15514/ispras-2022-34(3)-7</doi>
+    </sequence>
+    <sequence>
+        <author>Зубарев, Г. О.</author>
+        <date>2015.</date>
+        <title>Алгоритмы оптимальной агрегации данных в беспроводных сенсорных сетях.</title>
+        <container-title>Сборник материалов VIII Всероссийской конференции «Беспроводные технологии».</container-title>
+        <location>Москва:</location>
+        <publisher>МТУСИ.</publisher>
+        <pages>34–43.</pages>
+    </sequence>
+    <sequence>
+        <author>Харченко, Т. О., Кульков, Б. С., &amp; Гончарова, Е. В.</author>
+        <date>(2019).</date>
+        <title>Применение методов обработки текстов на естественном языке для автоматизации юридического анализа.</title>
+        <container-title>Материалы II Международной конференции «LegalTech и цифровое право» (ЛегалТех-2019).</container-title>
+        <editor>Морозова, О. Г. (отв. ред.).</editor>
+        <location>Москва:</location>
+        <publisher>МГЮА им. О. Е. Кутафина.</publisher>
+        <pages>23–32.</pages>
+    </sequence>
+    <sequence>
+        <author>Линников, Е. Р.</author>
+        <date>2021.</date>
+        <title>Оценка устойчивости алгоритмов глубокого обучения к состязательным атакам.</title>
+        <container-title>Труды Всероссийской конференции «Безопасность искусственного интеллекта» (БИИ-2021).</container-title>
+        <location>Москва:</location>
+        <publisher>ФСБ России — 8-й центр.</publisher>
+        <pages>88–97.</pages>
+    </sequence>
+    <sequence>
+        <author>Камалова, А. Ш., &amp; Соловьёв, Д. В.</author>
+        <date>2023.</date>
+        <title>Контрастивное обучение представлений для задач кросс-модального поиска изображений по тексту.</title>
+        <container-title>Сборник материалов VI Международной конференции «Мультимедийные системы и технологии» (МСТ-2023).</container-title>
+        <editor>Романцев, П. Д. (ред.).</editor>
+        <location>Москва:</location>
+        <publisher>ИППИ РАН.</publisher>
+        <pages>121–130.</pages>
+        <doi>10.20948/mst-2023-121</doi>
+    </sequence>
+    <sequence>
+        <author>Бородин, Е. С.</author>
+        <date>(2016).</date>
+        <title>Методы обнаружения вредоносного программного обеспечения с помощью статического анализа исполняемых файлов.</title>
+        <container-title>Труды VII Всероссийской конференции «Вопросы защиты информации» (ВЗИ-2016).</container-title>
+        <location>Москва:</location>
+        <publisher>ИППИ РАН.</publisher>
+        <pages>66–75.</pages>
+    </sequence>
+    <sequence>
+        <author>Шаров, К. В., Куринова, Т. Б., &amp; Михеев, О. С.</author>
+        <date>2020.</date>
+        <title>Многоуровневые архитектуры систем управления производственными процессами в условиях Индустрии 4.0.</title>
+        <container-title>Материалы VI Международного конгресса «Цифровое производство» (ЦП-2020).</container-title>
+        <editor>Лопатин, В. В. (отв. ред.).</editor>
+        <location>Москва:</location>
+        <publisher>МГТУ им. Н. Э. Баумана.</publisher>
+        <pages>183–192.</pages>
+    </sequence>
+    <sequence>
+        <author>Перфилова, В. Д.</author>
+        <date>2022.</date>
+        <title>Разработка инструментов автоматической документации программного кода на основе языковых моделей.</title>
+        <container-title>Труды Всероссийской конференции «Технологии программирования и разработки систем» (ТПРС-2022).</container-title>
+        <location>Москва:</location>
+        <publisher>ИСП РАН.</publisher>
+        <pages>67–76.</pages>
+        <doi>10.15514/tprs-2022-14(4)-5</doi>
+    </sequence>
+    <sequence>
+        <author>Харитонов, А. В., &amp; Куракина, Е. А.</author>
+        <date>(2018).</date>
+        <title>Применение вероятностных методов для оценки надёжности программно-аппаратных систем.</title>
+        <container-title>Сборник материалов XI Международной конференции «Проблемы надёжности программного обеспечения» (НПО-2018).</container-title>
+        <editor>Кузин, Р. Г. (ред.).</editor>
+        <location>Ижевск:</location>
+        <publisher>УдГУ.</publisher>
+        <pages>156–164.</pages>
+    </sequence>
+    <sequence>
+        <author>Белозёров, Н. А.</author>
+        <date>2019.</date>
+        <title>Методы кооперативного обучения с подкреплением для многоагентных систем.</title>
+        <container-title>Материалы III Российской конференции «Многоагентные системы и прикладная кибернетика» (МСПК-2019).</container-title>
+        <location>Москва:</location>
+        <publisher>МГТУ им. Н. Э. Баумана.</publisher>
+        <pages>44–53.</pages>
+    </sequence>
+    <sequence>
+        <author>Тамбовцева, В. Н., Звёздкин, А. Р., &amp; Макаров, Е. С.</author>
+        <date>(2023).</date>
+        <title>Генерация синтетических обучающих данных с помощью диффузионных моделей для медицинских задач.</title>
+        <container-title>Труды III Всероссийской конференции «Цифровое здравоохранение» (ЦЗ-2023).</container-title>
+        <editor>Гусев, А. В. (отв. ред.).</editor>
+        <location>Москва:</location>
+        <publisher>Национальный медицинский исследовательский центр.</publisher>
+        <pages>128–137.</pages>
+        <doi>10.17816/dh2023128</doi>
+    </sequence>
+    <sequence>
+        <author>Сёмин, В. И.</author>
+        <date>2017.</date>
+        <title>Применение алгоритмов роевого интеллекта для оптимизации нейросетевых структур.</title>
+        <container-title>Материалы XIII Международной конференции «Системная идентификация и задачи управления» (SICPRO-2017).</container-title>
+        <location>Москва:</location>
+        <publisher>ИПУ РАН.</publisher>
+        <pages>198–206.</pages>
+    </sequence>
+    <sequence>
+        <author>Волченко, О. Р., &amp; Рябцев, А. К.</author>
+        <date>2021.</date>
+        <title>Нейронные сети для прогнозирования экстремальных климатических явлений по данным реанализа.</title>
+        <container-title>Сборник материалов VI Международной конференции «Атмосферная физика и климат».</container-title>
+        <editor>Борисов, А. М. (ред.).</editor>
+        <location>Санкт-Петербург:</location>
+        <publisher>ГГО им. А. И. Воейкова.</publisher>
+        <pages>102–110.</pages>
+    </sequence>
+    <sequence>
+        <author>Устюгов, Г. Е.</author>
+        <date>(2020).</date>
+        <title>Разработка систем мониторинга безопасности контейнеризированных приложений на основе машинного обучения.</title>
+        <container-title>Труды конференции «DevSecOps и безопасная разработка» (ДСО-2020).</container-title>
+        <location>Москва:</location>
+        <publisher>Positive Technologies.</publisher>
+        <pages>36–44.</pages>
+    </sequence>
+    <sequence>
+        <author>Нечаева, А. Б., Сорокин, В. Г., &amp; Торопов, Д. В.</author>
+        <date>2018.</date>
+        <title>Распределённые вычислительные методы для моделирования климатических систем.</title>
+        <container-title>Материалы Всероссийской конференции «Вычислительные методы и программирование» (ВМП-2018).</container-title>
+        <editor>Дьяков, В. Н. (отв. ред.).</editor>
+        <location>Москва:</location>
+        <publisher>МГУ им. М. В. Ломоносова.</publisher>
+        <pages>213–221.</pages>
+        <doi>10.33764/2687-0851-2018-213</doi>
+    </sequence>
+</dataset>
