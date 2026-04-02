@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+
+    <sequence>
+        <author>Rossi, M., &amp; Bianchi, G.</author>
+        <date>(2021).</date>
+        <title>Machine learning per l'analisi dei dati sanitari.</title>
+        <container-title>Atti della XXV Conferenza Nazionale di Informatica</container-title>
+        <editor>Ferrari, A. (ed.)</editor>
+        <location>Roma:</location>
+        <publisher>CEUR-WS.org</publisher>
+        <pages>45-58.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Verdi, L.</author>
+        <date>2020.</date>
+        <title>Reti neurali profonde per il riconoscimento di immagini mediche.</title>
+        <container-title>Proceedings of the Italian Conference on Artificial Intelligence</container-title>
+        <volume>Vol. 3</volume>
+        <location>Milano:</location>
+        <publisher>Springer</publisher>
+        <pages>112-125.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Neri, P., &amp; Gialli, S.</author>
+        <date>(2022).</date>
+        <title>Sicurezza informatica nelle infrastrutture critiche.</title>
+        <container-title>Atti del Convegno Nazionale sulla Cybersecurity</container-title>
+        <editor>Romano, F. (ed.)</editor>
+        <location>Torino:</location>
+        <publisher>Edizioni ETS</publisher>
+        <pages>78-92.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Bianco, A., &amp; Russo, M.</author>
+        <date>2019.</date>
+        <title>Blockchain per la tracciabilità alimentare.</title>
+        <container-title>Proceedings of the International Conference on Food Technology</container-title>
+        <location>Bologna:</location>
+        <publisher>Pendragon</publisher>
+        <pages>201-215.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Marino, C.</author>
+        <date>(2023).</date>
+        <title>Internet of Things per le smart cities.</title>
+        <container-title>Atti della Conferenza Italiana sulle Reti Intelligenti</container-title>
+        <editor>Greco, L. (ed.)</editor>
+        <location>Napoli:</location>
+        <publisher>Editoriale Scientifica</publisher>
+        <pages>33-47.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Ferrari, G., &amp; Conti, R.</author>
+        <date>2021.</date>
+        <title>Algoritmi genetici per l'ottimizzazione industriale.</title>
+        <container-title>Proceedings of the Italian Workshop on Evolutionary Computing</container-title>
+        <location>Firenze:</location>
+        <publisher>Firenze University Press</publisher>
+        <pages>89-103.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Colombo, E., &amp; Ricci, F.</author>
+        <date>(2020).</date>
+        <title>Elaborazione del linguaggio naturale per testi giuridici.</title>
+        <container-title>Atti del Convegno di Linguistica Computazionale</container-title>
+        <editor>Moretti, S. (ed.)</editor>
+        <location>Pisa:</location>
+        <publisher>Edizioni della Normale</publisher>
+        <pages>156-170.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Orlando, D.</author>
+        <date>2022.</date>
+        <title>Cloud computing per le piccole imprese.</title>
+        <container-title>Proceedings of the Conference on Digital Transformation</container-title>
+        <location>Venezia:</location>
+        <publisher>Marsilio Editori</publisher>
+        <pages>234-248.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Sanna, M., &amp; Costa, A.</author>
+        <date>(2018).</date>
+        <title>Realtà aumentata per il patrimonio culturale.</title>
+        <container-title>Atti della Conferenza Nazionale su Musei e Tecnologie</container-title>
+        <editor>Barone, P. (ed.)</editor>
+        <location>Palermo:</location>
+        <publisher>Carocci Editore</publisher>
+        <pages>67-81.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Gentile, R.</author>
+        <date>2023.</date>
+        <title>Privacy-preserving data mining in ambito sanitario.</title>
+        <container-title>Proceedings of the Italian Conference on Data Privacy</container-title>
+        <location>Genova:</location>
+        <publisher>De Ferrari Editore</publisher>
+        <pages>145-159.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Testa, V., &amp; Leone, M.</author>
+        <date>(2021).</date>
+        <title>Sistemi di raccomandazione per l'e-commerce.</title>
+        <container-title>Atti del Workshop su Personalizzazione e Sistemi Adattivi</container-title>
+        <editor>Fontana, C. (ed.)</editor>
+        <location>Bari:</location>
+        <publisher>Edipuglia</publisher>
+        <pages>23-37.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Martini, A.</author>
+        <date>2019.</date>
+        <title>Quantum computing: stato dell'arte e prospettive.</title>
+        <container-title>Proceedings of the Italian Quantum Information Science Conference</container-title>
+        <location>Trieste:</location>
+        <publisher>Edizioni Università di Trieste</publisher>
+        <pages>178-192.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Romano, S., &amp; Vitale, G.</author>
+        <date>(2022).</date>
+        <title>Edge computing per l'industria 4.0.</title>
+        <container-title>Atti della Conferenza su Tecnologie Industriali Avanzate</container-title>
+        <editor>Alberti, M. (ed.)</editor>
+        <location>Brescia:</location>
+        <publisher>Vannini Editrice</publisher>
+        <pages>91-105.</pages>
+    </sequence>
+
+    <sequence>
+        <author>De Luca, F.</author>
+        <date>2020.</date>
+        <title>Analisi predittiva per la manutenzione industriale.</title>
+        <container-title>Proceedings of the Conference on Predictive Maintenance</container-title>
+        <location>Modena:</location>
+        <publisher>Mucchi Editore</publisher>
+        <pages>112-126.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Santoro, L., &amp; Mancini, P.</author>
+        <date>(2023).</date>
+        <title>Computer vision per il controllo qualità.</title>
+        <container-title>Atti del Convegno di Visione Artificiale e Robotica</container-title>
+        <editor>Riva, A. (ed.)</editor>
+        <location>Parma:</location>
+        <publisher>MUP</publisher>
+        <pages>56-70.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Parisi, D.</author>
+        <date>2021.</date>
+        <title>Reti 5G per le comunicazioni veicolari.</title>
+        <container-title>Proceedings of the Italian Conference on Telecommunications</container-title>
+        <location>L'Aquila:</location>
+        <publisher>One Group Editore</publisher>
+        <pages>189-203.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Marchetti, E., &amp; Barbieri, L.</author>
+        <date>(2019).</date>
+        <title>Big data analytics per il marketing digitale.</title>
+        <container-title>Atti della Conferenza su Marketing e Tecnologie</container-title>
+        <editor>Simonetti, R. (ed.)</editor>
+        <location>Perugia:</location>
+        <publisher>Morlacchi Editore</publisher>
+        <pages>78-92.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Galli, M.</author>
+        <date>2022.</date>
+        <title>Sistemi multi-agente per la logistica urbana.</title>
+        <container-title>Proceedings of the Workshop on Multi-Agent Systems</container-title>
+        <location>Trento:</location>
+        <publisher>Università degli Studi di Trento</publisher>
+        <pages>134-148.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Farina, A., &amp; Longo, C.</author>
+        <date>(2020).</date>
+        <title>Biometria per l'autenticazione sicura.</title>
+        <container-title>Atti del Convegno su Sicurezza e Identità Digitale</container-title>
+        <editor>Conti, G. (ed.)</editor>
+        <location>Catania:</location>
+        <publisher>Edizioni CUECM</publisher>
+        <pages>45-59.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Pellegrini, S.</author>
+        <date>2023.</date>
+        <title>Federated learning per applicazioni distribuite.</title>
+        <container-title>Proceedings of the Italian Machine Learning Symposium</container-title>
+        <location>Cagliari:</location>
+        <publisher>Edizioni AV</publisher>
+        <pages>167-181.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Monti, F., &amp; Caruso, D.</author>
+        <date>(2021).</date>
+        <title>Crittografia post-quantistica per le comunicazioni sicure.</title>
+        <container-title>Atti della Conferenza su Crittografia e Sicurezza</container-title>
+        <editor>Valentini, M. (ed.)</editor>
+        <location>Padova:</location>
+        <publisher>Cleup</publisher>
+        <pages>89-103.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Barbato, R.</author>
+        <date>2018.</date>
+        <title>Graph neural networks per l'analisi di social network.</title>
+        <container-title>Proceedings of the Italian Conference on Social Network Analysis</container-title>
+        <location>Lecce:</location>
+        <publisher>Pensa Multimedia</publisher>
+        <pages>212-226.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Rizzi, A., &amp; Ferri, M.</author>
+        <date>(2022).</date>
+        <title>Digital twin per la progettazione industriale.</title>
+        <container-title>Atti del Convegno di Ingegneria Digitale</container-title>
+        <editor>Moretti, L. (ed.)</editor>
+        <location>Bergamo:</location>
+        <publisher>Sestante Edizioni</publisher>
+        <pages>56-70.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Vitali, G.</author>
+        <date>2020.</date>
+        <title>Semantic web per l'integrazione di dati eterogenei.</title>
+        <container-title>Proceedings of the Conference on Knowledge Graphs</container-title>
+        <location>Siena:</location>
+        <publisher>Protagon Editori</publisher>
+        <pages>123-137.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Donati, P., &amp; Amato, S.</author>
+        <date>(2023).</date>
+        <title>Human-robot collaboration negli ambienti di lavoro.</title>
+        <container-title>Atti della Conferenza su Robotica Collaborativa</container-title>
+        <editor>Bianchini, F. (ed.)</editor>
+        <location>Como:</location>
+        <publisher>Nemorese Edizioni</publisher>
+        <pages>78-92.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Caputo, M.</author>
+        <date>2019.</date>
+        <title>Affective computing per le interfacce utente.</title>
+        <container-title>Proceedings of the Italian Conference on Human-Computer Interaction</container-title>
+        <location>Udine:</location>
+        <publisher>Forum Editrice</publisher>
+        <pages>145-159.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Basile, C., &amp; Ruggiero, A.</author>
+        <date>(2021).</date>
+        <title>Transfer learning per il cross-lingual NLP.</title>
+        <container-title>Atti del Workshop su Elaborazione del Linguaggio Naturale</container-title>
+        <editor>Gatti, R. (ed.)</editor>
+        <location>Salerno:</location>
+        <publisher>Edizioni Scientifiche Italiane</publisher>
+        <pages>34-48.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Giannini, T.</author>
+        <date>2022.</date>
+        <title>Explainable AI per sistemi critici.</title>
+        <container-title>Proceedings of the Conference on Trustworthy AI</container-title>
+        <location>Ancona:</location>
+        <publisher>Il Lavoro Editoriale</publisher>
+        <pages>167-181.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Palmieri, F., &amp; Silvestri, E.</author>
+        <date>(2020).</date>
+        <title>Serverless computing per applicazioni scalabili.</title>
+        <container-title>Atti della Conferenza su Cloud e Edge Computing</container-title>
+        <editor>Marchese, D. (ed.)</editor>
+        <location>Pescara:</location>
+        <publisher>Edizioni Tracce</publisher>
+        <pages>89-103.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Mancuso, R.</author>
+        <date>2023.</date>
+        <title>Neuromorphic computing per l'elaborazione efficiente.</title>
+        <container-title>Proceedings of the Italian Conference on Neuromorphic Engineering</container-title>
+        <location>Messina:</location>
+        <publisher>Rubbettino Editore</publisher>
+        <pages>112-126.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Leone, G., &amp; Ferretti, L.</author>
+        <date>(2021).</date>
+        <title>Gesture recognition per le interfacce naturali.</title>
+        <container-title>Atti del Convegno di Interazione Uomo-Macchina</container-title>
+        <editor>Fiorentini, S. (ed.)</editor>
+        <location>Ravenna:</location>
+        <publisher>Longo Editore</publisher>
+        <pages>45-59.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Cattaneo, M.</author>
+        <date>2019.</date>
+        <title>Swarm intelligence per l'ottimizzazione distribuita.</title>
+        <container-title>Proceedings of the Workshop on Collective Intelligence</container-title>
+        <location>Pavia:</location>
+        <publisher>Ibis Edizioni</publisher>
+        <pages>178-192.</pages>
+    </sequence>
+
+    <sequence>
+        <author>Martinelli, F., &amp; Santi, P.</author>
+        <date>(2022).</date>
+        <title>Homomorphic encryption per il cloud secure.</title>
+        <container-title>Atti della Conferenza su Crittografia Applicata</container-title>
+        <editor>Battaglia, C. (ed.)</editor>
+        <location>Cosenza:</location>
+            <publisher>Edizioni Lionello Giordano</publisher>
+<pages>67-81.</pages>
+</sequence>
+
+<sequence>
+<author>Rinaldi, S.</author>
+<date>2020.</date>
+<title>Process mining per l'analisi dei processi aziendali.</title>
+<container-title>Proceedings of the Conference on Business Process Management</container-title>
+<location>Reggio Emilia:</location>
+<publisher>Edizioni Diabasis</publisher>
+<pages>134-148.</pages>
+</sequence>
+
+<sequence>
+<author>Conte, A., &amp; Martorana, V.</author>
+<date>(2023).</date>
+<title>Augmented analytics per il decision making.</title>
+<container-title>Atti del Convegno su Business Intelligence Avanzata</container-title>
+<editor>Allegri, M. (ed.)</editor>
+<location>Piacenza:</location>
+<publisher>Edizioni LIR</publisher>
+<pages>89-103.</pages>
+</sequence>
+
+<sequence>
+<author>D'Angelo, F.</author>
+<date>2021.</date>
+<title>Robust machine learning contro gli adversarial attacks.</title>
+<container-title>Proceedings of the Italian Conference on Adversarial ML</container-title>
+<location>Caserta:</location>
+<publisher>Edizioni Scientifiche</publisher>
+<pages>156-170.</pages>
+</sequence>
+
+<sequence>
+<author>Bruno, E., &amp; Cavallo, R.</author>
+<date>(2018).</date>
+<title>Sentiment analysis per il monitoraggio sociale.</title>
+<container-title>Atti del Workshop su Opinione Pubblica e Tecnologie</container-title>
+<editor>Sorrentino, L. (ed.)</editor>
+<location>Benevento:</location>
+<publisher>Edizioni Realtà Sannita</publisher>
+<pages>23-37.</pages>
+</sequence>
+
+<sequence>
+<author>Massari, O.</author>
+<date>2022.</date>
+<title>Conversational AI per il customer service.</title>
+<container-title>Proceedings of the Conference on Chatbots and Virtual Assistants</container-title>
+<location>Ferrara:</location>
+<publisher>Edizioni Cardano</publisher>
+<pages>112-126.</pages>
+</sequence>
+
+<sequence>
+<author>Fabbri, N., &amp; Monti, S.</author>
+<date>(2020).</date>
+<title>Predictive policing: algoritmi e implicazioni etiche.</title>
+<container-title>Atti della Conferenza su AI e Società</container-title>
+<editor>Donatelli, P. (ed.)</editor>
+<location>Forlì:</location>
+<publisher>Edizioni della Fondazione</publisher>
+<pages>78-92.</pages>
+</sequence>
+
+<sequence>
+<author>Piras, G.</author>
+<date>2023.</date>
+<title>Smart grid e ottimizzazione energetica.</title>
+<container-title>Proceedings of the Italian Conference on Energy Informatics</container-title>
+<location>Sassari:</location>
+<publisher>Edizioni Gallizzi</publisher>
+<pages>145-159.</pages>
+</sequence>
+
+<sequence>
+<author>Benedetti, L., &amp; Rossetti, D.</author>
+<date>(2021).</date>
+<title>Autonomous vehicles: percezione e pianificazione.</title>
+<container-title>Atti del Convegno su Veicoli Autonomi e Mobilità</container-title>
+<editor>Cerutti, A. (ed.)</editor>
+<location>Vicenza:</location>
+<publisher>Edizioni Biblioteca dell'Immagine</publisher>
+<pages>56-70.</pages>
+</sequence>
+
+<sequence>
+<author>Traversi, M.</author>
+<date>2019.</date>
+<title>Reinforcement learning per il controllo adattivo.</title>
+<container-title>Proceedings of the Workshop on Adaptive Control Systems</container-title>
+<location>La Spezia:</location>
+<publisher>Agorà Edizioni</publisher>
+<pages>189-203.</pages>
+</sequence>
+
+<sequence>
+<author>Serravalli, G., &amp; Panicali, T.</author>
+<date>(2022).</date>
+<title>Digital heritage: tecnologie per la conservazione.</title>
+<container-title>Atti della Conferenza su Beni Culturali Digitali</container-title>
+<editor>Mondadori, F. (ed.)</editor>
+<location>Arezzo:</location>
+<publisher>Edizioni dell'Accademia</publisher>
+<pages>67-81.</pages>
+</sequence>
+
+<sequence>
+<author>Cipriani, A.</author>
+<date>2020.</date>
+<title>Fairness-aware machine learning.</title>
+<container-title>Proceedings of the Italian Conference on Algorithmic Fairness</container-title>
+<location>Livorno:</location>
+<publisher>Sillabe Editore</publisher>
+<pages>134-148.</pages>
+</sequence>
+
+<sequence>
+<author>Falcone, M., &amp; Dettori, S.</author>
+<date>(2023).</date>
+<title>Wearable computing per la salute digitale.</title>
+<container-title>Atti del Convegno su Tecnologie Indossabili</container-title>
+<editor>Piras, A. (ed.)</editor>
+<location>Nuoro:</location>
+<publisher>Poliedro</publisher>
+<pages>89-103.</pages>
+</sequence>
+
+<sequence>
+<author>Montalcini, R.</author>
+<date>2021.</date>
+<title>Neural architecture search automatizzato.</title>
+<container-title>Proceedings of the Conference on AutoML</container-title>
+<location>Potenza:</location>
+<publisher>Ricerche Editrice</publisher>
+<pages>167-181.</pages>
+</sequence>
+
+<sequence>
+<author>Guerrini, P., &amp; Solimene, F.</author>
+<date>(2018).</date>
+<title>Event stream processing per dati in tempo reale.</title>
+<container-title>Atti della Conferenza su Sistemi Real-Time</container-title>
+<editor>Bernardini, C. (ed.)</editor>
+<location>Viterbo:</location>
+<publisher>Edizioni Bestraf</publisher>
+<pages>45-59.</pages>
+</sequence>
+
+<sequence>
+<author>Palmisano, V.</author>
+<date>2022.</date>
+<title>Knowledge distillation per modelli efficienti.</title>
+<container-title>Proceedings of the Workshop on Model Compression</container-title>
+<location>Brindisi:</location>
+<publisher>Edizioni Grifo</publisher>
+<pages>112-126.</pages>
+</sequence>
+
+<sequence>
+<author>Sette, L., &amp; Crocetti, E.</author>
+<date>(2020).</date>
+<title>Cyber-physical systems per la manifattura.</title>
+<container-title>Atti del Convegno di Sistemi Cyber-Fisici</container-title>
+<editor>Montanari, G. (ed.)</editor>
+<location>Imola:</location>
+<publisher>Edizioni La Mandragora</publisher>
+<pages>78-92.</pages>
+</sequence>
+
+<sequence>
+<author>Badalassi, D.</author>
+<date>2023.</date>
+<title>Meta-learning per few-shot classification.</title>
+<container-title>Proceedings of the Italian Conference on Meta-Learning</container-title>
+<location>Grosseto:</location>
+<publisher>Edizioni Effigi</publisher>
+<pages>145-159.</pages>
+</sequence>
+
+<sequence>
+<author>Cherubini, S., &amp; Menichelli, R.</author>
+<date>(2021).</date>
+<title>Indoor localization con reti wireless.</title>
+<container-title>Atti della Conferenza su Localizzazione e Navigazione</container-title>
+<editor>Ricciardi, M. (ed.)</editor>
+<location>Benevento:</location>
+<publisher>Edizioni Scientifiche</publisher>
+<pages>34-48.</pages>
+</sequence>
+
+<sequence>
+<author>Ferri, C.</author>
+<date>2019.</date>
+<title>Data storytelling per la visualizzazione efficace.</title>
+<container-title>Proceedings of the Conference on Data Visualization</container-title>
+<location>Busto Arsizio:</location>
+<publisher>Macchione Editore</publisher>
+<pages>178-192.</pages>
+</sequence>
+
+<sequence>
+<author>Gagliardi, E., &amp; Inzirillo, F.</author>
+<date>(2022).</date>
+<title>Synthetic data generation per la privacy.</title>
+<container-title>Atti del Workshop su Dati Sintetici e Privacy</container-title>
+<editor>Castorina, S. (ed.)</editor>
+<location>Acireale:</location>
+<publisher>Edizioni Bonanno</publisher>
+<pages>56-70.</pages>
+</sequence>
+
+<sequence>
+<author>Molinari, D.</author>
+<date>2020.</date>
+<title>Active learning per annotazione efficiente.</title>
+<container-title>Proceedings of the Italian Conference on Semi-Supervised Learning</container-title>
+<location>Cremona:</location>
+<publisher>Edizioni Il Sole</publisher>
+<pages>123-137.</pages>
+</sequence>
+
+<sequence>
+<author>Bernasconi, A., &amp; Viganò, L.</author>
+<date>(2023).</date>
+<title>Formal verification per sistemi AI-safe.</title>
+<container-title>Atti della Conferenza su Verifica Formale</container-title>
+<editor>Pedrotti, R. (ed.)</editor>
+<location>Rovereto:</location>
+<publisher>Edizioni Osiride</publisher>
+<pages>89-103.</pages>
+</sequence>
+
+<sequence>
+<author>Castiglioni, F.</author>
+<date>2021.</date>
+<title>Continual learning per sistemi adattivi.</title>
+<container-title>Proceedings of the Workshop on Lifelong Learning</container-title>
+<location>Monza:</location>
+<publisher>Edizioni BookSprint</publisher>
+<pages>156-170.</pages>
+</sequence>
+
+<sequence>
+<author>Salvetti, M., &amp; Torri, G.</author>
+<date>(2018).</date>
+<title>Multi-modal learning per dati eterogenei.</title>
+<container-title>Atti del Convegno su Integrazione di Dati Multi-Modali</container-title>
+<editor>Bettini, C. (ed.)</editor>
+<location>Rimini:</location>
+<publisher>Edizioni Maggioli</publisher>
+<pages>67-81.</pages>
+</sequence>
+
+<sequence>
+<author>Petrini, L.</author>
+<date>2022.</date>
+<title>Causal inference per analisi controfattuali.</title>
+<container-title>Proceedings of the Italian Conference on Causal Reasoning</container-title>
+<location>Verbania:</location>
+<publisher>Grossi Editore</publisher>
+<pages>134-148.</pages>
+</sequence>
+
+<sequence>
+<author>Fontana, R., &amp; Bellomi, S.</author>
+<date>(2020).</date>
+<title>Gesture-based interaction per realtà virtuale.</title>
+<container-title>Atti della Conferenza su VR e Interazione</container-title>
+<editor>De Paolis, M. (ed.)</editor>
+<location>Matera:</location>
+<publisher>Edizioni Fondazione Matera</publisher>
+<pages>45-59.</pages>
+</sequence>
+
+<sequence>
+<author>Alunni, G.</author>
+<date>2023.</date>
+<title>Self-supervised learning per rappresentazioni.</title>
+<container-title>Proceedings of the Conference on Representation Learning</container-title>
+<location>Chieti:</location>
+<publisher>Edizioni Universitarie</publisher>
+<pages>112-126.</pages>
+</sequence>
+
+<sequence>
+<author>Bonetti, C., &amp; Marangoni, D.</author>
+<date>(2021).</date>
+<title>Anomaly detection per sicurezza industriale.</title>
+<container-title>Atti del Convegno su Monitoraggio e Sicurezza</container-title>
+<editor>Tacchini, L. (ed.)</editor>
+<location>Faenza:</location>
+<publisher>Edizioni Dal Pozzo</publisher>
+<pages>78-92.</pages>
+</sequence>
+
+<sequence>
+<author>Venturi, P.</author>
+<date>2019.</date>
+<title>Neural ODE per sistemi dinamici.</title>
+<container-title>Proceedings of the Workshop on Neural Differential Equations</container-title>
+<location>Savona:</location>
+<publisher>Edizioni Sabatelli</publisher>
+<pages>189-203.</pages>
+</sequence>
+
+<sequence>
+<author>Benedettini, F., &amp; Simoncini, T.</author>
+<date>(2022).</date>
+<title>Programmable matter: sfide e opportunità.</title>
+<container-title>Atti della Conferenza su Materiali Intelligenti</container-title>
+<editor>Ghiberti, A. (ed.)</editor>
+<location>Massa:</location>
+<publisher>Edizioni Eccedemmi</publisher>
+<pages>56-70.</pages>
+</sequence>
+
+<sequence>
+<author>Carboni, R.</author>
+<date>2020.</date>
+<title>Zero-shot learning per classificazione generale.</title>
+<container-title>Proceedings of the Italian Conference on Generalization</container-title>
+<location>Olbia:</location>
+<publisher>Edizioni Taphros</publisher>
+<pages>145-159.</pages>
+</sequence>
+
+<sequence>
+<author>Milani, S., &amp; Pozzi, F.</author>
+<date>(2023).</date>
+<title>Brain-computer interfaces: stato dell'arte.</title>
+<container-title>Atti del Convegno su Neurotecnologie</container-title>
+<editor>Stefanini, C. (ed.)</editor>
+<location>Pontedera:</location>
+<publisher>Edizioni ETS</publisher>
+<pages>89-103.</pages>
+</sequence>
+
+<sequence>
+<author>Marchionni, A.</author>
+<date>2021.</date>
+<title>Spatio-temporal prediction per mobilità urbana.</title>
+<container-title>Proceedings of the Conference on Urban Informatics</container-title>
+<location>Prato:</location>
+<publisher>Edizioni Biblioteca Comunale</publisher>
+<pages>167-181.</pages>
+</sequence>
+
+<sequence>
+<author>Ghirardi, M., &amp; Affini, R.</author>
+<date>(2018).</date>
+<title>Neuro-symbolic AI per ragionamento ibrido.</title>
+<container-title>Atti del Workshop su AI Ibrida</container-title>
+<editor>Bianco, F. (ed.)</editor>
+<location>Varese:</location>
+<publisher>Edizioni Lativa</publisher>
+<pages>34-48.</pages>
+</sequence>
+
+<sequence>
+<author>Pesci, E.</author>
+<date>2022.</date>
+<title>Uncertainty quantification per modelli predittivi.</title>
+<container-title>Proceedings of the Conference on Uncertain AI</container-title>
+<location>Teramo:</location>
+<publisher>Edizioni Ricerche</publisher>
+<pages>112-126.</pages>
+</sequence>
+
+<sequence>
+<author>Baroncini, L., &amp; Guidotti, R.</author>
+<date>(2020).</date>
+<title>Interactive machine learning per utenti esperti.</title>
+<container-title>Atti della Conferenza su HCI e Machine Learning</container-title>
+<editor>Zannoni, B. (ed.)</editor>
+<location>Carpi:</location>
+<publisher>Edizioni Biblioteca Comunale</publisher>
+<pages>78-92.</pages>
+</sequence>
+
+<sequence>
+<author>Mattioli, G.</author>
+<date>2023.</date>
+<title>Distribution shift adaptation per modelli robusti.</title>
+<container-title>Proceedings of the Italian Conference on Robust ML</container-title>
+<location>Fermo:</location>
+<publisher>Edizioni Simple</publisher>
+<pages>145-159.</pages>
+</sequence>
+
+<sequence>
+<author>Pollini, A., &amp; Vestri, M.</author>
+<date>(2021).</date>
+<title>Ambient intelligence per spazi intelligenti.</title>
+<container-title>Atti del Convegno su Ambienti Intelligenti</container-title>
+<editor>Mondadori, E. (ed.)</editor>
+<location>Mantova:</location>
+<publisher>Edizioni Sometti</publisher>
+<pages>56-70.</pages>
+</sequence>
+
+<sequence>
+<author>Bevilacqua, C.</author>
+<date>2019.</date>
+<title>Contrastive learning per rappresentazioni auto-supervisionate.</title>
+<container-title>Proceedings of the Workshop on Self-Supervised Methods</container-title>
+<location>Cuneo:</location>
+<publisher>Edizioni Nerosubianco</publisher>
+<pages>178-192.</pages>
+</sequence>
+
+<sequence>
+<author>Scarpellini, E., &amp; Natali, F.</author>
+<date>(2022).</date>
+<title>Responsible AI: framework etici e implementazione.</title>
+<container-title>Atti della Conferenza su Etica dell'Intelligenza Artificiale</container-title>
+<editor>Panunzi, S. (ed.)</editor>
+<location>Tivoli:</location>
+<publisher>Edizioni Pubblisfera</publisher>
+<pages>67-81.</pages>
+</sequence>
+
+<sequence>
+<author>Filippini, D.</author>
+<date>2020.</date>
+<title>Graph embedding per knowledge graphs.</title>
+<container-title>Proceedings of the Italian Conference on Knowledge Representation</container-title>
+<location>Sondrio:</location>
+<publisher>Edizioni Lyasis</publisher>
+<pages>134-148.</pages>
+</sequence>
+
+<sequence>
+<author>Corradi, M., &amp; Tagliavini, G.</author>
+<date>(2023).</date>
+<title>Digital twins per la gestione urbana.</title>
+<container-title>Atti del Convegno su Città Digitali</container-title>
+<editor>Boriani, M. (ed.)</editor>
+<location>Carpi:</location>
+<publisher>Edizioni Biblioteca Comunale</publisher>
+<pages>89-103.</pages>
+</sequence>
+
+<sequence>
+<author>Sartori, L.</author>
+<date>2021.</date>
+<title>Imitation learning per robotica umana.</title>
+<container-title>Proceedings of the Conference on Humanoid Robotics</container-title>
+<location>Rovereto:</location>
+<publisher>Edizioni Osiride</publisher>
+<pages>156-170.</pages>
+</sequence>
+
+<sequence>
+<author>Bulgarelli, A., &amp; Panzacchi, R.</author>
+<date>(2018).</date>
+<title>Neural rendering per grafica realistica.</title>
+<container-title>Atti del Workshop su Computer Graphics Avanzata</container-title>
+<editor>Scarinci, P. (ed.)</editor>
+<location>Lucca:</location>
+<publisher>Edizioni Libreria Alinari</publisher>
+<pages>45-59.</pages>
+</sequence>
+
+<sequence>
+<author>Pierini, S.</author>
+<date>2022.</date>
+<title> Curriculum learning per training efficiente.</title>
+<container-title>Proceedings of the Italian Conference on Learning Strategies</container-title>
+<location>Ascoli Piceno:</location>
+<publisher>Edizioni La Vela</publisher>
+<pages>112-126.</pages>
+</sequence>
+
+<sequence>
+<author>Montanari, C., &amp; Berti, F.</author>
+<date>(2020).</date>
+<title>Edge AI per inferenza distribuita.</title>
+<container-title>Atti della Conferenza su Intelligenza Artificiale Distribuita</container-title>
+<editor>Cecchini, A. (ed.)</editor>
+<location>Foligno:</location>
+<publisher>Forni Editore</publisher>
+<pages>78-92.</pages>
+</sequence>
+
+<sequence>
+<author>Gasparri, N.</author>
+<date>2023.</date>
+<title>Self-playing agents per apprendimento autonomo.</title>
+<container-title>Proceedings of the Workshop on Autonomous Agents</container-title>
+<location>Viareggio:</location>
+<publisher>Edizioni Mauro Baroni</publisher>
+<pages>145-159.</pages>
+</sequence>
+
+<sequence>
+<author>Bertolini, F., &amp; Zanichelli, D.</author>
+<date>(2021).</date>
+<title>Molecular machine learning per drug discovery.</title>
+<container-title>Atti del Convegno su AI e Chimica Farmaceutica</container-title>
+<editor>Pesci, G. (ed.)</editor>
+<location>Pergine Valsugana:</location>
+<publisher>Edizioni UCV</publisher>
+<pages>34-48.</pages>
+</sequence>
+
+<sequence>
+<author>Vitaliani, R.</author>
+<date>2019.</date>
+<title>Attention mechanisms per sequenze lunghe.</title>
+<container-title>Proceedings of the Conference on Sequence Models</container-title>
+<location>Jesi:</location>
+<publisher>Edizioni Libri Scheiwiller</publisher>
+<pages>189-203.</pages>
+</sequence>
+
+<sequence>
+<author>Andreoli, M., &amp; Casadei, F.</author>
+<date>(2022).</date>
+<title>Embodied AI per agenti situati.</title>
+<container-title>Atti della Conferenza su Robotica Cognitiva</container-title>
+<editor>Latini, S. (ed.)</editor>
+<location>Senigallia:</location>
+<publisher>Edizioni Abaco</publisher>
+<pages>56-70.</pages>
+</sequence>
+
+<sequence>
+<author>Bombelli, F.</author>
+<date>2020.</date>
+<title>Neural architecture optimization automatico.</title>
+<container-title>Proceedings of the Italian Conference on Neural Architecture Search</container-title>
+<location>Alba:</location>
+<publisher>Edizioni dell'Orso</publisher>
+<pages>123-137.</pages>
+</sequence>
+
+<sequence>
+<author>Fantozzi, G., &amp; Poggiani, E.</author>
+<date>(2023).</date>
+<title>AI for science: scoperte accelerate.</title>
+<container-title>Atti del Convegno su Intelligenza Artificiale e Scienza</container-title>
+<editor>Bernacchi, M. (ed.)</editor>
+<location>Piombino:</location>
+<publisher>Edizioni Il Fiorino</publisher>
+<pages>89-103.</pages>
+</sequence>
+
+<sequence>
+<author>Silvestrini, P.</author>
+<date>2021.</date>
+<title>Multi-task learning per efficienza computazionale.</title>
+<container-title>Proceedings of the Workshop on Multi-Task Methods</container-title>
+<location>Isernia:</location>
+<publisher>Edizioni Enne</publisher>
+<pages>167-181.</pages>
+</sequence>
+
+<sequence>
+<author>Collodi, R., &amp; Ninci, F.</author>
+<date>(2018).</date>
+<title>Neural machine translation per lingue low-resource.</title>
+<container-title>Atti della Conferenza su Traduzione Automatica</container-title>
+<editor>Gargiulo, T. (ed.)</editor>
+<location>Aosta:</location>
+<publisher>Edizioni Le Chateau</publisher>
+<pages>67-81.</pages>
+</sequence>
+
+<sequence>
+<author>Baccini, A.</author>
+<date>2022.</date>
+<title>Causal reinforcement learning per decisioni.</title>
+<container-title>Proceedings of the Italian Conference on Decision AI</container-title>
+<location>Campobasso:</location>
+<publisher>Edizioni Enne</publisher>
+<pages>134-148.</pages>
+</sequence>
+
+<sequence>
+<author>Pastorelli, S., &amp; Ercoli, P.</author>
+<date>(2020).</date>
+<title>Social robotics per interazione naturale.</title>
+<container-title>Atti del Convegno su Robotica Sociale</container-title>
+<editor>Marazzini, R. (ed.)</editor>
+<location>Orvieto:</location>
+<publisher>Edizioni C.R.O.</publisher>
+<pages>45-59.</pages>
+</sequence>
+
+<sequence>
+<author>Meloni, G.</author>
+<date>2023.</date>
+<title>Energy-efficient neural networks per edge.</title>
+<container-title>Proceedings of the Conference on Green AI</container-title>
+<location>Oristano:</location>
+<publisher>Edizioni della Torre</publisher>
+<pages>112-126.</pages>
+</sequence>
+
+<sequence>
+<author>Capitani, F., &amp; Bartolini, M.</author>
+<date>(2021).</date>
+<title>Neuro-evolution per architetture ottimizzate.</title>
+<container-title>Atti del Workshop su Algoritmi Evolutivi</container-title>
+<editor>Donnarumma, F. (ed.)</editor>
+<location>Castellammare di Stabia:</location>
+<publisher>Edizioni Spartaco</publisher>
+<pages>78-92.</pages>
+</sequence>
+
+<sequence>
+<author>Ferretti, G.</author>
+<date>2019.</date>
+<title>Domain adaptation per generalizzazione cross-domain.</title>
+<container-title>Proceedings of the Italian Conference on Domain Adaptation</container-title>
+<location>Molfetta:</location>
+<publisher>Edizioni La Nuova Cultura</publisher>
+<pages>178-192.</pages>
+</sequence>
+
+<sequence>
+<author>Bandinelli, S., &amp; Frosini, P.</author>
+<date>(2022).</date>
+<title>AI governance: modelli e implementazione.</title>
+<container-title>Atti della Conferenza su Governance dell'Intelligenza Artificiale</container-title>
+<editor>Scaletti, F. (ed.)</editor>
+<location>San Gimignano:</location>
+<publisher>Edizioni Polistampa</publisher>
+<pages>56-70.</pages>
+</sequence>
+
+<sequence>
+<author>Gucciardini, L.</author>
+<date>2020.</date>
+<title>Neural process per modellazione probabilistica.</title>
+<container-title>Proceedings of the Workshop on Probabilistic ML</container-title>
+<location>Urbino:</location>
+<publisher>Edizioni Quattroventi</publisher>
+<pages>145-159.</pages>
+</sequence>
+
+<sequence>
+<author>Montanari, E., &amp; Poletti, D.</author>
+<date>(2023).</date>
+<title>Human-AI collaboration per lavoro ibrido.</title>
+<container-title>Atti del Convegno su Collaborazione Uomo-Macchina</container-title>
+<editor>Biancardi, A. (ed.)</editor>
+<location>Faenza:</location>
+<publisher>Edizioni La Mandragora</publisher>
+<pages>89-103.</pages>
+</sequence>
+
+<sequence>
+<author>Raffaelli, C.</author>
+<date>2021.</date>
+<title>Geometric deep learning per dati strutturati.</title>
+<container-title>Proceedings of the Italian Conference on Geometric ML</container-title>
+<location>San Miniato:</location>
+<publisher>Edizioni ETS</publisher>
+<pages>156-170.</pages>
+</sequence>
+
+<sequence>
+<author>Betti, A., &amp; Corsini, M.</author>
+<date>(2018).</date>
+<title>Neural spoken dialogue systems.</title>
+<container-title>Atti della Conferenza su Elaborazione del Parlato</container-title>
+<editor>Giovannelli, P. (ed.)</editor>
+<location>Volterra:</location>
+<publisher>Edizioni ETS</publisher>
+<pages>34-48.</pages>
+</sequence>
+
+<sequence>
+<author>Tognetti, R.</author>
+<date>2022.</date>
+<title>Adaptive computation per risorse variabili.</title>
+<container-title>Proceedings of the Conference on Efficient Computing</container-title>
+<location>Cortona:</location>
+<publisher>Calosci Editore</publisher>
+<pages>112-126.</pages>
+</sequence>
+
+<sequence>
+<author>Pacini, F., &amp; Barbafina, L.</author>
+<date>(2020).</date>
+<title>Neuro-symbolic reasoning per logica ibrida.</title>
+<container-title>Atti del Workshop su Ragionamento Ibrido</container-title>
+<editor>Castellani, F. (ed.)</editor>
+<location>Assisi:</location>
+<publisher>Edizioni Porziuncola</publisher>
+<pages>78-92.</pages>
+</sequence>
+
+<sequence>
+<author>Vannucci, S.</author>
+<date>2023.</date>
+<title>Self-improving systems per apprendimento continuo.</title>
+<container-title>Proceedings of the Italian Conference on Self-Improving AI</container-title>
+<location>Gualdo Tadino:</location>
+<publisher>Edizioni Edigraf</publisher>
+<pages>145-159.</pages>
+</sequence>
+
+<sequence>
+<author>Lucarelli, M., &amp; Ottaviani, R.</author>
+<date>(2021).</date>
+<title>Neural planning per sistemi autonomi.</title>
+<container-title>Atti del Convegno su Pianificazione Automatica</container-title>
+<editor>Malatesta, G. (ed.)</editor>
+<location>Corinaldo:</location>
+<publisher>Edizioni Biblioteca Comunale</publisher>
+<pages>56-70.</pages>
+</sequence>
+
+<sequence>
+<author>Baldassarrini, P.</author>
+<date>2019.</date>
+<title>Deep generative models per dati complessi.</title>
+<container-title>Proceedings of the Workshop on Generative AI</container-title>
+<location>Fabriano:</location>
+<publisher>Edizioni Centro Studi Storici</publisher>
+<pages>189-203.</pages>
+</sequence>
+
+<sequence>
+<author>Giacomini, L., &amp; Mazzanti, S.</author>
+<date>(2022).</date>
+<title>AI safety: verifiche e garanzie formali.</title>
+<container-title>Atti della Conferenza su Sicurezza dell'Intelligenza Artificiale</container-title>
+<editor>Piergentili, A. (ed.)</editor>
+<location>Recanati:</location>
+<publisher>Edizioni Casagrande</publisher>
+<pages>67-81.</pages>
+</sequence>
+
+<sequence>
+<author>Monti, R.</author>
+<date>2020.</date>
+<title>Neural retrieval per sistemi di raccomandazione.</title>
+<container-title>Proceedings of the Italian Conference on Information Retrieval</container-title>
+<location>Campli:</location>
+<publisher>Edizioni Grafiche Italiane</publisher>
+<pages>134-148.</pages>
+</sequence>
+
+<sequence>
+<author>Palmieri, D., &amp; Rosati, F.</author>
+<date>(2023).</date>
+<title>Conversational recommendation systems.</title>
+<container-title>Atti del Convegno su Sistemi Conversazionali</container-title>
+<editor>Falconi, M. (ed.)</editor>
+<location>Giulianova:</location>
+<publisher>Edizioni Palumbi</publisher>
+<pages>89-103.</pages>
+</sequence>
+
+<sequence>
+<author>Benedetti, S.</author>
+<date>2021.</date>
+<title>Multi-agent reinforcement learning distribuito.</title>
+<container-title>Proceedings of the Conference on Distributed AI</container-title>
+<location>Sulmona:</location>
+<publisher>Edizioni Dehon</publisher>
+<pages>167-181.</pages>
+</sequence>
+
+<sequence>
+<author>Ferraro, A., &amp; De Santis, L.</author>
+<date>(2018).</date>
+<title>Neural question answering per knowledge bases.</title>
+<container-title>Atti della Conferenza su Question Answering</container-title>
+<editor>Di Benedetto, R. (ed.)</editor>
+<location>Avezzano:</location>
+<publisher>Edizioni Di Giuseppe</publisher>
+<pages>45-59.</pages>
+</sequence>
+
+<sequence>
+<author>Marinelli, G.</author>
+<date>2022.</date>
+<title>Continual relation learning per knowledge graphs.</title>
+<container-title>Proceedings of the Italian Conference on Relation Extraction</container-title>
+<location>Lanciano:</location>
+<publisher>Edizioni Rocco Carabba</publisher>
+<pages>112-126.</pages>
+</sequence>
+
+<sequence>
+<author>Santilli, F., &amp; Taddei, M.</author>
+<date>(2020).</date>
+<title>Neural summarization per documenti lunghi.</title>
+<container-title>Atti del Workshop su Summarization Automatica</container-title>
+<editor>Bertoncini, P. (ed.)</editor>
+<location>Atessa:</location>
+<publisher>Edizioni Tracce</publisher>
+<pages>78-92.</pages>
+</sequence>
+
+<sequence>
+<author>Piccirilli, D.</author>
+<date>2023.</date>
+<title>AI-powered scientific discovery.</title>
+<container-title>Proceedings of the Conference on AI for Research</container-title>
+<location>Vasto:</location>
+<publisher>Edizioni Tabula</publisher>
+<pages>145-159.</pages>
+</sequence>
+
+<sequence>
+<author>De Angelis, C., &amp; Mancinelli, R.</author>
+<date>(2021).</date>
+<title>Neural code generation per sviluppo software.</title>
+<container-title>Atti della Conferenza su AI e Software Engineering</container-title>
+<editor>Ciancaglini, F. (ed.)</editor>
+<location>Pescara:</location>
+<publisher>Edizioni Tracce</publisher>
+<pages>34-48.</pages>
+</sequence>
+
+<sequence>
+<author>Barilari, M.</author>
+<date>2019.</date>
+<title>Deep learning per serie temporali finanziarie.</title>
+<container-title>Proceedings of the Italian Conference on Financial AI</container-title>
+<location>Pineto:</location>
+<publisher>Edizioni Palumbi</publisher>
+<pages>178-192.</pages>
+</sequence>
+
+<sequence>
+<author>Fabbretti, L., &amp; Giancomelli, S.</author>
+<date>(2022).</date>
+<title>Neural program synthesis per automazione.</title>
+<container-title>Atti del Convegno su Programmazione Automatica</container-title>
+<editor>Salvatori, A. (ed.)</editor>
+<location>Roseto degli Abruzzi:</location>
+<publisher>Edizioni Grafiche Italiane</publisher>
+<pages>56-70.</pages>
+</sequence>
+
+<sequence>
+<author>Collina, R.</author>
+<date>2020.</date>
+<title>AI explainability per sistemi medici.</title>
+<container-title>Proceedings of the Conference on Medical AI Explainability</container-title>
+<location>Martinsicuro:</location>
+<publisher>Edizioni Palumbi</publisher>
+<pages>123-137.</pages>
+</sequence>
+
+<sequence>
+<author>Passerini, A., &amp; Bellucci, F.</author>
+<date>(2023).</date>
+<title>Neural architecture transfer cross-domain.</title>
+<container-title>Atti della Conferenza su Transfer Learning</container-title>
+<editor>Ferri, D. (ed.)</editor>
+<location>Alba Adriatica:</location>
+<publisher>Edizioni Palumbi</publisher>
+<pages>89-103.</pages>
+</sequence>
+
+<sequence>
+<author>Negrini, F.</author>
+<date>2021.</date>
+<title>Prompt engineering per grandi modelli linguistici.</title>
+<container-title>Proceedings of the Italian Conference on NLP</container-title>
+<location>Viareggio:</location>
+<publisher>Edizioni Mauro Baroni</publisher>
+<pages>201-215.</pages>
+</sequence>
+
+<sequence>
+<author>Costantini, E., &amp; Ferri, G.</author>
+<date>(2020).</date>
+<title>Neural dialogue state tracking.</title>
+<container-title>Atti del Convegno su Sistemi Dialogici</container-title>
+<editor>Bertoncini, M. (ed.)</editor>
+<location>Riccione:</location>
+<publisher>Edizioni Maggioli</publisher>
+<pages>67-81.</pages>
+</sequence>
+
+<sequence>
+<author>Pellegrino, R.</author>
+<date>2022.</date>
+<title>Low-rank adaptation per fine-tuning efficiente.</title>
+<container-title>Proceedings of the Workshop on Parameter-Efficient ML</container-title>
+<location>Monterotondo:</location>
+<publisher>Edizioni Aracne</publisher>
+<pages>134-148.</pages>
+</sequence>
+
+<sequence>
+<author>Bianchini, S., &amp; Martelli, P.</author>
+<date>(2023).</date>
+<title>Retrieval-augmented generation per RAG systems.</title>
+<container-title>Atti della Conferenza su Generazione di Testo</container-title>
+<editor>Castelli, R. (ed.)</editor>
+<location>Tivoli:</location>
+<publisher>Edizioni Pubblisfera</publisher>
+<pages>45-59.</pages>
+</sequence>
+
+<sequence>
+<author>Greco, D.</author>
+<date>2021.</date>
+<title>Vision-language models per comprensione multimodale.</title>
+<container-title>Proceedings of the Italian Conference on Multimodal AI</container-title>
+<location> Frascati:</location>
+<publisher>Edizioni CFS</publisher>
+<pages>178-192.</pages>
+</sequence>
+
+<sequence>
+<author>Lo Bianco, F., &amp; Ferrara, S.</author>
+<date>(2019).</date>
+<title>Speech-to-speech translation end-to-end.</title>
+<container-title>Atti del Workshop su Traduzione del Parlato</container-title>
+<editor>Monteleone, C. (ed.)</editor>
+<location> Taormina:</location>
+<publisher>Edizioni CUECM</publisher>
+<pages>89-103.</pages>
+</sequence>
+
+<sequence>
+<author>Palumbo, E.</author>
+<date>2022.</date>
+<title>In-context learning per few-shot inference.</title>
+<container-title>Proceedings of the Conference on Language Model Inference</container-title>
+<location>Cefalù:</location>
+<publisher>Edizioni CLUEB</publisher>
+<pages>112-126.</pages>
+</sequence>
+
+<sequence>
+<author>Scaglioni, M., &amp; Riva, A.</author>
+<date>(2020).</date>
+<title>Instruction tuning per modelli allineati.</title>
+<container-title>Atti del Convegno su Modelli Linguistici</container-title>
+<editor>Vitali, F. (ed.)</editor>
+<location> Bressanone:</location>
+<publisher>Edizioni Weger</publisher>
+<pages>56-70.</pages>
+</sequence>
+
+<sequence>
+<author>Capaccioli, L.</author>
+<date>2023.</date>
+<title>Chain-of-thought reasoning per inferenza complessa.</title>
+<container-title>Proceedings of the Italian Conference on Reasoning AI</container-title>
+<location> Merano:</location>
+<publisher>Edizioni Alpha &amp; Beta</publisher>
+<pages>145-159.</pages>
+</sequence>
+
+<sequence>
+<author>Toscano, G., &amp; D'urso, M.</author>
+<date>(2021).</date>
+<title>Neural re-ranking per information retrieval.</title>
+<container-title>Atti della Conferenza su Search e Retrieval</container-title>
+<editor>Barbieri, S. (ed.)</editor>
+<location> Brunico:</location>
+<publisher>Edizioni Weger</publisher>
+<pages>34-48.</pages>
+</sequence>
+
+<sequence>
+<author>Roveda, C.</author>
+<date>2022.</date>
+<title>Neural text detoxification per contenuti sicuri.</title>
+<container-title>Proceedings of the Workshop on Safe NLP</container-title>
+<location> Glorenza:</location>
+<publisher>Edizioni Weger</publisher>
+<pages>167-181.</pages>
+</sequence>
+
+<sequence>
+<author>Pastore, F., &amp; Giordano, L.</author>
+<date>(2018).</date>
+<title>Aspect-based sentiment analysis.</title>
+<container-title>Atti del Convegno su Opinion Mining</container-title>
+<editor>Romanelli, P. (ed.)</editor>
+<location> Silandro:</location>
+<publisher>Edizioni Weger</publisher>
+<pages>78-92.</pages>
+</sequence>
+
+<sequence>
+<author>Vincenzi, A.</author>
+<date>2023.</date>
+<title>Large language models per codice sorgente.</title>
+<container-title>Proceedings of the Conference on Code AI</container-title>
+<location> Campo Tures:</location>
+<publisher>Edizioni Weger</publisher>
+<pages>123-137.</pages>
+</sequence>
+
+<sequence>
+<author>Basili, R., &amp; Moschitti, A.</author>
+<date>(2020).</date>
+<title>Semantic role labeling neurale.</title>
+<container-title>Atti della Conferenza su Semantic NLP</container-title>
+<editor>Navigli, R. (ed.)</editor>
+<location> Cervia:</location>
+<publisher>Edizioni Maggioli</publisher>
+<pages>89-103.</pages>
+</sequence>
+
+<sequence>
+<author>Zanzotto, F.</author>
+<date>2021.</date>
+<title>Neural constituency parsing.</title>
+<container-title>Proceedings of the Italian Conference on Syntactic Analysis</container-title>
+<location> Belluno:</location>
+<publisher>Edizioni Unipress</publisher>
+<pages>156-170.</pages>
+</sequence>
+
+</dataset>

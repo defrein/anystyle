@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+  <sequence>
+    <author>Rossi, M.</author>
+    <date>2023.</date>
+    <title>Intelligenza artificiale e società digitale.</title>
+    <publisher>Politecnico di Milano.</publisher>
+    <url>https://www.polimi.it/ricerca/ai-societa-digitale</url>
+    <note>Consultato 2024-01-15.</note>
+  </sequence>
+  <sequence>
+    <author>Bianchi, L., &amp; Ferrari, G.</author>
+    <date>2022.</date>
+    <title>La trasformazione digitale nelle imprese italiane.</title>
+    <publisher>ISTAT.</publisher>
+    <url>https://www.istat.it/it/files/2022/03/trasformazione-digitale-imprese.pdf</url>
+    <note>Consultato 2023-06-20.</note>
+  </sequence>
+  <sequence>
+    <date>2024.</date>
+    <title>Piano Nazionale di Ripresa e Resilienza – Aggiornamento 2024.</title>
+    <publisher>Governo Italiano.</publisher>
+    <url>https://www.governo.it/sites/governo.it/files/PNRR_aggiornamento_2024.pdf</url>
+    <note>Consultato 2024-02-01.</note>
+  </sequence>
+  <sequence>
+    <title>Linee guida per la cybersecurity nella pubblica amministrazione.</title>
+    <publisher>ACN – Agenzia per la Cybersicurezza Nazionale.</publisher>
+    <url>https://www.acn.gov.it/linee-guida-cybersecurity</url>
+    <note>Consultato 2024-03-10.</note>
+  </sequence>
+  <sequence>
+    <author>Conti, A.</author>
+    <date>2023.</date>
+    <title>Il futuro del lavoro nell'era digitale.</title>
+    <url>https://www.ilsole24ore.com/art/il-futuro-del-lavoro-nell-era-digitale</url>
+    <note>Consultato 2023-11-05.</note>
+  </sequence>
+  <sequence>
+    <author>Martini, P., Romano, S., &amp; Greco, F.</author>
+    <date>2024.</date>
+    <title>Osservatorio sulla digitalizzazione delle PMI.</title>
+    <publisher>Politecnico di Torino.</publisher>
+    <url>https://www.polito.it/osservatori/digitalizzazione-pmi-2024</url>
+    <note>Consultato 2024-01-22.</note>
+  </sequence>
+  <sequence>
+    <author>Ricci, E.</author>
+    <date>2022.</date>
+    <title>Sostenibilità ambientale e transizione ecologica.</title>
+    <publisher>Ministero della Transizione Ecologica.</publisher>
+    <url>https://www.mite.gov.it/documents/sostenibilita-2022.pdf</url>
+    <note>Consultato 2023-04-18.</note>
+  </sequence>
+  <sequence>
+    <date>2023.</date>
+    <title>Rapporto sulla sanità digitale in Italia.</title>
+    <publisher>Ministero della Salute.</publisher>
+    <url> https://www.salute.gov.it/portale/documentazione/p6_2_8_1_1.jsp?id=rapporto-sanita-digitale-2023</url>
+    <note>Consultato 2023-09-12.</note>
+  </sequence>
+  <sequence>
+    <author>Lombardi, C., &amp; Moretti, L.</author>
+    <date>2024.</date>
+    <title>Blockchain e applicazioni finanziarie.</title>
+    <publisher>Università Bocconi.</publisher>
+    <url>https://www.unibocconi.it/research/blockchain-finance-2024</url>
+    <note>Consultato 2024-02-28.</note>
+  </sequence>
+  <sequence>
+    <author>Barbieri, R.</author>
+    <date>2021.</date>
+    <title>L'economia circolare nel settore tessile.</title>
+    <url>https://www.camere.it/dati-attività/economia-circolare-tessile</url>
+    <note>Consultato 2022-07-14.</note>
+  </sequence>
+  <sequence>
+    <title>Statistiche sull'uso di internet in Italia.</title>
+    <publisher>ISTAT.</publisher>
+    <url>https://www.istat.it/it/archivio/internet-italia</url>
+    <note>Consultato 2024-01-08.</note>
+  </sequence>
+  <sequence>
+    <author>Colombo, M., &amp; Rinaldi, A.</author>
+    <date>2023.</date>
+    <title>Smart city e mobilità sostenibile.</title>
+    <publisher>Politecnico di Milano.</publisher>
+    <url>https://www.polimi.it/research/smart-city-mobilita</url>
+    <note>Consultato 2023-10-25.</note>
+  </sequence>
+  <sequence>
+    <author>Fontana, D.</author>
+    <date>2022.</date>
+    <title>Intelligenza artificiale nella diagnostica medica.</title>
+    <publisher>CNR – Consiglio Nazionale delle Ricerche.</publisher>
+    <url>https://www.cnr.it/it/pub/2022/ai-diagnostica-medica</url>
+    <note>Consultato 2023-02-19.</note>
+  </sequence>
+  <sequence>
+    <date>2024.</date>
+    <title>Piano Triennale per l'Informatica nella PA 2024-2026.</title>
+    <publisher>AgID – Agenzia per l'Italia Digitale.</publisher>
+    <url>https://www.agid.gov.it/sites/default/files/repository_files/piano_triennale_2024_2026.pdf</url>
+    <note>Consultato 2024-03-01.</note>
+  </sequence>
+  <sequence>
+    <author>Galli, S., Marchetti, L., &amp; Testa, M.</author>
+    <date>2023.</date>
+    <title>Analisi dei dati satellitari per il monitoraggio ambientale.</title>
+    <publisher>ASI – Agenzia Spaziale Italiana.</publisher>
+    <url>https://www.asi.it/progetti/monitoraggio-ambientale-satellitare</url>
+    <note>Consultato 2023-08-30.</note>
+  </sequence>
+  <sequence>
+    <author>Ferri, A.</author>
+    <date>2021.</date>
+    <title>Il digitale nella scuola italiana.</title>
+    <publisher>Ministero dell'Istruzione.</publisher>
+    <url>https://www.miur.gov.it/digitale-scuola</url>
+    <note>Consultato 2022-05-11.</note>
+  </sequence>
+  <sequence>
+    <title>Open data e trasparenza amministrativa.</title>
+    <publisher>AgID.</publisher>
+    <url>https://www.dati.gov.it/open-data-trasparenza</url>
+    <note>Consultato 2024-02-14.</note>
+  </sequence>
+  <sequence>
+    <author>Monti, G., &amp; Costa, P.</author>
+    <date>2023.</date>
+    <title>Energie rinnovabili: scenari per il 2030.</title>
+    <publisher>ENEA.</publisher>
+    <url>https://www.enea.it/it/seguici/pubblicazioni/energie-rinnovabili-2030.pdf</url>
+    <note>Consultato 2023-07-22.</note>
+  </sequence>
+  <sequence>
+    <author>Neri, F.</author>
+    <date>2024.</date>
+    <title>5G e connettività avanzata in Italia.</title>
+    <publisher>AGCOM.</publisher>
+    <url>https://www.agcom.it/documents/5g-connettivita-italia-2024</url>
+    <note>Consultato 2024-01-30.</note>
+  </sequence>
+  <sequence>
+    <date>2023.</date>
+    <title>Rapporto annuale sulla cybersecurity.</title>
+    <publisher>ACN.</publisher>
+    <url>https://www.acn.gov.it/rapporto-cybersecurity-2023</url>
+    <note>Consultato 2023-12-05.</note>
+  </sequence>
+  <sequence>
+    <author>Bruno, A., &amp; Leone, M. C.</author>
+    <date>2022.</date>
+    <title>Turismo digitale e piattaforme online.</title>
+    <publisher>ENIT.</publisher>
+    <url>https://www.enit.it/it/studi/turismo-digitale-2022</url>
+    <note>Consultato 2023-03-17.</note>
+  </sequence>
+  <sequence>
+    <author>Caruso, D.</author>
+    <date>2024.</date>
+    <title>La filiera agroalimentare italiana nel mercato globale.</title>
+    <publisher>ISMEA.</publisher>
+    <url>https://www.ismea.it/flex/cm/pages/ServB.php/L/IT/PAG/filiera-agroalimentare-globale</url>
+    <note>Consultato 2024-02-20.</note>
+  </sequence>
+  <sequence>
+    <title>Indagine sulle competenze digitali dei cittadini.</title>
+    <publisher>ISTAT.</publisher>
+    <url>https://www.istat.it/it/files/2023/competenze-digitali-cittadini.pdf</url>
+    <note>Consultato 2023-11-28.</note>
+  </sequence>
+  <sequence>
+    <author>Riva, S., &amp; Longo, A.</author>
+    <date>2023.</date>
+    <title>Internet of Things nelle città italiane.</title>
+    <publisher>Politecnico di Torino.</publisher>
+    <url>https://www.polito.it/ricerca/iot-citta-italiane</url>
+    <note>Consultato 2023-09-08.</note>
+  </sequence>
+  <sequence>
+    <author>Parisi, M.</author>
+    <date>2021.</date>
+    <title>Innovazione e brevetti nel settore biotech.</title>
+    <publisher>UIBM – Ufficio Italiano Brevetti e Marchi.</publisher>
+    <url>https://www.uibm.gov.it/index.php/innovazionebrevetti-biotech</url>
+    <note>Consultato 2022-06-25.</note>
+  </sequence>
+  <sequence>
+    <date>2024.</date>
+    <title>Strategia nazionale per i dati e l'intelligenza artificiale.</title>
+    <publisher>Presidenza del Consiglio dei Ministri.</publisher>
+    <url>https://www.governo.it/sites/governo.it/files/strategia-nazionale-dati-ai-2024.pdf</url>
+    <note>Consultato 2024-03-05.</note>
+  </sequence>
+  <sequence>
+    <author>Vitali, G., &amp; Sartori, E.</author>
+    <date>2022.</date>
+    <title>La logistica 4.0 nel sistema produttivo italiano.</title>
+    <publisher>Università di Bologna.</publisher>
+    <url>https://www.unibo.it/it/ateneo/ricerca/logistica-4-0</url>
+    <note>Consultato 2023-01-14.</note>
+  </sequence>
+  <sequence>
+    <author>Donati, L.</author>
+    <date>2023.</date>
+    <title>E-health e telemedicina: stato dell'arte.</title>
+    <publisher>ISS – Istituto Superiore di Sanità.</publisher>
+    <url>https://www.iss.it/e-health-telemedicina-stato-arte-2023</url>
+    <note>Consultato 2023-10-10.</note>
+  </sequence>
+  <sequence>
+    <title>Monitoraggio della qualità dell'aria nelle regioni italiane.</title>
+    <publisher>ISPRA.</publisher>
+    <url>https://www.isprambiente.gov.it/it/pubblicazioni/qualita-aria-regioni</url>
+    <note>Consultato 2024-01-18.</note>
+  </sequence>
+  <sequence>
+    <author>Mancini, R., Bellini, F., &amp; Gatti, S.</author>
+    <date>2024.</date>
+    <title>Fintech e inclusione finanziaria.</title>
+    <publisher>Università Cattolica del Sacro Cuore.</publisher>
+    <url>https://www.unicatt.it/ricerca/fintech-inclusione-finanziaria-2024</url>
+    <note>Consultato 2024-02-12.</note>
+  </sequence>
+  <sequence>
+    <author>Pellegrini, A.</author>
+    <date>2022.</date>
+    <title>Cultura digitale e patrimonio artistico.</title>
+    <publisher>Ministero della Cultura.</publisher>
+    <url>https://www.beniculturali.it/cultura-digitale-patrimonio</url>
+    <note>Consultato 2023-04-05.</note>
+  </sequence>
+  <sequence>
+    <date>2023.</date>
+    <title>Dati aperti nella pubblica amministrazione: best practices.</title>
+    <publisher>Formez PA.</publisher>
+    <url>https://www.formezpa.it/materiali/dati-aperti-pa-best-practices</url>
+    <note>Consultato 2023-08-15.</note>
+  </sequence>
+  <sequence>
+    <author>Orlando, C., &amp; Marini, L.</author>
+    <date>2024.</date>
+    <title>Cloud computing per le imprese italiane.</title>
+    <publisher>Assinform.</publisher>
+    <url>https://www.assinform.it/ricerche/cloud-computing-imprese-2024</url>
+    <note>Consultato 2024-03-08.</note>
+  </sequence>
+  <sequence>
+    <author>Santoro, P.</author>
+    <date>2021.</date>
+    <title>Mobilità elettrica: infrastrutture e incentivi.</title>
+    <publisher>ANFIA.</publisher>
+    <url>https://www.anfia.it/mobilita-elettrica-infrastrutture</url>
+    <note>Consultato 2022-09-20.</note>
+  </sequence>
+  <sequence>
+    <title>Report sull'innovazione tecnologica nel Mezzogiorno.</title>
+    <publisher>SVIMEZ.</publisher>
+    <url>https://www.svimez.gov.it/report-innovazione-mezzogiorno-2023</url>
+    <note>Consultato 2023-12-12.</note>
+  </sequence>
+  <sequence>
+    <author>Benedetti, M., &amp; Fabbri, R.</author>
+    <date>2023.</date>
+    <title>Educazione STEM e coding nelle scuole.</title>
+    <publisher>INDIRE.</publisher>
+    <url>https://www.indire.it/progetti/educazione-stem-coding-scuole</url>
+    <note>Consultato 2023-07-05.</note>
+  </sequence>
+  <sequence>
+    <author>Gentile, S.</author>
+    <date>2024.</date>
+    <title>La trasformazione digitale del sistema bancario.</title>
+    <publisher>ABI – Associazione Bancaria Italiana.</publisher>
+    <url>
+        https://www.abi.it/pagine/temi-e-orientamenti/ricerche/trasformazione-digitale-bancaria-2024.aspx</url>
+    <note>Consultato 2024-02-25.</note>
+  </sequence>
+  <sequence>
+    <date>2022.</date>
+    <title>Piano per la transizione ecologica delle imprese.</title>
+    <publisher>Unioncamere.</publisher>
+    <url>https://www.unioncamere.it/piano-transizione-ecologica-imprese</url>
+    <note>Consultato 2023-05-30.</note>
+  </sequence>
+  <sequence>
+    <author>Testa, A., &amp; Monti, G.</author>
+    <date>2023.</date>
+    <title>Wearable technology e salute.</title>
+    <publisher>Politecnico di Milano.</publisher>
+    <url>https://www.polimi.it/wearable-tech-salute</url>
+    <note>Consultato 2023-11-18.</note>
+  </sequence>
+  <sequence>
+    <author>Marchetti, C.</author>
+    <date>2024.</date>
+    <title>Il ruolo dell'Italia nella supply chain europea dei semiconduttori.</title>
+    <publisher>Sistemi &amp; Impresa.</publisher>
+    <url>https://www.sistemimpresa.it/supply-chain-semiconduttori-europa</url>
+    <note>Consultato 2024-01-25.</note>
+  </sequence>
+  <sequence>
+    <title>Accessibilità digitale: linee guida per i siti della PA.</title>
+    <publisher>AgID.</publisher>
+    <url>https://www.agid.gov.it/it/design-servizi/accessibilita-linee-guida</url>
+    <note>Consultato 2024-03-12.</note>
+  </sequence>
+  <sequence>
+    <author>D'Angelo, R., &amp; Martini, S.</author>
+    <date>2022.</date>
+    <title>Robotica collaborativa nell'industria 4.0.</title>
+    <publisher>Università di Padova.</publisher>
+    <url>https://www.unipd.it/ricerca/robotica-collaborativa-industria-4</url>
+    <note>Consultato 2023-02-28.</note>
+  </sequence>
+  <sequence>
+    <author>Leone, A.</author>
+    <date>2023.</date>
+    <title>Privacy e protezione dei dati personali nell'era digitale.</title>
+    <publisher>Garante per la Protezione dei Dati Personali.</publisher>
+    <url>https://www.garanteprivacy.it/privacy-protezione-dati-era-digitale</url>
+    <note>Consultato 2023-09-22.</note>
+  </sequence>
+  <sequence>
+    <date>2024.</date>
+    <title> Rapporto sulla digitalizzazione del settore assicurativo.</title>
+    <publisher>ANIA.</publisher>
+    <url>
+        https://www.ania.it/sites/default/files/2024-01/rapporto-digitalizzazione-assicurazioni-2024.pdf</url>
+    <note>Consultato 2024-02-08.</note>
+  </sequence>
+  <sequence>
+    <author>Ferrara, M., &amp; Rossetti, F.</author>
+    <date>2023.</date>
+    <title>Economia della condivisione: il caso italiano.</title>
+    <publisher>Università di Roma Tor Vergata.</publisher>
+    <url>https://www.uniroma2.it/economia-condivisione-italia</url>
+    <note>Consultato 2023-06-15.</note>
+  </sequence>
+  <sequence>
+    <author>Caputo, L.</author>
+    <date>2021.</date>
+    <title>Monitoraggio delle energie rinnovabili in Italia.</title>
+    <publisher>GSE – Gestore dei Servizi Energetici.</publisher>
+    <url>https://www.gse.it/monitoraggio-rinnovabili-2021</url>
+    <note>Consultato 2022-04-12.</note>
+  </sequence>
+  <sequence>
+    <title>Il mercato del lavoro digitale in Italia.</title>
+    <publisher>ANPAL.</publisher>
+    <url>https://www.anpal.gov.it/mercato-lavoro-digitale</url>
+    <note>Consultato 2023-10-05.</note>
+  </sequence>
+  <sequence>
+    <author>Marino, G., &amp; Silvestri, A.</author>
+    <date>2024.</date>
+    <title>Quantum computing: prospettive e applicazioni.</title>
+    <publisher>CNR.</publisher>
+    <url>https://www.cnr.it/it/area-tematica/quantum-computing-prospettive-applicazioni</url>
+    <note>Consultato 2024-03-01.</note>
+  </sequence>
+  <sequence>
+    <author>Palmieri, D.</author>
+    <date>2022.</date>
+    <title>La digitalizzazione della giustizia in Italia.</title>
+    <publisher>Ministero della Giustizia.</publisher>
+    <url>https://www.giustizia.it/digitalizzazione-giustizia</url>
+    <note>Consultato 2023-03-25.</note>
+  </sequence>
+  <sequence>
+    <date>2023.</date>
+    <title>Osservatorio sulle criptovalute e asset digitali.</title>
+    <publisher>Consob.</publisher>
+    <url>https://www.consob.it/web/investitori/criptovalute-asset-digitali-osservatorio-2023</url>
+    <note>Consultato 2023-11-10.</note>
+  </sequence>
+  <sequence>
+    <author>Grassi, P., &amp; Alberti, M.</author>
+    <date>2024.</date>
+    <title>Smart manufacturing: casi di successo italiani.</title>
+    <publisher>Confindustria.</publisher>
+    <url>
+        https://www.confindustria.it/Aree-di-attività/innovazione-e-digitale/smart-manufacturing-casi-successo</url>
+    <note>Consultato 2024-01-20.</note>
+  </sequence>
+  <sequence>
+    <author>Vitale, S.</author>
+    <date>2023.</date>
+    <title>Comunicazione digitale e social media nella PA.</title>
+    <publisher>Formez PA.</publisher>
+    <url>https://www.formezpa.it/comunicazione-digitale-social-media-pa</url>
+    <note>Consultato 2023-08-08.</note>
+  </sequence>
+  <sequence>
+    <title>Guida all'uso sicuro di internet per i cittadini.</title>
+    <publisher>Polizia Postale.</publisher>
+    <url>https://www.commissariatodipsonline.it/guida-internet-sicuro</url>
+    <note>Consultato 2024-02-18.</note>
+  </sequence>
+  <sequence>
+    <author>De Luca, A., &amp; Rizzo, M.</author>
+    <date>2022.</date>
+    <title>Big data analytics per il marketing territoriale.</title>
+    <publisher>Università di Napoli Federico II.</publisher>
+    <url>https://www.unina.it/big-data-analytics-marketing-territoriale</url>
+    <note>Consultato 2023-01-28.</note>
+  </sequence>
+  <sequence>
+    <author>Cattaneo, F.</author>
+    <date>2024.</date>
+    <title>La transizione digitale del settore agricolo.</title>
+    <publisher>CREA – Consiglio per la Ricerca in Agricoltura.</publisher>
+    <url>https://www.crea.gov.it/transizione-digitale-agricoltura</url>
+    <note>Consultato 2024-03-10.</note>
+  </sequence>
+  <sequence>
+    <date>2023.</date>
+    <title>Rapporto sulla mobilità sostenibile urbana.</title>
+    <publisher>Legambiente.</publisher>
+    <url>https://www.legambiente.it/rapporto-mobilita-sostenibile-urbana-2023</url>
+    <note>Consultato 2023-07-12.</note>
+  </sequence>
+  <sequence>
+    <author>Basile, R., &amp; Ferretti, L.</author>
+    <date>2024.</date>
+    <title>Edilizia 4.0: tecnologie per le costruzioni sostenibili.</title>
+    <publisher>ANCE.</publisher>
+    <url>https://www.ance.it/edilizia-4-tecnologie-costruzioni-sostenibili</url>
+    <note>Consultato 2024-02-05.</note>
+  </sequence>
+  <sequence>
+    <author>Giordano, E.</author>
+    <date>2021.</date>
+    <title>Il sistema universitario italiano nel contesto europeo.</title>
+    <publisher>CRUI.</publisher>
+    <url>https://www.crui.it/sistema-universitario-italiano-europa</url>
+    <note>Consultato 2022-10-15.</note>
+  </sequence>
+  <sequence>
+    <title>Monitoraggio dell'inquinamento marino nelle coste italiane.</title>
+    <publisher>ISPRA.</publisher>
+    <url>
+        https://www.isprambiente.gov.it/it/temi/acque-mare-costiero/inquinamento-marino-monitoraggio</url>
+    <note>Consultato 2023-12-20.</note>
+  </sequence>
+  <sequence>
+    <author>Pozzi, G., &amp; Negri, S.</author>
+    <date>2023.</date>
+    <title>Apprendimento automatico per la diagnosi precoce.</title>
+    <publisher>Istituto Italiano di Tecnologia.</publisher>
+    <url>https://www.iit.it/ricerche/apprendimento-automatico-diagnosi-precoce</url>
+    <note>Consultato 2023-09-15.</note>
+  </sequence>
+  <sequence>
+    <author>Amato, C.</author>
+    <date>2024.</date>
+    <title>Supply chain digitale e tracciabilità.</title>
+    <publisher>Logistics Community System.</publisher>
+    <url>https://www.lcsitaly.it/supply-chain-digitale-tracciabilita-2024</url>
+    <note>Consultato 2024-01-12.</note>
+  </sequence>
+  <sequence>
+    <date>2022.</date>
+    <title>Piano d'azione per l'economia circolare.</title>
+    <publisher>Ministero della Transizione Ecologica.</publisher>
+    <url>https://www.mite.gov.it/documents/piano-azione-economia-circolare</url>
+    <note>Consultato 2023-04-28.</note>
+  </sequence>
+  <sequence>
+    <author>Simonetti, L., &amp; Morelli, A.</author>
+    <date>2023.</date>
+    <title>Realtà virtuale e aumentata per i beni culturali.</title>
+    <publisher>Università di Firenze.</publisher>
+    <url>https://www.unifi.it/vr-ar-beni-culturali</url>
+    <note>Consultato 2023-10-18.</note>
+  </sequence>
+  <sequence>
+    <author>Mazza, D.</author>
+    <date>2024.</date>
+    <title>Il futuro dei pagamenti digitali.</title>
+    <publisher>Banca d'Italia.</publisher>
+    <url>https://www.bancaditalia.it/pubblicazioni/pagamenti-digitali-futuro-2024</url>
+    <note>Consultato 2024-03-15.</note>
+  </sequence>
+  <sequence>
+    <title>Statistiche sull'export digitale italiano.</title>
+    <publisher>ICE – Agenzia.</publisher>
+    <url>https://www.ice.it/it/studi-e-ricerche/export-digitale-statistiche</url>
+    <note>Consultato 2024-02-22.</note>
+  </sequence>
+  <sequence>
+    <author>Farina, M., &amp; Parisi, G.</author>
+    <date>2022.</date>
+    <title>Reti neurali per la previsione meteorologica.</title>
+    <publisher>CNR-ISAC.</publisher>
+    <url>https://www.isac.cnr.it/reti-neurali-previsione-meteorologica</url>
+    <note>Consultato 2023-02-10.</note>
+  </sequence>
+  <sequence>
+    <author>Conte, A.</author>
+    <date>2023.</date>
+    <title>Innovazione sociale e tecnologie abilitanti.</title>
+    <publisher>Fondazione Cariplo.</publisher>
+    <url>https://www.fondazionecariplo.it/innovazione-sociale-tecnologie</url>
+    <note>Consultato 2023-06-30.</note>
+  </sequence>
+  <sequence>
+    <date>2024.</date>
+    <title>Rapporto sulla sicurezza informatica nelle imprese.</title>
+    <publisher>Clusit.</publisher>
+    <url>https://www.clusit.it/rapporto-sicurezza-informatica-imprese-2024</url>
+    <note>Consultato 2024-03-20.</note>
+  </sequence>
+  <sequence>
+    <author>Bertolini, S., &amp; Zanetti, F.</author>
+    <date>2023.</date>
+    <title>Gestione digitale dei rifiuti urbani.</title>
+    <publisher>Utilitalia.</publisher>
+    <url>https://www.utilitalia.it/gestione-digitale-rifiuti-urbani</url>
+    <note>Consultato 2023-08-22.</note>
+  </sequence>
+  <sequence>
+    <author>Valentini, P.</author>
+    <date>2021.</date>
+    <title>La digitalizzazione del settore turistico italiano.</title>
+    <publisher>ENIT.</publisher>
+    <url>https://www.enit.it/digitalizzazione-turismo</url>
+    <note>Consultato 2022-11-08.</note>
+  </sequence>
+  <sequence>
+    <title>Bilancio di sostenibilità 2023.</title>
+    <publisher>Enel.</publisher>
+    <url>
+        https://www.enel.com/content/dam/enel-com/documenti/investitori/Informazioni-sostenibilita/Bilancio-sostenibilita/2023.pdf</url>
+    <note>Consultato 2024-01-05.</note>
+  </sequence>
+  <sequence>
+    <author>Giuliani, R., &amp; Barbieri, M.</author>
+    <date>2024.</date>
+    <title>Edge computing per l'industria manifatturiera.</title>
+    <publisher>Università di Modena e Reggio Emilia.</publisher>
+    <url>https://www.unimore.it/edge-computing-manifattura</url>
+    <note>Consultato 2024-02-15.</note>
+  </sequence>
+  <sequence>
+    <author>Marini, S.</author>
+    <date>2022.</date>
+    <title>Il mercato dei droni in Italia.</title>
+    <publisher>ENAC.</publisher>
+    <url>https://www.enac.gov.it/mercato-droni-italia-2022</url>
+    <note>Consultato 2023-05-18.</note>
+  </sequence>
+  <sequence>
+    <date>2023.</date>
+    <title>Piano nazionale per le competenze digitali.</title>
+    <publisher>Ministero dello Sviluppo Economico.</publisher>
+    <url>https://www.mise.gov.it/index.php/it/piano-nazionale-competenze-digitali</url>
+    <note>Consultato 2023-09-28.</note>
+  </sequence>
+  <sequence>
+    <author>Palumbo, A., &amp; Ferrara, L.</author>
+    <date>2024.</date>
+    <title>Green tech e innovazione ambientale.</title>
+    <publisher>Legambiente.</publisher>
+    <url>https://www.legambiente.it/green-tech-innovazione-ambientale-2024</url>
+    <note>Consultato 2024-03-18.</note>
+  </sequence>
+  <sequence>
+    <author>Casali, M.</author>
+    <date>2023.</date>
+    <title>Telelavoro e smart working: evoluzione normativa.</title>
+    <publisher>Ministero del Lavoro.</publisher>
+    <url>https://www.lavoro.gov.it/telelavoro-smart-working-evoluzione</url>
+    <note>Consultato 2023-07-25.</note>
+  </sequence>
+  <sequence>
+    <title>Osservatorio sull'innovazione nelle utilities.</title>
+    <publisher>ARERA.</publisher>
+    <url>https://www.arera.it/temi/energia-elettrica/osservatorio-innovazione-utilities</url>
+    <note>Consultato 2024-01-28.</note>
+  </sequence>
+  <sequence>
+    <author>Romano, F., &amp; Vitale, G.</author>
+    <date>2022.</date>
+    <title>Sistemi di supporto alle decisioni cliniche.</title>
+    <publisher>Agenas.</publisher>
+    <url>https://www.agenas.it/sistemi-supporto-decisioni-cliniche</url>
+    <note>Consultato 2023-03-08.</note>
+  </sequence>
+  <sequence>
+    <author>Fabbri, A.</author>
+    <date>2024.</date>
+    <title>La digitalizzazione della filiera libraria.</title>
+    <publisher>AIE.</publisher>
+    <url>https://www.aie.it/digitalizzazione-filiera-libraria-2024</url>
+    <note>Consultato 2024-02-28.</note>
+  </sequence>
+  <sequence>
+    <date>2023.</date>
+    <title>Rapporto sulle energie rinnovabili nel mondo.</title>
+    <publisher>IRENA.</publisher>
+    <url>
+        https://www.irena.org/media/Files/IRENA/Agency/Publications/2023/Renewable-Energy-Statistics-2023.pdf</url>
+    <note>Consultato 2023-11-15.</note>
+  </sequence>
+  <sequence>
+    <author>Gualtieri, S., &amp; Neri, P.</author>
+    <date>2024.</date>
+    <title>Digital twin per le infrastrutture critiche.</title>
+    <publisher>MIT – Ministero delle Infrastrutture e dei Trasporti.</publisher>
+    <url>https://www.mit.gov.it/digital-twin-infrastrutture-critiche</url>
+    <note>Consultato 2024-03-25.</note>
+  </sequence>
+  <sequence>
+    <author>Battaglia, C.</author>
+    <date>2021.</date>
+    <title>Il sistema agroalimentare italiano e l'export.</title>
+    <publisher>ISMEA.</publisher>
+    <url>https://www.ismea.it/sistema-agroalimentare-export</url>
+    <note>Consultato 2022-08-18.</note>
+  </sequence>
+  <sequence>
+    <title>Guida alla fatturazione elettronica per le PMI.</title>
+    <publisher>Assolavoro.</publisher>
+    <url>https://www.assolavoro.it/guida-fatturazione-elettronica-pmi</url>
+    <note>Consultato 2023-10-22.</note>
+  </sequence>
+  <sequence>
+    <author>De Santis, M., &amp; Lombardi, F.</author>
+    <date>2023.</date>
+    <title>Computazione quantistica: stato dell'arte.</title>
+    <publisher>Università di Pisa.</publisher>
+    <url>https://www.unipi.it/computazione-quantistica-stato-arte</url>
+    <note>Consultato 2023-12-08.</note>
+  </sequence>
+  <sequence>
+    <author>Stefanelli, R.</author>
+    <date>2024.</date>
+    <title>La trasformazione digitale del retail.</title>
+    <publisher>Confcommercio.</publisher>
+    <url>https://www.confcommercio.it/trasformazione-digitale-retail-2024</url>
+    <note>Consultato 2024-03-28.</note>
+  </sequence>
+  <sequence>
+    <date>2022.</date>
+    <title>Piano strategico per la banda ultralarga.</title>
+    <publisher>Ministero dello Sviluppo Economico.</publisher>
+    <url>https://www.mise.gov.it/images/stories/documenti/piano-strategico-banda-ultralarga.pdf</url>
+    <note>Consultato 2023-04-15.</note>
+  </sequence>
+  <sequence>
+    <author>Meloni, G., &amp; Piras, A.</author>
+    <date>2023.</date>
+    <title>Tecnologie per il risparmio idrico in agricoltura.</title>
+    <publisher>Università di Sassari.</publisher>
+    <url>https://www.uniss.it/ricerca/tecnologie-risparmio-idrico-agricoltura</url>
+    <note>Consultato 2023-08-05.</note>
+  </sequence>
+  <sequence>
+    <author>Coppola, D.</author>
+    <date>2024.</date>
+    <title>Il mercato delle energie rinnovabili in Italia.</title>
+    <publisher>Euroservizi.</publisher>
+    <url>https://www.euroservizi.it/mercato-energie-rinnovabili-italia-2024</url>
+    <note>Consultato 2024-02-10.</note>
+  </sequence>
+  <sequence>
+    <title>Report annuale sulla ricerca e sviluppo in Italia.</title>
+    <publisher>CNR.</publisher>
+    <url>https://www.cnr.it/it/sezione/tema/ricerca-e-sviluppo-report-annuale</url>
+    <note>Consultato 2023-12-15.</note>
+  </sequence>
+  <sequence>
+    <author>Serra, L., &amp; Mancuso, R.</author>
+    <date>2024.</date>
+    <title>Blockchain per la tracciabilità alimentare.</title>
+    <publisher>Università di Palermo.</publisher>
+    <url>https://www.unipa.it/blockchain-tracciabilita-alimentare</url>
+    <note>Consultato 2024-03-05.</note>
+  </sequence>
+  <sequence>
+    <author>Bianco, A.</author>
+    <date>2022.</date>
+    <title>La digitalizzazione della filiera culturale.</title>
+    <publisher>Ministero della Cultura.</publisher>
+    <url>https://www.beniculturali.it/digitalizzazione-filiera-culturale</url>
+    <note>Consultato 2023-01-20.</note>
+  </sequence>
+  <sequence>
+    <date>2023.</date>
+    <title>Linee guida per l'uso dell'intelligenza artificiale nella PA.</title>
+    <publisher>AgID.</publisher>
+    <url>https://www.agid.gov.it/it/media/documenti/linee-guida-ia-pa</url>
+    <note>Consultato 2023-11-25.</note>
+  </sequence>
+  <sequence>
+    <author>Quattrini, M., &amp; Ricciardi, L.</author>
+    <date>2024.</date>
+    <title>Monitoraggio satellitare dei cambiamenti climatici.</title>
+    <publisher>CNR-IRPI.</publisher>
+    <url>https://www.irpi.cnr.it/monitoraggio-satellitare-cambiamenti-climatici</url>
+    <note>Consultato 2024-01-15.</note>
+  </sequence>
+  <sequence>
+    <title>Il digitale per l'inclusione sociale.</title>
+    <publisher>Fondazione Vodafone Italia.</publisher>
+    <url>https://www.fondazione.vodafone.it/il-digitale-per-l-inclusione-sociale</url>
+    <note>Consultato 2024-02-20.</note>
+  </sequence>
+  <sequence>
+    <author>Fiore, S.</author>
+    <date>2023.</date>
+    <title>Innovazione e competitività nel settore moda.</title>
+    <publisher>Camera Nazionale della Moda Italiana.</publisher>
+    <url>https://www.cameramoda.it/innovazione-competitivita-moda-2023</url>
+    <note>Consultato 2023-10-12.</note>
+  </sequence>
+  <sequence>
+    <date>2024.</date>
+    <title>Rapporto sulla mobilità elettrica in Europa.</title>
+    <publisher>ACEA.</publisher>
+    <url>https://www.acea.auto/publication/rapporto-mobilita-elettrica-europa-2024</url>
+    <note>Consultato 2024-03-22.</note>
+  </sequence>
+  <sequence>
+    <author>Rossi, Marco</author>
+    <date>2023.</date>
+    <title>Machine learning per l'analisi di dati biomedici.</title>
+    <genre>Tesi di dottorato</genre>
+    <publisher>Università di Bologna.</publisher>
+    <location>Bologna.</location>
+  </sequence>
+  <sequence>
+    <author>Bianchi, Giulia</author>
+    <date>2022.</date>
+    <title>La governance digitale nella pubblica amministrazione italiana.</title>
+    <genre>Tesi di laurea magistrale</genre>
+    <publisher>Università La Sapienza di Roma.</publisher>
+    <location>Roma.</location>
+  </sequence>
+  <sequence>
+    <author>Ferrari, Alessandro</author>
+    <date>2024.</date>
+    <title>Reti neurali convoluzionali per il riconoscimento di immagini mediche.</title>
+    <genre>Dottorato di ricerca</genre>
+    <publisher>Politecnico di Milano.</publisher>
+    <location>Milano.</location>
+    <url>https://www.polimi.it/tesi/ferrari-2024</url>
+  </sequence>
+  <sequence>
+    <author>Conti, Francesca, &amp; Martini, Luca</author>
+    <date>2023.</date>
+    <title>Analisi comparata dei sistemi di welfare europei.</title>
+    <genre>Tesi di dottorato</genre>
+    <publisher>Università di Firenze.</publisher>
+    <location>Firenze.</location>
+  </sequence>
+  <sequence>
+    <author>Romano, Giuseppe</author>
+    <date>2022.</date>
+    <title>Ottimizzazione dei processi industriali mediante IoT.</title>
+    <genre>Tesi di laurea</genre>
+    <publisher>Politecnico di Torino.</publisher>
+    <location>Torino.</location>
+  </sequence>
+  <sequence>
+    <author>Colombo, Elena</author>
+    <date>2024.</date>
+    <title>Il diritto alla privacy nell'era dei big data.</title>
+    <genre>Dottorato di ricerca</genre>
+    <publisher>Università Bocconi.</publisher>
+    <location>Milano.</location>
+    <doi>10.1234/tesi.2024.001</doi>
+  </sequence>
+  <sequence>
+    <author>Ricci, Antonio</author>
+    <date>2023.</date>
+    <title>Studio di materiali innovativi per l'edilizia sostenibile.</title>
+    <genre>Tesi di dottorato</genre>
+    <publisher>Università di Padova.</publisher>
+    <location>Padova.</location>
+  </sequence>
+  <sequence>
+    <author>Marino, Sofia</author>
+    <date>2022.</date>
+    <title>L'impatto della digitalizzazione sul settore bancario.</title>
+    <genre>Tesi di laurea magistrale</genre>
+    <publisher>Università di Napoli Federico II.</publisher>
+    <location>Napoli.</location>
+  </sequence>
+  <sequence>
+    <author>Greco, Lorenzo, Barbieri, Matteo, &amp; Galli, Stefano</author>
+    <date>2024.</date>
+    <title>Sistemi distribuiti per il calcolo ad alte prestazioni.</title>
+    <genre>Dottorato di ricerca</genre>
+    <publisher>Università di Pisa.</publisher>
+    <location>Pisa.</location>
+  </sequence>
+  <sequence>
+    <author>Fontana, Chiara</author>
+    <date>2023.</date>
+    <title>Politiche ambientali e sviluppo sostenibile nel Mediterraneo.</title>
+    <genre>Tesi di dottorato</genre>
+    <publisher>Università di Genova.</publisher>
+    <location>Genova.</location>
+  </sequence>
+  <sequence>
+    <author>Lombardi, Davide</author>
+    <date>2022.</date>
+    <title>Algoritmi genetici per problemi di ottimizzazione combinatoria.</title>
+    <genre>Tesi di laurea</genre>
+    <publisher>Università di Trieste.</publisher>
+    <location>Trieste.</location>
+  </sequence>
+  <sequence>
+    <author>Mancini, Valentina</author>
+    <date>2024.</date>
+    <title>Comunicazione politica e social media: un'analisi empirica.</title>
+    <genre>Dottorato di ricerca</genre>
+    <publisher>Università di Bologna.</publisher>
+    <location>Bologna.</location>
+    <url>https://www.unibo.it/tesi/mancini-2024</url>
+  </sequence>
+  <sequence>
+    <author>Marchetti, Fabio</author>
+    <date>2023.</date>
+    <title>Nanotecnologie per applicazioni biomedicali.</title>
+    <genre>Tesi di dottorato</genre>
+    <publisher>Politecnico di Milano.</publisher>
+    <location>Milano.</location>
+  </sequence>
+  <sequence>
+    <author>Testa, Anna</author>
+    <date>2022.</date>
+    <title>La tutela dei consumatori nel commercio elettronico.</title>
+    <genre>Tesi di laurea magistrale</genre>
+    <publisher>Università di Roma Tre.</publisher>
+    <location>Roma.</location>
+  </sequence>
+  <sequence>
+    <author>Benedetti, Pietro, &amp; Costa, Maria</author>
+    <date>2024.</date>
+    <title>Modelli predittivi per la gestione del traffico urbano.</title>
+    <genre>Dottorato di ricerca</genre>
+    <publisher>Università di Cagliari.</publisher>
+    <location>Cagliari.</location>
+  </sequence>
+  <sequence>
+    <author>Santoro, Luca</author>
+    <date>2023.</date>
+    <title>Analisi statistica dei dati climatici nel secolo XXI.</title>
+    <genre>Tesi di laurea</genre>
+    <publisher>Università di Palermo.</publisher>
+    <location>Palermo.</location>
+  </sequence>
+  <sequence>
+    <author>Parisi, Roberta</author>
+    <date>2022.</date>
+    <title>Intelligenza artificiale e diritto del lavoro.</title>
+    <genre>Tesi di dottorato</genre>
+    <publisher>Università di Siena.</publisher>
+    <location>Siena.</location>
+  </sequence>
+  <sequence>
+    <author>Orlando, Vincenzo</author>
+    <date>2024.</date>
+    <title>Sistemi di raccomandazione basati su deep learning.</title>
+    <genre>Dottorato di ricerca</genre>
+    <publisher>Università di Trento.</publisher>
+    <location>Trento.</location>
+    <doi>10.1234/tesi.2024.015</doi>
+  </sequence>
+  <sequence>
+    <author>Leone, Francesca</author>
+    <date>2023.</date>
+    <title>Il ruolo delle donne nella scienza: un'analisi storica.</title>
+    <genre>Tesi di laurea magistrale</genre>
+    <publisher>Università di Perugia.</publisher>
+    <location>Perugia.</location>
+  </sequence>
+  <sequence>
+    <author>Caruso, Salvatore, &amp; Rizzo, Giovanna</author>
+    <date>2022.</date>
+    <title>Ottimizzazione energetica degli edifici storici.</title>
+    <genre>Tesi di dottorato</genre>
+    <publisher>Università di Catania.</publisher>
+    <location>Catania.</location>
+  </sequence>
+  <sequence>
+    <author>Moretti, Alessandro</author>
+    <date>2024.</date>
+    <title>Blockchain per la gestione della supply chain.</title>
+    <genre>Tesi di laurea</genre>
+    <publisher>Università di Modena e Reggio Emilia.</publisher>
+    <location>Modena.</location>
+  </sequence>
+  <sequence>
+    <author>Gatti, Elisabetta</author>
+    <date>2023.</date>
+    <title>Psicolinguistica e acquisizione del linguaggio nei bambini.</title>
+    <genre>Dottorato di ricerca</genre>
+    <publisher>Università di Milano-Bicocca.</publisher>
+    <location>Milano.</location>
+  </sequence>
+  <sequence>
+    <author>Pellegrini, Marco</author>
+    <date>2022.</date>
+    <title>Monitoraggio strutturale mediante sensori fibra ottica.</title>
+    <genre>Tesi di dottorato</genre>
+    <publisher>Università di Ancona.</publisher>
+    <location>Ancona.</location>
+  </sequence>
+  <sequence>
+    <author>Donati, Silvia</author>
+    <date>2024.</date>
+    <title>L'evoluzione del diritto penale dell'ambiente.</title>
+    <genre>Tesi di laurea magistrale</genre>
+    <publisher>Università di Parma.</publisher>
+    <location>Parma.</location>
+  </sequence>
+  <sequence>
+    <author>De Luca, Antonio, &amp; Ferretti, Lorenzo</author>
+    <date>2023.</date>
+    <title>Sistemi multi-agente per la robotica collaborativa.</title>
+    <genre>Dottorato di ricerca</genre>
+    <publisher>Politecnico di Torino.</publisher>
+    <location>Torino.</location>
+    <url>https://www.polito.it/tesi/deluca-ferretti-2023</url>
+  </sequence>
+  <sequence>
+    <author>Bellini, Giorgio</author>
+    <date>2022.</date>
+    <title>Analisi economica delle politiche per il Mezzogiorno.</title>
+    <genre>Tesi di laurea</genre>
+    <publisher>Università di Bari.</publisher>
+    <location>Bari.</location>
+  </sequence>
+  <sequence>
+    <author>Alberti, Monica</author>
+    <date>2024.</date>
+    <title>Terapie innovative per le malattie neurodegenerative.</title>
+    <genre>Dottorato di ricerca</genre>
+    <publisher>Università Vita-Salute San Raffaele.</publisher>
+    <location>Milano.</location>
+  </sequence>
+  <sequence>
+    <author>Vitale, Domenico</author>
+    <date>2023.</date>
+    <title>La rappresentazione della migrazione nei media italiani.</title>
+    <genre>Tesi di laurea magistrale</genre>
+    <publisher>Università di Urbino.</publisher>
+    <location>Urbino.</location>
+  </sequence>
+  <sequence>
+    <author>Grassi, Francesca, &amp; Negri, Paolo</author>
+    <date>2022.</date>
+    <title>Materiali compositi per l'aerospazio.</title>
+    <genre>Tesi di dottorato</genre>
+    <publisher>Università di Pisa.</publisher>
+    <location>Pisa.</location>
+  </sequence>
+  <sequence>
+    <author>Fabbri, Stefano</author>
+    <date>2024.</date>
+    <title>Algoritmi di machine learning per il trading algoritmico.</title>
+    <genre>Tesi di laurea</genre>
+    <publisher>Università di Verona.</publisher>
+    <location>Verona.</location>
+  </sequence>
+  <sequence>
+    <author>Cattaneo, Irene</author>
+    <date>2023.</date>
+    <title>Letteratura e identità nazionale nell'Italia postunitaria.</title>
+    <genre>Dottorato di ricerca</genre>
+    <publisher>Università di Torino.</publisher>
+    <location>Torino.</location>
+  </sequence>
+  <sequence>
+    <author>Basile, Raffaele</author>
+    <date>2022.</date>
+    <title>Sistemi di controllo per veicoli autonomi.</title>
+    <genre>Tesi di dottorato</genre>
+    <publisher>Politecnico di Milano.</publisher>
+    <location>Milano.</location>
+  </sequence>
+  <sequence>
+    <author>Giordano, Claudia</author>
+    <date>2024.</date>
+    <title>Il patrimonio archeologico della Sicilia: valorizzazione e tutela.</title>
+    <genre>Tesi di laurea magistrale</genre>
+    <publisher>Università di Palermo.</publisher>
+    <location>Palermo.</location>
+  </sequence>
+  <sequence>
+    <author>Pozzi, Emanuele, &amp; Longo, Alessandra</author>
+    <date>2023.</date>
+    <title>Modelli matematici per l'epidemiologia.</title>
+    <genre>Dottorato di ricerca</genre>
+    <publisher>Università di Padova.</publisher>
+    <location>Padova.</location>
+    <doi>10.1234/tesi.2023.042</doi>
+  </sequence>
+  <sequence>
+    <author>Amato, Salvatore</author>
+    <date>2022.</date>
+    <title>Gestione delle risorse idriche in agricoltura.</title>
+    <genre>Tesi di laurea</genre>
+    <publisher>Università della Tuscia.</publisher>
+    <location>Viterbo.</location>
+  </sequence>
+  <sequence>
+    <author>Simonetti, Laura</author>
+    <date>2024.</date>
+    <title>Filosofia della mente e scienze cognitive.</title>
+    <genre>Dottorato di ricerca</genre>
+    <publisher>Università di Macerata.</publisher>
+    <location>Macerata.</location>
+  </sequence>
+  <sequence>
+    <author>Mazza, Giancarlo</author>
+    <date>2023.</date>
+    <title>Tecnologie fotovoltaiche di nuova generazione.</title>
+    <genre>Tesi di dottorato</genre>
+    <publisher>Università di Roma Tor Vergata.</publisher>
+    <location>Roma.</location>
+  </sequence>
+  <sequence>
+    <author>Farina, Mariangela</author>
+    <date>2022.</date>
+    <title>Strategie di marketing per il turismo culturale.</title>
+    <genre>Tesi di laurea magistrale</genre>
+    <publisher>Università di Lecce.</publisher>
+    <location>Lecce.</location>
+  </sequence>
+  <sequence>
+    <author>Conte, Biagio, &amp; Parisi, Donatella</author>
+    <date>2024.</date>
+    <title>Studio di proteine per terapie oncologiche mirate.</title>
+    <genre>Dottorato di ricerca</genre>
+    <publisher>Università di Napoli Federico II.</publisher>
+    <location>Napoli.</location>
+  </sequence>
+  <sequence>
+    <author>Giuliani, Federico</author>
+    <date>2023.</date>
+    <title>Sicurezza delle reti 5G: vulnerabilità e contromisure.</title>
+    <genre>Tesi di laurea</genre>
+    <publisher>Università di L'Aquila.</publisher>
+    <location>L'Aquila.</location>
+  </sequence>
+  <sequence>
+    <author>Marini, Costanza</author>
+    <date>2022.</date>
+    <title>Arte contemporanea e space sociale nell'era digitale.</title>
+    <genre>Tesi di dottorato</genre>
+    <publisher>Accademia di Belle Arti di Brera.</publisher>
+    <location>Milano.</location>
+  </sequence>
+  <sequence>
+    <author>Palumbo, Rocco</author>
+    <date>2024.</date>
+    <title>Algoritmi quantistici per la crittografia.</title>
+    <genre>Dottorato di ricerca</genre>
+    <publisher>Scuola Normale Superiore di Pisa.</publisher>
+    <location>Pisa.</location>
+    <url>https://www.sns.it/tesi/palumbo-2024</url>
+  </sequence>
+  <sequence>
+    <author>Casali, Benedetta, &amp; Serra, Claudio</author>
+    <date>2023.</date>
+    <title>L'industria 4.0 nel distretto meccanico emiliano.</title>
+    <genre>Tesi di laurea magistrale</genre>
+    <publisher>Università di Reggio Emilia.</publisher>
+    <location>Reggio Emilia.</location>
+  </sequence>
+  <sequence>
+    <author>Gualtieri, Emanuele</author>
+    <date>2022.</date>
+    <title>Bioinformatica e analisi di genomica comparata.</title>
+    <genre>Tesi di dottorato</genre>
+    <publisher>Università di Pavia.</publisher>
+    <location>Pavia.</location>
+  </sequence>
+  <sequence>
+    <author>ISTAT.</author>
+    <date>2024.</date>
+    <title>Rapporto annuale – La situazione del paese nel 2024.</title>
+    <genre>Report</genre>
+    <publisher>ISTAT.</publisher>
+    <location>Roma.</location>
+    <volume>Rapporto 2024.</volume>
+  </sequence>
+  <sequence>
+    <author>Banca d'Italia.</author>
+    <date>2023.</date>
+    <title>Relazione annuale sull'economia italiana.</title>
+    <genre>Relazione annuale</genre>
+    <publisher>Banca d'Italia.</publisher>
+    <location>Roma.</location>
+    <url>https://www.bancaditalia.it/pubblicazioni/relazione-annuale/2023</url>
+  </sequence>
+  <sequence>
+    <author>Rossi, Paolo, &amp; Bianchi, Maria</author>
+    <date>2024.</date>
+    <title>Impatto dell'inflazione sui consumi delle famiglie italiane.</title>
+    <genre>Working Paper</genre>
+    <publisher>Università Bocconi.</publisher>
+    <location>Milano.</location>
+    <volume>Working Paper No. 456.</volume>
+  </sequence>
+  <sequence>
+    <date>2023.</date>
+    <title>Osservatorio sulla digitalizzazione delle imprese italiane.</title>
+    <genre>Report</genre>
+    <publisher>Politecnico di Milano.</publisher>
+    <location>Milano.</location>
+    <url>https://www.polimi.it/osservatori/digitalizzazione-imprese-2023</url>
+  </sequence>
+  <sequence>
+    <author>Ferrari, Luca</author>
+    <date>2024.</date>
+    <title>Transizione energetica e competitività industriale.</title>
+    <genre>Working Paper</genre>
+    <publisher>ENEA.</publisher>
+    <location>Roma.</location>
+    <volume>Report ENEA 2024/03.</volume>
+  </sequence>
+  <sequence>
+    <author>Conti, Andrea, Martini, Giulia, &amp; Romano, Francesco</author>
+    <date>2023.</date>
+    <title>Analisi del mercato del lavoro post-pandemia.</title>
+    <genre>Report</genre>
+    <publisher>INPS.</publisher>
+    <location>Roma.</location>
+    <volume>Rapporto INPS 2023.</volume>
+  </sequence>
+  <sequence>
+    <date>2024.</date>
+    <title>Previsioni macroeconomiche per l'Italia 2024-2026.</title>
+    <genre>Working Paper</genre>
+    <publisher>MEF – Ministero dell'Economia e delle Finanze.</publisher>
+    <location>Roma.</location>
+    <volume>Documento di Economia e Finanza 2024.</volume>
+  </sequence>
+  <sequence>
+    <author>Colombo, Stefano</author>
+    <date>2023.</date>
+    <title>Valutazione dell'impatto delle politiche di coesione.</title>
+    <genre>Report</genre>
+    <publisher>SVIMEZ.</publisher>
+    <location>Roma.</location>
+    <url>https://www.svimez.gov.it/valutazione-politiche-coesione-2023</url>
+  </sequence>
+  <sequence>
+    <author>Ricci, Elena, &amp; Greco, Marco</author>
+    <date>2024.</date>
+    <title>Intelligenza artificiale e produttività: evidenze empiriche.</title>
+    <genre>Working Paper</genre>
+    <publisher>Università di Bologna.</publisher>
+    <location>Bologna.</location>
+    <volume>Quaderno di Ricerca No. 789.</volume>
+  </sequence>
+  <sequence>
+    <date>2023.</date>
+    <title>Rapporto sulla sostenibilità ambientale in Italia.</title>
+    <genre>Report</genre>
+    <publisher>ISPRA.</publisher>
+    <location>Roma.</location>
+    <volume>Rapporto Ambientale 2023.</volume>
+    <url>https://www.isprambiente.gov.it/rapporto-sostenibilita-2023</url>
+  </sequence>
+  <sequence>
+    <author>Marino, Giuseppe</author>
+    <date>2024.</date>
+    <title>Il sistema bancario italiano dopo la crisi pandemica.</title>
+    <genre>Working Paper</genre>
+    <publisher>ABI – Associazione Bancaria Italiana.</publisher>
+    <location>Roma.</location>
+    <volume>Studi e Ricerche ABI 2024/01.</volume>
+  </sequence>
+  <sequence>
+    <author>Fontana, Roberto, &amp; Lombardi, Anna</author>
+    <date>2023.</date>
+    <title>Innovazione tecnologica e crescita economica: un'analisi settoriale.</title>
+    <genre>Report</genre>
+    <publisher>Confindustria.</publisher>
+    <location>Roma.</location>
+    <url>https://www.confindustria.it/ricerche/innovazione-crescita-2023</url>
+  </sequence>
+  <sequence>
+    <date>2024.</date>
+    <title>Rapporto sul commercio estero italiano.</title>
+    <genre>Report</genre>
+    <publisher>ICE – Agenzia.</publisher>
+    <location>Roma.</location>
+    <volume>Rapporto Commerciale 2024.</volume>
+  </sequence>
+  <sequence>
+    <author>Mancini, Davide</author>
+    <date>2023.</date>
+    <title>Politiche attive del lavoro: valutazione comparata.</title>
+    <genre>Working Paper</genre>
+    <publisher>ANPAL.</publisher>
+    <location>Roma.</location>
+    <volume>Working Paper ANPAL 2023/05.</volume>
+  </sequence>
+  <sequence>
+    <author>Marchetti, Silvia, &amp; Testa, Andrea</author>
+    <date>2024.</date>
+    <title>La trasformazione digitale della scuola italiana.</title>
+    <genre>Report</genre>
+    <publisher>INDIRE.</publisher>
+    <location>Firenze.</location>
+    <url>https://www.indire.it/rapporto-digitale-scuola-2024</url>
+  </sequence>
+  <sequence>
+    <author>Benedetti, Francesco</author>
+    <date>2023.</date>
+    <title>Efficienza energetica nel settore residenziale.</title>
+    <genre>Working Paper</genre>
+    <publisher>ENEA.</publisher>
+    <location>Roma.</location>
+    <volume>Rapporto ENEA 2023/12.</volume>
+  </sequence>
+  <sequence>
+    <date>2024.</date>
+    <title>Osservatorio sulla cybersecurity in Italia.</title>
+    <genre>Report</genre>
+    <publisher>ACN – Agenzia per la Cybersicurezza Nazionale.</publisher>
+    <location>Roma.</location>
+    <url>https://www.acn.gov.it/osservatorio-cybersecurity-2024</url>
+  </sequence>
+  <sequence>
+    <author>Santoro, Maria, Parisi, Luigi, &amp; Orlando, Giuseppe</author>
+    <date>2023.</date>
+    <title>Impatto economico del turismo digitale.</title>
+    <genre>Working Paper</genre>
+    <publisher>ENIT.</publisher>
+    <location>Roma.</location>
+    <volume>Studi ENIT 2023/08.</volume>
+  </sequence>
+  <sequence>
+    <author>Leone, Alessandra</author>
+    <date>2024.</date>
+    <title>Mobilità sostenibile e qualità della vita urbana.</title>
+    <genre>Report</genre>
+    <publisher>Legambiente.</publisher>
+    <location>Roma.</location>
+    <url>https://www.legambiente.it/mobilita-sostenibile-2024</url>
+  </sequence>
+  <sequence>
+    <author>Caruso, Paolo, &amp; Rizzo, Francesca</author>
+    <date>2023.</date>
+    <title>Fintech e inclusione finanziaria nei paesi emergenti.</title>
+    <genre>Working Paper</genre>
+    <publisher>Università Cattolica del Sacro Cuore.</publisher>
+    <location>Milano.</location>
+    <volume>Quaderno ASERI 2023/15.</volume>
+  </sequence>
+  <sequence>
+    <date>2024.</date>
+    <title>Rapporto sulla salute della popolazione italiana.</title>
+    <genre>Report</genre>
+    <publisher>ISS – Istituto Superiore di Sanità.</publisher>
+    <location>Roma.</location>
+    <volume>Rapporto ISTISAN 2024.</volume>
+  </sequence>
+  <sequence>
+    <author>Moretti, Alessandro</author>
+    <date>2023.</date>
+    <title>Valutazione delle politiche per l'innovazione nelle PMI.</title>
+    <genre>Working Paper</genre>
+    <publisher>Unioncamere.</publisher>
+    <location>Roma.</location>
+    <volume>Research Paper 2023/07.</volume>
+  </sequence>
+  <sequence>
+    <author>Gatti, Lorenzo, &amp; Pellegrini, Marta</author>
+    <date>2024.</date>
+    <title>Transizione ecologica e occupazione: scenari per il 2030.</title>
+    <genre>Report</genre>
+    <publisher>Symbola.</publisher>
+    <location>Roma.</location>
+    <url>https://www.symbola.net/transizione-ecologica-occupazione-2024</url>
+  </sequence>
+  <sequence>
+    <date>2023.</date>
+    <title>Rapporto sulla filiera agroalimentare italiana.</title>
+    <genre>Report</genre>
+    <publisher>ISMEA.</publisher>
+    <location>Roma.</location>
+    <volume>Rapporto ISMEA 2023.</volume>
+  </sequence>
+  <sequence>
+    <author>Donati, Stefano</author>
+    <date>2024.</date>
+    <title>Blockchain e tracciabilità dei prodotti alimentari.</title>
+    <genre>Working Paper</genre>
+    <publisher>CREA.</publisher>
+    <location>Roma.</location>
+    <volume>Working Paper CREA 2024/02.</volume>
+  </sequence>
+  <sequence>
+    <author>De Luca, Maria, &amp; Bellini, Giorgio</author>
+    <date>2023.</date>
+    <title>Analisi dei flussi migratori in Italia.</title>
+    <genre>Report</genre>
+    <publisher>ISMU.</publisher>
+    <location>Milano.</location>
+    <url>https://www.ismu.org/rapporto-migrazioni-2023</url>
+  </sequence>
+  <sequence>
+    <author>Alberti, Vincenzo</author>
+    <date>2024.</date>
+    <title>Economie regionali e divari territoriali.</title>
+    <genre>Working Paper</genre>
+    <publisher>Università di Napoli Federico II.</publisher>
+    <location>Napoli.</location>
+    <volume>Quaderno di Dipartimento 2024/04.</volume>
+  </sequence>
+  <sequence>
+    <date>2023.</date>
+    <title>Rapporto annuale sul sistema universitario italiano.</title>
+    <genre>Report</genre>
+    <publisher>CRUI.</publisher>
+    <location>Roma.</location>
+    <url>https://www.crui.it/rapporto-annuale-2023</url>
+  </sequence>
+  <sequence>
+    <author>Vitale, Francesca, &amp; Grassi, Paolo</author>
+    <date>2024.</date>
+    <title>Competenze digitali e occupabilità dei laureati.</title>
+    <genre>Working Paper</genre>
+    <publisher>AlmaLaurea.</publisher>
+    <location>Bologna.</location>
+    <volume>Working Paper AlmaLaurea 2024/01.</volume>
+  </sequence>
+  <sequence>
+    <author>Fabbri, Andrea</author>
+    <date>2023.</date>
+    <title>Il mercato dell'editoria digitale in Italia.</title>
+    <genre>Report</genre>
+    <publisher>AIE.</publisher>
+    <location>Milano.</location>
+    <volume>Rapporto sull'Editoria 2023.</volume>
+  </sequence>
+  <sequence>
+    <date>2024.</date>
+    <title>Preprint: Nuovi approcci alla terapia genica per malattie rare.</title>
+    <genre>Preprint</genre>
+    <source>bioRxiv.</source>
+    <doi>10.1101/2024.01.15.123456</doi>
+    <url>https://www.biorxiv.org/content/10.1101/2024.01.15.123456v1</url>
+  </sequence>
+  <sequence>
+    <author>Cattaneo, Marco, Basile, Roberto, &amp; Giordano, Silvia</author>
+    <date>2023.</date>
+    <title>Edge AI per dispositivi IoT a bassa potenza.</title>
+    <genre>Working Paper</genre>
+    <publisher>Politecnico di Torino.</publisher>
+    <location>Torino.</location>
+    <volume>Technical Report 2023/09.</volume>
+  </sequence>
+  <sequence>
+    <author>Pozzi, Giulio</author>
+    <date>2024.</date>
+    <title>Analisi predittiva dei mercati finanziari mediante reti neurali.</title>
+    <genre>Report</genre>
+    <publisher>Consob.</publisher>
+    <location>Roma.</location>
+    <url>https://www.consob.it/ricerche/analisi-predittiva-mercati-2024</url>
+  </sequence>
+  <sequence>
+    <date>2023.</date>
+    <title>Working Paper: Modelli di linguaggio per l'analisi del sentiment.</title>
+    <genre>Working Paper</genre>
+    <publisher>Università di Milano-Bicocca.</publisher>
+    <location>Milano.</location>
+    <volume>DISCO Working Paper 2023/11.</volume>
+  </sequence>
+  <sequence>
+    <author>Amato, Daniela, &amp; Simonetti, Luca</author>
+    <date>2024.</date>
+    <title>Valutazione d'impatto delle politiche di smart working.</title>
+    <genre>Report</genre>
+    <publisher>Ministero del Lavoro.</publisher>
+    <location>Roma.</location>
+    <volume>Rapporto sul Lavoro 2024.</volume>
+  </sequence>
+  <sequence>
+    <author>Mazza, Federico</author>
+    <date>2023.</date>
+    <title>Preprint: Quantum advantage in optimization problems.</title>
+    <genre>Preprint</genre>
+    <source>arXiv.</source>
+    <url>https://arxiv.org/abs/2312.04567</url>
+    <volume>arXiv:2312.04567.</volume>
+  </sequence>
+  <sequence>
+    <author>Farina, Costanza, Conte, Alessandro, &amp; Giuliani, Marta</author>
+    <date>2024.</date>
+    <title>Monitoraggio della qualità dell'aria nelle aree metropolitane.</title>
+    <genre>Report</genre>
+    <publisher>ARPA Lombardia.</publisher>
+    <location>Milano.</location>
+    <url>https://www.arpalombardia.it/qualita-aria-metropolitane-2024</url>
+  </sequence>
+  <sequence>
+    <author>Marini, Stefano</author>
+    <date>2023.</date>
+    <title>Algoritmi distribuiti per il consensus in reti blockchain.</title>
+    <genre>Working Paper</genre>
+    <publisher>Università di Trento.</publisher>
+    <location>Trento.</location>
+    <volume>Technical Report DISI 2023/06.</volume>
+  </sequence>
+  <sequence>
+    <date>2024.</date>
+    <title>Rapporto sulla parità di genere nel mercato del lavoro.</title>
+    <genre>Report</genre>
+    <publisher>Ministero delle Pari Opportunità.</publisher>
+    <location>Roma.</location>
+    <url>https://www.pariopportunita.gov.it/rapporto-genere-lavoro-2024</url>
+  </sequence>
+  <sequence>
+    <author>Palumbo, Giuseppe, &amp; Casali, Elena</author>
+    <date>2023.</date>
+    <title>Working Paper: Resilienza delle supply chain globali.</title>
+    <genre>Working Paper</genre>
+    <publisher>Università di Genova.</publisher>
+    <location>Genova.</location>
+    <volume>Working Paper DIEC 2023/04.</volume>
+  </sequence>
+  <sequence>
+    <author>Gualtieri, Francesca</author>
+    <date>2024.</date>
+    <title>Biodiversità e cambiamenti climatici nel Mediterraneo.</title>
+    <genre>Report</genre>
+    <publisher>WWF Italia.</publisher>
+    <location>Roma.</location>
+    <url>https://www.wwf.it/biodiversita-clima-mediterraneo-2024</url>
+  </sequence>
+  <sequence>
+    <date>2023.</date>
+    <title>Preprint: Federated learning per la privacy-preserving analytics.</title>
+    <genre>Preprint</genre>
+    <source>arXiv.</source>
+    <doi>10.48550/arXiv.2311.09876</doi>
+    <url>https://arxiv.org/abs/2311.09876</url>
+    <volume>arXiv:2311.09876.</volume>
+  </sequence>
+  <sequence>
+    <author>Battaglia, Marco, &amp; Serra, Antonella</author>
+    <date>2024.</date>
+    <title>Valutazione economica dei servizi ecosistemici.</title>
+    <genre>Report</genre>
+    <publisher>ISPRA.</publisher>
+    <location>Roma.</location>
+    <volume>Rapporto Economico-Ambientale 2024.</volume>
+  </sequence>
+  <sequence>
+    <author>Bianco, Lorenzo</author>
+    <date>2023.</date>
+    <title>Deep reinforcement learning per il controllo ottimale.</title>
+    <genre>Working Paper</genre>
+    <publisher>Scuola Superiore Sant'Anna.</publisher>
+    <location>Pisa.</location>
+    <volume>Working Paper SSSA 2023/08.</volume>
+  </sequence>
+  <sequence>
+    <date>2024.</date>
+    <title>Rapporto sul digitale per lo sviluppo sostenibile.</title>
+    <genre>Report</genre>
+    <publisher>Fondazione Symbola.</publisher>
+    <location>Roma.</location>
+    <url>https://www.symbola.net/digitale-sviluppo-sostenibile-2024</url>
+  </sequence>
+</dataset>

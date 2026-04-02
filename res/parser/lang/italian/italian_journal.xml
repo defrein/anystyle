@@ -1,0 +1,2300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <sequence>
+        <author>Rossi, M.</author>
+        <date>(2021).</date>
+        <title>Intelligenza artificiale e diritto privato: prospettive italiane.</title>
+        <journal>Rivista Italiana di Giurisprudenza</journal>
+        <volume>45(2),</volume>
+        <pages>123-145.</pages>
+        <doi>10.1234/rig.2021.045</doi>
+    </sequence>
+    <sequence>
+        <author>Bianchi, G., &amp; Verdi, L.</author>
+        <date>2020.</date>
+        <title>Machine learning applicato alla diagnostica medica.</title>
+        <journal>Italian Journal of Medical Informatics</journal>
+        <volume>12(3),</volume>
+        <pages>45-67.</pages>
+        <url>https://www.ijmi.it/article/2020/12/3/ml-diagnostica</url>
+    </sequence>
+    <sequence>
+        <author>Ferrari, A., Romano, S., &amp; Colombo, F.</author>
+        <date>(2019).</date>
+        <title>L'impatto della digitalizzazione sulle PMI italiane.</title>
+        <journal>Economia e Management</journal>
+        <volume>28(1),</volume>
+        <pages>12-34.</pages>
+        <doi>10.5678/em.2019.001</doi>
+    </sequence>
+    <sequence>
+        <author>Greco, P.</author>
+        <date>2022.</date>
+        <title>Transizione energetica e sostenibilità ambientale in Italia.</title>
+        <journal>Rivista Italiana di Economia Ambientale</journal>
+        <volume>7(2),</volume>
+        <pages>89-112.</pages>
+    </sequence>
+    <sequence>
+        <author>Conti, D., Esposito, R., Marino, G., &amp; Ricci, A.</author>
+        <date>(2018).</date>
+        <title>Analisi statistica dei dati climatici nel Mediterraneo.</title>
+        <journal>Geografia e Ambiente</journal>
+        <volume>33(4),</volume>
+        <pages>201-225.</pages>
+        <doi>10.9876/ga.2018.033</doi>
+    </sequence>
+    <sequence>
+        <author>Barone, C.</author>
+        <date>2021.</date>
+        <title>Il ruolo delle università nella ricerca sull'IA.</title>
+        <journal>Università e Ricerca</journal>
+        <volume>15(1),</volume>
+        <pages>5-28.</pages>
+        <url>https://www.universitaricerca.it/2021/01/ia-universita</url>
+    </sequence>
+    <sequence>
+        <author>Mancini, F., &amp; Gallo, M.</author>
+        <date>(2020).</date>
+        <title>Blockchain e contratti intelligenti: aspetti giuridici.</title>
+        <journal>Tecnologia e Diritto</journal>
+        <volume>9(3),</volume>
+        <pages>156-178.</pages>
+    </sequence>
+    <sequence>
+        <author>Orlando, G., Rizzo, P., &amp; Vitale, S.</author>
+        <date>2019.</date>
+        <title>Modelli predittivi per la gestione del rischio creditizio.</title>
+        <journal>Rivista Bancaria Italiana</journal>
+        <volume>52(2),</volume>
+        <pages>78-95.</pages>
+        <doi>10.4567/rbi.2019.052</doi>
+    </sequence>
+    <sequence>
+        <author>Leone, A.</author>
+        <date>(2022).</date>
+        <title>Criticità della protezione dei dati personali nell'era digitale.</title>
+        <journal>Privacy e Sicurezza</journal>
+        <volume>18(4),</volume>
+        <pages>234-256.</pages>
+    </sequence>
+    <sequence>
+        <author>Martini, E., Neri, F., &amp; Costa, L.</author>
+        <date>2021.</date>
+        <title>Deep learning per l'analisi di immagini mediche.</title>
+        <journal>Informatica Medica Italiana</journal>
+        <volume>24(1),</volume>
+        <pages>33-51.</pages>
+        <doi>10.3456/imi.2021.024</doi>
+        <url>https://www.imijournal.it/article/2021/24/1/deep-learning</url>
+    </sequence>
+    <sequence>
+        <author>Pellegrini, R.</author>
+        <date>(2020).</date>
+        <title>L'evoluzione del commercio elettronico in Italia.</title>
+        <journal>Marketing Digitale</journal>
+        <volume>11(2),</volume>
+        <pages>67-84.</pages>
+    </sequence>
+    <sequence>
+        <author>Alberti, M., Brunetti, C., &amp; Ferri, A.</author>
+        <date>2018.</date>
+        <title>Reti neurali convoluzionali per il riconoscimento facciale.</title>
+        <journal>Rivista Italiana di Intelligenza Artificiale</journal>
+        <volume>6(3),</volume>
+        <pages>112-130.</pages>
+        <doi>10.7890/riia.2018.006</doi>
+    </sequence>
+    <sequence>
+        <author>Santoro, D.</author>
+        <date>(2019).</date>
+        <title>Politiche pubbliche per l'innovazione tecnologica.</title>
+        <journal>Politiche Pubbliche Italiane</journal>
+        <volume>22(1),</volume>
+        <pages>45-62.</pages>
+        <url>https://www.ppijournal.it/2019/22/1/innovazione</url>
+    </sequence>
+    <sequence>
+        <author>Gatti, L., &amp; Monti, S.</author>
+        <date>2022.</date>
+        <title>Analisi del sentiment sui social media con NLP.</title>
+        <journal>Data Science Italia</journal>
+        <volume>8(2),</volume>
+        <pages>98-115.</pages>
+    </sequence>
+    <sequence>
+        <author>Rinaldi, P., Caruso, M., &amp; De Luca, G.</author>
+        <date>(2021).</date>
+        <title>Sicurezza informatica nelle infrastrutture critiche.</title>
+        <journal>Cybersecurity Journal</journal>
+        <volume>14(3),</volume>
+        <pages>167-189.</pages>
+        <doi>10.2345/csj.2021.014</doi>
+    </sequence>
+    <sequence>
+        <author>Testa, A.</author>
+        <date>2020.</date>
+        <title>Il futuro del lavoro nell'era dell'automazione.</title>
+        <journal>Rivista Italiana di Sociologia</journal>
+        <volume>35(4),</volume>
+        <pages>278-295.</pages>
+    </sequence>
+    <sequence>
+        <author>Parisi, F., &amp; Lombardi, M.</author>
+        <date>(2019).</date>
+        <title>Algoritmi genetici per l'ottimizzazione industriale.</title>
+        <journal>Ingegneria Industriale Italiana</journal>
+        <volume>41(2),</volume>
+        <pages>89-107.</pages>
+        <doi>10.6789/iii.2019.041</doi>
+    </sequence>
+    <sequence>
+        <author>Vitali, S., Barbieri, L., &amp; Marchetti, R.</author>
+        <date>2018.</date>
+        <title>Big data analytics per la sanità pubblica.</title>
+        <journal>Epidemiologia e Prevenzione</journal>
+        <volume>29(1),</volume>
+        <pages>12-29.</pages>
+        <url>https://www.epiprev.it/article/2018/29/1/bigdata</url>
+    </sequence>
+    <sequence>
+        <author>Cattaneo, G.</author>
+        <date>(2022).</date>
+        <title>Regolamentazione delle criptovalute in Europa.</title>
+        <journal>Diritto Bancario Europeo</journal>
+        <volume>17(3),</volume>
+        <pages>145-168.</pages>
+    </sequence>
+    <sequence>
+        <author>Donati, E., &amp; Silvestri, F.</author>
+        <date>2021.</date>
+        <title>Cloud computing e privacy: sfide e opportunità.</title>
+        <journal>Tecnologie dell'Informazione</journal>
+        <volume>26(2),</volume>
+        <pages>56-73.</pages>
+        <doi>10.8901/ti.2021.026</doi>
+    </sequence>
+    <sequence>
+        <author>Benedetti, M., Caputo, A., &amp; Fiori, G.</author>
+        <date>(2020).</date>
+        <title>Machine translation per le lingue minoritarie italiane.</title>
+        <journal>Linguistica Computazionale</journal>
+        <volume>13(1),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Fabbri, R.</author>
+        <date>2019.</date>
+        <title>IoT e smart city: il caso di Milano.</title>
+        <journal>Urbanistica Italiana</journal>
+        <volume>44(3),</volume>
+        <pages>189-210.</pages>
+        <doi>10.1234/ui.2019.044</doi>
+        <url>https://www.urbanisticaitaliana.it/2019/44/3/milano-smart</url>
+    </sequence>
+    <sequence>
+        <author>Gentile, C., &amp; Moretti, L.</author>
+        <date>(2022).</date>
+        <title>Reinforcement learning per la robotica industriale.</title>
+        <journal>Automazione e Robotica</journal>
+        <volume>31(2),</volume>
+        <pages>112-130.</pages>
+    </sequence>
+    <sequence>
+        <author>Palmieri, A., Russo, D., &amp; Serra, M.</author>
+        <date>2021.</date>
+        <title>Analisi predittiva per la manutenzione industriale.</title>
+        <journal>Manifattura Digitale</journal>
+        <volume>19(4),</volume>
+        <pages>234-251.</pages>
+    </sequence>
+    <sequence>
+        <author>Amato, G.</author>
+        <date>(2020).</date>
+        <title>Etica dell'intelligenza artificiale: prospettive italiane.</title>
+        <journal>Filosofia e Tecnologia</journal>
+        <volume>8(1),</volume>
+        <pages>23-45.</pages>
+        <doi>10.5678/fet.2020.008</doi>
+    </sequence>
+    <sequence>
+        <author>Basile, P., &amp; Messina, R.</author>
+        <date>2019.</date>
+        <title>Reti Bayesiane per la diagnosi medica.</title>
+        <journal>Medicina e Informatica</journal>
+        <volume>22(3),</volume>
+        <pages>156-174.</pages>
+    </sequence>
+    <sequence>
+        <author>Cerqueira, F., Longo, M., &amp; Piazza, G.</author>
+        <date>(2018).</date>
+        <title>Elaborazione del linguaggio naturale per testi giuridici.</title>
+        <journal>Giurisprudenza Digitale</journal>
+        <volume>5(2),</volume>
+        <pages>67-85.</pages>
+        <url>https://www.giurdigitale.it/2018/5/2/nlp-giuridico</url>
+    </sequence>
+    <sequence>
+        <author>D'Angelo, S.</author>
+        <date>2022.</date>
+        <title>Sistemi di raccomandamento per l'e-commerce.</title>
+        <journal>Commercio Elettronico</journal>
+        <volume>16(1),</volume>
+        <pages>34-52.</pages>
+        <doi>10.9012/ce.2022.016</doi>
+    </sequence>
+    <sequence>
+        <author>Emiliani, T., &amp; Fontana, D.</author>
+        <date>(2021).</date>
+        <title>Computer vision per il controllo qualità industriale.</title>
+        <journal>Qualità e Produzione</journal>
+        <volume>38(4),</volume>
+        <pages>201-219.</pages>
+    </sequence>
+    <sequence>
+        <author>Ferraro, M., Graziani, L., &amp; Innocenti, P.</author>
+        <date>2020.</date>
+        <title>Analisi di rete sociale nelle organizzazioni italiane.</title>
+        <journal>Sociologia del Lavoro</journal>
+        <volume>47(2),</volume>
+        <pages>89-108.</pages>
+    </sequence>
+    <sequence>
+        <author>Guerriero, A.</author>
+        <date>(2019).</date>
+        <title>Algoritmi di clustering per dati ad alta dimensionalità.</title>
+        <journal>Statistica Applicata</journal>
+        <volume>31(3),</volume>
+        <pages>145-163.</pages>
+        <doi>10.3456/sa.2019.031</doi>
+    </sequence>
+    <sequence>
+        <author>Imparato, G., &amp; Lanzillotti, M.</author>
+        <date>2018.</date>
+        <title>Predizione di serie temporali finanziarie con LSTM.</title>
+        <journal>Finanza Quantitativa</journal>
+        <volume>24(1),</volume>
+        <pages>56-74.</pages>
+        <url>https://www.finq.it/article/2018/24/1/lstm</url>
+    </sequence>
+    <sequence>
+        <author>Labriola, C., Marini, S., &amp; Napolitano, F.</author>
+        <date>(2022).</date>
+        <title>Governance dei dati nella pubblica amministrazione.</title>
+        <journal>PA Digitale</journal>
+        <volume>12(2),</volume>
+        <pages>112-130.</pages>
+    </sequence>
+    <sequence>
+        <author>Martorelli, E.</author>
+        <date>2021.</date>
+        <title>Sistemi esperti per la valutazione immobiliare.</title>
+        <journal>Economia Immobiliare</journal>
+        <volume>29(3),</volume>
+        <pages>178-195.</pages>
+        <doi>10.6789/ei.2021.029</doi>
+    </sequence>
+    <sequence>
+        <author>Negri, P., &amp; Ottaviani, R.</author>
+        <date>(2020).</date>
+        <title>Reti adversarial generative per la sintesi di immagini.</title>
+        <journal>Grafica Computazionale</journal>
+        <volume>18(4),</volume>
+        <pages>234-252.</pages>
+    </sequence>
+    <sequence>
+        <author>Panunzio, M., Quaranta, G., &amp; Raimondi, L.</author>
+        <date>2019.</date>
+        <title>Modelli di diffusione delle innovazioni tecnologiche.</title>
+        <journal>Innovazione e Impresa</journal>
+        <volume>36(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Quattrocchi, A.</author>
+        <date>(2018).</date>
+        <title>Elaborazione di segnali biomedicali con wavelet.</title>
+        <journal>Biomedica e Ingegneria</journal>
+        <volume>14(2),</volume>
+        <pages>89-107.</pages>
+        <doi>10.8901/be.2018.014</doi>
+        <url>https://www.biomeding.it/2018/14/2/wavelet</url>
+    </sequence>
+    <sequence>
+        <author>Radice, S., &amp; Simeone, G.</author>
+        <date>2022.</date>
+        <title>Ottimizzazione multi-obiettivo per la logistica.</title>
+        <journal>Logistica e Trasporti</journal>
+        <volume>27(3),</volume>
+        <pages>145-163.</pages>
+    </sequence>
+    <sequence>
+        <author>Taccardi, D., Urbani, F., &amp; Valenti, M.</author>
+        <date>(2021).</date>
+        <title>Rilevamento di anomalie in flussi di dati.</title>
+        <journal>Data Mining Journal</journal>
+        <volume>21(4),</volume>
+        <pages>201-219.</pages>
+    </sequence>
+    <sequence>
+        <author>Vannini, P.</author>
+        <date>2020.</date>
+        <title>Interfacce cervello-computer: stato dell'arte.</title>
+        <journal>Neurotecnologia</journal>
+        <volume>9(1),</volume>
+        <pages>12-30.</pages>
+        <doi>10.1234/nt.2020.009</doi>
+    </sequence>
+    <sequence>
+        <author>Zamboni, L., &amp; Ferretti, C.</author>
+        <date>(2019).</date>
+        <title>Sistemi multi-agente per la gestione del traffico.</title>
+        <journal>Traffico e Mobilità</journal>
+        <volume>33(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Acciaioli, R., Berti, M., &amp; Castelli, G.</author>
+        <date>2018.</date>
+        <title>Processamento distribuito di grandi dataset.</title>
+        <journal>Calcolo Parallelo</journal>
+        <volume>15(3),</volume>
+        <pages>134-152.</pages>
+        <url>https://www.calcparallelo.it/2018/15/3/distribuito</url>
+    </sequence>
+    <sequence>
+        <author>Bruno, A.</author>
+        <date>(2022).</date>
+        <title>Realtà aumentata per la formazione industriale.</title>
+        <journal>Formazione e Tecnologia</journal>
+        <volume>20(1),</volume>
+        <pages>45-63.</pages>
+    </sequence>
+    <sequence>
+        <author>Cavallo, D., &amp; Damico, S.</author>
+        <date>2021.</date>
+        <title>Verifica formale di sistemi critici.</title>
+        <journal>Sicurezza dei Sistemi</journal>
+        <volume>28(2),</volume>
+        <pages>89-107.</pages>
+        <doi>10.5678/ss.2021.028</doi>
+    </sequence>
+    <sequence>
+        <author>D'Ambrosio, M., Esposito, F., &amp; Fusco, L.</author>
+        <date>(2020).</date>
+        <title>Analisi comparativa di framework per deep learning.</title>
+        <journal>Software e Programmazione</journal>
+        <volume>42(3),</volume>
+        <pages>156-174.</pages>
+    </sequence>
+    <sequence>
+        <author>Farina, G.</author>
+        <date>2019.</date>
+        <title>Metodi di campionamento per sondaggi elettorali.</title>
+        <journal>Metodologia della Ricerca</journal>
+        <volume>25(4),</volume>
+        <pages>201-219.</pages>
+    </sequence>
+    <sequence>
+        <author>Gargiulo, P., &amp; Iannucci, R.</author>
+        <date>(2018).</date>
+        <title>Sistemi di pagamento digitale: adozione in Italia.</title>
+        <journal>Fintech Italia</journal>
+        <volume>7(1),</volume>
+        <pages>23-41.</pages>
+        <doi>10.9012/fi.2018.007</doi>
+        <url>https://www.fintechitalia.it/2018/7/1/pagamenti</url>
+    </sequence>
+    <sequence>
+        <author>Lattanzi, E., Mosconi, A., &amp; Nolè, F.</author>
+        <date>2022.</date>
+        <title>Algoritmi di scheduling per cloud computing.</title>
+        <journal>Cloud Computing Journal</journal>
+        <volume>11(2),</volume>
+        <pages>67-85.</pages>
+    </sequence>
+    <sequence>
+        <author>Onorato, M.</author>
+        <date>(2021).</date>
+        <title>Biometria e riconoscimento comportamentale.</title>
+        <journal>Sicurezza Biometrica</journal>
+        <volume>16(3),</volume>
+        <pages>112-130.</pages>
+    </sequence>
+    <sequence>
+        <author>Pacifico, D., &amp; Quinto, L.</author>
+        <date>2020.</date>
+        <title>Reti neurali ricorrenti per previsioni finanziarie.</title>
+        <journal>Econometria Applicata</journal>
+        <volume>34(4),</volume>
+        <pages>189-207.</pages>
+        <doi>10.3456/ea.2020.034</doi>
+    </sequence>
+    <sequence>
+        <author>Roventi, P., Salvi, M., &amp; Tolomeo, G.</author>
+        <date>(2019).</date>
+        <title>Analisi spettrale di segnali sismici.</title>
+        <journal>Geofisica Italiana</journal>
+        <volume>52(1),</volume>
+        <pages>34-52.</pages>
+    </sequence>
+    <sequence>
+        <author>Spada, A.</author>
+        <date>2018.</date>
+        <title>Ontologie per la rappresentazione della conoscenza.</title>
+        <journal>Semantica Web</journal>
+        <volume>13(2),</volume>
+        <pages>78-96.</pages>
+        <url>https://www.semanticweb.it/2018/13/2/ontologie</url>
+    </sequence>
+    <sequence>
+        <author>Torregiani, F., &amp; Volpe, R.</author>
+        <date>(2022).</date>
+        <title>Compressione di dati genomici.</title>
+        <journal>Bioinformatica</journal>
+        <volume>19(3),</volume>
+        <pages>145-163.</pages>
+    </sequence>
+    <sequence>
+        <author>Valsecchi, N., Zanetti, M., &amp; Bellini, P.</author>
+        <date>2021.</date>
+        <title>Simulazione di sistemi complessi con agent-based modeling.</title>
+        <journal>Sistemi Complessi</journal>
+        <volume>26(4),</volume>
+        <pages>201-219.</pages>
+        <doi>10.6789/sc.2021.026</doi>
+    </sequence>
+    <sequence>
+        <author>Angeli, R.</author>
+        <date>(2020).</date>
+        <title>Privacy-preserving data mining.</title>
+        <journal>Protezione dei Dati</journal>
+        <volume>21(1),</volume>
+        <pages>12-30.</pages>
+    </sequence>
+    <sequence>
+        <author>Bernardi, S., &amp; Costantini, L.</author>
+        <date>2019.</date>
+        <title>Algoritmi di routing per reti wireless sensoristiche.</title>
+        <journal>Reti di Sensori</journal>
+        <volume>17(2),</volume>
+        <pages>67-85.</pages>
+    </sequence>
+    <sequence>
+        <author>Campana, F., Donatelli, M., &amp; Emiliani, G.</author>
+        <date>(2018).</date>
+        <title>Estrazione di entità nominate da testi clinici.</title>
+        <journal>Clinica e Informatica</journal>
+        <volume>12(3),</volume>
+        <pages>134-152.</pages>
+        <doi>10.8901/ci.2018.012</doi>
+    </sequence>
+    <sequence>
+        <author>Fanelli, A.</author>
+        <date>2022.</date>
+        <title>Digital twin per la manifattura avanzata.</title>
+        <journal>Industria 4.0</journal>
+        <volume>8(4),</volume>
+        <pages>189-207.</pages>
+        <url>https://www.industria40.it/2022/8/4/digitaltwin</url>
+    </sequence>
+    <sequence>
+        <author>Giannini, L., &amp; Ippolito, F.</author>
+        <date>(2021).</date>
+        <title>Federated learning per applicazioni sanitarie.</title>
+        <journal>Sanità Digitale</journal>
+        <volume>14(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Longo, R., Mancuso, G., &amp; Nicoletti, D.</author>
+        <date>2020.</date>
+        <title>Analisi di sentimenti in lingua italiana con BERT.</title>
+        <journal>Elaborazione del Linguaggio</journal>
+        <volume>23(2),</volume>
+        <pages>78-96.</pages>
+        <doi>10.1234/el.2020.023</doi>
+    </sequence>
+    <sequence>
+        <author>Oppliger, S.</author>
+        <date>(2019).</date>
+        <title>Quantum computing: prospettive e limitazioni.</title>
+        <journal>Fisica Quantistica Applicata</journal>
+        <volume>31(3),</volume>
+        <pages>145-163.</pages>
+    </sequence>
+    <sequence>
+        <author>Piras, M., &amp; Ruggiero, A.</author>
+        <date>2018.</date>
+        <title>Sistemi di allerta precoce per terremoti.</title>
+        <journal>Protezione Civile</journal>
+        <volume>45(4),</volume>
+        <pages>201-219.</pages>
+    </sequence>
+    <sequence>
+        <author>Scuderi, L., Tartaglia, F., &amp; Veneruso, M.</author>
+        <date>(2022).</date>
+        <title>Edge computing per l'elaborazione in tempo reale.</title>
+        <journal>Computing Distribuito</journal>
+        <volume>18(1),</volume>
+        <pages>34-52.</pages>
+        <url>https://www.compdistr.it/2022/18/1/edge</url>
+    </sequence>
+    <sequence>
+        <author>Uzzi, G.</author>
+        <date>2021.</date>
+        <title>Reti neurali grafiche per raccomandazioni.</title>
+        <journal>Machine Learning Italia</journal>
+        <volume>10(2),</volume>
+        <pages>67-85.</pages>
+        <doi>10.5678/mli.2021.010</doi>
+    </sequence>
+    <sequence>
+        <author>Veronesi, P., &amp; Zanon, F.</author>
+        <date>(2020).</date>
+        <title>Modellazione epidemica con dati mobili.</title>
+        <journal>Epidemiologia Computazionale</journal>
+        <volume>27(3),</volume>
+        <pages>112-130.</pages>
+    </sequence>
+    <sequence>
+        <author>Antonelli, D., Battaglia, S., &amp; Conti, M.</author>
+        <date>2019.</date>
+        <title>Crittografia post-quantistica: standard emergenti.</title>
+        <journal>Sicurezza Informatica</journal>
+        <volume>22(4),</volume>
+        <pages>178-196.</pages>
+    </sequence>
+    <sequence>
+        <author>Baldi, R.</author>
+        <date>(2018).</date>
+        <title>Analisi di sopravvivenza con machine learning.</title>
+        <journal>Statistica Medica</journal>
+        <volume>39(1),</volume>
+        <pages>12-30.</pages>
+        <doi>10.9012/sm.2018.039</doi>
+    </sequence>
+    <sequence>
+        <author>Colombo, A., &amp; D'Odorico, P.</author>
+        <date>2022.</date>
+        <title>Sistemi di supporto alle decisioni cliniche.</title>
+        <journal>Medicina Decisionale</journal>
+        <volume>16(2),</volume>
+        <pages>67-85.</pages>
+    </sequence>
+    <sequence>
+        <author>Ferri, L., Gualtieri, M., &amp; Isidori, F.</author>
+        <date>(2021).</date>
+        <title>AutoML per non esperti.</title>
+        <journal>Automazione Machine Learning</journal>
+        <volume>9(3),</volume>
+        <pages>134-152.</pages>
+        <url>https://www.automl.it/2021/9/3/nonexpert</url>
+    </sequence>
+    <sequence>
+        <author>Malaguti, E.</author>
+        <date>2020.</date>
+        <title>Rilevamento di fake news con NLP.</title>
+        <journal>Informazione e Verità</journal>
+        <volume>13(4),</volume>
+        <pages>189-207.</pages>
+    </sequence>
+    <sequence>
+        <author>Natali, P., &amp; Olimpieri, G.</author>
+        <date>(2019).</date>
+        <title>Algoritmi di compressione per video 360 gradi.</title>
+        <journal>Multimedia Digitale</journal>
+        <volume>25(1),</volume>
+        <pages>23-41.</pages>
+        <doi>10.3456/md.2019.025</doi>
+    </sequence>
+    <sequence>
+        <author>Proietti, R., Quattrini, S., &amp; Romagnoli, L.</author>
+        <date>2018.</date>
+        <title>Monitoraggio strutturale con sensori IoT.</title>
+        <journal>Ingegneria Strutturale</journal>
+        <volume>40(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Sabbatini, M.</author>
+        <date>(2022).</date>
+        <title>Explainable AI per applicazioni critiche.</title>
+        <journal>AI Trasparente</journal>
+        <volume>7(3),</volume>
+        <pages>112-130.</pages>
+    </sequence>
+    <sequence>
+        <author>Tanzi, F., &amp; Valmaggi, R.</author>
+        <date>2021.</date>
+        <title>Ottimizzazione di iperparametri con Bayesian optimization.</title>
+        <journal>Ottimizzazione Computazionale</journal>
+        <volume>19(4),</volume>
+        <pages>167-185.</pages>
+        <doi>10.6789/oc.2021.019</doi>
+        <url>https://www.optcomp.it/2021/19/4/bayesian</url>
+    </sequence>
+    <sequence>
+        <author>Venturi, G., Zanini, P., &amp; Bellini, L.</author>
+        <date>(2020).</date>
+        <title>Reti neurali capsule per riconoscimento di oggetti.</title>
+        <journal>Visione Artificiale</journal>
+        <volume>14(1),</volume>
+        <pages>34-52.</pages>
+    </sequence>
+    <sequence>
+        <author>Adimari, S.</author>
+        <date>2019.</date>
+        <title>Blockchain per la tracciabilità alimentare.</title>
+        <journal>Sicurezza Alimentare</journal>
+        <volume>32(2),</volume>
+        <pages>89-107.</pages>
+    </sequence>
+    <sequence>
+        <author>Berti, F., &amp; Crivelli, M.</author>
+        <date>(2018).</date>
+        <title>Generazione di testo con transformer.</title>
+        <journal>Linguistica e IA</journal>
+        <volume>11(3),</volume>
+        <pages>145-163.</pages>
+        <doi>10.8901/la.2018.011</doi>
+    </sequence>
+    <sequence>
+        <author>Donati, L., Ferretti, R., &amp; Giorgi, A.</author>
+        <date>2022.</date>
+        <title>Sistemi di raccomandamento contestuali.</title>
+        <journal>Recommendation Systems</journal>
+        <volume>8(4),</volume>
+        <pages>201-219.</pages>
+    </sequence>
+    <sequence>
+        <author>Farinelli, C.</author>
+        <date>(2021).</date>
+        <title>Analisi di grafi per social network.</title>
+        <journal>Social Network Analysis</journal>
+        <volume>15(1),</volume>
+        <pages>12-30.</pages>
+        <url>https://www.sna.it/2021/15/1/grafi</url>
+    </sequence>
+    <sequence>
+        <author>Giordano, P., &amp; Ladisa, A.</author>
+        <date>2020.</date>
+        <title>Transfer learning per immagini mediche.</title>
+        <journal>Imaging Medico</journal>
+        <volume>28(2),</volume>
+        <pages>67-85.</pages>
+    </sequence>
+    <sequence>
+        <author>Leonardi, M., Marchi, F., &amp; Neri, S.</author>
+        <date>(2019).</date>
+        <title>Algoritmi evolutivi per design ottimizzato.</title>
+        <journal>Design Computazionale</journal>
+        <volume>21(3),</volume>
+        <pages>134-152.</pages>
+        <doi>10.1234/dc.2019.021</doi>
+    </sequence>
+    <sequence>
+        <author>Orlando, R.</author>
+        <date>2018.</date>
+        <title>Predizione di struttura proteica con deep learning.</title>
+        <journal>Biologia Computazionale</journal>
+        <volume>17(4),</volume>
+        <pages>189-207.</pages>
+    </sequence>
+    <sequence>
+        <author>Paoletti, G., &amp; Rizzi, D.</author>
+        <date>(2022).</date>
+        <title>Reti neurali attentive per traduzione automatica.</title>
+        <journal>Traduzione Automatica</journal>
+        <volume>12(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Quarantelli, F., Sarti, L., &amp; Ticciati, M.</author>
+        <date>2021.</date>
+        <title>Monitoraggio ambientale con droni autonomi.</title>
+        <journal>Ambiente e Tecnologia</journal>
+        <volume>24(2),</volume>
+        <pages>78-96.</pages>
+        <url>https://www.ambtecnologia.it/2021/24/2/droni</url>
+    </sequence>
+    <sequence>
+        <author>Vivaldi, A.</author>
+        <date>(2020).</date>
+        <title>Sistemi di autenticazione multifattore.</title>
+        <journal>Autenticazione Digitale</journal>
+        <volume>18(3),</volume>
+        <pages>112-130.</pages>
+        <doi>10.5678/ad.2020.018</doi>
+    </sequence>
+    <sequence>
+        <author>Allegrini, M., &amp; Bonanni, P.</author>
+        <date>2019.</date>
+        <title>Algoritmi di matching per mercati a due lati.</title>
+        <journal>Economia Digitale</journal>
+        <volume>33(4),</volume>
+        <pages>167-185.</pages>
+    </sequence>
+    <sequence>
+        <author>Ceccarelli, D., D'Innocenzo, F., &amp; Falcone, G.</author>
+        <date>(2018).</date>
+        <title>Analisi di topic per documenti legali.</title>
+        <journal>Legale e Tecnologia</journal>
+        <volume>9(1),</volume>
+        <pages>12-30.</pages>
+    </sequence>
+    <sequence>
+        <author>Ferrante, L.</author>
+        <date>2022.</date>
+        <title>Robust adversarial training per classificazione.</title>
+        <journal>Robustezza AI</journal>
+        <volume>6(2),</volume>
+        <pages>67-85.</pages>
+        <doi>10.9012/rai.2022.006</doi>
+    </sequence>
+    <sequence>
+        <author>Galli, R., &amp; Iacovelli, S.</author>
+        <date>(2021).</date>
+        <title>Sistemi di gestione energetica per edifici smart.</title>
+        <journal>Edilizia Sostenibile</journal>
+        <volume>29(3),</volume>
+        <pages>134-152.</pages>
+    </sequence>
+    <sequence>
+        <author>Lazzari, M., Nicolosi, A., &amp; Palermo, F.</author>
+        <date>2020.</date>
+        <title>Elaborazione di segnali radar per automotive.</title>
+        <journal>Automotive Technology</journal>
+        <volume>22(4),</volume>
+        <pages>189-207.</pages>
+        <url>https://www.autotech.it/2020/22/4/radar</url>
+    </sequence>
+    <sequence>
+        <author>Montanari, G.</author>
+        <date>(2019).</date>
+        <title>Algoritmi di consensus per blockchain.</title>
+        <journal>Distributed Ledger</journal>
+        <volume>5(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Napoli, R., &amp; Olivieri, M.</author>
+        <date>2018.</date>
+        <title>Reti neurali per previsione di consumo energetico.</title>
+        <journal>Energia e Calcolo</journal>
+        <volume>16(2),</volume>
+        <pages>78-96.</pages>
+        <doi>10.3456/ec.2018.016</doi>
+    </sequence>
+    <sequence>
+        <author>Petrucci, S., Querini, L., &amp; Ranieri, F.</author>
+        <date>(2022).</date>
+        <title>Sistemi di triage automatico in pronto soccorso.</title>
+        <journal>Emergenza Medica</journal>
+        <volume>31(3),</volume>
+        <pages>112-130.</pages>
+    </sequence>
+    <sequence>
+        <author>Salerni, D.</author>
+        <date>2021.</date>
+        <title>Knowledge graph per e-commerce.</title>
+        <journal>E-commerce Tecnologia</journal>
+        <volume>13(4),</volume>
+        <pages>167-185.</pages>
+    </sequence>
+    <sequence>
+        <author>Toscani, F., &amp; Valerio, G.</author>
+        <date>(2020).</date>
+        <title>Algoritmi di fair division per risorse condivise.</title>
+        <journal>Teoria dei Giochi</journal>
+        <volume>27(1),</volume>
+        <pages>12-30.</pages>
+        <doi>10.6789/tg.2020.027</doi>
+    </sequence>
+    <sequence>
+        <author>Ventrella, A., Zaccaria, M., &amp; Bilancia, P.</author>
+        <date>2019.</date>
+        <title>Analisi di microarray per genomica.</title>
+        <journal>Genomica Computazionale</journal>
+        <volume>19(2),</volume>
+        <pages>67-85.</pages>
+    </sequence>
+    <sequence>
+        <author>Alberghi, S.</author>
+        <date>(2018).</date>
+        <title>Sistemi di controllo per veicoli autonomi.</title>
+        <journal>Controllo Automatico</journal>
+        <volume>35(3),</volume>
+        <pages>134-152.</pages>
+        <url>https://www.contrauto.it/2018/35/3/veicoli</url>
+    </sequence>
+    <sequence>
+        <author>Barbieri, L., &amp; Cingolani, R.</author>
+        <date>2022.</date>
+        <title>Meta-learning per pochi esempi.</title>
+        <journal>Meta Apprendimento</journal>
+        <volume>8(4),</volume>
+        <pages>189-207.</pages>
+    </sequence>
+    <sequence>
+        <author>Capitani, F., Delle Piane, G., &amp; Esposito, A.</author>
+        <date>(2021).</date>
+        <title>Rilevamento di intrusioni con anomaly detection.</title>
+        <journal>Sicurezza di Rete</journal>
+        <volume>20(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Ferrari, S.</author>
+        <date>2020.</date>
+        <title>Reti neurali quantistiche: prime implementazioni.</title>
+        <journal>Quantum Computing Italia</journal>
+        <volume>4(2),</volume>
+        <pages>67-85.</pages>
+        <doi>10.8901/qci.2020.004</doi>
+    </sequence>
+    <sequence>
+        <author>Giuliani, M., &amp; Haber, F.</author>
+        <date>(2019).</date>
+        <title>Sistemi di monitoraggio per agricoltura di precisione.</title>
+        <journal>AgriTech</journal>
+        <volume>12(3),</volume>
+        <pages>112-130.</pages>
+    </sequence>
+    <sequence>
+        <author>Latini, P., Marconi, S., &amp; Nardi, F.</author>
+        <date>2018.</date>
+        <title>Elaborazione di linguaggio per chatbot legali.</title>
+        <journal>Legal Tech</journal>
+        <volume>7(4),</volume>
+        <pages>167-185.</pages>
+    </sequence>
+    <sequence>
+        <author>Marchese, R.</author>
+        <date>(2022).</date>
+        <title>Algoritmi di pricing dinamico.</title>
+        <journal>Revenue Management</journal>
+        <volume>15(1),</volume>
+        <pages>12-30.</pages>
+        <url>https://www.revman.it/2022/15/1/pricing</url>
+    </sequence>
+    <sequence>
+        <author>Natalini, G., &amp; Osso, M.</author>
+        <date>2021.</date>
+        <title>Reti neurali per sintesi vocale in italiano.</title>
+        <journal>Sintesi Vocale</journal>
+        <volume>11(2),</volume>
+        <pages>67-85.</pages>
+        <doi>10.1234/sv.2021.011</doi>
+    </sequence>
+    <sequence>
+        <author>Piccardi, L., Quercia, F., &amp; Rossi, D.</author>
+        <date>(2020).</date>
+        <title>Sistemi di visione per ispezione industriale.</title>
+        <journal>Ispezione Industriale</journal>
+        <volume>26(3),</volume>
+        <pages>134-152.</pages>
+    </sequence>
+    <sequence>
+        <author>Scarpari, M.</author>
+        <date>2019.</date>
+        <title>Algoritmi di scheduling per ospedali.</title>
+        <journal>Gestione Sanitaria</journal>
+        <volume>18(4),</volume>
+        <pages>189-207.</pages>
+    </sequence>
+    <sequence>
+        <author>Tamagnini, F., &amp; Uggeri, L.</author>
+        <date>(2018).</date>
+        <title>Analisi di dati satellitari per clima.</title>
+        <journal>Telerilevamento</journal>
+        <volume>23(1),</volume>
+        <pages>23-41.</pages>
+        <doi>10.5678/tl.2018.023</doi>
+    </sequence>
+    <sequence>
+        <author>Vannucchi, P., Zani, A., &amp; Belli, S.</author>
+        <date>2022.</date>
+        <title>Reti neurali per predizione di guasti.</title>
+        <journal>Manutenzione Predittiva</journal>
+        <volume>9(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Ardizzone, E.</author>
+        <date>(2021).</date>
+        <title>Sistemi di supporto per diagnosi oncologica.</title>
+        <journal>Oncologia Digitale</journal>
+        <volume>14(3),</volume>
+        <pages>112-130.</pages>
+        <url>https://www.oncodigitale.it/2021/14/3/supporto</url>
+    </sequence>
+    <sequence>
+        <author>Baccini, M., &amp; Calabrese, F.</author>
+        <date>2020.</date>
+        <title>Algoritmi di matching per donazione organi.</title>
+        <journal>Trapianti e Tecnologia</journal>
+        <volume>21(4),</volume>
+        <pages>167-185.</pages>
+    </sequence>
+    <sequence>
+        <author>Castoldi, R., D'Alberto, F., &amp; Ercoli, M.</author>
+        <date>(2019).</date>
+        <title>Reti neurali per analisi di bilanci aziendali.</title>
+        <journal>Finanza Aziendale</journal>
+        <volume>32(1),</volume>
+        <pages>12-30.</pages>
+        <doi>10.9012/fa.2019.032</doi>
+    </sequence>
+    <sequence>
+        <author>Fini, A.</author>
+        <date>2018.</date>
+        <title>Sistemi di gestione per flotte di veicoli.</title>
+        <journal>Logistica Moderna</journal>
+        <volume>28(2),</volume>
+        <pages>67-85.</pages>
+    </sequence>
+    <sequence>
+        <author>Guerzoni, M., &amp; Isola, P.</author>
+        <date>(2022).</date>
+        <title>Algoritmi di personalizzazione per streaming.</title>
+        <journal>Media Digitale</journal>
+        <volume>17(3),</volume>
+        <pages>134-152.</pages>
+    </sequence>
+    <sequence>
+        <author>Lucherini, F., Martelli, S., &amp; Neri, L.</author>
+        <date>2021.</date>
+        <title>Reti neurali per trading algoritmico.</title>
+        <journal>Trading Quantitativo</journal>
+        <volume>13(4),</volume>
+        <pages>189-207.</pages>
+        <url>https://www.tradequant.it/2021/13/4/neural</url>
+    </sequence>
+    <sequence>
+        <author>Magni, G.</author>
+        <date>(2020).</date>
+        <title>Sistemi di allerta per frodi creditizie.</title>
+        <journal>Antifrode Finanziaria</journal>
+        <volume>19(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Nannini, R., &amp; Ottonelli, S.</author>
+        <date>2019.</date>
+        <title>Algoritmi di routing per logistica urbana.</title>
+        <journal>Logistica Urbana</journal>
+        <volume>11(2),</volume>
+        <pages>78-96.</pages>
+        <doi>10.3456/lu.2019.011</doi>
+    </sequence>
+    <sequence>
+        <author>Pierantoni, M., Quadri, F., &amp; Renzi, A.</author>
+        <date>(2018).</date>
+        <title>Reti neurali per previsione di traffico web.</title>
+        <journal>Web Analytics</journal>
+        <volume>14(3),</volume>
+        <pages>112-130.</pages>
+    </sequence>
+    <sequence>
+        <author>Spadoni, L.</author>
+        <date>2022.</date>
+        <title>Sistemi di recommendation per biblioteche digitali.</title>
+        <journal>Biblioteconomia Digitale</journal>
+        <volume>25(4),</volume>
+        <pages>167-185.</pages>
+    </sequence>
+    <sequence>
+        <author>Tagliaferri, D., &amp; Valzani, F.</author>
+        <date>(2021).</date>
+        <title>Algoritmi di clustering per segmentazione clienti.</title>
+        <journal>Marketing Analitico</journal>
+        <volume>16(1),</volume>
+        <pages>12-30.</pages>
+        <doi>10.6789/ma.2021.016</doi>
+    </sequence>
+    <sequence>
+        <author>Vignali, S., Zecchi, M., &amp; Antoni, G.</author>
+        <date>2020.</date>
+        <title>Reti neurali per analisi di recensioni online.</title>
+        <journal>Recensioni e Sentiment</journal>
+        <volume>8(2),</volume>
+        <pages>67-85.</pages>
+        <url>https://www.recsent.it/2020/8/2/neural</url>
+    </sequence>
+    <sequence>
+        <author>Agosti, M.</author>
+        <date>(2019).</date>
+        <title>Sistemi di gestione per parchi eolici.</title>
+        <journal>Energie Rinnovabili</journal>
+        <volume>22(3),</volume>
+        <pages>134-152.</pages>
+    </sequence>
+    <sequence>
+        <author>Becchi, F., &amp; Carati, R.</author>
+        <date>2018.</date>
+        <title>Algoritmi di ottimizzazione per reti elettriche.</title>
+        <journal>Smart Grid Italia</journal>
+        <volume>15(4),</volume>
+        <pages>189-207.</pages>
+        <doi>10.8901/sgi.2018.015</doi>
+    </sequence>
+    <sequence>
+        <author>Campanini, L., Donghi, F., &amp; Ellero, S.</author>
+        <date>(2022).</date>
+        <title>Reti neurali per predizione di domanda energetica.</title>
+        <journal>Energetica</journal>
+        <volume>29(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Farneti, G.</author>
+        <date>2021.</date>
+        <title>Sistemi di monitoraggio per qualità dell'aria.</title>
+        <journal>Ambiente e Salute</journal>
+        <volume>17(2),</volume>
+        <pages>67-85.</pages>
+    </sequence>
+    <sequence>
+        <author>Gherardi, M., &amp; Iotti, F.</author>
+        <date>(2020).</date>
+        <title>Algoritmi di previsione per raccolto agricolo.</title>
+        <journal>AgroInformatica</journal>
+        <volume>12(3),</volume>
+        <pages>112-130.</pages>
+        <url>https://www.agroinfo.it/2020/12/3/raccolto</url>
+    </sequence>
+    <sequence>
+        <author>Lugli, A., Molinari, S., &amp; Nigi, F.</author>
+        <date>2019.</date>
+        <title>Reti neurali per diagnostica per immagini.</title>
+        <journal>Radiologia Digitale</journal>
+        <volume>34(4),</volume>
+        <pages>167-185.</pages>
+        <doi>10.1234/rd.2019.034</doi>
+    </sequence>
+    <sequence>
+        <author>Malagoli, P.</author>
+        <date>(2018).</date>
+        <title>Sistemi di gestione per dati sanitari.</title>
+        <journal>Health Data Management</journal>
+        <volume>21(1),</volume>
+        <pages>12-30.</pages>
+    </sequence>
+    <sequence>
+        <author>Negrini, S., &amp; Orlandi, L.</author>
+        <date>2022.</date>
+        <title>Algoritmi di scheduling per produzione industriale.</title>
+        <journal>Produzione e Operations</journal>
+        <volume>18(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Pavarini, F., Quaglia, R., &amp; Rivani, M.</author>
+        <date>(2021).</date>
+        <title>Reti neurali per analisi di dati assicurativi.</title>
+        <journal>Assicurazioni e Tecnologia</journal>
+        <volume>26(3),</volume>
+        <pages>134-152.</pages>
+    </sequence>
+    <sequence>
+        <author>Sabbatani, D.</author>
+        <date>2020.</date>
+        <title>Sistemi di supporto per pianificazione urbana.</title>
+        <journal>Urbanistica Digitale</journal>
+        <volume>13(4),</volume>
+        <pages>189-207.</pages>
+        <doi>10.5678/ud.2020.013</doi>
+        <url>https://www.urbdigitale.it/2020/13/4/supporto</url>
+    </sequence>
+    <sequence>
+        <author>Tagliazucchi, F., &amp; Ubaldi, S.</author>
+        <date>(2019).</date>
+        <title>Algoritmi di matching per mercato del lavoro.</title>
+        <journal>Lavoro e Tecnologia</journal>
+        <volume>19(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Valdarnini, L., Zoli, F., &amp; Bartolini, M.</author>
+        <date>2018.</date>
+        <title>Reti neurali per previsione di tassi di cambio.</title>
+        <journal>Finanza Internazionale</journal>
+        <volume>24(2),</volume>
+        <pages>67-85.</pages>
+    </sequence>
+    <sequence>
+        <author>Alvisi, R.</author>
+        <date>(2022).</date>
+        <title>Sistemi di monitoraggio per infrastrutture stradali.</title>
+        <journal>Infrastrutture e Tecnologia</journal>
+        <volume>31(3),</volume>
+        <pages>112-130.</pages>
+    </sequence>
+    <sequence>
+        <author>Bonetti, F., &amp; Casetti, G.</author>
+        <date>2021.</date>
+        <title>Algoritmi di ottimizzazione per trasporti pubblici.</title>
+        <journal>Trasporti e Mobilità</journal>
+        <volume>14(4),</volume>
+        <pages>167-185.</pages>
+        <doi>10.9012/tm.2021.014</doi>
+    </sequence>
+    <sequence>
+        <author>Calzolari, M., D'Achille, P., &amp; Ercolani, F.</author>
+        <date>(2020).</date>
+        <title>Reti neurali per analisi di dati turistici.</title>
+        <journal>Turismo e Tecnologia</journal>
+        <volume>17(1),</volume>
+        <pages>12-30.</pages>
+    </sequence>
+    <sequence>
+        <author>Fabbretti, S.</author>
+        <date>2019.</date>
+        <title>Sistemi di gestione per eventi culturali.</title>
+        <journal>Cultura Digitale</journal>
+        <volume>22(2),</volume>
+        <pages>67-85.</pages>
+        <url>https://www.culdigitale.it/2019/22/2/eventi</url>
+    </sequence>
+    <sequence>
+        <author>Gambetti, L., &amp; Iacovini, R.</author>
+        <date>(2018).</date>
+        <title>Algoritmi di recommendation per contenuti educativi.</title>
+        <journal>Educazione e Tecnologia</journal>
+        <volume>11(3),</volume>
+        <pages>134-152.</pages>
+    </sequence>
+    <sequence>
+        <author>Lodovici, F., Mencarelli, S., &amp; Nativi, G.</author>
+        <date>2022.</date>
+        <title>Reti neurali per previsione di abbandono scolastico.</title>
+        <journal>Pedagogia Computazionale</journal>
+        <volume>9(4),</volume>
+        <pages>189-207.</pages>
+        <doi>10.3456/pc.2022.009</doi>
+    </sequence>
+    <sequence>
+        <author>Malpeli, A.</author>
+        <date>(2021).</date>
+        <title>Sistemi di supporto per selezione del personale.</title>
+        <journal>Risorse Umane Digitali</journal>
+        <volume>16(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Nannetti, P., &amp; Olivetti, M.</author>
+        <date>2020.</date>
+        <title>Algoritmi di clustering per analisi di mercato.</title>
+        <journal>Analisi di Mercato</journal>
+        <volume>23(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Pantani, R., Quadrelli, F., &amp; Renzoni, L.</author>
+        <date>(2019).</date>
+        <title>Reti neurali per valutazione del rischio sismico.</title>
+        <journal>Ingegneria Sismica</journal>
+        <volume>36(3),</volume>
+        <pages>112-130.</pages>
+        <url>https://www.ingsismica.it/2019/36/3/neural</url>
+    </sequence>
+    <sequence>
+        <author>Spigaroli, M.</author>
+        <date>2018.</date>
+        <title>Sistemi di gestione per dati catastali.</title>
+        <journal>Catasto e Tecnologia</journal>
+        <volume>19(4),</volume>
+        <pages>167-185.</pages>
+    </sequence>
+    <sequence>
+        <author>Tassinari, D., &amp; Ugolini, F.</author>
+        <date>(2022).</date>
+        <title>Algoritmi di ottimizzazione per raccolta rifiuti.</title>
+        <journal>Gestione Rifiuti</journal>
+        <volume>12(1),</volume>
+        <pages>12-30.</pages>
+        <doi>10.6789/gr.2022.012</doi>
+    </sequence>
+    <sequence>
+        <author>Valeriani, S., Zaccagni, M., &amp; Bellucci, A.</author>
+        <date>2021.</date>
+        <title>Reti neurali per analisi di dati meteorologici.</title>
+        <journal>Meteorologia e Calcolo</journal>
+        <volume>15(2),</volume>
+        <pages>67-85.</pages>
+    </sequence>
+    <sequence>
+        <author>Alfarano, G.</author>
+        <date>(2020).</date>
+        <title>Sistemi di monitoraggio per consumo idrico.</title>
+        <journal>Gestione Idrica</journal>
+        <volume>28(3),</volume>
+        <pages>134-152.</pages>
+    </sequence>
+    <sequence>
+        <author>Baldassini, F., &amp; Campana, L.</author>
+        <date>2019.</date>
+        <title>Algoritmi di previsione per domanda di gas.</title>
+        <journal>Energetica e Gas</journal>
+        <volume>21(4),</volume>
+        <pages>189-207.</pages>
+        <doi>10.8901/eg.2019.021</doi>
+        <url>https://www.energegas.it/2019/21/4/domanda</url>
+    </sequence>
+    <sequence>
+        <author>Cappecchi, R., D'Amico, S., &amp; Ferretti, L.</author>
+        <date>(2018).</date>
+        <title>Reti neurali per diagnostica di impianti industriali.</title>
+        <journal>Diagnostica Industriale</journal>
+        <volume>14(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Ferlito, A.</author>
+        <date>2022.</date>
+        <title>Sistemi di gestione per catene del freddo.</title>
+        <journal>Logistica del Freddo</journal>
+        <volume>17(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Gianfreda, M., &amp; Iannelli, P.</author>
+        <date>(2021).</date>
+        <title>Algoritmi di scheduling per centri di chiamata.</title>
+        <journal>Call Center Management</journal>
+        <volume>13(3),</volume>
+        <pages>112-130.</pages>
+    </sequence>
+    <sequence>
+        <author>Lacirignola, F., Mengarelli, S., &amp; Nardelli, R.</author>
+        <date>2020.</date>
+        <title>Reti neurali per analisi di dati bancari.</title>
+        <journal>Banche e Tecnologia</journal>
+        <volume>25(4),</volume>
+        <pages>167-185.</pages>
+        <doi>10.1234/bt.2020.025</doi>
+    </sequence>
+    <sequence>
+        <author>Magliulo, G.</author>
+        <date>(2019).</date>
+        <title>Sistemi di supporto per investimento immobiliare.</title>
+        <journal>Investimenti Immobiliari</journal>
+        <volume>18(1),</volume>
+        <pages>12-30.</pages>
+    </sequence>
+    <sequence>
+        <author>Napolitano, L., &amp; Ottieri, F.</author>
+        <date>2018.</date>
+        <title>Algoritmi di matching per donazione di sangue.</title>
+        <journal>Sanità e Volontariato</journal>
+        <volume>22(2),</volume>
+        <pages>67-85.</pages>
+        <url>https://www.sanivol.it/2018/22/2/matching</url>
+    </sequence>
+    <sequence>
+        <author>Palmisano, R., Quartucci, F., &amp; Romito, S.</author>
+        <date>(2022).</date>
+        <title>Reti neurali per previsione di epidemie.</title>
+        <journal>Epidemiologia e Modelli</journal>
+        <volume>11(3),</volume>
+        <pages>134-152.</pages>
+    </sequence>
+    <sequence>
+        <author>Sciancalepore, D.</author>
+        <date>2021.</date>
+        <title>Sistemi di gestione per emergenze sanitarie.</title>
+        <journal>Emergenza e Tecnologia</journal>
+        <volume>19(4),</volume>
+        <pages>189-207.</pages>
+        <doi>10.5678/et.2021.019</doi>
+    </sequence>
+    <sequence>
+        <author>Tallarico, F., &amp; Valitutti, M.</author>
+        <date>(2020).</date>
+        <title>Algoritmi di ottimizzazione per distribuzione vaccini.</title>
+        <journal>Salute Pubblica</journal>
+        <volume>26(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Veneziani, S., Zito, F., &amp; Accardi, L.</author>
+        <date>2019.</date>
+        <title>Reti neurali per analisi di dati farmaceutici.</title>
+        <journal>Farmacia e Tecnologia</journal>
+        <volume>14(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Abbatangelo, R.</author>
+        <date>(2018).</date>
+        <title>Sistemi di monitoraggio per compliance normativa.</title>
+        <journal>Compliance e Tecnologia</journal>
+        <volume>17(3),</volume>
+        <pages>112-130.</pages>
+        <doi>10.9012/ct.2018.017</doi>
+        <url>https://www.compltech.it/2018/17/3/monitoraggio</url>
+    </sequence>
+    <sequence>
+        <author>Beneduce, M., &amp; Caroselli, F.</author>
+        <date>2022.</date>
+        <title>Algoritmi di clustering per profilazione criminale.</title>
+        <journal>Criminologia Digitale</journal>
+        <volume>9(4),</volume>
+        <pages>167-185.</pages>
+    </sequence>
+    <sequence>
+        <author>Cappelletti, D., D'Auria, G., &amp; Fabbricatore, S.</author>
+        <date>(2021).</date>
+        <title>Reti neurali per previsione di recidiva.</title>
+        <journal>Giustizia e Tecnologia</journal>
+        <volume>12(1),</volume>
+        <pages>12-30.</pages>
+    </sequence>
+    <sequence>
+        <author>Ferraioli, A.</author>
+        <date>2020.</date>
+        <title>Sistemi di gestione per pratiche legali.</title>
+        <journal>Legal Management</journal>
+        <volume>15(2),</volume>
+        <pages>67-85.</pages>
+    </sequence>
+    <sequence>
+        <author>Giannotti, F., &amp; Inzerillo, R.</author>
+        <date>(2019).</date>
+        <title>Algoritmi di analisi per contratti automatizzati.</title>
+        <journal>Contratti e IA</journal>
+        <volume>8(3),</volume>
+        <pages>134-152.</pages>
+        <doi>10.3456/ca.2019.008</doi>
+    </sequence>
+    <sequence>
+        <author>Lagomarsino, M., Maggiora, F., &amp; Negroni, S.</author>
+        <date>2018.</date>
+        <title>Reti neurali per valutazione di brevetti.</title>
+        <journal>Proprietà Intellettuale</journal>
+        <volume>21(4),</volume>
+        <pages>189-207.</pages>
+    </sequence>
+    <sequence>
+        <author>Molinari, A.</author>
+        <date>(2022).</date>
+        <title>Sistemi di supporto per ricerca scientifica.</title>
+        <journal>Ricerca e Innovazione</journal>
+        <volume>16(1),</volume>
+        <pages>23-41.</pages>
+        <url>https://www.ricinn.it/2022/16/1/supporto</url>
+    </sequence>
+    <sequence>
+        <author>Nicoletti, P., &amp; Orsini, L.</author>
+        <date>2021.</date>
+        <title>Algoritmi di matching per collaborazioni di ricerca.</title>
+        <journal>Collaborazione Scientifica</journal>
+        <volume>19(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Pasqualini, R., Quattromini, F., &amp; Ranfagni, M.</author>
+        <date>(2020).</date>
+        <title>Reti neurali per analisi di pubblicazioni.</title>
+        <journal>Bibliometria e Tecnologia</journal>
+        <volume>13(3),</volume>
+        <pages>112-130.</pages>
+        <doi>10.6789/bt.2020.013</doi>
+    </sequence>
+    <sequence>
+        <author>Sartori, G.</author>
+        <date>2019.</date>
+        <title>Sistemi di gestione per dati di ricerca.</title>
+        <journal>Research Data Management</journal>
+        <volume>17(4),</volume>
+        <pages>167-185.</pages>
+    </sequence>
+    <sequence>
+        <author>Traversari, F., &amp; Ughi, S.</author>
+        <date>(2018).</date>
+        <title>Algoritmi di ottimizzazione per laboratori di ricerca.</title>
+        <journal>Laboratori e Tecnologia</journal>
+        <volume>22(1),</volume>
+        <pages>12-30.</pages>
+    </sequence>
+    <sequence>
+        <author>Valentini, M., Zacchi, F., &amp; Baldi, R.</author>
+        <date>2022.</date>
+        <title>Reti neurali per previsione di citation impact.</title>
+        <journal>Scientometria</journal>
+        <volume>14(2),</volume>
+        <pages>67-85.</pages>
+        <url>https://www.scientometria.it/2022/14/2/citation</url>
+    </sequence>
+    <sequence>
+        <author>Acquati, S.</author>
+        <date>(2021).</date>
+        <title>Sistemi di monitoraggio per open access.</title>
+        <journal>Editoria Scientifica</journal>
+        <volume>18(3),</volume>
+        <pages>134-152.</pages>
+    </sequence>
+    <sequence>
+        <author>Barzaghi, L., &amp; Citterio, M.</author>
+        <date>2020.</date>
+        <title>Algoritmi di recommendation per riviste accademiche.</title>
+        <journal>Pubblicazioni Accademiche</journal>
+        <volume>25(4),</volume>
+        <pages>189-207.</pages>
+        <doi>10.8901/pa.2020.025</doi>
+    </sequence>
+    <sequence>
+        <author>Cantone, F., D'Agostino, R., &amp; Esposito, V.</author>
+        <date>(2019).</date>
+        <title>Reti neurali per analisi di conference paper.</title>
+        <journal>Atti e Proceedings</journal>
+        <volume>11(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Fanelli, R.</author>
+        <date>2018.</date>
+        <title>Sistemi di gestione per peer review.</title>
+        <journal>Peer Review Digitale</journal>
+        <volume>14(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Giannini, S., &amp; Iannone, F.</author>
+        <date>(2022).</date>
+        <title>Algoritmi di detection per plagio accademico.</title>
+        <journal>Etica Accademica</journal>
+        <volume>17(3),</volume>
+        <pages>112-130.</pages>
+    </sequence>
+    <sequence>
+        <author>Lazzarotto, M., Meneghini, S., &amp; Nodari, F.</author>
+        <date>2021.</date>
+        <title>Reti neurali per classificazione di paper scientifici.</title>
+        <journal>Classificazione Scientifica</journal>
+        <volume>12(4),</volume>
+        <pages>167-185.</pages>
+        <doi>10.1234/cs.2021.012</doi>
+        <url>https://www.classcifiscienza.it/2021/12/4/neural</url>
+    </sequence>
+    <sequence>
+        <author>Marangoni, A.</author>
+        <date>(2020).</date>
+        <title>Sistemi di supporto per grant writing.</title>
+        <journal>Finanziamenti alla Ricerca</journal>
+        <volume>19(1),</volume>
+        <pages>12-30.</pages>
+    </sequence>
+    <sequence>
+        <author>Nardini, P., &amp; Onesti, L.</author>
+        <date>2019.</date>
+        <title>Algoritmi di matching per finanziamenti di ricerca.</title>
+        <journal>Grant Matching</journal>
+        <volume>15(2),</volume>
+        <pages>67-85.</pages>
+    </sequence>
+    <sequence>
+        <author>Pederzani, R., Quaresima, F., &amp; Righetti, S.</author>
+        <date>(2018).</date>
+        <title>Reti neurali per previsione di successo di grant.</title>
+        <journal>Grant Analysis</journal>
+        <volume>21(3),</volume>
+        <pages>134-152.</pages>
+        <doi>10.5678/ga.2018.021</doi>
+    </sequence>
+    <sequence>
+        <author>Scotti, M.</author>
+        <date>2022.</date>
+        <title>Sistemi di gestione per progetti europei.</title>
+        <journal>Progetti UE</journal>
+        <volume>13(4),</volume>
+        <pages>189-207.</pages>
+    </sequence>
+    <sequence>
+        <author>Terreni, F., &amp; Uberti, G.</author>
+        <date>(2021).</date>
+        <title>Algoritmi di ottimizzazione per budget di ricerca.</title>
+        <journal>Budget e Ricerca</journal>
+        <volume>18(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Vaccari, S., Zannoni, F., &amp; Bellini, P.</author>
+        <date>2020.</date>
+        <title>Reti neurali per analisi di dati di finanziamento.</title>
+        <journal>Finanza della Ricerca</journal>
+        <volume>16(2),</volume>
+        <pages>78-96.</pages>
+        <url>https://www.finricerca.it/2020/16/2/neural</url>
+    </sequence>
+    <sequence>
+        <author>Alberghini, D.</author>
+        <date>(2019).</date>
+        <title>Sistemi di monitoraggio per impatto sociale della ricerca.</title>
+        <journal>Impatto Sociale</journal>
+        <volume>11(3),</volume>
+        <pages>112-130.</pages>
+    </sequence>
+    <sequence>
+        <author>Bonfiglioli, M., &amp; Cacciari, F.</author>
+        <date>2018.</date>
+        <title>Algoritmi di analisi per collaborazione internazionale.</title>
+        <journal>Collaborazione Internazionale</journal>
+        <volume>14(4),</volume>
+        <pages>167-185.</pages>
+        <doi>10.9012/ci.2018.014</doi>
+    </sequence>
+    <sequence>
+        <author>Caprioli, R., D'Amato, S., &amp; Ferri, G.</author>
+        <date>(2022).</date>
+        <title>Reti neurali per predizione di trend di ricerca.</title>
+        <journal>Trend Scientifici</journal>
+        <volume>19(1),</volume>
+        <pages>12-30.</pages>
+    </sequence>
+    <sequence>
+        <author>Fattori, A.</author>
+        <date>2021.</date>
+        <title>Sistemi di gestione per laboratori condivisi.</title>
+        <journal>Laboratori Condivisi</journal>
+        <volume>12(2),</volume>
+        <pages>67-85.</pages>
+    </sequence>
+    <sequence>
+        <author>Guerri, M., &amp; Iacono, S.</author>
+        <date>(2020).</date>
+        <title>Algoritmi di scheduling per strumentazione scientifica.</title>
+        <journal>Strumentazione e Ricerca</journal>
+        <volume>17(3),</volume>
+        <pages>134-152.</pages>
+    </sequence>
+    <sequence>
+        <author>Lazzarini, F., Monti, R., &amp; Neroni, L.</author>
+        <date>2019.</date>
+        <title>Reti neurali per analisi di dati sperimentali.</title>
+        <journal>Dati Sperimentali</journal>
+        <volume>23(4),</volume>
+        <pages>189-207.</pages>
+        <doi>10.3456/ds.2019.023</doi>
+        <url>https://www.datisperim.it/2019/23/4/neural</url>
+    </sequence>
+    <sequence>
+        <author>Marcacci, G.</author>
+        <date>(2018).</date>
+        <title>Sistemi di supporto per progettazione di esperimenti.</title>
+        <journal>Design Sperimentale</journal>
+        <volume>15(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Natali, S., &amp; Ortenzi, F.</author>
+        <date>2022.</date>
+        <title>Algoritmi di ottimizzazione per campionamento.</title>
+        <journal>Metodi di Campionamento</journal>
+        <volume>18(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Paoletti, L., Quattrini, R., &amp; Romani, M.</author>
+        <date>(2021).</date>
+        <title>Reti neurali per validazione di risultati.</title>
+        <journal>Validazione Scientifica</journal>
+        <volume>13(3),</volume>
+        <pages>112-130.</pages>
+    </sequence>
+    <sequence>
+        <author>Silvestri, A.</author>
+        <date>2020.</date>
+        <title>Sistemi di gestione per repository di dati.</title>
+        <journal>Repository Scientifici</journal>
+        <volume>16(4),</volume>
+        <pages>167-185.</pages>
+        <doi>10.6789/rs.2020.016</doi>
+    </sequence>
+    <sequence>
+        <author>Tognetti, F., &amp; Uggeri, S.</author>
+        <date>(2019).</date>
+        <title>Algoritmi di preservazione per dati a lungo termine.</title>
+        <journal>Preservazione Digitale</journal>
+        <volume>11(1),</volume>
+        <pages>12-30.</pages>
+    </sequence>
+    <sequence>
+        <author>Valeri, M., Zaccardi, F., &amp; Bellomi, R.</author>
+        <date>2018.</date>
+        <title>Reti neurali per interoperabilità di dataset.</title>
+        <journal>Interoperabilità Dati</journal>
+        <volume>14(2),</volume>
+        <pages>67-85.</pages>
+        <url>https://www.interdati.it/2018/14/2/neural</url>
+    </sequence>
+    <sequence>
+        <author>Antonelli, S.</author>
+        <date>(2022).</date>
+        <title>Sistemi di monitoraggio per FAIR data principles.</title>
+        <journal>FAIR Data</journal>
+        <volume>17(3),</volume>
+        <pages>134-152.</pages>
+    </sequence>
+    <sequence>
+        <author>Berti, F., &amp; Cervelli, M.</author>
+        <date>2021.</date>
+        <title>Algoritmi di annotazione per metadata scientifici.</title>
+        <journal>Metadata e Scienza</journal>
+        <volume>12(4),</volume>
+        <pages>189-207.</pages>
+        <doi>10.8901/ms.2021.012</doi>
+    </sequence>
+    <sequence>
+        <author>Calvani, R., D'Elia, G., &amp; Fabbri, S.</author>
+        <date>(2020).</date>
+        <title>Reti neurali per classificazione di dataset.</title>
+        <journal>Dataset Science</journal>
+        <volume>19(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Ferretti, A.</author>
+        <date>2019.</date>
+        <title>Sistemi di gestione per data stewardship.</title>
+        <journal>Data Stewardship</journal>
+        <volume>15(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Gualtieri, L., &amp; Ippoliti, F.</author>
+        <date>(2018).</date>
+        <title>Algoritmi di qualità per dati di ricerca.</title>
+        <journal>Qualità dei Dati</journal>
+        <volume>21(3),</volume>
+        <pages>112-130.</pages>
+    </sequence>
+    <sequence>
+        <author>Lucarelli, M., Mengoni, S., &amp; Nativi, R.</author>
+        <date>2022.</date>
+        <title>Reti neurali per integrazione di dati eterogenei.</title>
+        <journal>Integrazione Dati</journal>
+        <volume>18(4),</volume>
+        <pages>167-185.</pages>
+        <doi>10.1234/id.2022.018</doi>
+        <url>https://www.intdati.it/2022/18/4/neural</url>
+    </sequence>
+    <sequence>
+        <author>Mariani, A.</author>
+        <date>(2021).</date>
+        <title>Sistemi di supporto per data citation.</title>
+        <journal>Citazione dei Dati</journal>
+        <volume>13(1),</volume>
+        <pages>12-30.</pages>
+    </sequence>
+    <sequence>
+        <author>Nicolini, P., &amp; Onofri, L.</author>
+        <date>2020.</date>
+        <title>Algoritmi di tracciamento per uso di dati.</title>
+        <journal>Tracciamento Dati</journal>
+        <volume>16(2),</volume>
+        <pages>67-85.</pages>
+    </sequence>
+    <sequence>
+        <author>Panichi, R., Quercia, F., &amp; Raganelli, M.</author>
+        <date>(2019).</date>
+        <title>Reti neurali per previsione di data reuse.</title>
+        <journal>Data Reuse</journal>
+        <volume>11(3),</volume>
+        <pages>134-152.</pages>
+    </sequence>
+    <sequence>
+        <author>Santarelli, G.</author>
+        <date>2018.</date>
+        <title>Sistemi di gestione per data access policies.</title>
+        <journal>Politiche di Accesso</journal>
+        <volume>14(4),</volume>
+        <pages>189-207.</pages>
+    </sequence>
+    <sequence>
+        <author>Terenzi, F., &amp; Ulivieri, S.</author>
+        <date>(2022).</date>
+        <title>Algoritmi di compliance per GDPR nella ricerca.</title>
+        <journal>GDPR e Scienza</journal>
+        <volume>17(1),</volume>
+        <pages>23-41.</pages>
+        <doi>10.5678/gs.2022.017</doi>
+    </sequence>
+    <sequence>
+        <author>Vannini, M., Zacconi, F., &amp; Bellinzoni, R.</author>
+        <date>2021.</date>
+        <title>Reti neurali per anonimizzazione di dati sensibili.</title>
+        <journal>Anonimizzazione Dati</journal>
+        <volume>12(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Allegri, S.</author>
+        <date>(2020).</date>
+        <title>Sistemi di monitoraggio per ethical data use.</title>
+        <journal>Etica dei Dati</journal>
+        <volume>19(3),</volume>
+        <pages>112-130.</pages>
+        <url>https://www.eticadati.it/2020/19/3/monitoraggio</url>
+    </sequence>
+    <sequence>
+        <author>Bianchini, M., &amp; Costanzi, F.</author>
+        <date>2019.</date>
+        <title>Algoritmi di consenso per data sharing.</title>
+        <journal>Data Sharing</journal>
+        <volume>15(4),</volume>
+        <pages>167-185.</pages>
+    </sequence>
+    <sequence>
+        <author>Cardelli, R., D'Ambra, S., &amp; Fabrizi, G.</author>
+        <date>(2018).</date>
+        <title>Reti neurali per governance di dati.</title>
+        <journal>Data Governance</journal>
+        <volume>21(1),</volume>
+        <pages>12-30.</pages>
+        <doi>10.9012/dg.2018.021</doi>
+    </sequence>
+    <sequence>
+        <author>Altoviti, F.</author>
+        <date>2021.</date>
+        <title>Analisi di rete per collaborazioni scientifiche.</title>
+        <journal> Scientometria e Network</journal>
+        <volume>8(1),</volume>
+        <pages>45-63.</pages>
+        <url>https://www.scienetwork.it/2021/8/1/collaborazioni</url>
+    </sequence>
+    <sequence>
+        <author>Benedetti, L., &amp; Castagna, P.</author>
+        <date>(2020).</date>
+        <title>Machine learning per diagnosi differenziale.</title>
+        <journal>Medicina Computazionale</journal>
+        <volume>15(2),</volume>
+        <pages>89-107.</pages>
+        <doi>10.2345/mc.2020.015</doi>
+    </sequence>
+    <sequence>
+        <author>Cimino, R., D'Orsi, F., &amp; Esposito, C.</author>
+        <date>2019.</date>
+        <title>Sistemi adattativi per interfacce utente.</title>
+        <journal>Interaction Design</journal>
+        <volume>12(3),</volume>
+        <pages>134-152.</pages>
+    </sequence>
+    <sequence>
+        <author>Ferrara, M.</author>
+        <date>(2022).</date>
+        <title>Elaborazione di immagini satellitari con CNN.</title>
+        <journal>Osservazione Terrestre</journal>
+        <volume>19(4),</volume>
+        <pages>178-196.</pages>
+        <doi>10.6789/ot.2022.019</doi>
+        <url>https://www.obsterra.it/2022/19/4/cnn</url>
+    </sequence>
+    <sequence>
+        <author>Giovannini, P., &amp; Mancuso, L.</author>
+        <date>2018.</date>
+        <title>Algoritmi di compressione per dati multimediali.</title>
+        <journal>Multimedia e Compressione</journal>
+        <volume>24(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Innocenti, F., Leoni, S., &amp; Marchi, D.</author>
+        <date>(2021).</date>
+        <title>Predizione di guasti con tecniche ensemble.</title>
+        <journal>Manutenzione Intelligente</journal>
+        <volume>11(2),</volume>
+        <pages>67-85.</pages>
+        <doi>10.8901/mi.2021.011</doi>
+    </sequence>
+    <sequence>
+        <author>Lombardo, A.</author>
+        <date>2020.</date>
+        <title>Sistemi di supporto per terapia personalizzata.</title>
+        <journal>Medicina Personalizzata</journal>
+        <volume>17(3),</volume>
+        <pages>112-130.</pages>
+    </sequence>
+    <sequence>
+        <author>Marini, F., &amp; Negri, S.</author>
+        <date>(2019).</date>
+        <title>Reti neurali per riconoscimento di pattern geologici.</title>
+        <journal>Geologia Computazionale</journal>
+        <volume>26(4),</volume>
+        <pages>167-185.</pages>
+        <url>https://www.geocomp.it/2019/26/4/pattern</url>
+    </sequence>
+    <sequence>
+        <author>Olivotto, G., Parisi, R., &amp; Quaglia, M.</author>
+        <date>2022.</date>
+        <title>Algoritmi di scheduling per data center green.</title>
+        <journal>Computing Sostenibile</journal>
+        <volume>9(1),</volume>
+        <pages>12-30.</pages>
+        <doi>10.1234/cs.2022.009</doi>
+    </sequence>
+    <sequence>
+        <author>Padovani, L.</author>
+        <date>(2021).</date>
+        <title>Sistemi di monitoraggio per qualità dell'acqua.</title>
+        <journal>Ambiente e Monitoraggio</journal>
+        <volume>14(2),</volume>
+        <pages>56-74.</pages>
+    </sequence>
+    <sequence>
+        <author> Ricci, D., &amp; Santi, M.</author>
+        <date>2020.</date>
+        <title>Deep reinforcement learning per robotica mobile.</title>
+        <journal>Robotica Avanzata</journal>
+        <volume>18(3),</volume>
+        <pages>98-116.</pages>
+        <doi>10.5678/ra.2020.018</doi>
+        <url>https://www.robotav.it/2020/18/3/drl</url>
+    </sequence>
+    <sequence>
+        <author>Spinelli, A., Tacchini, F., &amp; Valbonesi, P.</author>
+        <date>(2019).</date>
+        <title>Analisi di dati di mobilità urbana.</title>
+        <journal>Mobilità Intelligente</journal>
+        <volume>13(4),</volume>
+        <pages>145-163.</pages>
+    </sequence>
+    <sequence>
+        <author>Toscano, R.</author>
+        <date>2018.</date>
+        <title>Sistemi esperti per gestione di coltivazioni.</title>
+        <journal>AgroSistemi</journal>
+        <volume>21(1),</volume>
+        <pages>34-52.</pages>
+    </sequence>
+    <sequence>
+        <author>Urbani, S., &amp; Viteri, F.</author>
+        <date>(2022).</date>
+        <title>Reti neurali per predizione di blackout elettrici.</title>
+        <journal>Rete Elettrica</journal>
+        <volume>16(2),</volume>
+        <pages>78-96.</pages>
+        <doi>10.9012/re.2022.016</doi>
+    </sequence>
+    <sequence>
+        <author>Venturi, L., Zaniboni, A., &amp; Berti, S.</author>
+        <date>2021.</date>
+        <title>Algoritmi di ottimizzazione per supply chain.</title>
+        <journal>Supply Chain Management</journal>
+        <volume>19(3),</volume>
+        <pages>112-130.</pages>
+        <url>https://www.scmitalia.it/2021/19/3/ottimizzazione</url>
+    </sequence>
+    <sequence>
+        <author>Barone, F.</author>
+        <date>(2020).</date>
+        <title>Sistemi di riconoscimento vocale per assistenti virtuali.</title>
+        <journal>Voce e Tecnologia</journal>
+        <volume>12(4),</volume>
+        <pages>156-174.</pages>
+    </sequence>
+    <sequence>
+        <author>Carlini, M., &amp; Donati, R.</author>
+        <date>2019.</date>
+        <title>Machine learning per rilevamento di frodi assicurative.</title>
+        <journal>Assicurazioni Digitali</journal>
+        <volume>15(1),</volume>
+        <pages>23-41.</pages>
+        <doi>10.3456/ad.2019.015</doi>
+    </sequence>
+    <sequence>
+        <author>De Santis, P., Ferretti, M., &amp; Gigli, F.</author>
+        <date>(2022).</date>
+        <title>Reti neurali per analisi di sentiment finanziario.</title>
+        <journal>Finanza Computazionale</journal>
+        <volume>20(2),</volume>
+        <pages>67-85.</pages>
+    </sequence>
+    <sequence>
+        <author>Giannetti, S.</author>
+        <date>2021.</date>
+        <title>Sistemi di raccomandazione per piattaforme educative.</title>
+        <journal>E-Learning Technology</journal>
+        <volume>13(3),</volume>
+        <pages>98-116.</pages>
+        <url>https://www.elearntech.it/2021/13/3/recommendation</url>
+    </sequence>
+    <sequence>
+        <author>Ianni, F., &amp; Longhi, G.</author>
+        <date>(2020).</date>
+        <title>Algoritmi di clustering per segmentazione di mercato.</title>
+        <journal>Marketing Science</journal>
+        <volume>17(4),</volume>
+        <pages>134-152.</pages>
+        <doi>10.6789/ms.2020.017</doi>
+    </sequence>
+    <sequence>
+        <author>Marcelli, D., Neri, F., &amp; Orsini, P.</author>
+        <date>2019.</date>
+        <title>Predizione di fallimenti aziendali con XGBoost.</title>
+        <journal>Economia Aziendale</journal>
+        <volume>24(1),</volume>
+        <pages>12-30.</pages>
+    </sequence>
+    <sequence>
+        <author>Pellegrino, A.</author>
+        <date>(2018).</date>
+        <title>Sistemi di gestione per dati di produzione.</title>
+        <journal>Industria e Dati</journal>
+        <volume>18(2),</volume>
+        <pages>56-74.</pages>
+    </sequence>
+    <sequence>
+        <author>Riva, S., &amp; Testa, F.</author>
+        <date>2022.</date>
+        <title>Reti neurali per previsione di inquinamento atmosferico.</title>
+        <journal>Ambiente e Previsione</journal>
+        <volume>11(3),</volume>
+        <pages>89-107.</pages>
+        <doi>10.8901/ap.2022.011</doi>
+        <url>https://www.ambprev.it/2022/11/3/inquinamento</url>
+    </sequence>
+    <sequence>
+        <author>Valerio, M., Zanetti, L., &amp; Conti, R.</author>
+        <date>(2021).</date>
+        <title>Algoritmi di routing per reti veicolari.</title>
+        <journal>Reti Veicolari</journal>
+        <volume>14(4),</volume>
+        <pages>145-163.</pages>
+    </sequence>
+    <sequence>
+        <author>Alberti, P.</author>
+        <date>2020.</date>
+        <title>Sistemi di supporto per gestione di parchi naturali.</title>
+        <journal>Parchi e Tecnologia</journal>
+        <volume>19(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Brunetti, S., &amp; Martini, D.</author>
+        <date>(2019).</date>
+        <title>Machine learning per analisi di dati sismici.</title>
+        <journal>Sismologia Computazionale</journal>
+        <volume>16(2),</volume>
+        <pages>67-85.</pages>
+        <doi>10.1234/sc.2019.016</doi>
+    </sequence>
+    <sequence>
+        <author>Cattaneo, F., Dini, S., &amp; Ferri, R.</author>
+        <date>2018.</date>
+        <title>Reti neurali per ottimizzazione di rotte navali.</title>
+        <journal>Logistica Marittima</journal>
+        <volume>22(3),</volume>
+        <pages>112-130.</pages>
+        <url>https://www.logmar.it/2018/22/3/rotte</url>
+    </sequence>
+    <sequence>
+        <author>Donatelli, L.</author>
+        <date>(2022).</date>
+        <title>Sistemi di monitoraggio per strutture edilizie.</title>
+        <journal>Edilizia e Monitoraggio</journal>
+        <volume>17(4),</volume>
+        <pages>156-174.</pages>
+    </sequence>
+    <sequence>
+        <author>Fabbri, G., &amp; Giorgi, M.</author>
+        <date>2021.</date>
+        <title>Algoritmi di previsione per produzione energetica solare.</title>
+        <journal>Energie Solari</journal>
+        <volume>12(1),</volume>
+        <pages>34-52.</pages>
+        <doi>10.5678/es.2021.012</doi>
+    </sequence>
+    <sequence>
+        <author>Grassi, P., Iovine, S., &amp; Lombardi, F.</author>
+        <date>(2020).</date>
+        <title>Reti neurali per analisi di pattern di consumo.</title>
+        <journal>Consumi e Dati</journal>
+        <volume>18(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Marchetti, A.</author>
+        <date>2019.</date>
+        <title>Sistemi esperti per valutazione di impatto ambientale.</title>
+        <journal>Valutazione Ambientale</journal>
+        <volume>25(3),</volume>
+        <pages>112-130.</pages>
+        <url>https://www.valamb.it/2019/25/3/impatto</url>
+    </sequence>
+    <sequence>
+        <author>Niccoli, R., &amp; Pagano, L.</author>
+        <date>(2022).</date>
+        <title>Deep learning per riconoscimento di patologie vegetali.</title>
+        <journal>Patologia Vegetale</journal>
+        <volume>9(4),</volume>
+        <pages>145-163.</pages>
+        <doi>10.9012/pv.2022.009</doi>
+    </sequence>
+    <sequence>
+        <author>Parisi, G., Quartararo, F., &amp; Romano, D.</author>
+        <date>2021.</date>
+        <title>Algoritmi di ottimizzazione per distribuzione di farmaci.</title>
+        <journal>Farmacia e Logistica</journal>
+        <volume>14(1),</volume>
+        <pages>12-30.</pages>
+    </sequence>
+    <sequence>
+        <author>Silvestri, M.</author>
+        <date>(2020).</date>
+        <title>Sistemi di gestione per biblioteche digitali.</title>
+        <journal>Biblioteconomia e Tecnologia</journal>
+        <volume>20(2),</volume>
+        <pages>56-74.</pages>
+    </sequence>
+    <sequence>
+        <author>Taddei, F., &amp; Volterra, S.</author>
+        <date>2019.</date>
+        <title>Reti neurali per previsione di afflusso turistico.</title>
+        <journal>Turismo e Previsione</journal>
+        <volume>16(3),</volume>
+        <pages>89-107.</pages>
+        <doi>10.3456/tp.2019.016</doi>
+        <url>https://www.turprev.it/2019/16/3/afflusso</url>
+    </sequence>
+    <sequence>
+        <author>Vitali, R., Zampieri, M., &amp; Belli, F.</author>
+        <date>(2022).</date>
+        <title>Algoritmi di scheduling per produzione agricola.</title>
+        <journal>AgriProduzione</journal>
+        <volume>11(4),</volume>
+        <pages>134-152.</pages>
+    </sequence>
+    <sequence>
+        <author>Amadei, G.</author>
+        <date>2021.</date>
+        <title>Sistemi di monitoraggio per reti di distribuzione idrica.</title>
+        <journal>Reti Idriche</journal>
+        <volume>18(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Berti, S., &amp; Cavallini, P.</author>
+        <date>(2020).</date>
+        <title>Machine learning per analisi di dati acustici.</title>
+        <journal>Acustica e Dati</journal>
+        <volume>13(2),</volume>
+        <pages>67-85.</pages>
+        <doi>10.6789/ad.2020.013</doi>
+    </sequence>
+    <sequence>
+        <author>Colombo, R., D'Angelo, F., &amp; Esposito, G.</author>
+        <date>2019.</date>
+        <title>Reti neurali per previsione di domanda di trasporto.</title>
+        <journal>Trasporti e Domanda</journal>
+        <volume>21(3),</volume>
+        <pages>98-116.</pages>
+    </sequence>
+    <sequence>
+        <author>Ferraro, S.</author>
+        <date>(2018).</date>
+        <title>Sistemi di supporto per gestione di emergenze.</title>
+        <journal>Emergenze e Tecnologia</journal>
+        <volume>15(4),</volume>
+        <pages>145-163.</pages>
+        <url>https://www.emergtech.it/2018/15/4/gestione</url>
+    </sequence>
+    <sequence>
+        <author>Gentile, F., &amp; Iannini, L.</author>
+        <date>2022.</date>
+        <title>Algoritmi di clustering per analisi socio-economica.</title>
+        <journal>SocioEconomia e Dati</journal>
+        <volume>19(1),</volume>
+        <pages>12-30.</pages>
+        <doi>10.8901/se.2022.019</doi>
+    </sequence>
+    <sequence>
+        <author>Lanzoni, M., Mazzanti, S., &amp; Nigi, R.</author>
+        <date>(2021).</date>
+        <title>Reti neurali per diagnosi di malfunzionamenti meccanici.</title>
+        <journal>Meccanica e Diagnostica</journal>
+        <volume>14(2),</volume>
+        <pages>56-74.</pages>
+    </sequence>
+    <sequence>
+        <author>Moretti, P.</author>
+        <date>2020.</date>
+        <title>Sistemi di gestione per dati di mobilità elettrica.</title>
+        <journal>Mobilità Elettrica</journal>
+        <volume>17(3),</volume>
+        <pages>89-107.</pages>
+    </sequence>
+    <sequence>
+        <author>Natali, F., &amp; Onesti, R.</author>
+        <date>(2019).</date>
+        <title>Algoritmi di previsione per produzione eolica.</title>
+        <journal>Eolico e Previsione</journal>
+        <volume>12(4),</volume>
+        <pages>134-152.</pages>
+        <url>https://www.eolprev.it/2019/12/4/produzione</url>
+    </sequence>
+    <sequence>
+        <author>Pancrazi, D., Quercia, S., &amp; Renzi, F.</author>
+        <date>2022.</date>
+        <title>Reti neurali per analisi di dati di traffico ferroviario.</title>
+        <journal>Ferrovie e Dati</journal>
+        <volume>16(1),</volume>
+        <pages>23-41.</pages>
+        <doi>10.1234/fd.2022.016</doi>
+    </sequence>
+    <sequence>
+        <author>Stefanelli, A.</author>
+        <date>(2021).</date>
+        <title>Sistemi di monitoraggio per consumo di suolo.</title>
+        <journal>Uso del Suolo</journal>
+        <volume>11(2),</volume>
+        <pages>67-85.</pages>
+    </sequence>
+    <sequence>
+        <author>Tanzi, M., &amp; Ugolini, P.</author>
+        <date>2020.</date>
+        <title>Machine learning per rilevamento di incendi boschivi.</title>
+        <journal>Protezione Forestale</journal>
+        <volume>18(3),</volume>
+        <pages>98-116.</pages>
+        <doi>10.5678/pf.2020.018</doi>
+    </sequence>
+    <sequence>
+        <author>Veronesi, F., Zanini, R., &amp; Bellini, S.</author>
+        <date>(2019).</date>
+        <title>Algoritmi di ottimizzazione per gestione di magazzini.</title>
+        <journal>Magazzini e Logistica</journal>
+        <volume>23(4),</volume>
+        <pages>145-163.</pages>
+    </sequence>
+    <sequence>
+        <author>Andreoli, M.</author>
+        <date>2018.</date>
+        <title>Sistemi esperti per selezione di materiali industriali.</title>
+        <journal>Materiali e Industria</journal>
+        <volume>19(1),</volume>
+        <pages>12-30.</pages>
+        <url>https://www.matind.it/2018/19/1/materiali</url>
+    </sequence>
+    <sequence>
+        <author>Baraldi, P., &amp; Costantini, R.</author>
+        <date>(2022).</date>
+        <title>Reti neurali per previsione di corrosione metallica.</title>
+        <journal>Corrosione e Materiali</journal>
+        <volume>14(2),</volume>
+        <pages>56-74.</pages>
+        <doi>10.9012/cm.2022.014</doi>
+    </sequence>
+    <sequence>
+        <author>Caputo, D., D'Arrigo, S., &amp; Ferlazzo, G.</author>
+        <date>2021.</date>
+        <title>Algoritmi di scheduling per manutenzione di infrastrutture.</title>
+        <journal>Infrastrutture e Manutenzione</journal>
+        <volume>17(3),</volume>
+        <pages>89-107.</pages>
+    </sequence>
+    <sequence>
+        <author>Franco, L.</author>
+        <date>(2020).</date>
+        <title>Sistemi di gestione per dati di qualità dell'aria indoor.</title>
+        <journal>Aria Indoor</journal>
+        <volume>12(4),</volume>
+        <pages>134-152.</pages>
+    </sequence>
+    <sequence>
+        <author>Gallo, S., &amp; Imperiale, F.</author>
+        <date>2019.</date>
+        <title>Machine learning per analisi di dati nutrizionali.</title>
+        <journal>Nutrizione e Dati</journal>
+        <volume>15(1),</volume>
+        <pages>23-41.</pages>
+        <doi>10.3456/nd.2019.015</doi>
+        <url>https://www.nutridati.it/2019/15/1/analisi</url>
+    </sequence>
+    <sequence>
+        <author>Longo, D., Martucci, F., &amp; Neri, G.</author>
+        <date>(2022).</date>
+        <title>Reti neurali per previsione di epidemie vegetali.</title>
+        <journal>Fitopatologia Digitale</journal>
+        <volume>10(2),</volume>
+        <pages>67-85.</pages>
+    </sequence>
+    <sequence>
+        <author>Monti, A.</author>
+        <date>2021.</date>
+        <title>Sistemi di supporto per pianificazione di reti 5G.</title>
+        <journal>Telecomunicazioni</journal>
+        <volume>19(3),</volume>
+        <pages>98-116.</pages>
+    </sequence>
+    <sequence>
+        <author>Negro, F., &amp; Orofino, S.</author>
+        <date>(2020).</date>
+        <title>Algoritmi di previsione per utilizzo di servizi cloud.</title>
+        <journal>Cloud e Previsione</journal>
+        <volume>14(4),</volume>
+        <pages>145-163.</pages>
+        <doi>10.6789/cp.2020.014</doi>
+    </sequence>
+    <sequence>
+        <author>Pellegrini, R., Quadrani, L., &amp; Ricciardi, M.</author>
+        <date>2019.</date>
+        <title>Reti neurali per analisi di dati di utilizzo app.</title>
+        <journal>App e Dati</journal>
+        <volume>16(1),</volume>
+        <pages>12-30.</pages>
+    </sequence>
+    <sequence>
+        <author>Serra, F.</author>
+        <date>(2018).</date>
+        <title>Sistemi di gestione per dati di customer satisfaction.</title>
+        <journal>Customer Experience</journal>
+        <volume>21(2),</volume>
+        <pages>56-74.</pages>
+        <url>https://www.custexp.it/2018/21/2/satisfaction</url>
+    </sequence>
+    <sequence>
+        <author>Toselli, M., &amp; Valentini, S.</author>
+        <date>2022.</date>
+        <title>Algoritmi di ottimizzazione per reti di distribuzione gas.</title>
+        <journal>Rete Gas</journal>
+        <volume>13(3),</volume>
+        <pages>89-107.</pages>
+        <doi>10.8901/rg.2022.013</doi>
+    </sequence>
+    <sequence>
+        <author>Uggetti, P., Zanotti, F., &amp; Bellini, R.</author>
+        <date>(2021).</date>
+        <title>Machine learning per previsione di vita utile batterie.</title>
+        <journal>Batterie e Energia</journal>
+        <volume>15(4),</volume>
+        <pages>134-152.</pages>
+    </sequence>
+    <sequence>
+        <author>Viola, G.</author>
+        <date>2020.</date>
+        <title>Sistemi di monitoraggio per prestazioni di pannelli fotovoltaici.</title>
+        <journal>Fotovoltaico</journal>
+        <volume>18(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Zaccaria, L., &amp; Bernardi, M.</author>
+        <date>(2021).</date>
+        <title>Algoritmi di previsione per traffico dati di rete.</title>
+        <journal>Network e Previsione</journal>
+        <volume>12(2),</volume>
+        <pages>56-74.</pages>
+        <doi>10.1234/np.2021.012</doi>
+    </sequence>
+    <sequence>
+        <author>Benini, F., &amp; Rossi, G.</author>
+        <date>2019.</date>
+        <title>Reti neurali per ottimizzazione di processi chimici.</title>
+        <journal>Chimica e Ingegneria</journal>
+        <volume>15(3),</volume>
+        <pages>89-107.</pages>
+        <url>https://www.chimeng.it/2019/15/3/neural</url>
+    </sequence>
+</dataset>

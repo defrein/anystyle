@@ -1,0 +1,1431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <sequence>
+        <author>Rossi, M.</author>
+        <date>2020.</date>
+        <title>Introduzione alla filosofia moderna.</title>
+        <location>Roma:</location>
+        <publisher>Aracne Editrice.</publisher>
+        <isbn>9788854834567</isbn>
+    </sequence>
+    <sequence>
+        <author>Bianchi, G., &amp; Verdi, L.</author>
+        <date>2019.</date>
+        <title>Storia dell'arte italiana.</title>
+        <edition>2a ed.</edition>
+        <location>Milano:</location>
+        <publisher>Mondadori.</publisher>
+        <isbn>9788804698765</isbn>
+    </sequence>
+    <sequence>
+        <author>Ferrari, A.</author>
+        <date>2021.</date>
+        <title>Diritto costituzionale.</title>
+        <location>Torino:</location>
+        <publisher>Giappichelli Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Romano, F., Conti, P., &amp; Marino, S.</author>
+        <date>2018.</date>
+        <title>Manuale di economia aziendale.</title>
+        <edition>3a ed.</edition>
+        <location>Bologna:</location>
+        <publisher>Il Mulino.</publisher>
+        <isbn>9788815283456</isbn>
+    </sequence>
+    <sequence>
+        <author>Greco, L.</author>
+        <date>2022.</date>
+        <title>La letteratura del Novecento.</title>
+        <location>Firenze:</location>
+        <publisher>Le Monnier.</publisher>
+    </sequence>
+    <sequence>
+        <author>Esposito, M., &amp; Russo, G.</author>
+        <date>2020.</date>
+        <title>Fondamenti di psicologia clinica.</title>
+        <location>Roma:</location>
+        <publisher>Carocci Editore.</publisher>
+        <isbn>9788843098234</isbn>
+    </sequence>
+    <sequence>
+        <author>Colombo, A.</author>
+        <date>2017.</date>
+        <title>Geografia politica dell'Europa.</title>
+        <edition>4a ed.</edition>
+        <location>Milano:</location>
+        <publisher>FrancoAngeli.</publisher>
+    </sequence>
+    <sequence>
+        <author>Barbieri, C., &amp; Ricci, F.</author>
+        <date>2021.</date>
+        <title>Chimica organica: principi e applicazioni.</title>
+        <location>Napoli:</location>
+        <publisher>EdiSES.</publisher>
+        <isbn>9788879598765</isbn>
+    </sequence>
+    <sequence>
+        <author>Mancini, V.</author>
+        <date>2019.</date>
+        <title>Sociologia dei processi culturali.</title>
+        <location>Bari:</location>
+        <publisher>Laterza.</publisher>
+    </sequence>
+    <sequence>
+        <author>Orlando, D., &amp; Vitale, A.</author>
+        <date>2020.</date>
+        <title>Storia della scienza moderna.</title>
+        <location>Pisa:</location>
+        <publisher>Edizioni ETS.</publisher>
+        <isbn>9788846756789</isbn>
+    </sequence>
+    <sequence>
+        <author>Parisi, R.</author>
+        <date>2018.</date>
+        <title>Metodologia della ricerca sociale.</title>
+        <edition>2a ed.</edition>
+        <location>Roma:</location>
+        <publisher>Meltemi.</publisher>
+    </sequence>
+    <sequence>
+        <author>Amato, G., Costa, M., &amp; Leone, P.</author>
+        <date>2021.</date>
+        <title>Diritto penale: parte generale.</title>
+        <location>Torino:</location>
+        <publisher>UTET Giuridica.</publisher>
+        <isbn>9788859812345</isbn>
+    </sequence>
+    <sequence>
+        <author>Santoro, C.</author>
+        <date>2022.</date>
+        <title>Psicologia dello sviluppo.</title>
+        <location>Milano:</location>
+        <publisher>Raffaello Cortina Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Marchetti, L., &amp; Benedetti, R.</author>
+        <date>2019.</date>
+        <title>Letteratura italiana contemporanea.</title>
+        <location>Bologna:</location>
+        <publisher>Pendragon.</publisher>
+        <isbn>9788833640123</isbn>
+    </sequence>
+    <sequence>
+        <author>De Luca, F.</author>
+        <date>2020.</date>
+        <title>Analisi matematica I.</title>
+        <edition>5a ed.</edition>
+        <location>Napoli:</location>
+        <publisher>Liguori Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Cattaneo, A., &amp; Longo, G.</author>
+        <date>2021.</date>
+        <title>Intelligenza artificiale: fondamenti.</title>
+        <location>Milano:</location>
+        <publisher>Hoepli.</publisher>
+        <isbn>9788820398765</isbn>
+    </sequence>
+    <sequence>
+        <author>Fontana, M.</author>
+        <date>2018.</date>
+        <title>Storia del cinema italiano.</title>
+        <location>Venezia:</location>
+        <publisher>Marsilio Editori.</publisher>
+    </sequence>
+    <sequence>
+        <author>Testa, G., &amp; Neri, S.</author>
+        <date>2022.</date>
+        <title>Diritto internazionale privato.</title>
+        <location>Padova:</location>
+        <publisher>CEDAM.</publisher>
+        <isbn>9788813234567</isbn>
+    </sequence>
+    <sequence>
+        <author>Monti, R.</author>
+        <date>2020.</date>
+        <title>Microeconomia.</title>
+        <edition>3a ed.</edition>
+        <location>Milano:</location>
+        <publisher>EGEA.</publisher>
+    </sequence>
+    <sequence>
+        <author>Bruno, E., Ferri, D., &amp; Gatti, L.</author>
+        <date>2019.</date>
+        <title>Medicina interna: elementi di diagnosi.</title>
+        <location>Roma:</location>
+        <publisher>Edizioni Medico Scientifiche.</publisher>
+        <isbn>9788899876543</isbn>
+    </sequence>
+    <sequence>
+        <author>Valentini, P.</author>
+        <date>2021.</date>
+        <title>Filosofia della scienza.</title>
+        <location>Bologna:</location>
+        <publisher>Società Editrice il Mulino.</publisher>
+    </sequence>
+    <sequence>
+        <author>Simonetti, A.</author>
+        <date>2017.</date>
+        <title>Grammatica italiana: regole ed esercizi.</title>
+        <edition>10a ed.</edition>
+        <location>Firenze:</location>
+        <publisher>Giunti Scuola.</publisher>
+        <isbn>9788809987654</isbn>
+    </sequence>
+    <sequence>
+        <author>Palumbo, C., &amp; Martini, F.</author>
+        <date>2020.</date>
+        <title>Antropologia culturale.</title>
+        <location>Lecce:</location>
+        <publisher>Edizioni Grifo.</publisher>
+    </sequence>
+    <sequence>
+        <author>Grassi, M.</author>
+        <date>2022.</date>
+        <title>Il Rinascimento italiano.</title>
+        <location>Roma:</location>
+        <publisher>Viella Libreria Editrice.</publisher>
+        <isbn>9788833134567</isbn>
+    </sequence>
+    <sequence>
+        <author>Conte, L., &amp; Alberti, S.</author>
+        <date>2019.</date>
+        <title>Diritto commerciale.</title>
+        <edition>6a ed.</edition>
+        <location>Treviso:</location>
+        <publisher>Giuffrè Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Riva, A.</author>
+        <date>2021.</date>
+        <title>Pedagogia generale.</title>
+        <location>Brescia:</location>
+        <publisher>La Scuola Editrice.</publisher>
+    </sequence>
+    <sequence>
+        <author>Benedetti, C., Moretti, G., &amp; Silvestri, D.</author>
+        <date>2018.</date>
+        <title>Scienze della terra.</title>
+        <location>Napoli:</location>
+        <publisher>Edises.</publisher>
+        <isbn>9788879598123</isbn>
+    </sequence>
+    <sequence>
+        <author>Caruso, V.</author>
+        <date>2020.</date>
+        <title>Linguistica generale.</title>
+        <location>Roma:</location>
+        <publisher>Bulzoni Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Donati, F., &amp; Ferretti, M.</author>
+        <date>2022.</date>
+        <title>Psicoterapia cognitivo-comportamentale.</title>
+        <edition>2a ed.</edition>
+        <location>Milano:</location>
+        <publisher>McGraw-Hill Education.</publisher>
+        <isbn>9788838634567</isbn>
+    </sequence>
+    <sequence>
+        <author>Martelli, S.</author>
+        <date>2019.</date>
+        <title>Statistica per le scienze sociali.</title>
+        <location>Bologna:</location>
+        <publisher>Società Editrice il Mulino.</publisher>
+    </sequence>
+    <sequence>
+        <author>Basile, A., &amp; Caputo, R.</author>
+        <date>2021.</date>
+        <title>Storia dell'economia mondiale.</title>
+        <location>Torino:</location>
+        <publisher>Edizioni di Comunità.</publisher>
+        <isbn>9788824567890</isbn>
+    </sequence>
+    <sequence>
+        <author>Villa, G.</author>
+        <date>2020.</date>
+        <title>Architettura moderna in Italia.</title>
+        <location>Milano:</location>
+        <publisher>Electa.</publisher>
+    </sequence>
+    <sequence>
+        <author>Pellegrini, L., &amp; Gentile, O.</author>
+        <date>2018.</date>
+        <title>Diritto del lavoro.</title>
+        <edition>8a ed.</edition>
+        <location>Roma:</location>
+        <publisher>Ediesse.</publisher>
+        <isbn>9788823234567</isbn>
+    </sequence>
+    <sequence>
+        <author>Fabbri, N.</author>
+        <date>2022.</date>
+        <title>Fisica classica.</title>
+        <location>Bologna:</location>
+        <publisher>Zanichelli Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Leone, C., Lombardi, M., &amp; Fabbri, E.</author>
+        <date>2019.</date>
+        <title>Biologia molecolare.</title>
+        <location>Milano:</location>
+        <publisher>Casa Editrice Ambrosiana.</publisher>
+        <isbn>9788840898765</isbn>
+    </sequence>
+    <sequence>
+        <author>D'Angelo, P.</author>
+        <date>2020.</date>
+        <title>La poesia italiana del Duecento.</title>
+        <location>Firenze:</location>
+        <publisher>Cesati Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Marini, F., &amp; Ferri, G.</author>
+        <date>2021.</date>
+        <title>Diritto tributario.</title>
+        <edition>4a ed.</edition>
+        <location>Torino:</location>
+        <publisher>G. Giappichelli Editore.</publisher>
+        <isbn>9788892134567</isbn>
+    </sequence>
+    <sequence>
+        <author>Battaglia, R.</author>
+        <date>2018.</date>
+        <title>Psicologia sociale.</title>
+        <location>Roma:</location>
+        <publisher>Armando Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Montanari, A., &amp; Pini, L.</author>
+        <date>2022.</date>
+        <title>Storia medievale.</title>
+        <location>Bari:</location>
+        <publisher>Editori Laterza.</publisher>
+    </sequence>
+    <sequence>
+        <author>Galli, C.</author>
+        <date>2019.</date>
+        <title>Chimica inorganica.</title>
+        <edition>3a ed.</edition>
+        <location>Napoli:</location>
+        <publisher>Edises.</publisher>
+        <isbn>9788879598234</isbn>
+    </sequence>
+    <sequence>
+        <author>Rizzi, F., &amp; Costa, V.</author>
+        <date>2020.</date>
+        <title>Economia politica.</title>
+        <location>Milano:</location>
+        <publisher>EGEA Business School.</publisher>
+    </sequence>
+    <sequence>
+        <author>Venturi, S.</author>
+        <date>2021.</date>
+        <title>Geografia umana.</title>
+        <location>Padova:</location>
+        <publisher>CLEUP.</publisher>
+        <isbn>9788855123456</isbn>
+    </sequence>
+    <sequence>
+        <author>Barone, M., &amp; Rossetti, A.</author>
+        <date>2018.</date>
+        <title>Diritto amministrativo.</title>
+        <edition>5a ed.</edition>
+        <location>Roma:</location>
+        <publisher>Carocci Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Fabbri, G.</author>
+        <date>2022.</date>
+        <title>Letteratura latina.</title>
+        <location>Bologna:</location>
+        <publisher>Pàtron Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Capasso, L., Martini, P., &amp; Dini, R.</author>
+        <date>2019.</date>
+        <title>Patologia generale.</title>
+        <location>Napoli:</location>
+        <publisher>EdiSES.</publisher>
+        <isbn>9788879598345</isbn>
+    </sequence>
+    <sequence>
+        <author>Sarti, A.</author>
+        <date>2020.</date>
+        <title>Filosofia morale.</title>
+        <location>Pisa:</location>
+        <publisher>Edizioni ETS.</publisher>
+    </sequence>
+    <sequence>
+        <author>Brunetti, F., &amp; Parisi, L.</author>
+        <date>2021.</date>
+        <title>Comunicazione d'impresa.</title>
+        <location>Milano:</location>
+        <publisher>FrancoAngeli.</publisher>
+        <isbn>9788856876543</isbn>
+    </sequence>
+    <sequence>
+        <author>Casadio, M.</author>
+        <date>2018.</date>
+        <title>Storia antica.</title>
+        <edition>2a ed.</edition>
+        <location>Roma:</location>
+        <publisher>Aracne Editrice.</publisher>
+    </sequence>
+    <sequence>
+        <author>Marzocchi, V., &amp; Neri, F.</author>
+        <date>2022.</date>
+        <title>Diritto civile.</title>
+        <location>Torino:</location>
+        <publisher>UTET.</publisher>
+    </sequence>
+    <sequence>
+        <author>Bernardi, C.</author>
+        <date>2019.</date>
+        <title>Psicologia clinica.</title>
+        <location>Milano:</location>
+        <publisher>Raffaello Cortina Editore.</publisher>
+        <isbn>9788860309876</isbn>
+    </sequence>
+    <sequence>
+        <author>Dini, A., &amp; Ricci, M.</author>
+        <date>2020.</date>
+        <title>Matematica finanziaria.</title>
+        <edition>4a ed.</edition>
+        <location>Bologna:</location>
+        <publisher>Società Editrice il Mulino.</publisher>
+    </sequence>
+    <sequence>
+        <author>Farina, P.</author>
+        <date>2021.</date>
+        <title>Letteratura francese dell'Ottocento.</title>
+        <location>Roma:</location>
+        <publisher>Aracne Editrice.</publisher>
+    </sequence>
+    <sequence>
+        <author>Giannini, L., &amp; Monti, S.</author>
+        <date>2018.</date>
+        <title>Scienze motorie.</title>
+        <location>Torino:</location>
+        <publisher>Edizioni Sportive.</publisher>
+        <isbn>9788845678901</isbn>
+    </sequence>
+    <sequence>
+        <author>Volpe, R.</author>
+        <date>2022.</date>
+        <title>Diritto penale speciale.</title>
+        <location>Napoli:</location>
+        <publisher>Jovene Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Benedetti, F., &amp; Silvestri, C.</author>
+        <date>2019.</date>
+        <title>Botanica generale.</title>
+        <location>Milano:</location>
+        <publisher>Casa Editrice Ambrosiana.</publisher>
+    </sequence>
+    <sequence>
+        <author>Pistone, A.</author>
+        <date>2020.</date>
+        <title>Storia della filosofia antica.</title>
+        <edition>3a ed.</edition>
+        <location>Bari:</location>
+        <publisher>Laterza.</publisher>
+        <isbn>9788858123456</isbn>
+    </sequence>
+    <sequence>
+        <author>Marchese, D., &amp; Ferrara, B.</author>
+        <date>2021.</date>
+        <title>Marketing strategico.</title>
+        <location>Milano:</location>
+        <publisher>McGraw-Hill Education.</publisher>
+    </sequence>
+    <sequence>
+        <author>Donato, G.</author>
+        <date>2018.</date>
+        <title>Fisica delle particelle.</title>
+        <location>Bologna:</location>
+        <publisher>Zanichelli Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Bertolini, M., &amp; Cattaneo, F.</author>
+        <date>2022.</date>
+        <title>Diritto dell'Unione Europea.</title>
+        <edition>2a ed.</edition>
+        <location>Roma:</location>
+        <publisher>Aracne Editrice.</publisher>
+        <isbn>9788854876543</isbn>
+    </sequence>
+    <sequence>
+        <author>Sanna, L.</author>
+        <date>2019.</date>
+        <title>Letteratura sarda contemporanea.</title>
+        <location>Cagliari:</location>
+        <publisher>CUEC Editrice.</publisher>
+    </sequence>
+    <sequence>
+        <author>Ferretti, A., &amp; Moretti, P.</author>
+        <date>2020.</date>
+        <title>Microbiologia e microbiologia clinica.</title>
+        <location>Napoli:</location>
+        <publisher>EdiSES.</publisher>
+    </sequence>
+    <sequence>
+        <author>Caporale, T.</author>
+        <date>2021.</date>
+        <title>Sociologia della devianza.</title>
+        <location>Torino:</location>
+        <publisher>Rosenberg &amp; Sellier.</publisher>
+        <isbn>9788870119876</isbn>
+    </sequence>
+    <sequence>
+        <author>Marchi, G., &amp; Rinaldi, S.</author>
+        <date>2018.</date>
+        <title>Storia dell'architettura.</title>
+        <location>Milano:</location>
+        <publisher>Hoepli.</publisher>
+    </sequence>
+    <sequence>
+        <author>Bianco, A.</author>
+        <date>2022.</date>
+        <title>Diritto fallimentare.</title>
+        <edition>4a ed.</edition>
+        <location>Treviso:</location>
+        <publisher>Giuffrè Editore.</publisher>
+        <isbn>9788813456789</isbn>
+    </sequence>
+    <sequence>
+        <author>Carboni, M., &amp; Serra, L.</author>
+        <date>2019.</date>
+        <title>Elementi di anatomia.</title>
+        <location>Roma:</location>
+        <publisher>Edizioni Medico Scientifiche.</publisher>
+    </sequence>
+    <sequence>
+        <author>Meloni, F.</author>
+        <date>2020.</date>
+        <title>Lingua e letteratura spagnola.</title>
+        <location>Palermo:</location>
+        <publisher>Palumbo Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Parodi, G., &amp; Paoletti, D.</author>
+        <date>2021.</date>
+        <title>Gestione aziendale.</title>
+        <location>Milano:</location>
+        <publisher>EGEA.</publisher>
+        <isbn>9788823876543</isbn>
+    </sequence>
+    <sequence>
+        <author>Baroncini, R.</author>
+        <date>2018.</date>
+        <title>Letteratura greca.</title>
+        <edition>5a ed.</edition>
+        <location>Bologna:</location>
+        <publisher>Pàtron Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Ferri, C., &amp; Martini, V.</author>
+        <date>2022.</date>
+        <title>Psichiatria.</title>
+        <location>Milano:</location>
+        <publisher>Masson.</publisher>
+    </sequence>
+    <sequence>
+        <author>Genovese, A.</author>
+        <date>2019.</date>
+        <title>Storia della musica.</title>
+        <location>Torino:</location>
+        <publisher>EDT.</publisher>
+        <isbn>9788860409876</isbn>
+    </sequence>
+    <sequence>
+        <author>Amadei, L., &amp; Bellini, M.</author>
+        <date>2020.</date>
+        <title>Diritto processuale civile.</title>
+        <edition>3a ed.</edition>
+        <location>Roma:</location>
+        <publisher>Forense.</publisher>
+    </sequence>
+    <sequence>
+        <author>Carnevale, S.</author>
+        <date>2021.</date>
+        <title>Informatica giuridica.</title>
+        <location>Bologna:</location>
+        <publisher>Società Editrice il Mulino.</publisher>
+    </sequence>
+    <sequence>
+        <author>Dal Monte, F., &amp; Rossi, P.</author>
+        <date>2018.</date>
+        <title>Diritto ecclesiastico.</title>
+        <location>Napoli:</location>
+        <publisher>Jovene Editore.</publisher>
+        <isbn>9788824345678</isbn>
+    </sequence>
+    <sequence>
+        <author>Toscano, M.</author>
+        <date>2022.</date>
+        <title>Antropologia fisica.</title>
+        <location>Roma:</location>
+        <publisher>Aracne Editrice.</publisher>
+    </sequence>
+    <sequence>
+        <author>Palmieri, G., &amp; Martorelli, D.</author>
+        <date>2019.</date>
+        <title>Farmacologia.</title>
+        <edition>6a ed.</edition>
+        <location>Milano:</location>
+        <publisher>Masson.</publisher>
+    </sequence>
+    <sequence>
+        <author>Salvadori, F.</author>
+        <date>2020.</date>
+        <title>Storia dell'arte contemporanea.</title>
+        <location>Firenze:</location>
+        <publisher>Giunti Editore.</publisher>
+        <isbn>9788809876543</isbn>
+    </sequence>
+    <sequence>
+        <author>Ricciardi, M., &amp; De Santis, L.</author>
+        <date>2021.</date>
+        <title>Diritto processuale penale.</title>
+        <edition>7a ed.</edition>
+        <location>Treviso:</location>
+        <publisher>Giuffrè Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Marconi, C.</author>
+        <date>2018.</date>
+        <title>Filosofia del linguaggio.</title>
+        <location>Roma:</location>
+        <publisher>Carocci Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Bonanni, A., &amp; Ferretti, S.</author>
+        <date>2022.</date>
+        <title>Scienze dei materiali.</title>
+        <location>Bologna:</location>
+        <publisher>Zanichelli Editore.</publisher>
+        <isbn>9788808765432</isbn>
+    </sequence>
+    <sequence>
+        <author>Negrini, P.</author>
+        <date>2019.</date>
+        <title>Letteratura tedesca.</title>
+        <location>Milano:</location>
+        <publisher>Mondadori Università.</publisher>
+    </sequence>
+    <sequence>
+        <author>Ferrara, G., &amp; Messina, R.</author>
+        <date>2020.</date>
+        <title>Endocrinologia.</title>
+        <location>Napoli:</location>
+        <publisher>EdiSES.</publisher>
+    </sequence>
+    <sequence>
+        <author>Bellomo, C.</author>
+        <date>2021.</date>
+        <title>Diritto della navigazione.</title>
+        <location>Genova:</location>
+        <publisher>Editrice Universitaria De Ferrari.</publisher>
+        <isbn>9788864054321</isbn>
+    </sequence>
+    <sequence>
+        <author>Puglisi, A., &amp; Basile, V.</author>
+        <date>2018.</date>
+        <title>Storia moderna.</title>
+        <edition>2a ed.</edition>
+        <location>Catania:</location>
+        <publisher>Giuseppe Maimone Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Monteforte, D.</author>
+        <date>2022.</date>
+        <title>Patologia chirurgica.</title>
+        <location>Roma:</location>
+        <publisher>Edizioni Medico Scientifiche.</publisher>
+    </sequence>
+    <sequence>
+        <author>Bonfigli, M., &amp; Rossini, G.</author>
+        <date>2019.</date>
+        <title>Filosofia politica.</title>
+        <location>Pisa:</location>
+        <publisher>Edizioni ETS.</publisher>
+        <isbn>9788846754321</isbn>
+    </sequence>
+    <sequence>
+        <author>Cerri, A.</author>
+        <date>2020.</date>
+        <title>Archeologia classica.</title>
+        <location>Bari:</location>
+        <publisher>Edipuglia.</publisher>
+    </sequence>
+    <sequence>
+        <author>D'Onofrio, C., &amp; Valle, M.</author>
+        <date>2021.</date>
+        <title>Chimica farmaceutica.</title>
+        <edition>4a ed.</edition>
+        <location>Milano:</location>
+        <publisher>Masson.</publisher>
+    </sequence>
+    <sequence>
+        <author>Silvestri, R.</author>
+        <date>2018.</date>
+        <title>Letteratura portoghese.</title>
+        <location>Lecce:</location>
+        <publisher>Pensa MultiMedia Editore.</publisher>
+        <isbn>9788867601234</isbn>
+    </sequence>
+    <sequence>
+        <author>Bernabò, F., &amp; Mariani, C.</author>
+        <date>2022.</date>
+        <title>Neurologia.</title>
+        <location>Roma:</location>
+        <publisher>Edizioni Medico Scientifiche.</publisher>
+    </sequence>
+    <sequence>
+        <author>Capitani, E.</author>
+        <date>2019.</date>
+        <title>Diritto bancario.</title>
+        <location>Milano:</location>
+        <publisher>EGEA.</publisher>
+    </sequence>
+    <sequence>
+        <author>Frigerio, M., &amp; Negri, S.</author>
+        <date>2020.</date>
+        <title>Storia delle relazioni internazionali.</title>
+        <edition>3a ed.</edition>
+        <location>Bologna:</location>
+        <publisher>Società Editrice il Mulino.</publisher>
+        <isbn>9788815287654</isbn>
+    </sequence>
+    <sequence>
+        <author>Mongelli, P.</author>
+        <date>2021.</date>
+        <title>Fisiologia umana.</title>
+        <location>Napoli:</location>
+        <publisher>EdiSES.</publisher>
+    </sequence>
+    <sequence>
+        <author>Antonelli, G., &amp; Marini, D.</author>
+        <date>2018.</date>
+        <title>Diritto agrario.</title>
+        <location>Perugia:</location>
+        <publisher>Edizioni Scientifiche Italiane.</publisher>
+    </sequence>
+    <sequence>
+        <author>Ferretti, R.</author>
+        <date>2022.</date>
+        <title>Letteratura russa.</title>
+        <location>Roma:</location>
+        <publisher>Carocci Editore.</publisher>
+        <isbn>9788843098765</isbn>
+    </sequence>
+    <sequence>
+        <author>Benvenuti, L., &amp; Nardi, M.</author>
+        <date>2019.</date>
+        <title>Oncologia clinica.</title>
+        <edition>2a ed.</edition>
+        <location>Milano:</location>
+        <publisher>Masson.</publisher>
+    </sequence>
+    <sequence>
+        <author>Marchioro, F.</author>
+        <date>2020.</date>
+        <title>Storia del diritto italiano.</title>
+        <location>Torino:</location>
+        <publisher>G. Giappichelli Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>D'amato, S., &amp; Ferlazzo, V.</author>
+        <date>2021.</date>
+        <title>Psicologia del lavoro.</title>
+        <location>Trento:</location>
+        <publisher>Erickson Edizioni.</publisher>
+        <isbn>9788859012345</isbn>
+    </sequence>
+    <sequence>
+        <author>Sabbatini, A.</author>
+        <date>2018.</date>
+        <title>Geologia applicata.</title>
+        <location>Bologna:</location>
+        <publisher>Pàtron Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Pierangeli, M., &amp; Giuli, S.</author>
+        <date>2022.</date>
+        <title>Diritto internazionale.</title>
+        <edition>5a ed.</edition>
+        <location>Roma:</location>
+        <publisher>CEDAM.</publisher>
+    </sequence>
+    <sequence>
+        <author>Fanelli, C.</author>
+        <date>2019.</date>
+        <title>Letteratura araba.</title>
+        <location>Roma:</location>
+        <publisher>Nuova Cultura.</publisher>
+        <isbn>9788862223456</isbn>
+    </sequence>
+    <sequence>
+        <author>Montalcini, L., &amp; Sella, P.</author>
+        <date>2020.</date>
+        <title>Immunologia.</title>
+        <location>Milano:</location>
+        <publisher>Casa Editrice Ambrosiana.</publisher>
+    </sequence>
+    <sequence>
+        <author>Baldini, F.</author>
+        <date>2021.</date>
+        <title>Diritto minerario.</title>
+        <location>Cagliari:</location>
+        <publisher>Editrice Democratica Sarda.</publisher>
+    </sequence>
+    <sequence>
+        <author>Giannelli, R., &amp; Morelli, A.</author>
+        <date>2018.</date>
+        <title>Scienze infermieristiche.</title>
+        <edition>3a ed.</edition>
+        <location>Napoli:</location>
+        <publisher>EdiSES.</publisher>
+        <isbn>9788879598456</isbn>
+    </sequence>
+    <sequence>
+        <author>Perugia, D.</author>
+        <date>2022.</date>
+        <title>Storia della letteratura italiana.</title>
+        <location>Firenze:</location>
+        <publisher>Le Monnier Università.</publisher>
+    </sequence>
+    <sequence>
+        <author>Cecchini, M., &amp; Vitali, G.</author>
+        <date>2019.</date>
+        <title>Cardiologia.</title>
+        <location>Roma:</location>
+        <publisher>Edizioni Medico Scientifiche.</publisher>
+    </sequence>
+    <sequence>
+        <author>Alunni, S.</author>
+        <date>2020.</date>
+        <title>Filosofia teoretica.</title>
+        <location>Milano:</location>
+        <publisher>Medusa Edizioni.</publisher>
+    </sequence>
+    <sequence>
+        <author>Farnese, A., &amp; Campana, R.</author>
+        <date>2021.</date>
+        <title>Diritto dell'immigrazione.</title>
+        <edition>2a ed.</edition>
+        <location>Roma:</location>
+        <publisher>Aracne Editrice.</publisher>
+        <isbn>9788854876234</isbn>
+    </sequence>
+    <sequence>
+        <author>Minghini, E.</author>
+        <date>2018.</date>
+        <title>Letteratura inglese medievale.</title>
+        <location>Bologna:</location>
+        <publisher>Clueb.</publisher>
+    </sequence>
+    <sequence>
+        <author>Parente, M., &amp; Vitelli, C.</author>
+        <date>2022.</date>
+        <title>Dermatologia.</title>
+        <location>Milano:</location>
+        <publisher>Masson.</publisher>
+    </sequence>
+    <sequence>
+        <author>Fioretti, G.</author>
+        <date>2019.</date>
+        <title>Diritto penale dell'economia.</title>
+        <location>Torino:</location>
+        <publisher>UTET Giuridica.</publisher>
+        <isbn>9788859812678</isbn>
+    </sequence>
+    <sequence>
+        <author>Berti, A., &amp; Nanni, R.</author>
+        <date>2020.</date>
+        <title>Psicologia della personalità.</title>
+        <location>Firenze:</location>
+        <publisher>Giunti Psychometrics.</publisher>
+    </sequence>
+    <sequence>
+        <author>Molinari, F.</author>
+        <date>2021.</date>
+        <title>Storia delle dottrine politiche.</title>
+        <edition>4a ed.</edition>
+        <location>Bari:</location>
+        <publisher>Laterza.</publisher>
+    </sequence>
+    <sequence>
+        <author>Quattrocchi, V., &amp; Lo Bianco, M.</author>
+        <date>2018.</date>
+        <title>Ematologia.</title>
+        <location>Roma:</location>
+        <publisher>Edizioni Medico Scientifiche.</publisher>
+        <isbn>9788899812345</isbn>
+    </sequence>
+    <sequence>
+        <author>Speranza, L.</author>
+        <date>2022.</date>
+        <title>Letteratura scandinava.</title>
+        <location>Venezia:</location>
+        <publisher>Marsilio Editori.</publisher>
+    </sequence>
+    <sequence>
+        <author>Casadio, P., &amp; Renzi, A.</author>
+        <date>2019.</date>
+        <title>Diritto delle assicurazioni.</title>
+        <location>Milano:</location>
+        <publisher>Giuffrè Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Borgogni, T.</author>
+        <date>2020.</date>
+        <title>Storia contemporanea.</title>
+        <edition>6a ed.</edition>
+        <location>Roma:</location>
+        <publisher>Carocci Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Fabbri, L., &amp; Tosi, M.</author>
+        <date>2021.</date>
+        <title>Gastroenterologia.</title>
+        <location>Napoli:</location>
+        <publisher>EdiSES.</publisher>
+        <isbn>9788879598567</isbn>
+    </sequence>
+    <sequence>
+        <author>Veronesi, U.</author>
+        <date>2018.</date>
+        <title>Manuale di oncologia.</title>
+        <location>Milano:</location>
+        <publisher>Masson.</publisher>
+    </sequence>
+    <sequence>
+        <author>Belardelli, F., &amp; Cacciari, E.</author>
+        <date>2022.</date>
+        <title>Pediatria.</title>
+        <edition>5a ed.</edition>
+        <location>Roma:</location>
+        <publisher>Edizioni Medico Scientifiche.</publisher>
+    </sequence>
+    <sequence>
+        <author>Montessori, M.</author>
+        <date>2019.</date>
+        <title>La scoperta del bambino.</title>
+        <edition>8a ed.</edition>
+        <location>Milano:</location>
+        <publisher>Garzanti.</publisher>
+        <isbn>9788811678904</isbn>
+    </sequence>
+    <sequence>
+        <author>Piovene, G.</author>
+        <date>2020.</date>
+        <title>Viaggio in Italia.</title>
+        <location>Vicenza:</location>
+        <publisher>Neri Pozza Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Calvino, I., &amp; Pavese, C.</author>
+        <date>2021.</date>
+        <title>Letteratura e industria.</title>
+        <location>Torino:</location>
+        <publisher>Einaudi.</publisher>
+    </sequence>
+    <sequence>
+        <author>Eco, U.</author>
+        <date>2018.</date>
+        <title>Il nome della rosa.</title>
+        <edition>20a ed.</edition>
+        <location>Milano:</location>
+        <publisher>Bompiani.</publisher>
+        <isbn>9788845200014</isbn>
+    </sequence>
+    <sequence>
+        <author>Robbe, A., &amp; Satta, F.</author>
+        <date>2022.</date>
+        <title>Diritto penitenziario.</title>
+        <location>Roma:</location>
+        <publisher>Edizioni Scientifiche Italiane.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zagrebelsky, G.</author>
+        <date>2019.</date>
+        <title>Il diritto mite.</title>
+        <location>Torino:</location>
+        <publisher>Einaudi.</publisher>
+        <isbn>9788806141237</isbn>
+    </sequence>
+    <sequence>
+        <author>Bobbio, N.</author>
+        <date>2020.</date>
+        <title>Il futuro della democrazia.</title>
+        <edition>4a ed.</edition>
+        <location>Torino:</location>
+        <publisher>Einaudi.</publisher>
+    </sequence>
+    <sequence>
+        <author>Habermas, J.</author>
+        <editor>Vattimo, G. (trad.).</editor>
+        <date>2021.</date>
+        <title>Fatti e norme.</title>
+        <translator>Leonardo Ceppa.</translator>
+        <location>Milano:</location>
+        <publisher>Guerini e Associati.</publisher>
+    </sequence>
+    <sequence>
+        <author>Rawls, J.</author>
+        <editor>Shiffren, M. (ed.).</editor>
+        <date>2018.</date>
+        <title>Una teoria della giustizia.</title>
+        <translator>Sergio Varni.</translator>
+        <edition>3a ed.</edition>
+        <location>Milano:</location>
+        <publisher>Feltrinelli.</publisher>
+        <isbn>9788807102345</isbn>
+    </sequence>
+    <sequence>
+        <author>Foucault, M.</author>
+        <date>2022.</date>
+        <title>Sorvegliare e punire.</title>
+        <translator>Alessandro Fontana.</translator>
+        <location>Torino:</location>
+        <publisher>Einaudi.</publisher>
+    </sequence>
+    <sequence>
+        <author>Derrida, J.</author>
+        <date>2019.</date>
+        <title>Della grammatologia.</title>
+        <translator>Roberto Diodato.</translator>
+        <location>Milano:</location>
+        <publisher>Raffaello Cortina Editore.</publisher>
+        <isbn>9788860301234</isbn>
+    </sequence>
+    <sequence>
+        <author>Heidegger, M.</author>
+        <date>2020.</date>
+        <title>Essere e tempo.</title>
+        <translator>Pietro Chiodi.</translator>
+        <edition>7a ed.</edition>
+        <location>Milano:</location>
+        <publisher>Mondadori.</publisher>
+    </sequence>
+    <sequence>
+        <author>Sartre, J.-P.</author>
+        <date>2021.</date>
+        <title>L'essere e il nulla.</title>
+        <translator>Giovanni Gigliotti.</translator>
+        <location>Milano:</location>
+        <publisher>Il Saggiatore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Merleau-Ponty, M.</author>
+        <date>2018.</date>
+        <title>Fenomenologia della percezione.</title>
+        <translator>Federico Baldini.</translator>
+        <location>Milano:</location>
+        <publisher>Bompiani.</publisher>
+        <isbn>9788845234567</isbn>
+    </sequence>
+    <sequence>
+        <author>Levinas, E.</author>
+        <date>2022.</date>
+        <title>Totalità e Infinito.</title>
+        <translator>Giovanni Dasso.</translator>
+        <location>Milano:</location>
+        <publisher>Jaca Book.</publisher>
+    </sequence>
+    <sequence>
+        <author>Adorno, T. W.</author>
+        <date>2019.</date>
+        <title>Dialettica negativa.</title>
+        <translator>Carlo Vinti.</translator>
+        <location>Roma:</location>
+        <publisher>Manifestolibri.</publisher>
+        <isbn>9788872853456</isbn>
+    </sequence>
+    <sequence>
+        <author>Bloch, E.</author>
+        <date>2020.</date>
+        <title>Il principio speranza.</title>
+        <translator>Ernesto Balducci.</translator>
+        <location>Milano:</location>
+        <publisher>Garzanti.</publisher>
+    </sequence>
+    <sequence>
+        <author>Benjamin, W.</author>
+        <date>2021.</date>
+        <title>Angelus Novus.</title>
+        <translator>René de Ceccatty.</translator>
+        <edition>5a ed.</edition>
+        <location>Torino:</location>
+        <publisher>Einaudi.</publisher>
+    </sequence>
+    <sequence>
+        <author>Arendt, H.</author>
+        <date>2018.</date>
+        <title>La banalità del male.</title>
+        <translator>Pier Cesare Izzarelli.</translator>
+        <location>Milano:</location>
+        <publisher>Feltrinelli.</publisher>
+        <isbn>9788807723456</isbn>
+    </sequence>
+    <sequence>
+        <author>Buber, M.</author>
+        <date>2022.</date>
+        <title>Io e Tu.</title>
+        <translator>Virginio Cesarani.</translator>
+        <location>Milano:</location>
+        <publisher>Edizioni di Comunità.</publisher>
+    </sequence>
+    <sequence>
+        <author>Jaspers, K.</author>
+        <date>2019.</date>
+        <title>Introduzione alla filosofia.</title>
+        <translator>Ernesto Paci.</translator>
+        <location>Milano:</location>
+        <publisher>Mursia.</publisher>
+    </sequence>
+    <sequence>
+        <author>Gadamer, H.-G.</author>
+        <date>2020.</date>
+        <title>Verità e metodo.</title>
+        <translator>Vincenzo Vattimo.</translator>
+        <edition>2a ed.</edition>
+        <location>Milano:</location>
+        <publisher>Bompiani.</publisher>
+        <isbn>9788845256789</isbn>
+    </sequence>
+    <sequence>
+        <author>Ricoeur, P.</author>
+        <date>2021.</date>
+        <title>Tempo e racconto.</title>
+        <translator>Luca Basso.</translator>
+        <location>Milano:</location>
+        <publisher>Jaca Book.</publisher>
+    </sequence>
+    <sequence>
+        <author>Deleuze, G.</author>
+        <date>2018.</date>
+        <title>Differenza e ripetizione.</title>
+        <translator>Guglielmo Campi.</translator>
+        <location>Torino:</location>
+        <publisher>Einaudi.</publisher>
+    </sequence>
+    <sequence>
+        <author>Guattari, F.</author>
+        <date>2022.</date>
+        <title>Caosmosi.</title>
+        <translator>Alessandro Dal Lago.</translator>
+        <location>Milano:</location>
+        <publisher>Feltrinelli.</publisher>
+        <isbn>9788807654321</isbn>
+    </sequence>
+    <sequence>
+        <author>Baudrillard, J.</author>
+        <date>2019.</date>
+        <title>La società dei consumi.</title>
+        <translator>Francesco Alberoni.</translator>
+        <location>Bologna:</location>
+        <publisher>Il Mulino.</publisher>
+    </sequence>
+    <sequence>
+        <author>Lyotard, J.-F.</author>
+        <date>2020.</date>
+        <title>La condizione postmoderna.</title>
+        <translator>Carlo Formenti.</translator>
+        <edition>3a ed.</edition>
+        <location>Milano:</location>
+        <publisher>Feltrinelli.</publisher>
+    </sequence>
+    <sequence>
+        <author>Vattimo, G.</author>
+        <date>2021.</date>
+        <title>Il pensiero debole.</title>
+        <location>Milano:</location>
+        <publisher>Feltrinelli.</publisher>
+        <isbn>9788807890123</isbn>
+    </sequence>
+    <sequence>
+        <author>Cacciari, M.</author>
+        <date>2018.</date>
+        <title>Geo-filosofia dell'Europa.</title>
+        <location>Milano:</location>
+        <publisher>Adelphi.</publisher>
+    </sequence>
+    <sequence>
+        <author>Agamben, G.</author>
+        <date>2022.</date>
+        <title>Homo Sacer.</title>
+        <edition>4a ed.</edition>
+        <location>Torino:</location>
+        <publisher>Einaudi.</publisher>
+    </sequence>
+    <sequence>
+        <author>Esposito, R.</author>
+        <date>2019.</date>
+        <title>Comunità.</title>
+        <location>Torino:</location>
+        <publisher>Einaudi.</publisher>
+        <isbn>9788806198765</isbn>
+    </sequence>
+    <sequence>
+        <author>Nancy, J.-L.</author>
+        <editor>Mezzadra, S. (ed.).</editor>
+        <date>2020.</date>
+        <title>La comunità inoperosa.</title>
+        <translator>Sandro Mezzadra.</translator>
+        <location>Milano:</location>
+        <publisher>Cronopio.</publisher>
+    </sequence>
+    <sequence>
+        <author>Blanchot, M.</author>
+        <date>2021.</date>
+        <title>La comunità inconfessabile.</title>
+        <translator>Yari Mariani.</translator>
+        <location>Torino:</location>
+        <publisher>Costa &amp; Nolan.</publisher>
+    </sequence>
+    <sequence>
+        <author>Nietzsche, F.</author>
+        <editor>Colli, G. &amp; Montinari, M. (edd.).</editor>
+        <date>2018.</date>
+        <title>Così parlò Zarathustra.</title>
+        <edition>12a ed.</edition>
+        <location>Milano:</location>
+        <publisher>Adelphi.</publisher>
+        <isbn>9788845900123</isbn>
+    </sequence>
+    <sequence>
+        <author>Kant, I.</author>
+        <date>2022.</date>
+        <title>Critica della ragion pura.</title>
+        <translator>Giovanni Gentile.</translator>
+        <location>Bari:</location>
+        <publisher>Laterza.</publisher>
+    </sequence>
+    <sequence>
+        <author>Hegel, G. W. F.</author>
+        <date>2019.</date>
+        <title>Fenomenologia dello spirito.</title>
+        <translator>Vincenzo Cicero.</translator>
+        <edition>6a ed.</edition>
+        <location>Milano:</location>
+        <publisher>Bompiani.</publisher>
+    </sequence>
+    <sequence>
+        <author>Marx, K.</author>
+        <date>2020.</date>
+        <title>Il Capitale.</title>
+        <translator>Delio Cantimori.</translator>
+        <location>Roma:</location>
+        <publisher>Editori Riuniti.</publisher>
+        <isbn>9788835912345</isbn>
+    </sequence>
+    <sequence>
+        <author>Weber, M.</author>
+        <date>2021.</date>
+        <title>L'etica protestante e lo spirito del capitalismo.</title>
+        <translator>Ernesto Sestan.</translator>
+        <location>Milano:</location>
+        <publisher>Rizzoli.</publisher>
+    </sequence>
+    <sequence>
+        <author>Simmel, G.</author>
+        <date>2018.</date>
+        <title>La metropoli e la vita dello spirito.</title>
+        <translator>Paolo Jedlowski.</translator>
+        <location>Roma:</location>
+        <publisher>Armando Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Tönnies, F.</author>
+        <date>2022.</date>
+        <title>Comunità e società.</title>
+        <translator>Aurelio Besussi.</translator>
+        <edition>3a ed.</edition>
+        <location>Milano:</location>
+        <publisher>Edizioni di Comunità.</publisher>
+        <isbn>9788824567123</isbn>
+    </sequence>
+    <sequence>
+        <author>Pareto, V.</author>
+        <date>2019.</date>
+        <title>Trattato di sociologia generale.</title>
+        <location>Milano:</location>
+        <publisher>Rizzoli.</publisher>
+    </sequence>
+    <sequence>
+        <author>Mosca, G.</author>
+        <date>2020.</date>
+        <title>Elementi di scienza politica.</title>
+        <translator>Giovanni Prezzolini.</translator>
+        <location>Bari:</location>
+        <publisher>Laterza.</publisher>
+    </sequence>
+    <sequence>
+        <author>Michels, R.</author>
+        <date>2021.</date>
+        <title>La sociologia del partito.</title>
+        <translator>Carlo Angelino.</translator>
+        <edition>2a ed.</edition>
+        <location>Torino:</location>
+        <publisher>UTET.</publisher>
+        <isbn>9788802034567</isbn>
+    </sequence>
+    <sequence>
+        <author>Durkheim, É.</author>
+        <date>2018.</date>
+        <title>Le regole del metodo sociologico.</title>
+        <translator>Franco Ferrarotti.</translator>
+        <location>Torino:</location>
+        <publisher>Einaudi.</publisher>
+    </sequence>
+    <sequence>
+        <author>Simmel, G.</author>
+        <date>2022.</date>
+        <title>Sociologia.</title>
+        <translator>Rita Cossentino.</translator>
+        <location>Milano:</location>
+        <publisher>Edizioni di Comunità.</publisher>
+    </sequence>
+    <sequence>
+        <author>Parsons, T.</author>
+        <date>2019.</date>
+        <title>Il sistema sociale.</title>
+        <translator>Aldo Maccagnan.</translator>
+        <location>Roma:</location>
+        <publisher>Armando Editore.</publisher>
+        <isbn>9788871445678</isbn>
+    </sequence>
+    <sequence>
+        <author>Merton, R. K.</author>
+        <date>2020.</date>
+        <title>Teoria sociale e struttura sociale.</title>
+        <translator>Alberto Martinelli.</translator>
+        <edition>4a ed.</edition>
+        <location>Bologna:</location>
+        <publisher>Il Mulino.</publisher>
+    </sequence>
+    <sequence>
+        <author>Goffman, E.</author>
+        <date>2021.</date>
+        <title>La presentazione di sé nella vita quotidiana.</title>
+        <translator>Franco Ferrarotti.</translator>
+        <location>Bologna:</location>
+        <publisher>Il Mulino.</publisher>
+    </sequence>
+    <sequence>
+        <author>Bourdieu, P.</author>
+        <date>2018.</date>
+        <title>Il capitale sociale.</title>
+        <translator>Piero Bourdieu.</translator>
+        <location>Torino:</location>
+        <publisher>Einaudi.</publisher>
+        <isbn>9788806234567</isbn>
+    </sequence>
+    <sequence>
+        <author>Beck, U.</author>
+        <date>2022.</date>
+        <title>La società del rischio.</title>
+        <translator>Alessandro Dal Lago.</translator>
+        <location>Roma:</location>
+        <publisher>Carocci Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Giddens, A.</author>
+        <date>2019.</date>
+        <title>Le conseguenze della modernità.</title>
+        <translator>Marco Baccarini.</translator>
+        <edition>3a ed.</edition>
+        <location>Bologna:</location>
+        <publisher>Il Mulino.</publisher>
+    </sequence>
+    <sequence>
+        <author>Bauman, Z.</author>
+        <date>2020.</date>
+        <title>Modernità liquida.</title>
+        <translator>Marco Cupellaro.</translator>
+        <location>Roma:</location>
+        <publisher>Armando Editore.</publisher>
+        <isbn>9788871446789</isbn>
+    </sequence>
+    <sequence>
+        <author>Castells, M.</author>
+        <date>2021.</date>
+        <title>La nascita della società in rete.</title>
+        <translator>Alessandro Vanoli.</translator>
+        <location>Milano:</location>
+        <publisher>Università Bocconi Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Latour, B.</author>
+        <date>2018.</date>
+        <title>Non siamo mai stati moderni.</title>
+        <translator>Andrea Bellerbati.</translator>
+        <location>Milano:</location>
+        <publisher>Cortina Raffaello.</publisher>
+    </sequence>
+    <sequence>
+        <author>Braudel, F.</author>
+        <date>2022.</date>
+        <title>Civiltà materiale, economia e capitalismo.</title>
+        <translator>Riccardo Mainardi.</translator>
+        <edition>2a ed.</edition>
+        <location>Torino:</location>
+        <publisher>Einaudi.</publisher>
+        <isbn>9788806345678</isbn>
+    </sequence>
+    <sequence>
+        <author>Wallerstein, I.</author>
+        <date>2019.</date>
+        <title>Il sistema mondiale.</title>
+        <translator>Giulio Bollati.</translator>
+        <location>Milano:</location>
+        <publisher>Feltrinelli.</publisher>
+    </sequence>
+    <sequence>
+        <author>Hobsbawm, E.</author>
+        <date>2020.</date>
+        <title>Il secolo breve.</title>
+        <translator>Paolo Capuzzo.</translator>
+        <edition>8a ed.</edition>
+        <location>Milano:</location>
+        <publisher>Rizzoli.</publisher>
+    </sequence>
+    <sequence>
+        <author>Anderson, P.</author>
+        <date>2021.</date>
+        <title>Lineamenti dello stato moderno.</title>
+        <translator>Giovanni Arganese.</translator>
+        <location>Roma:</location>
+        <publisher>Manifestolibri.</publisher>
+    </sequence>
+    <sequence>
+        <author>Gramsci, A.</author>
+        <date>2018.</date>
+        <title>Quaderni del carcere.</title>
+        <edition>12a ed.</edition>
+        <location>Torino:</location>
+        <publisher>Einaudi.</publisher>
+        <isbn>9788806456789</isbn>
+    </sequence>
+    <sequence>
+        <author>Lukács, G.</author>
+        <date>2022.</date>
+        <title>Storia e coscienza di classe.</title>
+        <translator>Antonio Carlo Caron</translator>
+        <location>Milano:</location>
+        <publisher>SugarCo.</publisher>
+    </sequence>
+    <sequence>
+        <author>Korsch, K.</author>
+        <date>2019.</date>
+        <title>Marxismo e filosofia.</title>
+        <translator>Luca Basso.</translator>
+        <location>Roma:</location>
+        <publisher>Manifestolibri.</publisher>
+    </sequence>
+</dataset>

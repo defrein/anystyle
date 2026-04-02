@@ -1,0 +1,1457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <sequence>
+        <author>Rossi, M.</author>
+        <date>2019.</date>
+        <title>La filosofia rinascimentale e le sue radici.</title>
+        <editor>Bianchi, L., &amp; Ferrari, G.</editor>
+        <container-title>Manuale di storia della filosofia europea</container-title>
+        <pages>145-178.</pages>
+        <location>Milano:</location>
+        <publisher>Edizioni Universitarie.</publisher>
+    </sequence>
+    <sequence>
+        <author>Verdi, A., &amp; Neri, S.</author>
+        <date>2020.</date>
+        <title>Economia digitale e innovazione tecnologica.</title>
+        <editor>Romano, F.</editor>
+        <container-title>Trattato di economia contemporanea</container-title>
+        <edition>2nd ed.</edition>
+        <pages>289-312.</pages>
+        <location>Roma:</location>
+        <publisher>Carocci Editore.</publisher>
+        <isbn>9788843098765</isbn>
+    </sequence>
+    <sequence>
+        <author>Bianco, G.</author>
+        <date>2018.</date>
+        <title>Letteratura italiana del Novecento.</title>
+        <editor>Galli, M., &amp; Martini, P.</editor>
+        <container-title>Compendio di letteratura italiana moderna</container-title>
+        <pages>67-95.</pages>
+        <location>Firenze:</location>
+        <publisher>La Nuova Italia.</publisher>
+    </sequence>
+    <sequence>
+        <author>Ferrari, L., &amp; Colombo, E.</author>
+        <date>2021.</date>
+        <title>Diritto costituzionale comparato.</title>
+        <editor>Russo, A.</editor>
+        <container-title>Fondamenti di diritto pubblico</container-title>
+        <edition>3rd ed.</edition>
+        <pages>201-234.</pages>
+        <location>Torino:</location>
+        <publisher>Giappichelli Editore.</publisher>
+        <isbn>9788892134567</isbn>
+    </sequence>
+    <sequence>
+        <author>Greco, P.</author>
+        <date>2017.</date>
+        <title>La pittura barocca in Italia.</title>
+        <editor>Marino, R., &amp; Costa, F.</editor>
+        <container-title>Storia dell'arte italiana: dal Rinascimento al Barocco</container-title>
+        <pages>312-345.</pages>
+        <location>Venezia:</location>
+        <publisher>Marsilio Editori.</publisher>
+    </sequence>
+    <sequence>
+        <author>Ricci, F., &amp; Lombardi, M.</author>
+        <date>2022.</date>
+        <title>Intelligenza artificiale e società.</title>
+        <editor>Conti, L.</editor>
+        <container-title>Tecnologia e futuro dell'umanità</container-title>
+        <pages>78-102.</pages>
+        <location>Bologna:</location>
+        <publisher>Il Mulino.</publisher>
+        <isbn>9788815345678</isbn>
+    </sequence>
+    <sequence>
+        <author>Marini, S.</author>
+        <date>2019.</date>
+        <title>Psicologia dello sviluppo cognitivo.</title>
+        <editor>Alberti, G., &amp; Moretti, V.</editor>
+        <container-title>Manuale di psicologia evolutiva</container-title>
+        <edition>4th ed.</edition>
+        <pages>156-189.</pages>
+        <location>Milano:</location>
+        <publisher>Raffaello Cortina Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Barbieri, C., &amp; Gentile, R.</author>
+        <date>2020.</date>
+        <title>Storia medievale del Mediterraneo.</title>
+        <editor>Ferraro, D.</editor>
+        <container-title>Il Medioevo europeo e mediterraneo</container-title>
+        <pages>223-256.</pages>
+        <location>Roma:</location>
+        <publisher>Viella Editore.</publisher>
+        <isbn>9788833134567</isbn>
+    </sequence>
+    <sequence>
+        <author>Conte, A.</author>
+        <date>2018.</date>
+        <title>Linguistica computazionale applicata.</title>
+        <editor>Pellegrini, M., &amp; Santoro, L.</editor>
+        <container-title>Introduzione alle scienze del linguaggio</container-title>
+        <pages>334-367.</pages>
+        <location>Bari:</location>
+        <publisher>Editori Laterza.</publisher>
+    </sequence>
+    <sequence>
+        <author>Gallo, E., &amp; Testa, G.</author>
+        <date>2021.</date>
+        <title>Management delle organizzazioni sanitarie.</title>
+        <editor>De Luca, F.</editor>
+        <container-title>Governance della sanità pubblica</container-title>
+        <edition>2nd ed.</edition>
+        <pages>89-115.</pages>
+        <location>Napoli:</location>
+        <publisher>Edizioni Scientifiche Italiane.</publisher>
+        <isbn>9788849543210</isbn>
+    </sequence>
+    <sequence>
+        <author>Monti, V.</author>
+        <date>2017.</date>
+        <title>Architettura razionalista italiana.</title>
+        <editor>Orlandini, P.</editor>
+        <container-title>Architettura del XX secolo in Europa</container-title>
+        <pages>178-209.</pages>
+        <location>Milano:</location>
+        <publisher>Hoepli Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Cattaneo, L., &amp; Ferri, D.</author>
+        <date>2022.</date>
+        <title>Criminologia e giustizia penale.</title>
+        <editor>Venturi, S.</editor>
+        <container-title>Manuale di scienze criminalistiche</container-title>
+        <pages>267-298.</pages>
+        <location>Torino:</location>
+        <publisher>Utet Giuridica.</publisher>
+        <isbn>9788859812345</isbn>
+    </sequence>
+    <sequence>
+        <author>Parisi, R.</author>
+        <date>2019.</date>
+        <title>Biologia molecolare delle cellule staminali.</title>
+        <editor>Marchetti, A., &amp; Silvestri, M.</editor>
+        <container-title>Avanzamenti in biomedicina moderna</container-title>
+        <edition>5th ed.</edition>
+        <pages>123-154.</pages>
+        <location>Roma:</location>
+        <publisher>Edizioni Medico-Scientifiche.</publisher>
+    </sequence>
+    <sequence>
+        <author>Benedetti, F., &amp; Caputo, I.</author>
+        <date>2020.</date>
+        <title>Geopolitica dell'Asia orientale.</title>
+        <editor>Rinaldi, G.</editor>
+        <container-title>Relazioni internazionali contemporanee</container-title>
+        <pages>345-378.</pages>
+        <location>Bologna:</location>
+        <publisher>Società Editrice Il Mulino.</publisher>
+        <isbn>9788815298765</isbn>
+    </sequence>
+    <sequence>
+        <author>Santoro, N.</author>
+        <date>2018.</date>
+        <title>Fisica quantistica per non addetti.</title>
+        <editor>Amato, C., &amp; Basile, T.</editor>
+        <container-title>Divulgazione scientifica e cultura moderna</container-title>
+        <pages>45-67.</pages>
+        <location>Firenze:</location>
+        <publisher>Giunti Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Leone, M., &amp; Mancini, P.</author>
+        <date>2021.</date>
+        <title>Sociologia dei media digitali.</title>
+        <editor>Fontana, R.</editor>
+        <container-title>Comunicazione e società dell'informazione</container-title>
+        <pages>198-223.</pages>
+        <location>Milano:</location>
+        <publisher>FrancoAngeli.</publisher>
+        <isbn>9788856876543</isbn>
+    </sequence>
+    <sequence>
+        <author>Pellegrino, S.</author>
+        <date>2017.</date>
+        <title>Chimica organica sintetica.</title>
+        <editor>Donati, E., &amp; Marchi, L.</editor>
+        <container-title>Trattato di chimica moderna</container-title>
+        <edition>3rd ed.</edition>
+        <pages>567-601.</pages>
+        <location>Bologna:</location>
+        <publisher>Zanichelli Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Fabbri, G., &amp; Monti, A.</author>
+        <date>2022.</date>
+        <title>Storia dell'opera lirica italiana.</title>
+        <editor>Bernardi, C.</editor>
+        <container-title>Musica e cultura europea</container-title>
+        <pages>234-267.</pages>
+        <location>Venezia:</location>
+        <publisher>Fondazione Giorgio Cini.</publisher>
+        <isbn>9788860456789</isbn>
+    </sequence>
+    <sequence>
+        <author>D'Angelo, R.</author>
+        <date>2019.</date>
+        <title>Pedagogia dell'infanzia.</title>
+        <editor>Caruso, M., &amp; Vitale, S.</editor>
+        <container-title>Scienze dell'educazione contemporanee</container-title>
+        <pages>89-112.</pages>
+        <location>Roma:</location>
+        <publisher>Anicia Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Guerriero, L., &amp; Ferrara, M.</author>
+        <date>2020.</date>
+        <title>Antropologia culturale applicata.</title>
+        <editor>Padovani, G.</editor>
+        <container-title>Metodi e teorie antropologiche</container-title>
+        <edition>2nd ed.</edition>
+        <pages>145-176.</pages>
+        <location>Milano:</location>
+        <publisher>Bruno Mondadori.</publisher>
+        <isbn>9788861598765</isbn>
+    </sequence>
+    <sequence>
+        <author>Orlando, F.</author>
+        <date>2018.</date>
+        <title>Marketing strategico digitale.</title>
+        <editor>Riva, A., &amp; Sala, B.</editor>
+        <container-title>Manuale di comunicazione d'impresa</container-title>
+        <pages>278-301.</pages>
+        <location>Torino:</location>
+        <publisher>Isedi Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Vitali, S., &amp; Benedetti, L.</author>
+        <date>2021.</date>
+        <title>Neuroscienze cognitive avanzate.</title>
+        <editor>Marchesi, F.</editor>
+        <container-title>Cervello e comportamento umano</container-title>
+        <pages>112-145.</pages>
+        <location>Bologna:</location>
+        <publisher>Società Editrice Esculapio.</publisher>
+        <isbn>9788874887654</isbn>
+    </sequence>
+    <sequence>
+        <author>Colombo, D.</author>
+        <date>2017.</date>
+        <title>Urbanistica sostenibile europea.</title>
+        <editor>Bianchini, R., &amp; Neri, T.</editor>
+        <container-title>Pianificazione territoriale e ambiente</container-title>
+        <edition>4th ed.</edition>
+        <pages>189-212.</pages>
+        <location>Milano:</location>
+        <publisher>Maggioli Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Martini, G., &amp; Rossi, P.</author>
+        <date>2022.</date>
+        <title>Filosofia politica contemporanea.</title>
+        <editor>De Sanctis, A.</editor>
+        <container-title>Pensiero politico del XXI secolo</container-title>
+        <pages>67-98.</pages>
+        <location>Roma:</location>
+        <publisher>Donzelli Editore.</publisher>
+        <isbn>9788868438765</isbn>
+    </sequence>
+    <sequence>
+        <author>Farina, E.</author>
+        <date>2019.</date>
+        <title>Enologia e viticoltura italiana.</title>
+        <editor>Panzeri, L., &amp; Colombo, S.</editor>
+        <container-title>Trattato di scienze agrarie</container-title>
+        <pages>345-378.</pages>
+        <location>Verona:</location>
+        <publisher>Edizioni L'Informatore Agrario.</publisher>
+    </sequence>
+    <sequence>
+        <author>Testa, M., &amp; Rizzo, A.</author>
+        <date>2020.</date>
+        <title>Diritto commerciale europeo.</title>
+        <editor>Simonetti, G.</editor>
+        <container-title>Istituzioni di diritto dell'UE</container-title>
+        <edition>6th ed.</edition>
+        <pages>234-267.</pages>
+        <location>Torino:</location>
+        <publisher>Giappichelli Editore.</publisher>
+        <isbn>9788892134098</isbn>
+    </sequence>
+    <sequence>
+        <author>Basile, C.</author>
+        <date>2018.</date>
+        <title>Storia della fotografia moderna.</title>
+        <editor>Morelli, D., &amp; Fabbri, S.</editor>
+        <container-title>Arte visiva contemporanea</container-title>
+        <pages>156-189.</pages>
+        <location>Milano:</location>
+        <publisher>Skira Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Giordano, R., &amp; Leone, F.</author>
+        <date>2021.</date>
+        <title>Genetica medica applicata.</title>
+        <editor>Toscano, V.</editor>
+        <container-title>Manuale di medicina personalizzata</container-title>
+        <pages>78-109.</pages>
+        <location>Roma:</location>
+        <publisher>Il Pensiero Scientifico Editore.</publisher>
+        <isbn>9788849012345</isbn>
+    </sequence>
+    <sequence>
+        <author>Serra, L.</author>
+        <date>2017.</date>
+        <title>Economia circolare e sostenibilità.</title>
+        <editor>Veronesi, M., &amp; Galli, P.</editor>
+        <container-title>Ambiente e sviluppo sostenibile</container-title>
+        <edition>2nd ed.</edition>
+        <pages>123-156.</pages>
+        <location>Bologna:</location>
+        <publisher>Edizioni Ambiente.</publisher>
+    </sequence>
+    <sequence>
+        <author>Coppola, A., &amp; Mancuso, G.</author>
+        <date>2022.</date>
+        <title>Psichiatria forense moderna.</title>
+        <editor>Ruggiero, F.</editor>
+        <container-title>Scienze forensi e giustizia</container-title>
+        <pages>289-312.</pages>
+        <location>Milano:</location>
+        <publisher>Edizioni Medico-Scientifiche.</publisher>
+        <isbn>9788878345678</isbn>
+    </sequence>
+    <sequence>
+        <author>Palmieri, D.</author>
+        <date>2019.</date>
+        <title>Lingua e cultura latina.</title>
+        <editor>Marini, S., &amp; Ricci, T.</editor>
+        <container-title>Classici e tradizione occidentale</container-title>
+        <pages>45-78.</pages>
+        <location>Firenze:</location>
+        <publisher>Le Monnier.</publisher>
+    </sequence>
+    <sequence>
+        <author>Fontana, M., &amp; Silvestri, R.</author>
+        <date>2020.</date>
+        <title>Ingegneria gestionale avanzata.</title>
+        <editor>Bianco, L.</editor>
+        <container-title>Gestione d'impresa e innovazione</container-title>
+        <edition>3rd ed.</edition>
+        <pages>167-198.</pages>
+        <location>Milano:</location>
+        <publisher>EGEA Editore.</publisher>
+        <isbn>9788823876543</isbn>
+    </sequence>
+    <sequence>
+        <author>Carbone, F.</author>
+        <date>2018.</date>
+        <title>Cinema neorealista italiano.</title>
+        <editor>Paolini, G., &amp; Ferri, M.</editor>
+        <container-title>Storia del cinema europeo</container-title>
+        <pages>234-267.</pages>
+        <location>Roma:</location>
+        <publisher>Edizioni di Storia e Letteratura.</publisher>
+    </sequence>
+    <sequence>
+        <author>Marchetti, L., &amp; Parisi, G.</author>
+        <date>2021.</date>
+        <title>Farmacologia clinica moderna.</title>
+        <editor>Conti, R.</editor>
+        <container-title>Terapie innovative in medicina</container-title>
+        <pages>89-123.</pages>
+        <location>Torino:</location>
+        <publisher>Minerva Medica Editore.</publisher>
+        <isbn>9788877118765</isbn>
+    </sequence>
+    <sequence>
+        <author>Donati, M.</author>
+        <date>2017.</date>
+        <title>Archeologia mediterranea antica.</title>
+        <editor>Romano, S., &amp; Vitale, A.</editor>
+        <container-title>Civiltà del Mediterraneo antico</container-title>
+        <pages>178-209.</pages>
+        <location>Bari:</location>
+        <publisher>Edipuglia.</publisher>
+    </sequence>
+    <sequence>
+        <author>Battaglia, S., &amp; Greco, L.</author>
+        <date>2022.</date>
+        <title>Cybersecurity e protezione dati.</title>
+        <editor>Ferrara, D.</editor>
+        <container-title>Sicurezza informatica applicata</container-title>
+        <edition>4th ed.</edition>
+        <pages>256-289.</pages>
+        <location>Milano:</location>
+        <publisher>Apogeo Editore.</publisher>
+        <isbn>9788850345678</isbn>
+    </sequence>
+    <sequence>
+        <author>Venezia, R.</author>
+        <date>2019.</date>
+        <title>Teologia sistematica contemporanea.</title>
+        <editor>Amadei, F., &amp; Lombardi, S.</editor>
+        <container-title>Studi teologici moderni</container-title>
+        <pages>123-156.</pages>
+        <location>Brescia:</location>
+        <publisher>Queriniana Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Ferrara, A., &amp; Ricciardi, M.</author>
+        <date>2020.</date>
+        <title>Statistica applicata alle scienze sociali.</title>
+        <editor>Mancini, L.</editor>
+        <container-title>Metodi quantitativi per la ricerca</container-title>
+        <pages>67-98.</pages>
+        <location>Bologna:</location>
+        <publisher>Società Editrice Il Mulino.</publisher>
+        <isbn>9788815287654</isbn>
+    </sequence>
+    <sequence>
+        <author>Marino, F.</author>
+        <date>2018.</date>
+        <title>Design industriale italiano.</title>
+        <editor>Cattaneo, P., &amp; Sala, M.</editor>
+        <container-title>Storia del design del prodotto</container-title>
+        <pages>189-223.</pages>
+        <location>Milano:</location>
+        <publisher>Abitare Segesta.</publisher>
+    </sequence>
+    <sequence>
+        <author>Pellegrini, A., &amp; Conti, S.</author>
+        <date>2021.</date>
+        <title>Oncologia molecolare.</title>
+        <editor>Barone, G.</editor>
+        <container-title>Avanzamenti in oncologia clinica</container-title>
+        <edition>5th ed.</edition>
+        <pages>145-178.</pages>
+        <location>Roma:</location>
+        <publisher>Edizioni Scientifiche Italiane.</publisher>
+        <isbn>9788849567890</isbn>
+    </sequence>
+    <sequence>
+        <author>Giuliani, D.</author>
+        <date>2017.</date>
+        <title>Musicologia e analisi musicale.</title>
+        <editor>Rossi, F., &amp; Neri, A.</editor>
+        <container-title>Teoria e pratica musicale</container-title>
+        <pages>234-267.</pages>
+        <location>Lucca:</location>
+        <publisher>Libreria Musicale Italiana.</publisher>
+    </sequence>
+    <sequence>
+        <author>Benedetti, S., &amp; Marchese, L.</author>
+        <date>2022.</date>
+        <title>Logistica e supply chain management.</title>
+        <editor>Verdi, M.</editor>
+        <container-title>Gestione operations aziendale</container-title>
+        <pages>78-109.</pages>
+        <location>Milano:</location>
+        <publisher>FrancoAngeli.</publisher>
+        <isbn>9788856898765</isbn>
+    </sequence>
+    <sequence>
+        <author>Costa, G.</author>
+        <date>2019.</date>
+        <title>Geografia economica europea.</title>
+        <editor>Bianchi, T., &amp; Ferrara, R.</editor>
+        <container-title>Economia e territorio</container-title>
+        <pages>156-189.</pages>
+        <location>Torino:</location>
+        <publisher>Rosenberg &amp; Sellier.</publisher>
+    </sequence>
+    <sequence>
+        <author>Romano, L., &amp; Parisi, F.</author>
+        <date>2020.</date>
+        <title>Immunologia clinica avanzata.</title>
+        <editor>Gallo, S.</editor>
+        <container-title>Sistema immunitario e patologie</container-title>
+        <edition>3rd ed.</edition>
+        <pages>267-301.</pages>
+        <location>Bologna:</location>
+        <publisher>Società Editrice Esculapio.</publisher>
+        <isbn>9788874889012</isbn>
+    </sequence>
+    <sequence>
+        <author>Barone, M.</author>
+        <date>2018.</date>
+        <title>Traduzione letteraria dall'inglese.</title>
+        <editor>Martini, R., &amp; Testa, F.</editor>
+        <container-title>Teorie della traduzione moderna</container-title>
+        <pages>45-78.</pages>
+        <location>Roma:</location>
+        <publisher>Carocci Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Fabbri, R., &amp; Lombardo, A.</author>
+        <date>2021.</date>
+        <title>Robotica industriale applicata.</title>
+        <editor>Colombo, D.</editor>
+        <container-title>Automazione e industria 4.0</container-title>
+        <pages>189-223.</pages>
+        <location>Milano:</location>
+        <publisher>Hoepli Editore.</publisher>
+        <isbn>9788820387654</isbn>
+    </sequence>
+    <sequence>
+        <author>Silvestri, G.</author>
+        <date>2017.</date>
+        <title>Storia della lingua italiana.</title>
+        <editor>Pellegrino, L., &amp; Ricci, M.</editor>
+        <container-title>Filologia e linguistica italiana</container-title>
+        <pages>123-156.</pages>
+        <location>Firenze:</location>
+        <publisher>Accademia della Crusca.</publisher>
+    </sequence>
+    <sequence>
+        <author>Monti, F., &amp; Benedetti, R.</author>
+        <date>2022.</date>
+        <title>Cardiologia interventistica.</title>
+        <editor>Ferrari, A.</editor>
+        <container-title>Manuale di cardiologia moderna</container-title>
+        <edition>6th ed.</edition>
+        <pages>234-267.</pages>
+        <location>Roma:</location>
+        <publisher>Il Pensiero Scientifico Editore.</publisher>
+        <isbn>9788849023456</isbn>
+    </sequence>
+    <sequence>
+        <author>Leone, S.</author>
+        <date>2019.</date>
+        <title>Comunicazione politica digitale.</title>
+        <editor>Marini, G., &amp; Costa, L.</editor>
+        <container-title>Media e democrazia contemporanea</container-title>
+        <pages>89-112.</pages>
+        <location>Bologna:</location>
+        <publisher>Società Editrice Il Mulino.</publisher>
+    </sequence>
+    <sequence>
+        <author>Galli, M., &amp; Ferrari, S.</author>
+        <date>2020.</date>
+        <title>Bioetica e medicina contemporanea.</title>
+        <editor>Vitali, F.</editor>
+        <container-title>Etica nelle scienze della vita</container-title>
+        <pages>145-178.</pages>
+        <location>Milano:</location>
+        <publisher>Raffaello Cortina Editore.</publisher>
+        <isbn>9788860308765</isbn>
+    </sequence>
+    <sequence>
+        <author>D'Amico, L.</author>
+        <date>2018.</date>
+        <title>Numismatica romana imperiale.</title>
+        <editor>Barbieri, A., &amp; Romano, D.</editor>
+        <container-title>Antichità classiche e collezioni</container-title>
+        <pages>67-98.</pages>
+        <location>Roma:</location>
+        <publisher>L'Erma di Bretschneider.</publisher>
+    </sequence>
+    <sequence>
+        <author>Piras, S., &amp; Marras, G.</author>
+        <date>2021.</date>
+        <title>Sardinia medieval history.</title>
+        <editor>Cossu, R.</editor>
+        <container-title>Mediterranean medieval studies</container-title>
+        <pages>178-209.</pages>
+        <location>Cagliari:</location>
+        <publisher>CUEC Editrice.</publisher>
+        <isbn>9788884676543</isbn>
+    </sequence>
+    <sequence>
+        <author> Mancuso, F.</author>
+        <date>2017.</date>
+        <title>Cucina regionale siciliana.</title>
+        <editor>Russo, M., &amp; Cannata, L.</editor>
+        <container-title>Tradizioni gastronomiche italiane</container-title>
+        <pages>234-267.</pages>
+        <location>Palermo:</location>
+        <publisher>Edizioni La Zisa.</publisher>
+    </sequence>
+    <sequence>
+        <author>Venturi, R., &amp; Alberti, S.</author>
+        <date>2022.</date>
+        <title>Educazione inclusiva scolastica.</title>
+        <editor>Paoletti, G.</editor>
+        <container-title>Pedagogia speciale contemporanea</container-title>
+        <edition>2nd ed.</edition>
+        <pages>45-78.</pages>
+        <location>Firenze:</location>
+        <publisher>Giunti EDU.</publisher>
+        <isbn>9788809876543</isbn>
+    </sequence>
+    <sequence>
+        <author>Barilli, D.</author>
+        <date>2019.</date>
+        <title>Critica d'arte contemporanea.</title>
+        <editor>Marchi, F., &amp; Donati, R.</editor>
+        <container-title>Arte e teoria estetica</container-title>
+        <pages>123-156.</pages>
+        <location>Milano:</location>
+        <publisher>Johan &amp; Levi Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Ferri, L., &amp; Monti, S.</author>
+        <date>2020.</date>
+        <title>Endocrinologia molecolare.</title>
+        <editor>Basile, A.</editor>
+        <container-title>Ormoni e metabolismo umano</container-title>
+        <pages>189-223.</pages>
+        <location>Roma:</location>
+        <publisher>Edizioni Medico-Scientifiche.</publisher>
+        <isbn>9788878348765</isbn>
+    </sequence>
+    <sequence>
+        <author>Caputo, R.</author>
+        <date>2018.</date>
+        <title>Fisica astroparticellare.</title>
+        <editor>Amato, L., &amp; Greco, D.</editor>
+        <container-title>Astrofisica moderna e cosmologia</container-title>
+        <pages>67-98.</pages>
+        <location>Bologna:</location>
+        <publisher>Società Italiana di Fisica.</publisher>
+    </sequence>
+    <sequence>
+        <author>Parisi, M., &amp; Leone, G.</author>
+        <date>2021.</date>
+        <title>Gastronomia molecolare applicata.</title>
+        <editor>Ferrara, S.</editor>
+        <container-title>Scienza e arte culinaria</container-title>
+        <pages>145-178.</pages>
+        <location>Milano:</location>
+        <publisher>Gambero Rosso Editore.</publisher>
+        <isbn>9788848965432</isbn>
+    </sequence>
+    <sequence>
+        <author>Testa, F.</author>
+        <date>2017.</date>
+        <title>Diritto penale dell'informatica.</title>
+        <editor>Santoro, R., &amp; Ricci, L.</editor>
+        <container-title>Diritto penale speciale</container-title>
+        <edition>4th ed.</edition>
+        <pages>234-267.</pages>
+        <location>Torino:</location>
+        <publisher>Giappichelli Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Benedetti, M., &amp; Galli, F.</author>
+        <date>2022.</date>
+        <title>Psicoterapia cognitivo-comportamentale.</title>
+        <editor>Marchetti, S.</editor>
+        <container-title>Clinica psicologica moderna</container-title>
+        <pages>89-123.</pages>
+        <location>Roma:</location>
+        <publisher>Edizioni Magi.</publisher>
+        <isbn>9788874334567</isbn>
+    </sequence>
+    <sequence>
+        <author>Riva, A.</author>
+        <date>2019.</date>
+        <title>Blockchain e criptovalute.</title>
+        <editor>Conti, M., &amp; Sala, F.</editor>
+        <container-title>Tecnologie finanziarie emergenti</container-title>
+        <pages>156-189.</pages>
+        <location>Milano:</location>
+        <publisher>Egea Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Colombo, S., &amp; Ferrari, R.</author>
+        <date>2020.</date>
+        <title>Patologia chirurgica generale.</title>
+        <editor>Veronesi, G.</editor>
+        <container-title>Manuale di chirurgia generale</container-title>
+        <edition>7th ed.</edition>
+        <pages>267-301.</pages>
+        <location>Torino:</location>
+        <publisher>Minerva Medica Editore.</publisher>
+        <isbn>9788877119876</isbn>
+    </sequence>
+    <sequence>
+        <author>Marchese, D.</author>
+        <date>2018.</date>
+        <title>Semiotica del testo letterario.</title>
+        <editor>Bianchi, S., &amp; Neri, F.</editor>
+        <container-title>Teoria della letteratura</container-title>
+        <pages>45-78.</pages>
+        <location>Roma:</location>
+        <publisher>Aracne Editrice.</publisher>
+    </sequence>
+    <sequence>
+        <author>Ferrara, L., &amp; Romano, S.</author>
+        <date>2021.</date>
+        <title>Nanotecnologie biomediche.</title>
+        <editor>Pellegrini, D.</editor>
+        <container-title>Frontiere della nanomedicina</container-title>
+        <pages>123-156.</pages>
+        <location>Bologna:</location>
+        <publisher>Società Editrice Esculapio.</publisher>
+        <isbn>9788874887123</isbn>
+    </sequence>
+    <sequence>
+        <author>Giordano, M.</author>
+        <date>2017.</date>
+        <title>Storia delle dottrine politiche.</title>
+        <editor>Marini, L., &amp; Rossi, D.</editor>
+        <container-title>Filosofia politica occidentale</container-title>
+        <pages>189-223.</pages>
+        <location>Napoli:</location>
+        <publisher>Editoriale Scientifica.</publisher>
+    </sequence>
+    <sequence>
+        <author>Vitali, R., &amp; Donati, F.</author>
+        <date>2022.</date>
+        <title>Agricoltura biologica mediterranea.</title>
+        <editor>Barbieri, M.</editor>
+        <container-title>Sostenibilità in agricoltura</container-title>
+        <pages>67-98.</pages>
+        <location>Bari:</location>
+        <publisher>Edizioni B.A. Graphis.</publisher>
+        <isbn>9788874796543</isbn>
+    </sequence>
+    <sequence>
+        <author>Sala, G.</author>
+        <date>2019.</date>
+        <title>Linguistica storica comparata.</title>
+        <editor>Fabbri, T., &amp; Monti, R.</editor>
+        <container-title>Grammatica e filologia</container-title>
+        <pages>145-178.</pages>
+        <location>Pisa:</location>
+        <publisher>Edizioni della Normale.</publisher>
+    </sequence>
+    <sequence>
+        <author>Pellegrino, M., &amp; Costa, A.</author>
+        <date>2020.</date>
+        <title> Radioterapia oncologica avanzata.</title>
+        <editor>Gallo, R.</editor>
+        <container-title>Oncologia radioterapica</container-title>
+        <edition>3rd ed.</edition>
+        <pages>234-267.</pages>
+        <location>Roma:</location>
+        <publisher>Il Pensiero Scientifico Editore.</publisher>
+        <isbn>9788849034567</isbn>
+    </sequence>
+    <sequence>
+        <author>Marini, F.</author>
+        <date>2018.</date>
+        <title>Archeologia subacquea mediterranea.</title>
+        <editor>Ricci, S., &amp; Leone, M.</editor>
+        <container-title>Archeologia del paesaggio marino</container-title>
+        <pages>89-123.</pages>
+        <location>Lecce:</location>
+        <publisher>Edizioni Grifo.</publisher>
+    </sequence>
+    <sequence>
+        <author>Conti, L., &amp; Benedetti, G.</author>
+        <date>2021.</date>
+        <title>Intelligenza artificiale giuridica.</title>
+        <editor>Ferrara, T.</editor>
+        <container-title>Diritto e tecnologie digitali</container-title>
+        <pages>156-189.</pages>
+        <location>Milano:</location>
+        <publisher>Giuffrè Editore.</publisher>
+        <isbn>9788828876543</isbn>
+    </sequence>
+    <sequence>
+        <author>Basile, R.</author>
+        <date>2017.</date>
+        <title>Musicoterapia clinica applicata.</title>
+        <editor>Marchi, A., &amp; Silvestri, D.</editor>
+        <container-title>Terapie espressive in sanità</container-title>
+        <pages>45-78.</pages>
+        <location>Roma:</location>
+        <publisher>Edizioni Cosmopolis.</publisher>
+    </sequence>
+    <sequence>
+        <author>Ferraro, S., &amp; Parisi, L.</author>
+        <date>2022.</date>
+        <title>Chimica farmaceutica avanzata.</title>
+        <editor>Donati, S.</editor>
+        <container-title>Sintesi e sviluppo farmaci</container-title>
+        <pages>123-156.</pages>
+        <location>Torino:</location>
+        <publisher>Edizioni Minerva Medica.</publisher>
+        <isbn>9788877118901</isbn>
+    </sequence>
+    <sequence>
+        <author>Greco, D.</author>
+        <date>2019.</date>
+        <title>Antropologia visuale digitale.</title>
+        <editor>Mancini, F., &amp; Testa, R.</editor>
+        <container-title>Metodi visuali di ricerca</container-title>
+        <pages>189-223.</pages>
+        <location>Milano:</location>
+        <publisher>FrancoAngeli.</publisher>
+    </sequence>
+    <sequence>
+        <author>Lombardi, A., &amp; Ricci, F.</author>
+        <date>2020.</date>
+        <title>Gastroenterologia interventistica.</title>
+        <editor>Barone, L.</editor>
+        <container-title>Endoscopia digestiva avanzata</container-title>
+        <edition>4th ed.</edition>
+        <pages>267-301.</pages>
+        <location>Bologna:</location>
+        <publisher>Società Editrice Esculapio.</publisher>
+        <isbn>9788874889234</isbn>
+    </sequence>
+    <sequence>
+        <author>Monti, R.</author>
+        <date>2018.</date>
+        <title>Tradizione manoscritta dantesca.</title>
+        <editor>Pellegrini, F., &amp; Galli, D.</editor>
+        <container-title>Filologia dantesca contemporanea</container-title>
+        <pages>67-98.</pages>
+        <location>Firenze:</location>
+        <publisher>Società Dantesca Italiana.</publisher>
+    </sequence>
+    <sequence>
+        <author>Caruso, M., &amp; Ferrara, G.</author>
+        <date>2021.</date>
+        <title>Energia rinnovabile distribuita.</title>
+        <editor>Verdi, L.</editor>
+        <container-title>Transizione energetica sostenibile</container-title>
+        <pages>145-178.</pages>
+        <location>Milano:</location>
+        <publisher>Egea Editore.</publisher>
+        <isbn>9788823876098</isbn>
+    </sequence>
+    <sequence>
+        <author>Palmieri, F.</author>
+        <date>2017.</date>
+        <title>Scultura rinascimentale fiorentina.</title>
+        <editor>Rossi, T., &amp; Neri, S.</editor>
+        <container-title>Arte del Quattrocento italiano</container-title>
+        <pages>234-267.</pages>
+        <location>Firenze:</location>
+        <publisher>Centro Di.</publisher>
+    </sequence>
+    <sequence>
+        <author>Bianchi, S., &amp; Marchetti, R.</author>
+        <date>2022.</date>
+        <translator>Traduzione di Conti, A.</translator>
+        <title>Neuroplasticità e apprendimento.</title>
+        <editor>Santoro, M.</editor>
+        <container-title>Cervello e educazione</container-title>
+        <pages>89-112.</pages>
+        <location>Roma:</location>
+        <publisher>Edizioni Magi.</publisher>
+        <isbn>9788874334098</isbn>
+    </sequence>
+    <sequence>
+        <author>Donati, A.</author>
+        <date>2019.</date>
+        <title>Politiche sociali europee.</title>
+        <editor>Lombardo, F., &amp; Ricci, G.</editor>
+        <container-title>Welfare state comparato</container-title>
+        <pages>156-189.</pages>
+        <location>Bologna:</location>
+        <publisher>Società Editrice Il Mulino.</publisher>
+    </sequence>
+    <sequence>
+        <author>Ferri, S., &amp; Colombo, R.</author>
+        <date>2020.</date>
+        <title>Urologia oncologica minima invasiva.</title>
+        <editor>Basile, R.</editor>
+        <container-title>Chirurgia urologica avanzata</container-title>
+        <edition>2nd ed.</edition>
+        <pages>123-156.</pages>
+        <location>Torino:</location>
+        <publisher>Edizioni Minerva Medica.</publisher>
+        <isbn>9788877119345</isbn>
+    </sequence>
+    <sequence>
+        <author>Testa, L.</author>
+        <date>2018.</date>
+        <title>Sociologia delle migrazioni.</title>
+        <editor>Marino, D., &amp; Sala, R.</editor>
+        <container-title>Mobilità umana contemporanea</container-title>
+        <pages>67-98.</pages>
+        <location>Roma:</location>
+        <publisher>Carocci Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Giuliani, M., &amp; Benedetti, F.</author>
+        <date>2021.</date>
+        <title>Oftalmologia chirurgica avanzata.</title>
+        <editor>Pellegrino, S.</editor>
+        <container-title>Chirurgia oculare moderna</container-title>
+        <pages>189-223.</pages>
+        <location>Milano:</location>
+        <publisher>Edizioni Medico-Scientifiche.</publisher>
+        <isbn>9788878345109</isbn>
+    </sequence>
+    <sequence>
+        <author>Caputo, S.</author>
+        <date>2017.</date>
+        <title>Filosofia del linguaggio ordinaria.</title>
+        <editor>Ferrara, M., &amp; Ricci, T.</editor>
+        <container-title>Filosofia analitica contemporanea</container-title>
+        <pages>45-78.</pages>
+        <location>Pisa:</location>
+        <publisher>Edizioni ETS.</publisher>
+    </sequence>
+    <sequence>
+        <author>Venezia, M., &amp; Lombardi, F.</author>
+        <date>2022.</date>
+        <title>Ematologia trasfusionale.</title>
+        <editor>Greco, S.</editor>
+        <container-title>Medicina trasfusionale e immunologia</container-title>
+        <pages>145-178.</pages>
+        <location>Roma:</location>
+        <publisher>Edizioni Scientifiche Italiane.</publisher>
+        <isbn>9788849567234</isbn>
+    </sequence>
+    <sequence>
+        <author>Ricciardi, D.</author>
+        <date>2019.</date>
+        <title>Giornalismo digitale investigativo.</title>
+        <editor>Barbieri, R., &amp; Monti, L.</editor>
+        <container-title>Informazione e democrazia digitale</container-title>
+        <pages>234-267.</pages>
+        <location>Milano:</location>
+        <publisher>FrancoAngeli.</publisher>
+    </sequence>
+    <sequence>
+        <author>Marchese, F., &amp; Galli, A.</author>
+        <date>2020.</date>
+        <title>Dermatologia cosmetica.</title>
+        <editor>Donati, M.</editor>
+        <container-title>Dermatologia estetica avanzata</container-title>
+        <edition>3rd ed.</edition>
+        <pages>89-123.</pages>
+        <location>Bologna:</location>
+        <publisher>Società Editrice Esculapio.</publisher>
+        <isbn>9788874888567</isbn>
+    </sequence>
+    <sequence>
+        <author>Parisi, G.</author>
+        <date>2018.</date>
+        <title>Storia economica dell'Italia unita.</title>
+        <editor>Veronesi, R., &amp; Sala, T.</editor>
+        <container-title>Economia italiana moderna</container-title>
+        <pages>156-189.</pages>
+        <location>Bari:</location>
+        <publisher>Editori Laterza.</publisher>
+    </sequence>
+    <sequence>
+        <author>Fabbri, M., &amp; Costa, S.</author>
+        <date>2021.</date>
+        <title>Pneumologia interventistica.</title>
+        <editor>Ferraro, L.</editor>
+        <container-title>Malattie respiratorie croniche</container-title>
+        <pages>67-98.</pages>
+        <location>Torino:</location>
+        <publisher>Edizioni Minerva Medica.</publisher>
+        <isbn>9788877118234</isbn>
+    </sequence>
+    <sequence>
+        <author>Silvestri, A.</author>
+        <date>2017.</date>
+        <title>Archeoastronomia mediterranea.</title>
+        <editor>Marini, D., &amp; Ricci, R.</editor>
+        <container-title>Cielo e cultura antica</container-title>
+        <pages>123-156.</pages>
+        <location>Roma:</location>
+        <publisher>L'Erma di Bretschneider.</publisher>
+    </sequence>
+    <sequence>
+        <author>Conti, F., &amp; Benedetti, L.</author>
+        <date>2022.</date>
+        <translator>Traduzione di Marchi, G.</translator>
+        <title>Psicanalisi relazionale.</title>
+        <editor>Vitali, R.</editor>
+        <container-title>Clinica psicanalitica contemporanea</container-title>
+        <pages>189-223.</pages>
+        <location>Milano:</location>
+        <publisher>Raffaello Cortina Editore.</publisher>
+        <isbn>9788860309012</isbn>
+    </sequence>
+    <sequence>
+        <author>Barbieri, S.</author>
+        <date>2019.</date>
+        <title>Conservazione beni culturali digitali.</title>
+        <editor>Pellegrini, A., &amp; Rossi, F.</editor>
+        <container-title>Patrimonio culturale e tecnologia</container-title>
+        <pages>45-78.</pages>
+        <location>Firenze:</location>
+        <publisher>Nardini Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Ferrara, R., &amp; Monti, M.</author>
+        <date>2020.</date>
+        <title>Nefrologia dialitica.</title>
+        <editor>Basile, F.</editor>
+        <container-title>Insufficienza renale cronica</container-title>
+        <edition>5th ed.</edition>
+        <pages>234-267.</pages>
+        <location>Roma:</location>
+        <publisher>Il Pensiero Scientifico Editore.</publisher>
+        <isbn>9788849023789</isbn>
+    </sequence>
+    <sequence>
+        <author>Leone, R.</author>
+        <date>2018.</date>
+        <title>Teoria dei sistemi complessi.</title>
+        <editor>Gallo, D., &amp; Testa, S.</editor>
+        <container-title>Complessità e modellizzazione</container-title>
+        <pages>89-123.</pages>
+        <location>Torino:</location>
+        <publisher>Bollati Boringhieri.</publisher>
+    </sequence>
+    <sequence>
+        <author>Galli, F., &amp; Parisi, M.</author>
+        <date>2021.</date>
+        <title>Ortopedia traumatologica sportiva.</title>
+        <editor>Colombo, F.</editor>
+        <container-title>Medicina dello sport avanzata</container-title>
+        <pages>156-189.</pages>
+        <location>Bologna:</location>
+        <publisher>Società Editrice Esculapio.</publisher>
+        <isbn>9788874887890</isbn>
+    </sequence>
+    <sequence>
+        <author>D'Angelo, S.</author>
+        <date>2017.</date>
+        <title>Lessicografia italiana contemporanea.</title>
+        <editor>Mancini, R., &amp; Sala, M.</editor>
+        <container-title>Lessico e dizionari italiani</container-title>
+        <pages>67-98.</pages>
+        <location>Roma:</location>
+        <publisher>Aracne Editrice.</publisher>
+    </sequence>
+    <sequence>
+        <author>Benedetti, R., &amp; Ferrari, D.</author>
+        <date>2022.</date>
+        <title>Angiologia interventistica.</title>
+        <editor>Romano, L.</editor>
+        <container-title>Malattie vascolari periferiche</container-title>
+        <pages>123-156.</pages>
+        <location>Milano:</location>
+        <publisher>Edizioni Medico-Scientifiche.</publisher>
+        <isbn>9788878345890</isbn>
+    </sequence>
+    <sequence>
+        <author>Marchi, T.</author>
+        <date>2019.</date>
+        <title>Ecologia urbana sostenibile.</title>
+        <editor>Verdi, S., &amp; Neri, F.</editor>
+        <container-title>Ambiente e pianificazione urbana</container-title>
+        <pages>189-223.</pages>
+        <location>Bologna:</location>
+        <publisher>Edizioni Ambiente.</publisher>
+    </sequence>
+    <sequence>
+        <author>Ferri, D., &amp; Lombardo, R.</author>
+        <date>2020.</date>
+        <translator>Traduzione di Galli, M.</translator>
+        <title>Genomica funzionale.</title>
+        <editor>Silvestri, T.</editor>
+        <container-title>Biologia molecolare avanzata</container-title>
+        <edition>2nd ed.</edition>
+        <pages>234-267.</pages>
+        <location>Roma:</location>
+        <publisher>Edizioni Scientifiche Italiane.</publisher>
+        <isbn>9788849567345</isbn>
+    </sequence>
+    <sequence>
+        <author>Colombo, T.</author>
+        <date>2018.</date>
+        <title>Storia del teatro italiano.</title>
+        <editor>Barone, S., &amp; Ricci, L.</editor>
+        <container-title>Spettacolo e cultura teatrale</container-title>
+        <pages>45-78.</pages>
+        <location>Roma:</location>
+        <publisher>Edizioni di Storia e Letteratura.</publisher>
+    </sequence>
+    <sequence>
+        <author>Pellegrino, F., &amp; Costa, G.</author>
+        <date>2021.</date>
+        <title>Reumatologia clinica.</title>
+        <editor>Ferrara, D.</editor>
+        <container-title>Malattie autoimmuni sistemiche</container-title>
+        <pages>145-178.</pages>
+        <location>Torino:</location>
+        <publisher>Edizioni Minerva Medica.</publisher>
+        <isbn>9788877118456</isbn>
+    </sequence>
+    <sequence>
+        <author>Marini, R.</author>
+        <date>2017.</date>
+        <title>Epigrafia greca e romana.</title>
+        <editor>Donati, L., &amp; Monti, S.</editor>
+        <container-title>Antichità classiche epigrafiche</container-title>
+        <pages>89-123.</pages>
+        <location>Bari:</location>
+        <publisher>Edipuglia.</publisher>
+    </sequence>
+    <sequence>
+        <author>Ricci, M., &amp; Benedetti, A.</author>
+        <date>2022.</date>
+        <title>Infettivologia tropicale.</title>
+        <editor>Basile, M.</editor>
+        <container-title>Malattie infettive emergenti</container-title>
+        <pages>67-98.</pages>
+        <location>Roma:</location>
+        <publisher>Edizioni Magi.</publisher>
+        <isbn>9788874334234</isbn>
+    </sequence>
+    <sequence>
+        <author>Testa, D.</author>
+        <date>2019.</date>
+        <title>Psicologia ambientale.</title>
+        <editor>Marchese, L., &amp; Sala, F.</editor>
+        <container-title>Ambiente e comportamento umano</container-title>
+        <pages>156-189.</pages>
+        <location>Milano:</location>
+        <publisher>FrancoAngeli.</publisher>
+    </sequence>
+    <sequence>
+        <author>Giordano, F., &amp; Parisi, R.</author>
+        <date>2020.</date>
+        <title>Allergologia pediatrica.</title>
+        <editor>Greco, F.</editor>
+        <container-title>Immunologia pediatrica clinica</container-title>
+        <edition>4th ed.</edition>
+        <pages>123-156.</pages>
+        <location>Bologna:</location>
+        <publisher>Società Editrice Esculapio.</publisher>
+        <isbn>9788874888901</isbn>
+    </sequence>
+    <sequence>
+        <author>Vitali, S.</author>
+        <date>2018.</date>
+        <title>Politiche ambientali europee.</title>
+        <editor>Lombardi, T., &amp; Ricci, D.</editor>
+        <container-title>Sostenibilità e governance UE</container-title>
+        <pages>189-223.</pages>
+        <location>Bologna:</location>
+        <publisher>Società Editrice Il Mulino.</publisher>
+    </sequence>
+    <sequence>
+        <author>Monti, L., &amp; Ferrari, M.</author>
+        <date>2021.</date>
+        <title>Neuropsicologia clinica.</title>
+        <editor>Donati, F.</editor>
+        <container-title>Valutazione e riabilitazione cognitiva</container-title>
+        <pages>45-78.</pages>
+        <location>Roma:</location>
+        <publisher>Edizioni Magi.</publisher>
+        <isbn>9788874334567</isbn>
+    </sequence>
+    <sequence>
+        <author>Barone, G.</author>
+        <date>2017.</date>
+        <title>Archeologia industriale italiana.</title>
+        <editor>Pellegrini, R., &amp; Costa, D.</editor>
+        <container-title>Patrimonio industriale e memoria</container-title>
+        <pages>234-267.</pages>
+        <location>Milano:</location>
+        <publisher>FrancoAngeli.</publisher>
+    </sequence>
+    <sequence>
+        <author>Fabbri, L., &amp; Galli, S.</author>
+        <date>2022.</date>
+        <translator>Traduzione di Romano, P.</translator>
+        <title>Oncologia geriatrica.</title>
+        <editor>Veronesi, S.</editor>
+        <container-title>Cancro e terza età</container-title>
+        <pages>89-123.</pages>
+        <location>Torino:</location>
+        <publisher>Edizioni Minerva Medica.</publisher>
+        <isbn>9788877119567</isbn>
+    </sequence>
+    <sequence>
+        <author>Santoro, F.</author>
+        <date>2019.</date>
+        <title>Fonetica sperimentale italiana.</title>
+        <editor>Marini, M., &amp; Testa, G.</editor>
+        <container-title>Scienze del linguaggio sperimentali</container-title>
+        <pages>156-189.</pages>
+        <location>Pisa:</location>
+        <publisher>Edizioni ETS.</publisher>
+    </sequence>
+    <sequence>
+        <author>Conti, S., &amp; Benedetti, D.</author>
+        <date>2020.</date>
+        <title>Cardiologia dello sport.</title>
+        <editor>Ferrara, R.</editor>
+        <container-title>Medicina sportiva cardiaca</container-title>
+        <edition>3rd ed.</edition>
+        <pages>67-98.</pages>
+        <location>Roma:</location>
+        <publisher>Il Pensiero Scientifico Editore.</publisher>
+        <isbn>9788849023890</isbn>
+    </sequence>
+    <sequence>
+        <author>Leone, F.</author>
+        <date>2018.</date>
+        <title>Geopolitica del Mediterraneo.</title>
+        <editor>Gallo, M., &amp; Sala, L.</editor>
+        <container-title>Relazioni internazionali mediterranee</container-title>
+        <pages>123-156.</pages>
+        <location>Roma:</location>
+        <publisher>Aracne Editrice.</publisher>
+    </sequence>
+    <sequence>
+        <author>Palmieri, R., &amp; Marchetti, F.</author>
+        <date>2021.</date>
+        <title>Endocrinologia diabetologica.</title>
+        <editor>Basile, L.</editor>
+        <container-title>Diabete e metabolismo</container-title>
+        <pages>189-223.</pages>
+        <location>Bologna:</location>
+        <publisher>Società Editrice Esculapio.</publisher>
+        <isbn>9788874889123</isbn>
+    </sequence>
+    <sequence>
+        <author>D'Amico, F.</author>
+        <date>2017.</date>
+        <title>Critica letteraria strutturale.</title>
+        <editor>Rossi, M., &amp; Neri, D.</editor>
+        <container-title>Teoria della narrazione</container-title>
+        <pages>45-78.</pages>
+        <location>Roma:</location>
+        <publisher>Carocci Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Ferrara, S., &amp; Lombardi, R.</author>
+        <date>2022.</date>
+        <title>Geriatria palliativa.</title>
+        <editor>Greco, R.</editor>
+        <container-title>Cure palliative e terza età</container-title>
+        <pages>145-178.</pages>
+        <location>Milano:</location>
+        <publisher>Edizioni Medico-Scientifiche.</publisher>
+        <isbn>9788878345901</isbn>
+    </sequence>
+    <sequence>
+        <author>Giuliani, R.</author>
+        <date>2019.</date>
+        <title>Urbanistica partecipata.</title>
+        <editor>Barbieri, F., &amp; Monti, D.</editor>
+        <container-title>Pianificazione e partecipazione civica</container-title>
+        <pages>234-267.</pages>
+        <location>Torino:</location>
+        <publisher>Rosenberg &amp; Sellier.</publisher>
+    </sequence>
+    <sequence>
+        <author>Benedetti, G., &amp; Parisi, S.</author>
+        <date>2020.</date>
+        <translator>Traduzione di Vitali, M.</translator>
+        <title>Psichiatria infantile.</title>
+        <editor>Donati, R.</editor>
+        <container-title>Neuropsichiatria infantile clinica</container-title>
+        <edition>5th ed.</edition>
+        <pages>89-123.</pages>
+        <location>Roma:</location>
+        <publisher>Edizioni Magi.</publisher>
+        <isbn>9788874334678</isbn>
+    </sequence>
+    <sequence>
+        <author>Marchese, R.</author>
+        <date>2018.</date>
+        <title>Archeologia fenicio-punica.</title>
+        <editor>Pellegrino, D., &amp; Sala, S.</editor>
+        <container-title>Civiltà fenicia nel Mediterraneo</container-title>
+        <pages>156-189.</pages>
+        <location>Sassari:</location>
+        <publisher>Edizioni Indesidera.</publisher>
+    </sequence>
+    <sequence>
+        <author>Colombo, R., &amp; Ferrari, L.</author>
+        <date>2021.</date>
+        <title>Anestesiologia regionale.</title>
+        <editor>Ferraro, M.</editor>
+        <container-title>Tecniche anestesiologiche avanzate</container-title>
+        <pages>67-98.</pages>
+        <location>Torino:</location>
+        <publisher>Edizioni Minerva Medica.</publisher>
+        <isbn>9788877118678</isbn>
+    </sequence>
+    <sequence>
+        <author>Ricciardi, S.</author>
+        <date>2017.</date>
+        <title>Sociologia della devianza.</title>
+        <editor>Marini, F., &amp; Testa, L.</editor>
+        <container-title>Comportamento deviante e controllo sociale</container-title>
+        <pages>123-156.</pages>
+        <location>Milano:</location>
+        <publisher>FrancoAngeli.</publisher>
+    </sequence>
+    <sequence>
+        <author>Conti, R., &amp; Benedetti, S.</author>
+        <date>2022.</date>
+        <title>Fisiatria riabilitativa.</title>
+        <editor>Basile, G.</editor>
+        <container-title>Riabilitazione funzionale motoria</container-title>
+        <pages>189-223.</pages>
+        <location>Bologna:</location>
+        <publisher>Società Editrice Esculapio.</publisher>
+        <isbn>9788874889234</isbn>
+    </sequence>
+    <sequence>
+        <author>Leone, D.</author>
+        <date>2019.</date>
+        <title>Storia della scienza italiana.</title>
+        <editor>Galli, R., &amp; Neri, M.</editor>
+        <container-title>Cultura scientifica italiana</container-title>
+        <pages>45-78.</pages>
+        <location>Firenze:</location>
+        <publisher>Olschki Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Ferri, M., &amp; Lombardo, S.</author>
+        <date>2020.</date>
+        <title>Oncologia ematologica.</title>
+        <editor>Verdi, F.</editor>
+        <container-title>Tumori del sangue</container-title>
+        <edition>4th ed.</edition>
+        <pages>234-267.</pages>
+        <location>Roma:</location>
+        <publisher>Il Pensiero Scientifico Editore.</publisher>
+        <isbn>9788849023901</isbn>
+    </sequence>
+    <sequence>
+        <author>Testa, R.</author>
+        <date>2018.</date>
+        <title>Linguistica dei corpora.</title>
+        <editor>Barone, D., &amp; Ricci, F.</editor>
+        <container-title>Analisi testuale computazionale</container-title>
+        <pages>89-123.</pages>
+        <location>Pisa:</location>
+        <publisher>Edizioni della Normale.</publisher>
+    </sequence>
+    <sequence>
+        <author>Giordano, S., &amp; Parisi, D.</author>
+        <date>2021.</date>
+        <translator>Traduzione di Colombo, A.</translator>
+        <title>Neurologia vascolare.</title>
+        <editor>Silvestri, R.</editor>
+        <container-title>Ictus e malattie cerebrovascolari</container-title>
+        <pages>156-189.</pages>
+        <location>Torino:</location>
+        <publisher>Edizioni Minerva Medica.</publisher>
+        <isbn>9788877119678</isbn>
+    </sequence>
+    <sequence>
+        <author>Vitali, M.</author>
+        <date>2017.</date>
+        <title>Archeologia cristiana antica.</title>
+        <editor>Donati, S., &amp; Monti, F.</editor>
+        <container-title>Antichità cristiane e archeologia</container-title>
+        <pages>67-98.</pages>
+        <location>Roma:</location>
+        <publisher>Pontificio Istituto di Archeologia Cristiana.</publisher>
+    </sequence>
+    <sequence>
+        <author>Monti, D., &amp; Ferrari, S.</author>
+        <date>2022.</date>
+        <title>Medicina legale penale.</title>
+        <editor>Greco, M.</editor>
+        <container-title>Scienze forensi e diritto penale</container-title>
+        <pages>123-156.</pages>
+        <location>Milano:</location>
+        <publisher>Giuffrè Editore.</publisher>
+        <isbn>9788828876890</isbn>
+    </sequence>
+    <sequence>
+        <author>Barbieri, L.</author>
+        <date>2019.</date>
+        <title>Ecoturismo sostenibile.</title>
+        <editor>Pellegrini, M., &amp; Sala, R.</editor>
+        <container-title>Turismo e ambiente</container-title>
+        <pages>189-223.</pages>
+        <location>Bologna:</location>
+        <publisher>Edizioni Ambiente.</publisher>
+    </sequence>
+    <sequence>
+        <author>Fabbri, D., &amp; Galli, L.</author>
+        <date>2020.</date>
+        <title>Pediatria neonatale.</title>
+        <editor>Ferrara, L.</editor>
+        <container-title>Neonatologia clinica avanzata</container-title>
+        <edition>6th ed.</edition>
+        <pages>234-267.</pages>
+        <location>Roma:</location>
+        <publisher>Il Pensiero Scientifico Editore.</publisher>
+        <isbn>9788849024012</isbn>
+    </sequence>
+    <sequence>
+        <author>Santoro, D.</author>
+        <date>2018.</date>
+        <title>Filosofia della mente contemporanea.</title>
+        <editor>Marini, S., &amp; Testa, M.</editor>
+        <container-title>Coscienza e cognizione</container-title>
+        <pages>45-78.</pages>
+        <location>Milano:</location>
+        <publisher>Raffaello Cortina Editore.</publisher>
+    </sequence>
+    <sequence>
+        <author>Conti, A., &amp; Benedetti, M.</author>
+        <date>2021.</date>
+        <title>Chirurgia plastica ricostruttiva.</title>
+        <editor>Basile, S.</editor>
+        <container-title>Ricostruzione tissutale avanzata</container-title>
+        <pages>145-178.</pages>
+        <location>Torino:</location>
+        <publisher>Edizioni Minerva Medica.</publisher>
+        <isbn>9788877119789</isbn>
+    </sequence>
+    <sequence>
+        <author>Leone, M.</author>
+        <date>2017.</date>
+        <title>Storia delle mafie italiane.</title>
+        <editor>Gallo, F., &amp; Neri, R.</editor>
+        <container-title>Criminalità organizzata in Italia</container-title>
+        <pages>89-123.</pages>
+        <location>Bari:</location>
+        <publisher>Editori Laterza.</publisher>
+    </sequence>
+    <sequence>
+        <author>Palmieri, S., &amp; Marchetti, D.</author>
+        <date>2022.</date>
+        <translator>Traduzione di Ricci, A.</translator>
+        <title>Virologia molecolare.</title>
+        <editor>Donati, L.</editor>
+        <container-title>Virus e patogenesi</container-title>
+        <pages>67-98.</pages>
+        <location>Bologna:</location>
+        <publisher>Società Editrice Esculapio.</publisher>
+        <isbn>9788874889345</isbn>
+    </sequence>
+    <sequence>
+        <author>D'Angelo, M.</author>
+        <date>2019.</date>
+        <title>Geografia culturale italiana.</title>
+        <editor>Rossi, L., &amp; Sala, D.</editor>
+        <container-title>Cultura e territorio italiano</container-title>
+        <pages>156-189.</pages>
+        <location>Milano:</location>
+        <publisher>FrancoAngeli.</publisher>
+    </sequence>
+    <sequence>
+        <author>Ferrara, M., &amp; Lombardi, D.</author>
+        <date>2020.</date>
+        <title>Oftalmologia pediatrica.</title>
+        <editor>Veronesi, D.</editor>
+        <container-title>Oculistica infantile clinica</container-title>
+        <edition>2nd ed.</edition>
+        <pages>123-156.</pages>
+        <location>Roma:</location>
+        <publisher>Edizioni Scientifiche Italiane.</publisher>
+        <isbn>9788849567456</isbn>
+    </sequence>
+    <sequence>
+        <author>Giuliani, F.</author>
+        <date>2018.</date>
+        <title>Musicologia medievale.</title>
+        <editor>Barone, M., &amp; Ricci, S.</editor>
+        <container-title>Musica sacra medievale</container-title>
+        <pages>189-223.</pages>
+        <location>Lucca:</location>
+        <publisher>Libreria Musicale Italiana.</publisher>
+    </sequence>
+</dataset>
