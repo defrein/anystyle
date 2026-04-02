@@ -1,0 +1,1445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <sequence>
+        <author>Durand, P.</author>
+        <date>(2020).</date>
+        <title>La sociologie française contemporaine.</title>
+        <publisher>Presses Universitaires de France</publisher>
+        <location>Paris</location>
+        <edition>2e éd.</edition>
+        <isbn>9782130547983</isbn>
+    </sequence>
+    <sequence>
+        <author>Martin, C. &amp; Bernard, L.</author>
+        <date>(2019).</date>
+        <title>Introduction à la philosophie moderne.</title>
+        <publisher>Gallimard</publisher>
+        <location>Paris</location>
+        <isbn>9782070123456</isbn>
+    </sequence>
+    <sequence>
+        <author>Petit, J.</author>
+        <date>(2021).</date>
+        <title>Les mutations du capitalisme.</title>
+        <publisher>La Découverte</publisher>
+        <location>Paris</location>
+        <edition>3e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Dubois, M.</author>
+        <date>(2018).</date>
+        <title>Histoire de la littérature française.</title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+        <translator>Smith, A.</translator>
+        <isbn>9782200123456</isbn>
+    </sequence>
+    <sequence>
+        <author>Leroy, F.</author>
+        <date>(2022).</date>
+        <title>Économie politique: Théories et pratiques.</title>
+        <publisher>Dalloz</publisher>
+        <location>Paris</location>
+        <edition>5e éd.</edition>
+        <isbn>9782247201234</isbn>
+    </sequence>
+    <sequence>
+        <author>Moreau, A.</author>
+        <date>(2020).</date>
+        <title>La psychologie cognitive.</title>
+        <publisher>Odile Jacob</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Roux, P. &amp; Garnier, S.</author>
+        <date>(2019).</date>
+        <title>Manuel de droit constitutionnel.</title>
+        <publisher>LexisNexis</publisher>
+        <location>Paris</location>
+        <edition>4e éd.</edition>
+        <isbn>9782711034567</isbn>
+    </sequence>
+    <sequence>
+        <author>Blanc, J.</author>
+        <date>(2021).</date>
+        <title>Les enjeux de l'intelligence artificielle.</title>
+        <publisher>FYP Éditions</publisher>
+        <location>Limoges</location>
+        <translator>Bernard, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Fournier, M.</author>
+        <date>(2018).</date>
+        <title>Géopolitique du XXIe siècle.</title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+        <edition>2e éd.</edition>
+        <isbn>9782200612345</isbn>
+    </sequence>
+    <sequence>
+        <author>Girard, P.</author>
+        <date>(2020).</date>
+        <title>La révolution numérique.</title>
+        <publisher>Bourin Éditeur</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Lambert, C.</author>
+        <date>(2019).</date>
+        <title>Précis de littérature comparée.</title>
+        <publisher>Presses Sorbonne Nouvelle</publisher>
+        <location>Paris</location>
+        <isbn>9782878549876</isbn>
+    </sequence>
+    <sequence>
+        <author>Thomas, L.</author>
+        <date>(2022).</date>
+        <title>Comprendre la mondialisation.</title>
+        <publisher>La Documentation Française</publisher>
+        <location>Paris</location>
+        <edition>6e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Legrand, P. &amp; Dupont, C.</author>
+        <date>(2021).</date>
+        <title>Traité de philosophie politique.</title>
+        <publisher>PUF</publisher>
+        <location>Paris</location>
+        <isbn>9782130678901</isbn>
+    </sequence>
+    <sequence>
+        <author>Mercier, A.</author>
+        <date>(2020).</date>
+        <title>Les transformations du travail.</title>
+        <publisher>Raisons d'Agir</publisher>
+        <location>Paris</location>
+        <translator>Müller, H.</translator>
+    </sequence>
+    <sequence>
+        <author>Renard, J.</author>
+        <date>(2019).</date>
+        <title>Introduction aux sciences politiques.</title>
+        <publisher>Montchrestien</publisher>
+        <location>Paris</location>
+        <edition>3e éd.</edition>
+        <isbn>9782707623456</isbn>
+    </sequence>
+    <sequence>
+        <author>Gauthier, M.</author>
+        <date>(2018).</date>
+        <title>La crise écologique et ses défis.</title>
+        <publisher>Seuil</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Lemoine, S.</author>
+        <date>(2021).</date>
+        <title>Sociologie des organisations.</title>
+        <publisher>La Découverte</publisher>
+        <location>Paris</location>
+        <edition>2e éd.</edition>
+        <isbn>9782707198765</isbn>
+    </sequence>
+    <sequence>
+        <author>Dufour, A.</author>
+        <date>(2020).</date>
+        <title>Le droit des affaires.</title>
+        <publisher>Sirey</publisher>
+        <location>Paris</location>
+        <translator>Rossi, G.</translator>
+    </sequence>
+    <sequence>
+        <author>Perrin, C.</author>
+        <date>(2019).</date>
+        <title>Histoire économique de la France.</title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+        <edition>4e éd.</edition>
+        <isbn>9782200287654</isbn>
+    </sequence>
+    <sequence>
+        <author>Masson, P.</author>
+        <date>(2022).</date>
+        <title>Les politiques publiques européennes.</title>
+        <publisher>Presses de Sciences Po</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Laurent, M.</author>
+        <date>(2021).</date>
+        <title>Penser l'urbanisme.</title>
+        <publisher>Éditions de la Villette</publisher>
+        <location>Paris</location>
+        <isbn>9782915056789</isbn>
+    </sequence>
+    <sequence>
+        <author>Muller, J.</author>
+        <date>(2020).</date>
+        <title>La communication digitale.</title>
+        <publisher>Vuibert</publisher>
+        <location>Paris</location>
+        <edition>2e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Simon, P.</author>
+        <date>(2019).</date>
+        <title>Anthropologie culturelle.</title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+        <translator>Levy, R.</translator>
+        <isbn>9782200567890</isbn>
+    </sequence>
+    <sequence>
+        <author>Michel, A.</author>
+        <date>(2018).</date>
+        <title>Les Fondamentaux du management.</title>
+        <publisher>Dunod</publisher>
+        <location>Paris</location>
+        <edition>5e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Lefebvre, J.</author>
+        <date>(2021).</date>
+        <title>Philosophie des sciences.</title>
+        <publisher>Vrin</publisher>
+        <location>Paris</location>
+        <isbn>9782711634567</isbn>
+    </sequence>
+    <sequence>
+        <author>Clement, S.</author>
+        <date>(2020).</date>
+        <title>La finance internationale.</title>
+        <publisher>Eyrolles</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Joly, P.</author>
+        <date>(2019).</date>
+        <title>Sociologie de l'éducation.</title>
+        <publisher>La Découverte</publisher>
+        <location>Paris</location>
+        <edition>3e éd.</edition>
+        <isbn>9782707176543</isbn>
+    </sequence>
+    <sequence>
+        <author>Roussel, M.</author>
+        <date>(2022).</date>
+        <title>Introduction à la criminologie.</title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+        <translator>Klein, F.</translator>
+    </sequence>
+    <sequence>
+        <author>Vincent, L.</author>
+        <date>(2021).</date>
+        <title>Le système de santé français.</title>
+        <publisher>Presses EHESP</publisher>
+        <location>Rennes</location>
+        <edition>4e éd.</edition>
+        <isbn>9782810905678</isbn>
+    </sequence>
+    <sequence>
+        <author>Fabre, C.</author>
+        <date>(2020).</date>
+        <title>Linguistique générale.</title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Aubert, P.</author>
+        <date>(2019).</date>
+        <title>Stratégies marketing.</title>
+        <publisher>Dunod</publisher>
+        <location>Paris</location>
+        <edition>6e éd.</edition>
+        <isbn>9782100789012</isbn>
+    </sequence>
+    <sequence>
+        <author>Prevost, M.</author>
+        <date>(2018).</date>
+        <title>La musique contemporaine.</title>
+        <publisher>Éditions MF</publisher>
+        <location>Paris</location>
+        <translator>Anderson, K.</translator>
+    </sequence>
+    <sequence>
+        <author>Bourgeois, J.</author>
+        <date>(2021).</date>
+        <title>Droit international privé.</title>
+        <publisher>Dalloz</publisher>
+        <location>Paris</location>
+        <edition>2e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Gaillard, S.</author>
+        <date>(2020).</date>
+        <title>L'art moderne et contemporain.</title>
+        <publisher>Citadelles &amp; Mazenod</publisher>
+        <location>Paris</location>
+        <isbn>9782850886543</isbn>
+    </sequence>
+    <sequence>
+        <author>Picard, A.</author>
+        <date>(2019).</date>
+        <title>Comptabilité et gestion.</title>
+        <publisher>Dunod</publisher>
+        <location>Paris</location>
+        <edition>8e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Roche, M.</author>
+        <date>(2022).</date>
+        <title>Les réseaux sociaux.</title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+        <translator>Schmidt, L.</translator>
+        <isbn>9782200987654</isbn>
+    </sequence>
+    <sequence>
+        <author>Chevalier, P.</author>
+        <date>(2021).</date>
+        <title>Histoire des idées politiques.</title>
+        <publisher>PUF</publisher>
+        <location>Paris</location>
+        <edition>3e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Henry, L.</author>
+        <date>(2020).</date>
+        <title>Management des ressources humaines.</title>
+        <publisher>Emans</publisher>
+        <location>Paris</location>
+        <isbn>9782708109876</isbn>
+    </sequence>
+    <sequence>
+        <author>Noel, C.</author>
+        <date>(2019).</date>
+        <title>La bioéthique.</title>
+        <publisher>PUF</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Guerin, R.</author>
+        <date>(2018).</date>
+        <title>Physique quantique pour tous.</title>
+        <publisher>Odile Jacob</publisher>
+        <location>Paris</location>
+        <translator>Fischer, M.</translator>
+        <isbn>9782738187654</isbn>
+    </sequence>
+    <sequence>
+        <author>Bonnet, D.</author>
+        <date>(2021).</date>
+        <title>Économie du développement.</title>
+        <publisher>La Découverte</publisher>
+        <location>Paris</location>
+        <edition>2e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Marchand, F.</author>
+        <date>(2020).</date>
+        <title>La photographie contemporaine.</title>
+        <publisher>Textuel</publisher>
+        <location>Paris</location>
+        <isbn>9782845977654</isbn>
+    </sequence>
+    <sequence>
+        <author>Lemaire, A.</author>
+        <date>(2019).</date>
+        <title>Sociologie des médias.</title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+        <edition>4e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Giraud, M.</author>
+        <date>(2022).</date>
+        <title>Le commerce électronique.</title>
+        <publisher>Vuibert</publisher>
+        <location>Paris</location>
+        <translator>Johnson, S.</translator>
+        <isbn>9782311567890</isbn>
+    </sequence>
+    <sequence>
+        <author>Deschamps, P.</author>
+        <date>(2021).</date>
+        <title>Philosophie morale.</title>
+        <publisher>Flammarion</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Leclerc, J.</author>
+        <date>(2020).</date>
+        <title>Gestion de projet.</title>
+        <publisher>Éditions d'Organisation</publisher>
+        <location>Paris</location>
+        <edition>5e éd.</edition>
+        <isbn>9782708123456</isbn>
+    </sequence>
+    <sequence>
+        <author>Rolland, S.</author>
+        <date>(2019).</date>
+        <title>La littérature du XIXe siècle.</title>
+        <publisher>Presses Universitaires de Rennes</publisher>
+        <location>Rennes</location>
+    </sequence>
+    <sequence>
+        <author>Guyot, L.</author>
+        <date>(2018).</date>
+        <title>Droit administratif.</title>
+        <publisher>Montchrestien</publisher>
+        <location>Paris</location>
+        <edition>7e éd.</edition>
+        <translator>Weber, A.</translator>
+        <isbn>9782707654321</isbn>
+    </sequence>
+    <sequence>
+        <author>Moulin, C.</author>
+        <date>(2021).</date>
+        <title>Psychologie sociale.</title>
+        <publisher>De Boeck</publisher>
+        <location>Bruxelles</location>
+    </sequence>
+    <sequence>
+        <author>Poirier, M.</author>
+        <date>(2020).</date>
+        <title>L'économie circulaire.</title>
+        <publisher>Charles Léopold Mayer</publisher>
+        <location>Paris</location>
+        <isbn>9782843776543</isbn>
+    </sequence>
+    <sequence>
+        <author>Charrier, A.</author>
+        <date>(2019).</date>
+        <title>Sciences de l'information.</title>
+        <publisher>Presses de l'ENSSIB</publisher>
+        <location>Villeurbanne</location>
+        <edition>2e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Blanchard, P.</author>
+        <date>(2022).</date>
+        <title>Management interculturel.</title>
+        <publisher>Emans</publisher>
+        <location>Paris</location>
+        <translator>Cohen, D.</translator>
+    </sequence>
+    <sequence>
+        <author>Meunier, S.</author>
+        <date>(2021).</date>
+        <title>Histoire sociale de la France.</title>
+        <publisher>La Découverte</publisher>
+        <location>Paris</location>
+        <isbn>9782707198234</isbn>
+    </sequence>
+    <sequence>
+        <author>Caron, J.</author>
+        <date>(2020).</date>
+        <title>Le cloud computing.</title>
+        <publisher>Dunod</publisher>
+        <location>Paris</location>
+        <edition>3e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Dumas, F.</author>
+        <date>(2019).</date>
+        <title>Anthropologie sociale.</title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+        <isbn>9782200345678</isbn>
+    </sequence>
+    <sequence>
+        <author>Pelletier, R.</author>
+        <date>(2018).</date>
+        <title>La propriété intellectuelle.</title>
+        <publisher>Litec</publisher>
+        <location>Paris</location>
+        <translator>Brown, T.</translator>
+    </sequence>
+    <sequence>
+        <author>Gros, M.</author>
+        <date>(2021).</date>
+        <title>Écologie politique.</title>
+        <publisher>Presses de Sciences Po</publisher>
+        <location>Paris</location>
+        <edition>2e éd.</edition>
+        <isbn>9782724632109</isbn>
+    </sequence>
+    <sequence>
+        <author>Leclercq, P.</author>
+        <date>(2020).</date>
+        <title>Introduction au droit.</title>
+        <publisher>Sirey</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Barre, L.</author>
+        <date>(2019).</date>
+        <title>Les théories de la personnalité.</title>
+        <publisher>Mardaga</publisher>
+        <location>Bruxelles</location>
+        <edition>4e éd.</edition>
+        <isbn>9782804708765</isbn>
+    </sequence>
+    <sequence>
+        <author>Colin, A.</author>
+        <date>(2022).</date>
+        <title>Marketing digital.</title>
+        <publisher>Vuibert</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Boucher, C.</author>
+        <date>(2021).</date>
+        <title>Philosophie de l'art.</title>
+        <publisher>PUF</publisher>
+        <location>Paris</location>
+        <translator>Garcia, E.</translator>
+        <edition>3e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Rey, J.</author>
+        <date>(2020).</date>
+        <title>Sociologie urbaine.</title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+        <isbn>9782200298765</isbn>
+    </sequence>
+    <sequence>
+        <author>Perrot, M.</author>
+        <date>(2019).</date>
+        <title>L'histoire du christianisme.</title>
+        <publisher>Bayard</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Benoit, P.</author>
+        <date>(2018).</date>
+        <title>Management stratégique.</title>
+        <publisher>Pearson</publisher>
+        <location>Paris</location>
+        <edition>5e éd.</edition>
+        <translator>Wilson, R.</translator>
+        <isbn>9782326001234</isbn>
+    </sequence>
+    <sequence>
+        <author>Gaudin, S.</author>
+        <date>(2021).</date>
+        <title>La nanotechnologie.</title>
+        <publisher>Le Pommier</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Coulon, M.</author>
+        <date>(2020).</date>
+        <title>Droit pénal général.</title>
+        <publisher>Dalloz</publisher>
+        <location>Paris</location>
+        <edition>12e éd.</edition>
+        <isbn>9782247209876</isbn>
+    </sequence>
+    <sequence>
+        <author>Paris, L.</author>
+        <date>(2019).</date>
+        <title>Les mutations du service public.</title>
+        <publisher>La Documentation Française</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Imbert, J.</author>
+        <date>(2022).</date>
+        <title>Critique littéraire.</title>
+        <publisher>Éditions Classiques Garnier</publisher>
+        <location>Paris</location>
+        <translator>Martin, O.</translator>
+    </sequence>
+    <sequence>
+        <author>Hubert, A.</author>
+        <date>(2021).</date>
+        <title>Économie monétaire.</title>
+        <publisher>De Boeck</publisher>
+        <location>Louvain-la-Neuve</location>
+        <edition>6e éd.</edition>
+        <isbn>9782807308765</isbn>
+    </sequence>
+    <sequence>
+        <author>Hamelin, P.</author>
+        <date>(2020).</date>
+        <title>La cybersécurité.</title>
+        <publisher>Ellipses</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>David, C.</author>
+        <date>(2019).</date>
+        <title>Histoire de la psychanalyse.</title>
+        <publisher>PUF</publisher>
+        <location>Paris</location>
+        <edition>3e éd.</edition>
+        <isbn>9782130543210</isbn>
+    </sequence>
+    <sequence>
+        <author>Guillot, M.</author>
+        <date>(2018).</date>
+        <title>Gestion financière.</title>
+        <publisher>Dunod</publisher>
+        <location>Paris</location>
+        <translator>Anderson, P.</translator>
+    </sequence>
+    <sequence>
+        <author>Renaud, S.</author>
+        <date>(2021).</date>
+        <title>Sociologie du sport.</title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Lejeune, A.</author>
+        <date>(2020).</date>
+        <title>Les énergies renouvelables.</title>
+        <publisher>Technip</publisher>
+        <location>Paris</location>
+        <isbn>9782710812345</isbn>
+    </sequence>
+    <sequence>
+        <author>Auguste, L.</author>
+        <date>(2019).</date>
+        <title>Philosophie existentialiste.</title>
+        <publisher>Gallimard</publisher>
+        <location>Paris</location>
+        <edition>2e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Labbe, P.</author>
+        <date>(2022).</date>
+        <title>Communication publique.</title>
+        <publisher>De Boeck</publisher>
+        <location>Bruxelles</location>
+        <translator>Petit, R.</translator>
+        <isbn>9782807309012</isbn>
+    </sequence>
+    <sequence>
+        <author>Thibault, M.</author>
+        <date>(2021).</date>
+        <title>Droit du travail.</title>
+        <publisher>Sirey</publisher>
+        <location>Paris</location>
+        <edition>9e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Magnin, C.</author>
+        <date>(2020).</date>
+        <title>La céramique contemporaine.</title>
+        <publisher>Eyrolles</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Bonin, J.</author>
+        <date>(2019).</date>
+        <title>Histoire des relations internationales.</title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+        <isbn>9782200276543</isbn>
+        <translator>Kowalski, J.</translator>
+    </sequence>
+    <sequence>
+        <author>Payet, S.</author>
+        <date>(2018).</date>
+        <title>Management public.</title>
+        <publisher>De Boeck</publisher>
+        <location>Bruxelles</location>
+        <edition>4e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Bertrand, L.</author>
+        <date>(2021).</date>
+        <title>Neurosciences cognitives.</title>
+        <publisher>Odile Jacob</publisher>
+        <location>Paris</location>
+        <isbn>9782738198765</isbn>
+    </sequence>
+    <sequence>
+        <author>Forest, M.</author>
+        <date>(2020).</date>
+        <title>Le développement durable.</title>
+        <publisher>La Découverte</publisher>
+        <location>Paris</location>
+        <edition>5e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Delmas, P.</author>
+        <date>(2019).</date>
+        <title>Analyse des politiques publiques.</title>
+        <publisher>PUF</publisher>
+        <location>Paris</location>
+        <translator>Clark, M.</translator>
+        <isbn>9782130654321</isbn>
+    </sequence>
+    <sequence>
+        <author>Maury, A.</author>
+        <date>(2022).</date>
+        <title>Théorie des organisations.</title>
+        <publisher>Emans</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Pruvost, J.</author>
+        <date>(2021).</date>
+        <title>Lexicologie française.</title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+        <edition>3e éd.</edition>
+        <isbn>9782200567123</isbn>
+    </sequence>
+    <sequence>
+        <author>Guibert, C.</author>
+        <date>(2020).</date>
+        <title>Sociologie de la culture.</title>
+        <publisher>La Découverte</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Mathieu, L.</author>
+        <date>(2019).</date>
+        <title>Le jazz en France.</title>
+        <publisher>Éditions MF</publisher>
+        <location>Paris</location>
+        <translator>Davis, K.</translator>
+    </sequence>
+    <sequence>
+        <author>Doreau, S.</author>
+        <date>(2018).</date>
+        <title>Fiscalité des entreprises.</title>
+        <publisher>LexisNexis</publisher>
+        <location>Paris</location>
+        <edition>7e éd.</edition>
+        <isbn>9782711034098</isbn>
+    </sequence>
+    <sequence>
+        <author>Lacombe, P.</author>
+        <date>(2021).</date>
+        <title>Introduction à l'ethnologie.</title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Ferry, M.</author>
+        <date>(2020).</date>
+        <title>Philosophie politique contemporaine.</title>
+        <publisher>Plon</publisher>
+        <location>Paris</location>
+        <isbn>9782259123456</isbn>
+    </sequence>
+    <sequence>
+        <author>Pons, A.</author>
+        <date>(2019).</date>
+        <title>La statistique appliquée.</title>
+        <publisher>De Boeck</publisher>
+        <location>Bruxelles</location>
+        <edition>4e éd.</edition>
+        <translator>Lewis, H.</translator>
+    </sequence>
+    <sequence>
+        <author>Saunders, J.</author>
+        <date>(2022).</date>
+        <title>Recherche opérationnelle.</title>
+        <publisher>Dunod</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Millot, C.</author>
+        <date>(2021).</date>
+        <title>Histoire du féminisme.</title>
+        <publisher>Éditions du Seuil</publisher>
+        <location>Paris</location>
+        <isbn>9782021345678</isbn>
+    </sequence>
+    <sequence>
+        <author>Boudon, R.</author>
+        <date>(2020).</date>
+        <title>La rationalité.</title>
+        <publisher>PUF</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Klein, S.</author>
+        <date>(2019).</date>
+        <title>Architecture bioclimatique.</title>
+        <publisher>Éditions Eyrolles</publisher>
+        <location>Paris</location>
+        <translator>Nomura, T.</translator>
+        <edition>2e éd.</edition>
+        <isbn>9782212345678</isbn>
+    </sequence>
+    <sequence>
+        <author>Soulier, M.</author>
+        <date>(2018).</date>
+        <title>Droit commercial.</title>
+        <publisher>Montchrestien</publisher>
+        <location>Paris</location>
+        <edition>10e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Lavigne, A.</author>
+        <date>(2021).</date>
+        <title>Sociologie des migrations.</title>
+        <publisher>Éditions de la MSH</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Chauvin, P.</author>
+        <date>(2020).</date>
+        <title>L'investissement responsable.</title>
+        <publisher>Maxima</publisher>
+        <location>Paris</location>
+        <isbn>9782840018765</isbn>
+    </sequence>
+    <sequence>
+        <author>Guillon, J.</author>
+        <date>(2019).</date>
+        <title>Géographie économique.</title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+        <edition>3e éd.</edition>
+        <translator>Bergman, S.</translator>
+    </sequence>
+    <sequence>
+        <author>Turpin, C.</author>
+        <date>(2022).</date>
+        <title>Droit constitutionnel.</title>
+        <publisher>Colin</publisher>
+        <location>Paris</location>
+        <isbn>9782200789012</isbn>
+    </sequence>
+    <sequence>
+        <author>Parent, L.</author>
+        <date>(2021).</date>
+        <title>La philosophie antique.</title>
+        <publisher>Vrin</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Morel, F.</author>
+        <date>(2020).</date>
+        <title>Management de l'innovation.</title>
+        <publisher>Vuibert</publisher>
+        <location>Paris</location>
+        <edition>2e éd.</edition>
+        <isbn>9782311234567</isbn>
+        <translator>White, L.</translator>
+    </sequence>
+    <sequence>
+        <author>Bourdin, A.</author>
+        <date>(2019).</date>
+        <title>Urbanisme et aménagement.</title>
+        <publisher>PUF</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Gillet, M.</author>
+        <date>(2018).</date>
+        <title>Psychologie du développement.</title>
+        <publisher>De Boeck</publisher>
+        <location>Bruxelles</location>
+        <edition>5e éd.</edition>
+        <isbn>9782804176543</isbn>
+    </sequence>
+    <sequence>
+        <author>Daniel, P.</author>
+        <date>(2021).</date>
+        <title>Économie industrielle.</title>
+        <publisher>Économica</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Pascal, J.</author>
+        <date>(2020).</date>
+        <title>Histoire de l'opéra.</title>
+        <publisher>Fayard</publisher>
+        <location>Paris</location>
+        <translator>Neumann, R.</translator>
+        <isbn>9782213567890</isbn>
+    </sequence>
+    <sequence>
+        <author>Gosselin, C.</author>
+        <date>(2019).</date>
+        <title>Comptabilité approfondie.</title>
+        <publisher>Dunod</publisher>
+        <location>Paris</location>
+        <edition>11e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Mallet, S.</author>
+        <date>(2022).</date>
+        <title>Anthropologie visuelle.</title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Fleury, L.</author>
+        <date>(2021).</date>
+        <title>La communication non-violente.</title>
+        <publisher>Jouvence</publisher>
+        <location>Genève</location>
+        <isbn>9782889118765</isbn>
+    </sequence>
+    <sequence>
+        <author>Lebreton, P.</author>
+        <date>(2020).</date>
+        <title>Sociologie du corps.</title>
+        <publisher>PUF</publisher>
+        <location>Paris</location>
+        <edition>3e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Chevrolet, M.</author>
+        <date>(2019).</date>
+        <title>Droit de la consommation.</title>
+        <publisher>Litec</publisher>
+        <location>Paris</location>
+        <translator>Harris, D.</translator>
+        <isbn>9782711023456</isbn>
+    </sequence>
+    <sequence>
+        <author>Beaulieu, A.</author>
+        <date>(2018).</date>
+        <title>Management agile.</title>
+        <publisher>Dunod</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Lemoine, G.</author>
+        <date>(2021).</date>
+        <title>Les philosophies de l'environnement.</title>
+        <publisher>Vrin</publisher>
+        <location>Paris</location>
+        <isbn>9782711687654</isbn>
+    </sequence>
+    <sequence>
+        <author>Arnaud, C.</author>
+        <date>(2020).</date>
+        <title>Histoire de la Révolution française.</title>
+        <publisher>Tallandier</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Pellet, M.</author>
+        <date>(2019).</date>
+        <title>Droit international public.</title>
+        <publisher>LGDJ</publisher>
+        <location>Paris</location>
+        <edition>14e éd.</edition>
+        <translator>Green, A.</translator>
+        <isbn>9782275054321</isbn>
+    </sequence>
+    <sequence>
+        <author>Sabatier, J.</author>
+        <date>(2022).</date>
+        <title>Marketing stratégique.</title>
+        <publisher>Vuibert</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Bazin, L.</author>
+        <date>(2021).</date>
+        <title>La sociologie économique.</title>
+        <publisher>La Découverte</publisher>
+        <location>Paris</location>
+        <edition>4e éd.</edition>
+        <isbn>9782707187654</isbn>
+    </sequence>
+    <sequence>
+        <author>Tran, S.</author>
+        <date>(2020).</date>
+        <title>Algorithmique et programmation.</title>
+        <publisher>Dunod</publisher>
+        <location>Paris</location>
+        <translator>Kim, Y.</translator>
+    </sequence>
+    <sequence>
+        <author>Monnier, A.</author>
+        <date>(2019).</date>
+        <title>Philosophie de Kant.</title>
+        <publisher>PUF</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Estève, P.</author>
+        <date>(2018).</date>
+        <title>Communication institutionnelle.</title>
+        <publisher>De Boeck</publisher>
+        <location>Bruxelles</location>
+        <edition>2e éd.</edition>
+        <isbn>9782804176098</isbn>
+    </sequence>
+    <sequence>
+        <author>Lacroix, M.</author>
+        <date>(2021).</date>
+        <title>Histoire des femmes.</title>
+        <publisher>Belin</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Brunet, J.</author>
+        <date>(2020).</date>
+        <title>Finance d'entreprise.</title>
+        <publisher>Dunod</publisher>
+        <location>Paris</location>
+        <edition>8e éd.</edition>
+        <translator>Taylor, B.</translator>
+        <isbn>9782100798765</isbn>
+    </sequence>
+    <sequence>
+        <author>Cordier, S.</author>
+        <date>(2019).</date>
+        <title>Sociologie de la famille.</title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Metzler, P.</author>
+        <date>(2022).</date>
+        <title>Le taoïsme.</title>
+        <publisher>Albin Michel</publisher>
+        <location>Paris</location>
+        <isbn>9782226456789</isbn>
+    </sequence>
+    <sequence>
+        <author>Fontaine, C.</author>
+        <date>(2021).</date>
+        <title>Gestion des risques.</title>
+        <publisher>Éditions d'Organisation</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Penverne, L.</author>
+        <date>(2020).</date>
+        <title>Linguistique historique.</title>
+        <publisher>Éditions du CNRS</publisher>
+        <location>Paris</location>
+        <translator>Evans, M.</translator>
+        <isbn>9782271123456</isbn>
+    </sequence>
+    <sequence>
+        <author>Viard, J.</author>
+        <date>(2019).</date>
+        <title>Sociologie de la consommation.</title>
+        <publisher>PUF</publisher>
+        <location>Paris</location>
+        <edition>2e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Gautier, A.</author>
+        <date>(2018).</date>
+        <title>Histoire du cinéma français.</title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Chambon, M.</author>
+        <date>(2021).</date>
+        <title>Droit fiscal.</title>
+        <publisher>Dalloz</publisher>
+        <location>Paris</location>
+        <edition>15e éd.</edition>
+        <isbn>9782247201098</isbn>
+    </sequence>
+    <sequence>
+        <author>Maillard, P.</author>
+        <date>(2020).</date>
+        <title>Psychologie clinique.</title>
+        <publisher>Dunod</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Devaux, S.</author>
+        <date>(2019).</date>
+        <title>Management de la qualité.</title>
+        <publisher>Afnor</publisher>
+        <location>Paris</location>
+        <translator>Zhang, W.</translator>
+        <edition>3e éd.</edition>
+        <isbn>9782124654321</isbn>
+    </sequence>
+    <sequence>
+        <author>Guichard, L.</author>
+        <date>(2022).</date>
+        <title>La pensée bouddhiste.</title>
+        <publisher>Fayard</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Lambert, M.</author>
+        <date>(2021).</date>
+        <title>Économie sociale et solidaire.</title>
+        <publisher>Économie et Humanisme</publisher>
+        <location>Lyon</location>
+        <isbn>9782915634567</isbn>
+    </sequence>
+    <sequence>
+        <author>Brière, A.</author>
+        <date>(2020).</date>
+        <title>Histoire de l'Afrique.</title>
+        <publisher>Karthala</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Rousseau, P.</author>
+        <date>(2019).</date>
+        <title>Droit des sociétés.</title>
+        <publisher>LexisNexis</publisher>
+        <location>Paris</location>
+        <edition>6e éd.</edition>
+        <translator>Robinson, C.</translator>
+        <isbn>9782711034765</isbn>
+    </sequence>
+    <sequence>
+        <author>Charlot, C.</author>
+        <date>(2018).</date>
+        <title>Sociologie de l'immigration.</title>
+        <publisher>PUF</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Marchal, J.</author>
+        <date>(2021).</date>
+        <title>Management public.</title>
+        <publisher>IGPDE</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Couturier, L.</author>
+        <date>(2020).</date>
+        <title>La musique électronique.</title>
+        <publisher>Éditions MF</publisher>
+        <location>Paris</location>
+        <isbn>9782915378901</isbn>
+    </sequence>
+    <sequence>
+        <author>Bernier, M.</author>
+        <date>(2019).</date>
+        <title>Comptabilité nationale.</title>
+        <publisher>Économica</publisher>
+        <location>Paris</location>
+        <translator>Nielsen, O.</translator>
+    </sequence>
+    <sequence>
+        <author>Delaunay, P.</author>
+        <date>(2022).</date>
+        <title>Philosophie du langage.</title>
+        <publisher>Vrin</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Langlois, A.</author>
+        <date>(2021).</date>
+        <title>Management du changement.</title>
+        <publisher>Emans</publisher>
+        <location>Paris</location>
+        <edition>4e éd.</edition>
+        <isbn>9782708156789</isbn>
+    </sequence>
+    <sequence>
+        <author>Thierry, S.</author>
+        <date>(2020).</date>
+        <title>Histoire du judaïsme.</title>
+        <publisher>PUF</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Besson, C.</author>
+        <date>(2019).</date>
+        <title>Sociologie des mouvements sociaux.</title>
+        <publisher>La Découverte</publisher>
+        <location>Paris</location>
+        <translator>Martinez, F.</translator>
+        <isbn>9782707187123</isbn>
+    </sequence>
+    <sequence>
+        <author>Regnier, J.</author>
+        <date>(2018).</date>
+        <title>Droit de la propriété littéraire.</title>
+        <publisher>LGDJ</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Boyer, L.</author>
+        <date>(2021).</date>
+        <title>Management des PME.</title>
+        <publisher>De Boeck</publisher>
+        <location>Bruxelles</location>
+        <edition>3e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Gilles, P.</author>
+        <date>(2020).</date>
+        <title>La philosophie islamique.</title>
+        <publisher>Albin Michel</publisher>
+        <location>Paris</location>
+        <isbn>9782226345678</isbn>
+    </sequence>
+    <sequence>
+        <author>Sanchez, M.</author>
+        <date>(2019).</date>
+        <title>Gestion de la paie.</title>
+        <publisher>Dunod</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Pelletier, A.</author>
+        <date>(2022).</date>
+        <title>Histoire de la Bretagne.</title>
+        <publisher>Éditions Ouest-France</publisher>
+        <location>Rennes</location>
+        <translator>O'Connor, J.</translator>
+        <isbn>9782737367890</isbn>
+    </sequence>
+    <sequence>
+        <author>Brun, S.</author>
+        <date>(2021).</date>
+        <title>Sociologie des inégalités.</title>
+        <publisher>Raisons d'Agir</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Lebrun, J.</author>
+        <date>(2020).</date>
+        <title>Droit européen.</title>
+        <publisher>Bruxelles: Larcier</publisher>
+        <location>Bruxelles</location>
+        <edition>5e éd.</edition>
+        <isbn>9782804465432</isbn>
+    </sequence>
+    <sequence>
+        <author>Coulomb, P.</author>
+        <date>(2019).</date>
+        <title>Management logistique.</title>
+        <publisher>Vuibert</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Andrieu, C.</author>
+        <date>(2018).</date>
+        <title>La bioéthique contemporaine.</title>
+        <publisher>PUF</publisher>
+        <location>Paris</location>
+        <translator>Andersen, K.</translator>
+    </sequence>
+    <sequence>
+        <author>Faure, M.</author>
+        <date>(2021).</date>
+        <title>Histoire de l'Inde.</title>
+        <publisher>Les Belles Lettres</publisher>
+        <location>Paris</location>
+        <isbn>9782251456789</isbn>
+    </sequence>
+    <sequence>
+        <author>Gauthier, L.</author>
+        <date>(2020).</date>
+        <title>Sociologie politique.</title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+        <edition>3e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Perrier, A.</author>
+        <date>(2019).</date>
+        <title>Droit des assurances.</title>
+        <publisher>Argus de l'Assurance</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Jacquet, S.</author>
+        <date>(2022).</date>
+        <title>Finance de marché.</title>
+        <publisher>Économica</publisher>
+        <location>Paris</location>
+        <translator>Phillips, R.</translator>
+        <isbn>9782717890123</isbn>
+    </sequence>
+    <sequence>
+        <author>Berger, M.</author>
+        <date>(2021).</date>
+        <title>Psychologie animale.</title>
+        <publisher>Odile Jacob</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Carlier, P.</author>
+        <date>(2020).</date>
+        <title>Histoire de la Chine.</title>
+        <publisher>Flammarion</publisher>
+        <location>Paris</location>
+        <isbn>9782081234567</isbn>
+    </sequence>
+    <sequence>
+        <author>Durand, S.</author>
+        <date>(2019).</date>
+        <title>Management des équipes.</title>
+        <publisher>Dunod</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Guillemot, L.</author>
+        <date>(2018).</date>
+        <title>Sociologie de la santé.</title>
+        <publisher>Presses EHESP</publisher>
+        <location>Rennes</location>
+        <translator>Larsen, P.</translator>
+        <isbn>9782810906789</isbn>
+    </sequence>
+    <sequence>
+        <author>Renault, J.</author>
+        <date>(2021).</date>
+        <title>Droit pénal des affaires.</title>
+        <publisher>Dalloz</publisher>
+        <location>Paris</location>
+        <edition>4e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Bernard, C.</author>
+        <date>(2020).</date>
+        <title>Management durable.</title>
+        <publisher>Maxima</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Picard, S.</author>
+        <date>(2019).</date>
+        <title>Histoire de la Normandie.</title>
+        <publisher>Orep</publisher>
+        <location>Bayeux</location>
+        <isbn>9782815104567</isbn>
+    </sequence>
+    <sequence>
+        <author>Leblanc, P.</author>
+        <date>(2022).</date>
+        <title>Philosophie et science.</title>
+        <publisher>PUF</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Mercier, L.</author>
+        <date>(2021).</date>
+        <title>Sociologie des âges.</title>
+        <publisher>La Découverte</publisher>
+        <location>Paris</location>
+        <translator>Carter, S.</translator>
+        <isbn>9782707198012</isbn>
+    </sequence>
+    <sequence>
+        <author>Fabre, A.</author>
+        <date>(2020).</date>
+        <title>Droit de l'environnement.</title>
+        <publisher>LexisNexis</publisher>
+        <location>Paris</location>
+        <edition>7e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Rocher, M.</author>
+        <date>(2019).</date>
+        <title>Gestion des talents.</title>
+        <publisher>Emans</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Garnier, P.</author>
+        <date>(2018).</date>
+        <title>Histoire de la Grèce antique.</title>
+        <publisher>Belin</publisher>
+        <location>Paris</location>
+        <isbn>9782701198765</isbn>
+    </sequence>
+    <sequence>
+        <author>Dufresne, C.</author>
+        <date>(2021).</date>
+        <title>Psychologie différentielle.</title>
+        <publisher>Dunod</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Tessier, J.</author>
+        <date>(2020).</date>
+        <title>Management international.</title>
+        <publisher>Vuibert</publisher>
+        <location>Paris</location>
+        <translator>Johansson, E.</translator>
+        <isbn>9782311890123</isbn>
+    </sequence>
+    <sequence>
+        <author>Aubry, M.</author>
+        <date>(2019).</date>
+        <title>Sociologie du genre.</title>
+        <publisher>La Découverte</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Legendre, P.</author>
+        <date>(2022).</date>
+        <title>Droit et psychanalyse.</title>
+        <publisher>Fayard</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Pascal, L.</author>
+        <date>(2021).</date>
+        <title>Marketing relationnel.</title>
+        <publisher>Dunod</publisher>
+        <location>Paris</location>
+        <edition>2e éd.</edition>
+        <isbn>9782100876543</isbn>
+    </sequence>
+    <sequence>
+        <author>Drouet, A.</author>
+        <date>(2020).</date>
+        <title>Histoire de l'Italie.</title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Vidal, S.</author>
+        <date>(2019).</date>
+        <title>Philosophie de Hegel.</title>
+        <publisher>Vrin</publisher>
+        <location>Paris</location>
+        <translator>Hoffmann, G.</translator>
+    </sequence>
+    <sequence>
+        <author>Seguin, M.</author>
+        <date>(2018).</date>
+        <title>Sociologie du politique.</title>
+        <publisher>Presses de Sciences Po</publisher>
+        <location>Paris</location>
+        <isbn>9782724623456</isbn>
+    </sequence>
+    <sequence>
+        <author>Hubert, J.</author>
+        <date>(2021).</date>
+        <title>Droit des marchés publics.</title>
+        <publisher>Le Moniteur</publisher>
+        <location>Paris</location>
+        <edition>9e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Francois, C.</author>
+        <date>(2020).</date>
+        <title>Management participatif.</title>
+        <publisher>Maxima</publisher>
+        <location>Paris</location>
+    </sequence>
+    <sequence>
+        <author>Gaudin, L.</author>
+        <date>(2019).</date>
+        <title>Histoire de la Provence.</title>
+        <publisher>Privat</publisher>
+        <location>Toulouse</location>
+        <isbn>9782708987654</isbn>
+    </sequence>
+    <sequence>
+        <author>Bazin, P.</author>
+        <date>(2022).</date>
+        <title>Psychologie pathologique.</title>
+        <publisher>PUF</publisher>
+        <location>Paris</location>
+    </sequence>
+</dataset>

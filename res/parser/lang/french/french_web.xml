@@ -1,0 +1,1381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+
+    <!-- WEB RESOURCES (95 sequences) -->
+    <sequence>
+        <author>Dupont, M.</author>
+        <date>2023.</date>
+        <title>La transformation numérique de l'administration publique française.</title>
+        <publisher>Ministère de la Transformation et de la Fonction publiques.</publisher>
+        <url>https://www.fonction-publique.gouv.fr/transformation-numerique-2023</url>
+        <note>Accédé le 15 janvier 2024.</note>
+    </sequence>
+    <sequence>
+        <date>2024.</date>
+        <title>Rapport sur l'état de la recherche en intelligence artificielle en France.</title>
+        <publisher>INRIA.</publisher>
+        <url>https://www.inria.fr/sites/default/files/rapport-ia-2024.pdf</url>
+        <note>Accédé le 20 mars 2024.</note>
+    </sequence>
+    <sequence>
+        <author>Martin, L. &amp; Bernard, P.</author>
+        <date>2023, 10 mai.</date>
+        <title>Les enjeux de la transition écologique pour les collectivités territoriales.</title>
+        <url>https://www.vie-publique.fr/discours/289456-transition-ecologique-collectivites</url>
+        <note>Accédé le 5 février 2024.</note>
+    </sequence>
+    <sequence>
+        <title>Guide pratique de la commande publique durable.</title>
+        <publisher>Ministère de l'Économie et des Finances.</publisher>
+        <url>https://www.economie.gouv.fr/achats/commande-publique-durable/guide</url>
+        <note>Accédé le 12 décembre 2023.</note>
+    </sequence>
+    <sequence>
+        <author>Petit, A.</author>
+        <date>2022.</date>
+        <title>Analyse des politiques de logement social en Île-de-France.</title>
+        <publisher>Observatoire régional de l'habitat d'Île-de-France.</publisher>
+        <url>https://www.ort-iledefrance.fr/etudes/logement-social-2022.pdf</url>
+    </sequence>
+    <sequence>
+        <date>2024, 8 février.</date>
+        <title>Communiqué de presse : Nouvelle stratégie nationale pour la biodiversité.</title>
+        <publisher>Ministère de la Transition écologique et de la Cohésion des territoires.</publisher>
+        <url>https://www.ecologie.gouv.fr/sites/default/files/communique-snB-2024.pdf</url>
+        <note>Accédé le 10 février 2024.</note>
+    </sequence>
+    <sequence>
+        <author>Rousseau, C., Dubois, J. &amp; Laurent, F.</author>
+        <date>2023.</date>
+        <title>Évaluation du dispositif MaPrimeRénov' : premiers résultats et perspectives.</title>
+        <publisher>France Stratégie.</publisher>
+        <url>https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/ma-prime-renov-evaluation-2023.pdf</url>
+        <note>Accédé le 28 novembre 2023.</note>
+    </sequence>
+    <sequence>
+        <title>Les chiffres clés de l'économie circulaire 2023.</title>
+        <publisher>ADEME.</publisher>
+        <url>https://librairie.ademe.fr/economie-circulaire/chiffres-cles-2023</url>
+    </sequence>
+    <sequence>
+        <author>Moreau, T.</author>
+        <date>2023, 20 septembre.</date>
+        <title>La cybersécurité dans les PME : état des lieux et recommandations.</title>
+        <publisher>ANSSI.</publisher>
+        <url>https://www.ssi.gouv.fr/uploads/2023/09/pme-cybersecurite-etat-lieux.pdf</url>
+        <note>Accédé le 15 octobre 2023.</note>
+    </sequence>
+    <sequence>
+        <date>n.d.</date>
+        <title>Présentation du programme France 2030.</title>
+        <publisher>Secrétariat général pour l'investissement.</publisher>
+        <url>https://www.france2030.gouv.fr/programme/presentation</url>
+        <note>Accédé le 5 janvier 2024.</note>
+    </sequence>
+    <sequence>
+        <author>Leroy, S. &amp; Garnier, M.</author>
+        <date>2022, 15 juin.</date>
+        <title>Impact de la crise sanitaire sur le télétravail en France.</title>
+        <publisher>DARES.</publisher>
+        <url>https://dares.travail-emploi.gouv.fr/publications/teletravail-crise-sanitaire-2022</url>
+        <note>Accédé le 20 août 2023.</note>
+    </sequence>
+    <sequence>
+        <title>Baromètre de la confiance dans les médias 2024.</title>
+        <publisher>La Croix / Kantar.</publisher>
+        <url>https://www.la-croix.com/media/barometre-confiance-2024.pdf</url>
+        <note>Accédé le 18 janvier 2024.</note>
+    </sequence>
+    <sequence>
+        <author>Fontaine, R.</author>
+        <date>2023.</date>
+        <title>Les mutations du commerce de centre-ville : analyse comparative de dix villes moyennes.</title>
+        <publisher>Agence nationale de cohésion des territoires.</publisher>
+        <url>https://www.cohesion-territoires.gouv.fr/sites/default/files/commerce-centre-ville-2023.pdf</url>
+    </sequence>
+    <sequence>
+        <date>2024, 5 mars.</date>
+        <title>Plan national de prévention des déchets 2024-2028.</title>
+        <publisher>Ministère de la Transition écologique.</publisher>
+        <url>https://www.ecologie.gouv.fr/sites/default/files/pnpd-2024-2028.pdf</url>
+        <note>Accédé le 8 mars 2024.</note>
+    </sequence>
+    <sequence>
+        <author>Blanc, E. &amp; Roussel, A.</author>
+        <date>2023, novembre.</date>
+        <title>La digitalisation des services bancaires : usages et perceptions des consommateurs français.</title>
+        <publisher>Autorité de contrôle prudentiel et de résolution.</publisher>
+        <url>https://acpr.banque-france.fr/sites/default/files/media/2023-11/digitalisation-bancaire.pdf</url>
+        <note>Accédé le 2 décembre 2023.</note>
+    </sequence>
+    <sequence>
+        <title>Données ouvertes de l'administration : bilan 2023.</title>
+        <publisher>Etalab.</publisher>
+        <url>https://www.data.gouv.fr/fr/documents/bilan-2023/</url>
+        <note>Accédé le 10 janvier 2024.</note>
+    </sequence>
+    <sequence>
+        <author>Girard, P.</author>
+        <date>2022.</date>
+        <title>L'agriculture urbaine à Paris : entre innovation et tradition.</title>
+        <publisher>Apur - Atelier parisien d'urbanisme.</publisher>
+        <url>https://www.apur.org/sites/default/files/agriculture-urbaine-paris-2022.pdf</url>
+    </sequence>
+    <sequence>
+        <date>2023, 12 juillet.</date>
+        <title>Feuille de route pour l'hydrogène décarboné en France.</title>
+        <publisher>Ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique.</publisher>
+        <url>https://www.economie.gouv.fr/files/files/directions_services/feuille-route-hydrogene-2023.pdf</url>
+        <note>Accédé le 25 juillet 2023.</note>
+    </sequence>
+    <sequence>
+        <author>Charbonnier, L. &amp; Bonnet, C.</author>
+        <date>2024, janvier.</date>
+        <title>Les inégalités scolaires en France : état des lieux et leviers d'action.</title>
+        <publisher>Conseil national d'évaluation du système scolaire.</publisher>
+        <url>https://www.cnesco.fr/wp-content/uploads/2024/01/inegalites-scolaires-2024.pdf</url>
+        <note>Accédé le 30 janvier 2024.</note>
+    </sequence>
+    <sequence>
+        <title>Observatoire des prix et des marges : rapport annuel 2023.</title>
+        <publisher>Ministère de l'Économie et des Finances.</publisher>
+        <url>https://www.economie.gouv.fr/opm/rapport-2023</url>
+    </sequence>
+    <sequence>
+        <author>Meunier, D.</author>
+        <date>2023, septembre.</date>
+        <title>Transition énergétique des bâtiments publics : retour d'expérience de cinq régions.</title>
+        <publisher>CEREMA.</publisher>
+        <url>https://www.cerema.fr/system/files/documents/2023-09/transition-batiments-publics.pdf</url>
+        <note>Accédé le 15 octobre 2023.</note>
+    </sequence>
+    <sequence>
+        <date>2023.</date>
+        <title>Indicateurs nationaux du développement durable 2023.</title>
+        <publisher>INSEE.</publisher>
+        <url>https://www.insee.fr/fr/statistiques/fichier/indicateurs-developpement-durable-2023.pdf</url>
+        <note>Accédé le 20 novembre 2023.</note>
+    </sequence>
+    <sequence>
+        <author>Lambert, M. &amp; Chevalier, S.</author>
+        <date>2024, 10 février.</date>
+        <title>L'intelligence artificielle au service de la santé : opportunités et risques éthiques.</title>
+        <publisher>Comité consultatif national d'éthique.</publisher>
+        <url>https://www.ccne-ethique.fr/sites/default/files/avis-ia-sante-2024.pdf</url>
+        <note>Accédé le 15 février 2024.</note>
+    </sequence>
+    <sequence>
+        <title>Cartographie des aides publiques aux entreprises 2023.</title>
+        <publisher>Cour des comptes.</publisher>
+        <url>https://www.ccomptes.fr/sites/default/files/2023-12/aides-publiques-entreprises.pdf</url>
+        <note>Accédé le 5 janvier 2024.</note>
+    </sequence>
+    <sequence>
+        <author>Renaud, F.</author>
+        <date>2023, mai.</date>
+        <title>La mobilité électrique en milieu rural : freins et leviers.</title>
+        <publisher>Commission de régulation de l'énergie.</publisher>
+        <url>https://www.cre.fr/media/Files/mobilite-electrique-rurale-2023.pdf</url>
+    </sequence>
+    <sequence>
+        <date>2024, janvier.</date>
+        <title>Programme national de rénovation urbaine : bilan à mi-parcours.</title>
+        <publisher>Agence nationale pour la rénovation urbaine.</publisher>
+        <url>https://www.anru.com/bilan-mi-parcours-pnru-2024.pdf</url>
+        <note>Accédé le 25 janvier 2024.</note>
+    </sequence>
+    <sequence>
+        <author>Noir, A. &amp; Legrand, B.</author>
+        <date>2023, 15 mars.</date>
+        <title>Les pratiques de consommation responsable des Français.</title>
+        <publisher>CREDOC.</publisher>
+        <url>https://www.credoc.fr/publications/consommation-responsable-2023.pdf</url>
+        <note>Accédé le 1er avril 2023.</note>
+    </sequence>
+    <sequence>
+        <title>Les essentiels de la culture scientifique 2023.</title>
+        <publisher>Ministère de l'Enseignement supérieur et de la Recherche.</publisher>
+        <url>https://www.enseignementsup-recherche.gouv.fr/culture-scientifique-2023</url>
+    </sequence>
+    <sequence>
+        <author>Fabre, J.</author>
+        <date>2022, décembre.</date>
+        <title>L'innovation sociale dans le secteur médico-social : études de cas régionaux.</title>
+        <publisher>Caisse nationale de solidarité pour l'autonomie.</publisher>
+        <url>https://www.cnsa.fr/sites/default/files/innovation-sociale-2022.pdf</url>
+        <note>Accédé le 10 janvier 2023.</note>
+    </sequence>
+    <sequence>
+        <date>2023, 8 juin.</date>
+        <title>Stratégie nationale pour la mer et le littoral 2023-2028.</title>
+        <publisher>Secrétariat général de la mer.</publisher>
+        <url>https://www.mer.gouv.fr/sites/default/files/strategie-mer-littoral-2023-2028.pdf</url>
+        <note>Accédé le 15 juin 2023.</note>
+    </sequence>
+    <sequence>
+        <author>Gauthier, P. &amp; Muller, H.</author>
+        <date>2023.</date>
+        <title>Le télétravail dans la fonction publique : bilan et perspectives.</title>
+        <publisher>Direction générale de l'administration et de la fonction publique.</publisher>
+        <url>https://www.fonction-publique.gouv.fr/files/files/teletravail-bilan-2023.pdf</url>
+    </sequence>
+    <sequence>
+        <title>Répertoire des compétences des métiers du numérique.</title>
+        <publisher>Grand École du Numérique.</publisher>
+        <url>https://www.ecolenumerique.fr/repertoire-competences-metiers</url>
+        <note>Accédé le 12 mars 2024.</note>
+    </sequence>
+    <sequence>
+        <author>Dumas, C.</author>
+        <date>2024, février.</date>
+        <title>Les enjeux de souveraineté numérique pour la France.</title>
+        <publisher>Institut Montaigne.</publisher>
+        <url>https://www.institutmontaigne.org/publications/rapports/numero-2024/souverainete-numerique.pdf</url>
+        <note>Accédé le 28 février 2024.</note>
+    </sequence>
+    <sequence>
+        <date>2023, octobre.</date>
+        <title>Baromètre de l'opinion publique : climat et environnement.</title>
+        <publisher>IFOP.</publisher>
+        <url>https://www.ifop.com/wp-content/uploads/2023/10/barometre-climat-environnement-2023.pdf</url>
+        <note>Accédé le 5 novembre 2023.</note>
+    </sequence>
+    <sequence>
+        <author>Leclerc, M. &amp; Mercier, A.</author>
+        <date>2023.</date>
+        <title>Accessibilité numérique : guide méthodologique pour les collectivités.</title>
+        <publisher>Association des maires de France.</publisher>
+        <url>https://www.amf.asso.fr/sites/default/files/guide-accessibilite-numerique.pdf</url>
+    </sequence>
+    <sequence>
+        <title>Les entreprises de l'économie sociale et solidaire en 2023.</title>
+        <publisher>ESS France.</publisher>
+        <url>https://www.ess-france.org/sites/default/files/rapport-2023.pdf</url>
+        <note>Accédé le 20 décembre 2023.</note>
+    </sequence>
+    <sequence>
+        <author>Picard, R.</author>
+        <date>2023, 22 novembre.</date>
+        <title>La prévention des risques naturels en zone montagneuse.</title>
+        <publisher>Ministère de l'Intérieur et des Outre-mer.</publisher>
+        <url>https://www.interieur.gouv.fr/sites/default/files/prevention-risques-montagne-2023.pdf</url>
+        <note>Accédé le 1er décembre 2023.</note>
+    </sequence>
+    <sequence>
+        <date>2024, 12 janvier.</date>
+        <title>Indicateurs de performance des politiques publiques 2023.</title>
+        <publisher>Ministère de la Transformation et de la Fonction publiques.</publisher>
+        <url>https://www.performance-publique.gouv.fr/indicateurs-2023.pdf</url>
+        <note>Accédé le 18 janvier 2024.</note>
+    </sequence>
+    <sequence>
+        <author>Vidal, S. &amp; Durand, L.</author>
+        <date>2023, septembre.</date>
+        <title>L'économie de la connaissance dans les territoires ultra-marins.</title>
+        <publisher>Bureau d'analyse sociétale pour une information citoyenne.</publisher>
+        <url>https://www.basic-web.org/etudes/economie-connaissance-outremer-2023.pdf</url>
+        <note>Accédé le 10 octobre 2023.</note>
+    </sequence>
+    <sequence>
+        <title>Atlas français de la coopération décentralisée 2023.</title>
+        <publisher>Ministère de l'Europe et des Affaires étrangères.</publisher>
+        <url>https://www.cncd.fr/frontoffice/bdd-projet.asp?view=atlas</url>
+    </sequence>
+    <sequence>
+        <author>Carpentier, N.</author>
+        <date>2024, mars.</date>
+        <title>Les nouvelles formes de travail : impacts sur la santé au travail.</title>
+        <publisher>Institut national de recherche et de sécurité.</publisher>
+        <url>https://www.inrs.fr/media/2024/nouvelles-formes-travail-sante.pdf</url>
+        <note>Accédé le 15 mars 2024.</note>
+    </sequence>
+    <sequence>
+        <date>2023.</date>
+        <title>Rapport sur l'état de l'enseignement scolaire 2022-2023.</title>
+        <publisher>Ministère de l'Éducation nationale et de la Jeunesse.</publisher>
+        <url>https://www.education.gouv.fr/etat-enseignement-scolaire-2023.pdf</url>
+        <note>Accédé le 30 septembre 2023.</note>
+    </sequence>
+    <sequence>
+        <author>Fleury, G. &amp; Olivier, C.</author>
+        <date>2023, juillet.</date>
+        <title>La transition agroécologique : trajectoires et leviers pour les agriculteurs français.</title>
+        <publisher>INRAE.</publisher>
+        <url>https://www.inrae.fr/sites/default/files/transition-agroecologique-2023.pdf</url>
+        <note>Accédé le 20 août 2023.</note>
+    </sequence>
+    <sequence>
+        <title>Chiffres clés du transport 2023.</title>
+        <publisher>Ministère délégué chargé des Transports.</publisher>
+        <url>https://www.statistiques.developpement-durable.gouv.fr/chiffres-cles-transport-2023.pdf</url>
+    </sequence>
+    <sequence>
+        <author>Roux, E.</author>
+        <date>2024, 5 janvier.</date>
+        <title>L'accompagnement des jeunes sortants de l'aide sociale à l'enfance.</title>
+        <publisher>Observatoire national de l'enfance en danger.</publisher>
+        <url>https://www.oned.gouv.fr/sites/default/files/jeunes-sortants-ase-2024.pdf</url>
+        <note>Accédé le 12 janvier 2024.</note>
+    </sequence>
+    <sequence>
+        <date>2023, mai.</date>
+        <title>Les données de la culture 2023.</title>
+        <publisher>Ministère de la Culture - Département des études, de la prospective et des statistiques.</publisher>
+        <url>https://www.culture.gouv.fr/content/download/donnees-culture-2023.pdf</url>
+        <note>Accédé le 1er juin 2023.</note>
+    </sequence>
+    <sequence>
+        <author>Hamelin, J. &amp; Goujon, M.</author>
+        <date>2023, 18 octobre.</date>
+        <title>La lutte contre la fracture numérique : dispositifs et résultats.</title>
+        <publisher>Agence du numérique.</publisher>
+        <url>https://www.agence-numerique.gouv.fr/sites/default/files/fracture-numerique-2023.pdf</url>
+        <note>Accédé le 25 octobre 2023.</note>
+    </sequence>
+    <sequence>
+        <title>Guide de la commande publique innovante.</title>
+        <publisher>Direction des achats de l'État.</publisher>
+        <url>https://www.economie.gouv.fr/files/files/directions_services/dae/guide-commande-innovante.pdf</url>
+    </sequence>
+    <sequence>
+        <author>Colas, B.</author>
+        <date>2023.</date>
+        <title>Les clusters technologiques en France : dynamiques et performances.</title>
+        <publisher>La French Tech.</publisher>
+        <url>https://lafrenchtech.com/media/2023/clusters-technologiques-france.pdf</url>
+        <note>Accédé le 15 décembre 2023.</note>
+    </sequence>
+    <sequence>
+        <date>2024, février.</date>
+        <title>Enquête sur les conditions de travail 2023.</title>
+        <publisher>DARES.</publisher>
+        <url>https://dares.travail-emploi.gouv.fr/enquete-conditions-travail-2023.pdf</url>
+        <note>Accédé le 1er mars 2024.</note>
+    </sequence>
+    <sequence>
+        <author>Bourgeois, A. &amp; Renard, P.</author>
+        <date>2023, novembre.</date>
+        <title>L'efficacité énergétique dans le secteur tertiaire : analyse sectorielle.</title>
+        <publisher>Observatoire de l'énergie.</publisher>
+        <url>https://www.statistiques.developpement-durable.gouv.fr/energie/tertiaire-2023.pdf</url>
+    </sequence>
+    <sequence>
+        <title>Portrait statistique des personnes âgées 2023.</title>
+        <publisher>DREES.</publisher>
+        <url>https://drees.solidarites-sante.gouv.fr/publications/portrait-personnes-agees-2023</url>
+        <note>Accédé le 10 décembre 2023.</note>
+    </sequence>
+    <sequence>
+        <author>Fournier, L.</author>
+        <date>2023, 5 septembre.</date>
+        <title>La gestion des déchets dangereux : état des lieux national.</title>
+        <publisher>ADEME.</publisher>
+        <url>https://librairie.ademe.fr/dechets/dechets-dangereux-2023.pdf</url>
+        <note>Accédé le 20 septembre 2023.</note>
+    </sequence>
+    <sequence>
+        <date>2024, janvier.</date>
+        <title>Rapport annuel sur l'état du logement en France.</title>
+        <publisher>Fondation Abbé Pierre.</publisher>
+        <url>https://www.fondation-abbe-pierre.fr/documents/rapport-logement-2024.pdf</url>
+        <note>Accédé le 25 janvier 2024.</note>
+    </sequence>
+    <sequence>
+        <author>Marchand, C. &amp; Perrot, D.</author>
+        <date>2023.</date>
+        <title>Les circuits courts alimentaires : développement et impacts territoriaux.</title>
+        <publisher>Observatoire national de la consommation alimentaire.</publisher>
+        <url>https://agriculture.gouv.fr/sites/default/files/circuits-courts-2023.pdf</url>
+    </sequence>
+    <sequence>
+        <title>Baromètre santé environnement 2023.</title>
+        <publisher>Santé publique France.</publisher>
+        <url>https://www.santepubliquefrance.fr/content/download/barometre-sante-environnement-2023</url>
+        <note>Accédé le 5 octobre 2023.</note>
+    </sequence>
+    <sequence>
+        <author>Lacroix, M.</author>
+        <date>2023, 12 juin.</date>
+        <title>Les outils numériques pour l'inclusion des personnes en situation de handicap.</title>
+        <publisher>Caisse nationale de solidarité pour l'autonomie.</publisher>
+        <url>https://www.cnsa.fr/sites/default/files/numerique-handicap-2023.pdf</url>
+        <note>Accédé le 20 juin 2023.</note>
+    </sequence>
+    <sequence>
+        <date>2023, décembre.</date>
+        <title>Les comptes de la protection sociale 2022.</title>
+        <publisher>DREES.</publisher>
+        <url>https://drees.solidarites-sante.gouv.fr/comptes-protection-sociale-2022.pdf</url>
+        <note>Accédé le 15 janvier 2024.</note>
+    </sequence>
+    <sequence>
+        <author>Giraud, P. &amp; Barbier, S.</author>
+        <date>2024, 8 février.</date>
+        <title>La résilience des chaînes d'approvisionnement post-pandémie.</title>
+        <publisher>France Stratégie.</publisher>
+        <url>https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/resilience-chaines-approvisionnement-2024.pdf</url>
+        <note>Accédé le 15 février 2024.</note>
+    </sequence>
+    <sequence>
+        <title>Indicateurs régionaux de développement durable 2023.</title>
+        <publisher>Observatoire national des territoires.</publisher>
+        <url>https://www.observatoire-des-territoires.gouv.fr/indicateurs-2023.pdf</url>
+    </sequence>
+    <sequence>
+        <author>Sabourin, L.</author>
+        <date>2023, octobre.</date>
+        <title>Les politiques locales de prévention de la délinquance juvénile.</title>
+        <publisher>Observatoire national de la délinquance et des réponses pénales.</publisher>
+        <url>https://www.ondrp.gouv.fr/sites/default/files/prevention-delinquance-juvenile-2023.pdf</url>
+        <note>Accédé le 5 novembre 2023.</note>
+    </sequence>
+    <sequence>
+        <date>2023.</date>
+        <title>Les chiffres clés du système pénitentiaire 2022.</title>
+        <publisher>Ministère de la Justice.</publisher>
+        <url>https://www.justice.gouv.fr/sites/default/files/chiffres-cles-penitentiaire-2022.pdf</url>
+        <note>Accédé le 15 mars 2023.</note>
+    </sequence>
+    <sequence>
+        <author>Durandal, F. &amp; Lefevre, A.</author>
+        <date>2024, mars.</date>
+        <title>L'innovation dans les services publics locaux : études de cas.</title>
+        <publisher>Direction interministérielle de la transformation publique.</publisher>
+        <url>https://www.modernisation.gouv.fr/sites/default/files/innovation-services-publics-2024.pdf</url>
+        <note>Accédé le 20 mars 2024.</note>
+    </sequence>
+    <sequence>
+        <title>Atlas des déserts médicaux 2023.</title>
+        <publisher>Observatoire des territoires de santé.</publisher>
+        <url>https://www.observatoire-territoires-sante.gouv.fr/atlas-deserts-medicaux-2023</url>
+        <note>Accédé le 10 octobre 2023.</note>
+    </sequence>
+    <sequence>
+        <author>Perrin, C.</author>
+        <date>2023, septembre.</date>
+        <title>La prévention du burn-out professionnel : approche comparative sectorielle.</title>
+        <publisher>Haut conseil de la famille, de l'enfance et de l'âge.</publisher>
+        <url>https://www.hcfp.fr/sites/default/files/prevention-burnout-2023.pdf</url>
+    </sequence>
+    <sequence>
+        <date>2023, novembre.</date>
+        <title>Rapport sur la situation énergétique de la France 2022.</title>
+        <publisher>Ministère de la Transition énergétique.</publisher>
+        <url>https://www.ecologie.gouv.fr/sites/default/files/situation-energetique-france-2022.pdf</url>
+        <note>Accédé le 1er décembre 2023.</note>
+    </sequence>
+    <sequence>
+        <author>Vasseur, R. &amp; Masson, E.</author>
+        <date>2024, janvier.</date>
+        <title>Les pratiques environnementales des entreprises françaises.</title>
+        <publisher>INSEE.</publisher>
+        <url>https://www.insee.fr/fr/statistiques/fichier/pratiques-environnementales-entreprises-2024.pdf</url>
+        <note>Accédé le 10 février 2024.</note>
+    </sequence>
+    <sequence>
+        <title>Guide pratique de l'évaluation d'impact.</title>
+        <publisher>Centre interministériel de recherche et d'évaluation.</publisher>
+        <url>https://www.cire.gouv.fr/sites/default/files/guide-evaluation-impact.pdf</url>
+    </sequence>
+    <sequence>
+        <author>Hubert, D.</author>
+        <date>2023, juin.</date>
+        <title>La formation continue des demandeurs d'emploi : bilan et perspectives.</title>
+        <publisher>Pôle emploi.</publisher>
+        <url>https://www.pole-emploi.org/sites/default/files/formation-continue-demandeurs-2023.pdf</url>
+        <note>Accédé le 15 juillet 2023.</note>
+    </sequence>
+    <sequence>
+        <date>2023, octobre.</date>
+        <title>Les dépenses de recherche et développement des entreprises 2022.</title>
+        <publisher>Ministère de l'Enseignement supérieur et de la Recherche.</publisher>
+        <url>https://www.enseignementsup-recherche.gouv.fr/rd-entreprises-2022.pdf</url>
+        <note>Accédé le 5 novembre 2023.</note>
+    </sequence>
+    <sequence>
+        <author>Jaouen, M. &amp; Poirier, L.</author>
+        <date>2024, février.</date>
+        <title>L'adaptation des villes au changement climatique : stratégies françaises.</title>
+        <publisher>Agence de la transition écologique.</publisher>
+        <url>https://www.ademe.fr/sites/default/files/villes-climat-2024.pdf</url>
+        <note>Accédé le 1er mars 2024.</note>
+    </sequence>
+    <sequence>
+        <title>Les métiers de la croissance verte 2023.</title>
+        <publisher>Observatoire prospectif des métiers et des qualifications.</publisher>
+        <url>https://www.metiers-croissance-verte.gouv.fr/rapport-2023.pdf</url>
+    </sequence>
+    <sequence>
+        <author>Bertrand, S.</author>
+        <date>2023, 25 avril.</date>
+        <title>L'économie silver : opportunités pour les territoires français.</title>
+        <publisher>BPI France.</publisher>
+        <url>https://bpifrance.fr/sites/default/files/silver-economie-2023.pdf</url>
+        <note>Accédé le 10 mai 2023.</note>
+    </sequence>
+    <sequence>
+        <date>2023.</date>
+        <title>Enquête emploi en continu 2022.</title>
+        <publisher>INSEE.</publisher>
+        <url>https://www.insee.fr/fr/statistiques/enquete-emploi-continu-2022.pdf</url>
+        <note>Accédé le 15 février 2023.</note>
+    </sequence>
+    <sequence>
+        <author>Clement, A. &amp; Denis, F.</author>
+        <date>2024, janvier.</date>
+        <title>Les infrastructures de recharge pour véhicules électriques : état du déploiement.</title>
+        <publisher>Avere-France.</publisher>
+        <url>https://www.avere-france.org/sites/default/files/infrastructures-recharge-2024.pdf</url>
+        <note>Accédé le 5 février 2024.</note>
+    </sequence>
+    <sequence>
+        <title>Les aides à la création d'entreprise 2023.</title>
+        <publisher>URSSAF.</publisher>
+        <url>https://www.urssaf.fr/portail/home/etudes-et-actualites/aides-creation-2023.html</url>
+        <note>Accédé le 20 mars 2024.</note>
+    </sequence>
+    <sequence>
+        <author>Guillot, P.</author>
+        <date>2023, décembre.</date>
+        <title>La prévention des addictions chez les jeunes : programmes et résultats.</title>
+        <publisher>Miluda interministérielle de lutte contre les drogues.</publisher>
+        <url>https://www.drogues.gouv.fr/sites/default/files/prevention-addictions-jeunes-2023.pdf</url>
+        <note>Accédé le 10 janvier 2024.</note>
+    </sequence>
+    <sequence>
+        <date>2023, septembre.</date>
+        <title>Les chiffres clés des énergies renouvelables 2022.</title>
+        <publisher>Syndicat des énergies renouvelables.</publisher>
+        <url>https://energies-renouvelables.org/sites/default/files/chiffres-cles-2022.pdf</url>
+        <note>Accédé le 15 octobre 2023.</note>
+    </sequence>
+    <sequence>
+        <author>Roy, M. &amp; Simon, L.</author>
+        <date>2024, mars.</date>
+        <title>L'économie collaborative : régulation et fiscalité.</title>
+        <publisher>Conseil des prélèvements obligatoires.</publisher>
+        <url>https://www.cpo.gouv.fr/sites/default/files/economie-collaborative-2024.pdf</url>
+        <note>Accédé le 20 mars 2024.</note>
+    </sequence>
+    <sequence>
+        <title>Observatoire des territoires ruraux 2023.</title>
+        <publisher>Agence nationale de cohésion des territoires.</publisher>
+        <url>https://www.cohesion-territoires.gouv.fr/observatoire-territoires-ruraux-2023</url>
+    </sequence>
+    <sequence>
+        <author>Andre, J.</author>
+        <date>2023, 15 mai.</date>
+        <title>Les politiques de mobilité durable dans les aires urbaines.</title>
+        <publisher>CEREMA.</publisher>
+        <url>https://www.cerema.fr/system/files/documents/2023-05/mobilite-durable-aires-urbaines.pdf</url>
+        <note>Accédé le 1er juin 2023.</note>
+    </sequence>
+    <sequence>
+        <date>2023.</date>
+        <title>Les dépenses de santé 2022.</title>
+        <publisher>DREES.</publisher>
+        <url>https://drees.solidarites-sante.gouv.fr/publications/depenses-sante-2022.pdf</url>
+        <note>Accédé le 10 avril 2023.</note>
+    </sequence>
+    <sequence>
+        <author>Thomas, G. &amp; Vincent, H.</author>
+        <date>2024, février.</date>
+        <title>La numérisation des archives publiques : bilan et perspectives.</title>
+        <publisher>Archives de France.</publisher>
+        <url>https://www.archives-nationales.culture.gouv.fr/numerisation-2024.pdf</url>
+        <note>Accédé le 1er mars 2024.</note>
+    </sequence>
+    <sequence>
+        <title>Guide de la transition écologique pour les TPE-PME.</title>
+        <publisher>Chambre de commerce et d'industrie de France.</publisher>
+        <url>https://www.cci.fr/sites/default/files/guide-transition-ecologique-tpe-pme.pdf</url>
+        <note>Accédé le 15 février 2024.</note>
+    </sequence>
+    <sequence>
+        <author>Pascal, R.</author>
+        <date>2023, août.</date>
+        <title>Les zones franches urbaines : évaluation après vingt ans.</title>
+        <publisher>Observatoire des zones franches urbaines.</publisher>
+        <url>https://www.ville.gouv.fr/sites/default/files/zfu-evaluation-2023.pdf</url>
+        <note>Accédé le 15 septembre 2023.</note>
+    </sequence>
+    <sequence>
+        <date>2024, janvier.</date>
+        <title>Les essentiels de la justice 2023.</title>
+        <publisher>Ministère de la Justice.</publisher>
+        <url>https://www.justice.gouv.fr/sites/default/files/essentiels-justice-2023.pdf</url>
+        <note>Accédé le 25 janvier 2024.</note>
+    </sequence>
+    <sequence>
+        <author>Georges, M. &amp; Henri, L.</author>
+        <date>2023, novembre.</date>
+        <title>L'impact du changement climatique sur les forêts françaises.</title>
+        <publisher>Office national des forêts.</publisher>
+        <url>https://www.onf.fr/sites/default/files/changement-climatique-forets-2023.pdf</url>
+        <note>Accédé le 1er décembre 2023.</note>
+    </sequence>
+    <sequence>
+        <title>Les indicateurs de suivi de la stratégie nationale bas-carbone.</title>
+        <publisher>Haut conseil pour le climat.</publisher>
+        <url>https://www.hautconseilclimat.fr/sites/default/files/indicateurs-snbc-2023.pdf</url>
+        <note>Accédé le 10 décembre 2023.</note>
+    </sequence>
+    <sequence>
+        <author>Isaac, P.</author>
+        <date>2023, 10 juillet.</date>
+        <title>La médiation sociale dans les quartiers prioritaires.</title>
+        <publisher>Agence nationale pour la cohésion sociale et l'égalité des chances.</publisher>
+        <url>https://www.cget.gouv.fr/sites/default/files/mediation-sociale-2023.pdf</url>
+    </sequence>
+    <sequence>
+        <date>2023, octobre.</date>
+        <title>Portrait des professions de santé 2023.</title>
+        <publisher>Observatoire national des professions de santé.</publisher>
+        <url>https://www.professions-sante.gouv.fr/sites/default/files/portrait-2023.pdf</url>
+        <note>Accédé le 15 novembre 2023.</note>
+    </sequence>
+    <sequence>
+        <author>Louis, C. &amp; Philippe, D.</author>
+        <date>2024, mars.</date>
+        <title>Les technologies émergentes dans le BTP : opportunités et défis.</title>
+        <publisher>Fédération française du bâtiment.</publisher>
+        <url>https://www.ffbatiment.fr/sites/default/files/technologies-emergentes-btp-2024.pdf</url>
+        <note>Accédé le 20 mars 2024.</note>
+    </sequence>
+    <sequence>
+        <title>Baromètre du bénévolat en France 2023.</title>
+        <publisher>France Bénévolat.</publisher>
+        <url>https://www.francebenevolat.org/sites/default/files/barometre-benevolat-2023.pdf</url>
+    </sequence>
+    <sequence>
+        <author>Nicolas, F.</author>
+        <date>2023, 5 juin.</date>
+        <title>La politique de la ville : bilan décennal.</title>
+        <publisher>Observatoire national de la politique de la ville.</publisher>
+        <url>https://www.onpv.gouv.fr/sites/default/files/bilan-decennal-2023.pdf</url>
+        <note>Accédé le 15 juin 2023.</note>
+    </sequence>
+    <sequence>
+        <date>2023.</date>
+        <title>Les comptes transports de la nation 2022.</title>
+        <publisher>Ministère délégué chargé des Transports.</publisher>
+        <url>https://www.statistiques.developpement-durable.gouv.fr/comptes-transports-2022.pdf</url>
+        <note>Accédé le 20 mars 2023.</note>
+    </sequence>
+    <sequence>
+        <author>Wagner, A. &amp; Schmidt, B.</author>
+        <date>2024, janvier.</date>
+        <title>La coopération transfrontalière franco-allemande : bilan et perspectives.</title>
+        <publisher>Secrétariat général pour les affaires régionales.</publisher>
+        <url>https://www.sgar.gouv.fr/sites/default/files/cooperation-transfrontaliere-2024.pdf</url>
+        <note>Accédé le 10 février 2024.</note>
+    </sequence>
+    <sequence>
+        <title>Les chiffres clés de l'immigration 2022.</title>
+        <publisher>Ministère de l'Intérieur.</publisher>
+        <url>https://www.immigration.interieur.gouv.fr/sites/default/files/chiffres-cles-2022.pdf</url>
+    </sequence>
+    <sequence>
+        <author>Mercier, J.</author>
+        <date>2024, 15 février.</date>
+        <title>La protection des données personnelles à l'ère du big data.</title>
+        <publisher>Commission nationale de l'informatique et des libertés.</publisher>
+        <url>https://www.cnil.fr/sites/default/files/protection-donnees-bigdata-2024.pdf</url>
+        <note>Accédé le 20 février 2024.</note>
+    </sequence>
+    <sequence>
+        <title>Rapport sur la pauvreté en milieu rural 2023.</title>
+        <publisher>Observatoire national des zones rurales.</publisher>
+        <url>https://www.ruralite.gouv.fr/sites/default/files/pauvrete-rurale-2023.pdf</url>
+        <note>Accédé le 12 décembre 2023.</note>
+    </sequence>
+    <sequence>
+        <author>Dupuis, R. &amp; Morin, C.</author>
+        <date>2023, mai.</date>
+        <title>Les enjeux de la souveraineté alimentaire en France.</title>
+        <publisher>Institut national de la recherche agronomique.</publisher>
+        <url>https://www.inrae.fr/sites/default/files/souverainete-alimentaire-2023.pdf</url>
+    </sequence>
+    <sequence>
+        <date>2024, mars.</date>
+        <title>Baromètre du numérique 2024.</title>
+        <publisher>Autorité de régulation des communications électroniques et des postes.</publisher>
+        <url>https://www.arcep.fr/uploads/tx_gspublication/barometre-numerique-2024.pdf</url>
+        <note>Accédé le 18 mars 2024.</note>
+    </sequence>
+    <sequence>
+        <author>Chevalier, A.</author>
+        <date>2023, 8 novembre.</date>
+        <title>Les politiques de lutte contre l'exclusion bancaire.</title>
+        <publisher>Banque de France.</publisher>
+        <url>https://www.banque-france.fr/sites/default/files/exclusion-bancaire-2023.pdf</url>
+        <note>Accédé le 15 novembre 2023.</note>
+    </sequence>
+    <sequence>
+        <title>Les établissements d'hébergement pour personnes âgées en 2023.</title>
+        <publisher>DREES.</publisher>
+        <url>https://drees.solidarites-sante.gouv.fr/publications/ehpad-2023</url>
+    </sequence>
+    <sequence>
+        <author>Lefebvre, M. &amp; Gautier, P.</author>
+        <date>2024, janvier.</date>
+        <title>La transition énergétique des PME : freins et leviers.</title>
+        <publisher>Observatoire de l'économie verte.</publisher>
+        <url>https://www.observatoire-economie-verte.fr/sites/default/files/pme-transition-2024.pdf</url>
+        <note>Accédé le 8 février 2024.</note>
+    </sequence>
+    <sequence>
+        <date>2023.</date>
+        <title>Atlas des cancers en France - Édition 2023.</title>
+        <publisher>Institut national du cancer.</publisher>
+        <url>https://www.e-cancer.fr/ressources-documentaires/atlas-des-cancers</url>
+        <note>Accédé le 20 octobre 2023.</note>
+    </sequence>
+    <sequence>
+        <author>Bernard, F.</author>
+        <date>2023, septembre.</date>
+        <title>Les mobilités actives en milieu urbain : état des lieux.</title>
+        <publisher>CEREMA.</publisher>
+        <url>https://www.cerema.fr/system/files/documents/2023-09/mobilites-actives-urbain.pdf</url>
+    </sequence>
+    <sequence>
+        <title>Les chiffres clés de la justice 2023.</title>
+        <publisher>Ministère de la Justice.</publisher>
+        <url>https://www.justice.gouv.fr/sites/default/files/chiffres-cles-justice-2023.pdf</url>
+    </sequence>
+    <sequence>
+        <author>Renault, S. &amp; Fournier, D.</author>
+        <date>2024, février.</date>
+        <title>L'innovation dans les services à la personne.</title>
+        <publisher>Caisse nationale de solidarité pour l'autonomie.</publisher>
+        <url>https://www.cnsa.fr/sites/default/files/innovation-services-personne-2024.pdf</url>
+        <note>Accédé le 10 mars 2024.</note>
+    </sequence>
+    <sequence>
+        <date>2023, décembre.</date>
+        <title>Les comptes de la nation 2022.</title>
+        <publisher>INSEE.</publisher>
+        <url>https://www.insee.fr/fr/statistiques/comptes-nation-2022.pdf</url>
+        <note>Accédé le 15 janvier 2024.</note>
+    </sequence>
+    <sequence>
+        <author>Perrault, C.</author>
+        <date>2023, juin.</date>
+        <title>La gestion intégrée des zones côtières en France.</title>
+        <publisher>Secrétariat général de la mer.</publisher>
+        <url>https://www.mer.gouv.fr/sites/default/files/gizc-france-2023.pdf</url>
+        <note>Accédé le 20 juillet 2023.</note>
+    </sequence>
+
+    <!-- THESIS/DISSERTATION (45 sequences) -->
+    <sequence>
+        <author>Aubert, Claire</author>
+        <date>2023.</date>
+        <title>Les politiques publiques de transition écologique en France : analyse comparée des dynamiques territoriales.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>Université Paris-Saclay.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Brunet, Antoine</author>
+        <date>2022.</date>
+        <title>Représentations sociales de la santé mentale chez les adolescents français.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>Université de Bordeaux.</publisher>
+        <location>Bordeaux.</location>
+    </sequence>
+    <sequence>
+        <author>Chauvin, Marie</author>
+        <date>2023.</date>
+        <title>Intelligence artificielle et diagnostic médical : enjeux éthiques et juridiques.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>Université Paris Cité.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Delmas, Pierre</author>
+        <date>2024.</date>
+        <title>Les transformations du travail salarié à l'ère du numérique.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>Université de Lyon.</publisher>
+        <location>Lyon.</location>
+    </sequence>
+    <sequence>
+        <author>Evrard, Sophie</author>
+        <date>2022.</date>
+        <title>La gouvernance des métropoles françaises : entre décentralisation et recentralisation.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>Sciences Po Paris.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Faivre, Julien</author>
+        <date>2023.</date>
+        <title>Les pratiques informationnelles des jeunes adultes en milieu numérique.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>Université de Strasbourg.</publisher>
+        <location>Strasbourg.</location>
+    </sequence>
+    <sequence>
+        <author>Gaillard, Camille</author>
+        <date>2023.</date>
+        <title>La mémoire des conflits contemporains dans les musées français.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>Université de Lille.</publisher>
+        <location>Lille.</location>
+    </sequence>
+    <sequence>
+        <author>Humbert, Nicolas</author>
+        <date>2022.</date>
+        <title>Optimisation des réseaux de distribution électrique face à l'intermittence des énergies renouvelables.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>Institut polytechnique de Grenoble.</publisher>
+        <location>Grenoble.</location>
+    </sequence>
+    <sequence>
+        <author>Jacquet, Élodie</author>
+        <date>2023.</date>
+        <title>Les inégalités scolaires à l'école primaire : analyse des pratiques enseignantes.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>Université de Rennes.</publisher>
+        <location>Rennes.</location>
+    </sequence>
+    <sequence>
+        <author>Keller, Marc</author>
+        <date>2024.</date>
+        <title>Les effets du changement climatique sur la biodiversité alpine.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>Université Savoie Mont Blanc.</publisher>
+        <location>Chambéry.</location>
+    </sequence>
+    <sequence>
+        <author>Lemoine, Isabelle</author>
+        <date>2022.</date>
+        <title>La négociation collective dans les entreprises du numérique.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>Université Paris-Panthéon-Assas.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Morel, François</author>
+        <date>2023.</date>
+        <title>Les dynamiques spatiales de la périurbanisation en France.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>Université de Toulouse.</publisher>
+        <location>Toulouse.</location>
+    </sequence>
+    <sequence>
+        <author>Normand, Céline</author>
+        <date>2023.</date>
+        <title>Les parcours de vie des personnes transgenres en France.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>Université de Montpellier.</publisher>
+        <location>Montpellier.</location>
+    </sequence>
+    <sequence>
+        <author>Ollivier, Stéphane</author>
+        <date>2022.</date>
+        <title>Les représentations médiatiques des mouvements sociaux contemporains.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>Université de Nice Sophia Antipolis.</publisher>
+        <location>Nice.</location>
+    </sequence>
+    <sequence>
+        <author>Pelletier, Anne</author>
+        <date>2024.</date>
+        <title>La gestion des risques technologiques majeurs : le cas des sites Seveso.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>Université de Nantes.</publisher>
+        <location>Nantes.</location>
+    </sequence>
+    <sequence>
+        <author>Quintard, Benjamin</author>
+        <date>2023.</date>
+        <title>Les déterminants sociaux de la réussite scolaire dans l'enseignement supérieur.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>Université de Caen Normandie.</publisher>
+        <location>Caen.</location>
+    </sequence>
+    <sequence>
+        <author>Roussel, Valérie</author>
+        <date>2022.</date>
+        <title>Les politiques locales de prévention de la délinquance.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>Université de Reims Champagne-Ardenne.</publisher>
+        <location>Reims.</location>
+    </sequence>
+    <sequence>
+        <author>Simonet, Damien</author>
+        <date>2023.</date>
+        <title>La construction sociale de la notion de handicap en France.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>Université Paris-Nanterre.</publisher>
+        <location>Nanterre.</location>
+    </sequence>
+    <sequence>
+        <author>Tisserand, Laura</author>
+        <date>2024.</date>
+        <title>Les stratégies d'adaptation des agriculteurs face au changement climatique.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>AgroParisTech.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Valette, Grégory</author>
+        <date>2022.</date>
+        <title>Les transformations du management public à l'ère du New Public Management.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>École nationale d'administration.</publisher>
+        <location>Strasbourg.</location>
+    </sequence>
+    <sequence>
+        <author>Weber, Nathalie</author>
+        <date>2023.</date>
+        <title>Les enjeux de la transition numérique pour les bibliothèques universitaires.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>Université de Poitiers.</publisher>
+        <location>Poitiers.</location>
+    </sequence>
+    <sequence>
+        <author>Xavier, Philippe</author>
+        <date>2023.</date>
+        <title>Les politiques de mobilité durable en milieu urbain.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>Université Gustave Eiffel.</publisher>
+        <location>Marne-la-Vallée.</location>
+    </sequence>
+    <sequence>
+        <author>Yonnet, Caroline</author>
+        <date>2022.</date>
+        <title>Les représentations du corps dans la culture numérique contemporaine.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>Université Sorbonne Nouvelle.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Zimmermann, Lucas</author>
+        <date>2024.</date>
+        <title>Les dynamiques des écosystèmes d'innovation en France.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>HEC Paris.</publisher>
+        <location>Jouy-en-Josas.</location>
+    </sequence>
+    <sequence>
+        <author>Arnould, Juliette</author>
+        <date>2023.</date>
+        <title>La participation citoyenne dans les projets d'aménagement urbain.</title>
+        <genre>Mémoire de master</genre>
+        <publisher>Université Paris-Est Créteil.</publisher>
+        <location>Créteil.</location>
+    </sequence>
+    <sequence>
+        <author>Barbier, Thomas</author>
+        <date>2022.</date>
+        <title>Les stratégies de communication des organisations non gouvernementales environnementales.</title>
+        <genre>Mémoire de master</genre>
+        <publisher>Université de Aix-Marseille.</publisher>
+        <location>Aix-en-Provence.</location>
+    </sequence>
+    <sequence>
+        <author>Costa, Mathilde</author>
+        <date>2023.</date>
+        <title>Les pratiques de recrutement dans la fonction publique hospitalière.</title>
+        <genre>Mémoire de master</genre>
+        <publisher>École des hautes études en santé publique.</publisher>
+        <location>Rennes.</location>
+    </sequence>
+    <sequence>
+        <author>Diallo, Ibrahim</author>
+        <date>2024.</date>
+        <title>Les déterminants de l'engagement associatif des jeunes en banlieue parisienne.</title>
+        <genre>Mémoire de master</genre>
+        <publisher>Université Sorbonne Paris Nord.</publisher>
+        <location>Villetaneuse.</location>
+    </sequence>
+    <sequence>
+        <author>Espinoza, Carolina</author>
+        <date>2022.</date>
+        <title>La mise en œuvre des politiques européennes de cohésion territoriale en France.</title>
+        <genre>Mémoire de master</genre>
+        <publisher>Sciences Po Lyon.</publisher>
+        <location>Lyon.</location>
+    </sequence>
+    <sequence>
+        <author>Fontaine, Adrien</author>
+        <date>2023.</date>
+        <title>Les usages pédagogiques du numérique dans l'enseignement secondaire.</title>
+        <genre>Mémoire de master</genre>
+        <publisher>École normale supérieure.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Garcia, Sandra</author>
+        <date>2023.</date>
+        <title>Les représentations sociales de la précarité énergétique.</title>
+        <genre>Mémoire de master</genre>
+        <publisher>Université de Tours.</publisher>
+        <location>Tours.</location>
+    </sequence>
+    <sequence>
+        <author>Hachemi, Karim</author>
+        <date>2022.</date>
+        <title>Les trajectoires résidentielles des populations immigrées en France.</title>
+        <genre>Mémoire de master</genre>
+        <publisher>Institut national d'études démographiques.</publisher>
+        <location>Aubervilliers.</location>
+    </sequence>
+    <sequence>
+        <author>Imbert, Cécile</author>
+        <date>2024.</date>
+        <title>Les pratiques de consommation durable des classes moyennes urbaines.</title>
+        <genre>Mémoire de master</genre>
+        <publisher>Université de Dijon.</publisher>
+        <location>Dijon.</location>
+    </sequence>
+    <sequence>
+        <author>Joly, Romain</author>
+        <date>2023.</date>
+        <title>Les transformations des relations professionnelles dans le secteur logistique.</title>
+        <genre>Mémoire de master</genre>
+        <publisher>Conservatoire national des arts et métiers.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Kone, Fatoumata</author>
+        <date>2022.</date>
+        <title>Les politiques d'intégration des réfugiés en France.</title>
+        <genre>Mémoire de master</genre>
+        <publisher>Université Paris-Dauphine.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Laurent, Boris</author>
+        <date>2023.</date>
+        <title>Les enjeux de la transition agroécologique pour les petites exploitations.</title>
+        <genre>Mémoire de master</genre>
+        <publisher>AgroParisTech.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Mbappe, Louise</author>
+        <date>2024.</date>
+        <title>Les stratégies d'insertion professionnelle des diplômés de l'enseignement supérieur.</title>
+        <genre>Mémoire de master</genre>
+        <publisher>Centre d'études et de recherches sur les qualifications.</publisher>
+        <location>Marseille.</location>
+    </sequence>
+    <sequence>
+        <author>Ndiaye, Moussa</author>
+        <date>2022.</date>
+        <title>Les dynamiques des quartiers créatifs en France.</title>
+        <genre>Mémoire de master</genre>
+        <publisher>Université de Bretagne Occidentale.</publisher>
+        <location>Brest.</location>
+    </sequence>
+    <sequence>
+        <author>Ortiz, Patricia</author>
+        <date>2023.</date>
+        <title>Les pratiques de gouvernance dans les coopératives agricoles.</title>
+        <genre>Mémoire de master</genre>
+        <publisher>Université de Clermont Auvergne.</publisher>
+        <location>Clermont-Ferrand.</location>
+    </sequence>
+    <sequence>
+        <author>Pinto, Ricardo</author>
+        <date>2023.</date>
+        <title>Les enjeux de la sécurité sanitaire dans la restauration collective.</title>
+        <genre>Mémoire de master</genre>
+        <publisher>École des hautes études en santé publique.</publisher>
+        <location>Rennes.</location>
+    </sequence>
+    <sequence>
+        <author>Renault, Solène</author>
+        <date>2024.</date>
+        <title>Les politiques locales de lutte contre l'illettrisme.</title>
+        <genre>Mémoire de master</genre>
+        <publisher>Université de Picardie Jules Verne.</publisher>
+        <location>Amiens.</location>
+    </sequence>
+    <sequence>
+        <author>Sow, Aminata</author>
+        <date>2022.</date>
+        <title>Les représentations du développement durable dans les entreprises françaises.</title>
+        <genre>Mémoire de master</genre>
+        <publisher>EM Lyon Business School.</publisher>
+        <location>Écully.</location>
+    </sequence>
+    <sequence>
+        <author>Turpin, Étienne</author>
+        <date>2023.</date>
+        <title>Les impacts de la numérisation sur les métiers du livre.</title>
+        <genre>Mémoire de master</genre>
+        <publisher>École nationale supérieure des sciences de l'information et des bibliothèques.</publisher>
+        <location>Villeurbanne.</location>
+    </sequence>
+    <sequence>
+        <author>Uribe, Daniela</author>
+        <date>2023.</date>
+        <title>Les dynamiques migratoires en Méditerranée occidentale.</title>
+        <genre>Mémoire de master</genre>
+        <publisher>Université de Perpignan Via Domitia.</publisher>
+        <location>Perpignan.</location>
+    </sequence>
+    <sequence>
+        <author>Vernet, Christophe</author>
+        <date>2024.</date>
+        <title>Les transformations des pratiques cultuelles en France contemporaine.</title>
+        <genre>Thèse de doctorat</genre>
+        <publisher>Université de Lorraine.</publisher>
+        <location>Nancy.</location>
+    </sequence>
+
+    <!-- REPORT/WORKING PAPER/PREPRINT (45 sequences) -->
+    <sequence>
+        <author>Institut national de la statistique et des études économiques.</author>
+        <date>2023.</date>
+        <title>Note de conjoncture - Décembre 2023.</title>
+        <volume>Note de conjoncture n° 12.</volume>
+        <publisher>INSEE.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Banque de France.</author>
+        <date>2024.</date>
+        <title>Rapport sur la stabilité financière.</title>
+        <volume>Rapport de la Banque de France n° 1.</volume>
+        <publisher>Banque de France.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Conseil d'orientation pour l'emploi.</author>
+        <date>2023.</date>
+        <title>Le télétravail : quels enjeux pour l'emploi et les conditions de travail ?</title>
+        <volume>Rapport COE 2023-02.</volume>
+        <publisher>COE.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>France Stratégie.</author>
+        <date>2023.</date>
+        <title>Coûts sociaux du tabagisme en France : actualisation 2023.</title>
+        <volume>Document de travail France Stratégie n° 2023/05.</volume>
+        <publisher>France Stratégie.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Conseil national de l'information statistique.</author>
+        <date>2024.</date>
+        <title>Avis sur la méthodologie des enquêtes emploi.</title>
+        <volume>Avis CNIS n° 2024-A.</volume>
+        <publisher>CNIS.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Agence de la transition écologique.</author>
+        <date>2023.</date>
+        <title>Les émissions de gaz à effet de serre des territoires français.</title>
+        <volume>Les dossiers de l'ADEME n° 156.</volume>
+        <publisher>ADEME.</publisher>
+        <location>Angers.</location>
+    </sequence>
+    <sequence>
+        <author>Observatoire français des conjonctures économiques.</author>
+        <date>2024.</date>
+        <title>Perspectives économiques 2024-2025.</title>
+        <volume>Revue de l'OFCE n° 178.</volume>
+        <publisher>OFCE.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Centre d'études prospectives et d'informations internationales.</author>
+        <date>2023.</date>
+        <title>Commerce international et chaînes de valeur mondiales.</title>
+        <volume>Document de travail CEPII n° 2023-14.</volume>
+        <publisher>CEPII.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Institut de recherche et documentation en économie de la santé.</author>
+        <date>2023.</date>
+        <title>Les dépenses de santé en France : évolution et déterminants.</title>
+        <volume>Questions d'économie de la santé n° 287.</volume>
+        <publisher>IRDES.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Conseil d'analyse économique.</author>
+        <date>2024.</date>
+        <title>La fiscalité environnementale en France.</title>
+        <volume>Les Notes du CAE n° 78.</volume>
+        <publisher>CAE.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Institut national d'études démographiques.</author>
+        <date>2023.</date>
+        <title>Les migrations internationales en 2022.</title>
+        <volume>Population &amp; Sociétés n° 615.</volume>
+        <publisher>INED.</publisher>
+        <location>Aubervilliers.</location>
+    </sequence>
+    <sequence>
+        <author>Direction de l'animation de la recherche, des études et des statistiques.</author>
+        <date>2024.</date>
+        <title>Les créations d'entreprise en 2023.</title>
+        <volume>DARES Résultats n° 024.</volume>
+        <publisher>DARES.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Centre de recherche pour l'étude et l'observation des conditions de vie.</author>
+        <date>2023.</date>
+        <title>Les conditions de vie des étudiants en 2023.</title>
+        <volume>Cahiers du CREDOC n° 345.</volume>
+        <publisher>CREDOC.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Haut conseil des finances publiques.</author>
+        <date>2024.</date>
+        <title>Avis sur le projet de loi de finances pour 2024.</title>
+        <volume>Avis HCFP 2024-03.</volume>
+        <publisher>HCFP.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Conseil général de l'environnement et du développement durable.</author>
+        <date>2023.</date>
+        <title>Évaluation des politiques de prévention des déchets.</title>
+        <volume>Rapport CGEDD n° 013876.</volume>
+        <publisher>CGEDD.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Institut des politiques publiques.</author>
+        <date>2023.</date>
+        <title>L'impact redistributif des prélèvements obligatoires.</title>
+        <volume>IPP Policy Brief n° 45.</volume>
+        <publisher>IPP.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Observatoire des inégalités.</author>
+        <date>2024.</date>
+        <title>L'état des inégalités en France - Édition 2024.</title>
+        <volume>Rapport annuel.</volume>
+        <publisher>Observatoire des inégalités.</publisher>
+        <location>Ivry-sur-Seine.</location>
+    </sequence>
+    <sequence>
+        <author>Centre d'études de l'emploi et du travail.</author>
+        <date>2023.</date>
+        <title>Les mutations du salariat en France.</title>
+        <volume>Document de travail CEET n° 342.</volume>
+        <publisher>CEET.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Fondation nationale des sciences politiques.</author>
+        <date>2023.</date>
+        <title>Les opinions politiques en France : enquête 2023.</title>
+        <volume>Working Paper Sciences Po n° 2023-08.</volume>
+        <publisher>Sciences Po.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Institut de recherche sur l'économie du développement.</author>
+        <date>2024.</date>
+        <title>Aide au développement et efficacité : revue de littérature.</title>
+        <volume>Document de travail IREDU n° 2024-01.</volume>
+        <publisher>IREDU.</publisher>
+        <location>Dijon.</location>
+    </sequence>
+    <sequence>
+        <author>Agence française de développement.</author>
+        <date>2023.</date>
+        <title>Rapport d'activité 2022.</title>
+        <volume>Rapport annuel AFD.</volume>
+        <publisher>AFD.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Centre d'analyse stratégique.</author>
+        <date>2023.</date>
+        <title>Les enjeux économiques de la transition écologique.</title>
+        <volume>CAS Policy Brief n° 34.</volume>
+        <publisher>CAS.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Institut français des relations internationales.</author>
+        <date>2024.</date>
+        <title>La politique étrangère de la France en 2023.</title>
+        <volume>IFRI Policy Brief n° 89.</volume>
+        <publisher>IFRI.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Observatoire français des drogues et des toxicomanies.</author>
+        <date>2023.</date>
+        <title>Drogues : chiffres clés 2023.</title>
+        <volume>Repères OFDT n° 92.</volume>
+        <publisher>OFDT.</publisher>
+        <location>Saint-Denis.</location>
+    </sequence>
+    <sequence>
+        <author>Centre de recherche en économie et management.</author>
+        <date>2023.</date>
+        <title>Les déterminants de l'innovation dans les PME.</title>
+        <volume>Working Paper CREM n° 2023-12.</volume>
+        <publisher>CREM - Université de Rennes.</publisher>
+        <location>Rennes.</location>
+    </sequence>
+    <sequence>
+        <author>Institut de recherches économiques de Dijon.</author>
+        <date>2024.</date>
+        <title>Compétitivité et spécialisation des territoires français.</title>
+        <volume>Document de travail LEDi n° 2024-03.</volume>
+        <publisher>LEDi.</publisher>
+        <location>Dijon.</location>
+    </sequence>
+    <sequence>
+        <author>Conseil économique, social et environnemental.</author>
+        <date>2023.</date>
+        <title>La transformation écologique de l'économie française.</title>
+        <volume>Avis CESE 2023-15.</volume>
+        <publisher>CESE.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Direction de la recherche, des études, de l'évaluation et des statistiques.</author>
+        <date>2024.</date>
+        <title>Les bénéficiaires de l'aide sociale en 2023.</title>
+        <volume>DREES Études et Résultats n° 1245.</volume>
+        <publisher>DREES.</publisher>
+        <location>Paris.</location>
+    </sequence>
+    <sequence>
+        <author>Centre d'études et de recherches sur les qualifications.</author>
+        <date>2023.</date>
+        <title>Les trajectoires professionnelles des jeunes sortants de formation.</title>
+        <volume>CEREQ Bref n° 421.</volume>
+        <publisher>CEREQ.</publisher>
+        <location>Marseille.</location>
+    </sequence>
+    <sequence>
+        <author>Institut de recherche en informatique et systèmes aléatoires.</author>
+        <date>2023.</date>
+        <title>Apprentissage automatique et protection des données personnelles.</title>
+        <volume>Preprint IRISA n° 2023-08.</volume>
+        <publisher>IRISA.</publisher>
+        <location>Rennes.</location>
+    </sequence>
+    <sequence>
+        <author>Laboratoire interdisciplinaire d'évaluation des politiques publiques.</author>
+        <date>2024.</date>
+        <title>Évaluation randomisée des politiques actives de l'emploi.</title>
+        <volume>LIEPP Working Paper n° 118.</volume>
+        <publisher>LIEPP.</publisher>
+        <location>Paris.</location>
+    </sequence>
+</dataset>

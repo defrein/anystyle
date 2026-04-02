@@ -1,0 +1,1393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <sequence>
+        <author>Durand, P.</author>
+        <date>(2020).</date>
+        <title>La sociologie des organisations en France.</title>
+        <editor>Martin, C. &amp; Dubois, M. (éd.)</editor>
+        <container-title>Traité de sociologie contemporaine</container-title>
+        <location>Paris</location>
+        <publisher>Presses Universitaires de France</publisher>
+        <pages>145-162</pages>
+        <edition>2e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Bernard, L. &amp; Petit, J.</author>
+        <date>(2019).</date>
+        <title>Philosophie des sciences au XXIe siècle.</title>
+        <editor>Roux, A. (éd.)</editor>
+        <container-title>Manuel de philosophie moderne</container-title>
+        <publisher>Gallimard</publisher>
+        <location>Paris</location>
+        <pages>201-234</pages>
+    </sequence>
+    <sequence>
+        <author>Leroy, F.</author>
+        <date>(2021).</date>
+        <title>Les nouvelles formes du travail.</title>
+        <editor>Moreau, S. &amp; Blanc, J. (éd.)</editor>
+        <container-title>Économie et société : perspectives critiques</container-title>
+        <location>Lyon</location>
+        <publisher>La Découverte</publisher>
+        <pages>78-95</pages>
+        <edition>3e éd.</edition>
+        <translator>Smith, A.</translator>
+    </sequence>
+    <sequence>
+        <author>Garnier, S.</author>
+        <date>(2018).</date>
+        <title>Le droit administratif français.</title>
+        <editor>Thomas, L. (éd.)</editor>
+        <container-title>Précis de droit public</container-title>
+        <publisher>Dalloz</publisher>
+        <location>Paris</location>
+        <pages>312-345</pages>
+    </sequence>
+    <sequence>
+        <author>Fournier, M.</author>
+        <date>(2022).</date>
+        <title>Géopolitique de l'Europe contemporaine.</title>
+        <editor>Girard, P. &amp; Lambert, C. (éd.)</editor>
+        <container-title>Relations internationales : enjeux actuels</container-title>
+        <location>Paris</location>
+        <publisher>Armand Colin</publisher>
+        <pages>55-89</pages>
+        <edition>4e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Moreau, A. &amp; Dubois, R.</author>
+        <date>(2020).</date>
+        <title>Cognitive psychology and language processing.</title>
+        <editor>Lefebvre, M. (éd.)</editor>
+        <container-title>Handbook of Cognitive Sciences</container-title>
+        <publisher>Odile Jacob</publisher>
+        <location>Paris</location>
+        <pages>167-189</pages>
+        <translator>Martin, P.</translator>
+    </sequence>
+    <sequence>
+        <author>Roux, P.</author>
+        <date>(2019).</date>
+        <title>Constitution et démocratie participative.</title>
+        <editor>Bernard, S. (éd.)</editor>
+        <container-title>Le système politique français</container-title>
+        <location>Paris</location>
+        <publisher>LexisNexis</publisher>
+        <pages>234-256</pages>
+    </sequence>
+    <sequence>
+        <author>Blanc, J. &amp; Girard, N.</author>
+        <date>(2021).</date>
+        <title>L'intelligence artificielle dans l'éducation.</title>
+        <editor> Dupont, C. &amp; Laurent, F. (éd.)</editor>
+        <container-title>Numérique et apprentissage</container-title>
+        <publisher>FYP Éditions</publisher>
+        <location>Limoges</location>
+        <pages>101-123</pages>
+    </sequence>
+    <sequence>
+        <author>Thomas, L.</author>
+        <date>(2018).</date>
+        <title>La mondialisation économique.</title>
+        <editor>Petit, R. (éd.)</editor>
+        <container-title>Économie mondiale : tendances et défis</container-title>
+        <location>Paris</location>
+        <publisher>La Documentation Française</publisher>
+        <pages>45-67</pages>
+        <edition>5e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Lambert, C. &amp; Moreau, E.</author>
+        <date>(2022).</date>
+        <title>Littérature comparée et interculturalité.</title>
+        <editor>Durand, A. &amp; Leroy, S. (éd.)</editor>
+        <container-title>Études littéraires contemporaines</container-title>
+        <publisher>Presses Sorbonne Nouvelle</publisher>
+        <location>Paris</location>
+        <pages>189-215</pages>
+    </sequence>
+    <sequence>
+        <author>Dupont, M.</author>
+        <date>(2020).</date>
+        <title>Les mutations de la famille française.</title>
+        <editor>Garnier, L. (éd.)</editor>
+        <container-title>Sociologie de la famille</container-title>
+        <location>Toulouse</location>
+        <publisher>Presses Universitaires du Mirail</publisher>
+        <pages>78-98</pages>
+        <translator>Bernard, J.</translator>
+    </sequence>
+    <sequence>
+        <author>Mercier, P. &amp; Blanc, R.</author>
+        <date>(2019).</date>
+        <title>La communication politique à l'ère numérique.</title>
+        <editor>Thomas, E. (éd.)</editor>
+        <container-title>Médias et démocratie</container-title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+        <pages>134-156</pages>
+    </sequence>
+    <sequence>
+        <author>Fabre, C.</author>
+        <date>(2021).</date>
+        <title>Anthropologie du corps et de la santé.</title>
+        <editor>Laurent, M. &amp; Dubois, P. (éd.)</editor>
+        <container-title>Traité d'anthropologie médicale</container-title>
+        <location>Paris</location>
+        <publisher>La Découverte</publisher>
+        <pages>56-78</pages>
+        <edition>2e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Gauthier, S. &amp; Roux, M.</author>
+        <date>(2018).</date>
+        <title>Le développement durable en question.</title>
+        <editor>Petit, A. (éd.)</editor>
+        <container-title>Environnement et société</container-title>
+        <publisher>Nathan</publisher>
+        <location>Paris</location>
+        <pages>201-223</pages>
+    </sequence>
+    <sequence>
+        <author>Laurent, F.</author>
+        <date>(2022).</date>
+        <title>Psychologie sociale des groupes.</title>
+        <editor>Moreau, C. &amp; Blanc, E. (éd.)</editor>
+        <container-title>Manuel de psychologie sociale</container-title>
+        <location>Grenoble</location>
+        <publisher>Presses Universitaires de Grenoble</publisher>
+        <pages>89-112</pages>
+    </sequence>
+    <sequence>
+        <author>Dubois, A. &amp; Martin, J.</author>
+        <date>(2020).</date>
+        <title>L'histoire économique de la France.</title>
+        <editor>Leroy, P. (éd.)</editor>
+        <container-title>Histoire économique européenne</container-title>
+        <publisher>Belin</publisher>
+        <location>Paris</location>
+        <pages>145-178</pages>
+        <edition>3e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Petit, S.</author>
+        <date>(2019).</date>
+        <title>La philosophie politique de Rawls.</title>
+        <editor>Girard, M. (éd.)</editor>
+        <container-title>Les grandes théories de la justice</container-title>
+        <location>Paris</location>
+        <publisher>Vrin</publisher>
+        <pages>267-289</pages>
+        <translator>Durand, L.</translator>
+    </sequence>
+    <sequence>
+        <author>Girard, P. &amp; Thomas, R.</author>
+        <date>(2021).</date>
+        <title>Le commerce international contemporain.</title>
+        <editor>Fabre, S. &amp; Mercier, A. (éd.)</editor>
+        <container-title>Économie internationale</container-title>
+        <publisher>La Découverte</publisher>
+        <location>Paris</location>
+        <pages>34-56</pages>
+    </sequence>
+    <sequence>
+        <author>Moreau, E.</author>
+        <date>(2018).</date>
+        <title>Analyse des discours médiatiques.</title>
+        <editor>Lambert, J. (éd.)</editor>
+        <container-title>Sciences de l'information et communication</container-title>
+        <location>Strasbourg</location>
+        <publisher>Presses Universitaires de Strasbourg</publisher>
+        <pages>123-145</pages>
+    </sequence>
+    <sequence>
+        <author>Roux, L. &amp; Dubois, C.</author>
+        <date>(2022).</date>
+        <title>La gouvernance européenne.</title>
+        <editor>Blanc, P. &amp; Martin, S. (éd.)</editor>
+        <container-title>Politiques européennes</container-title>
+        <publisher>Presses de Sciences Po</publisher>
+        <location>Paris</location>
+        <pages>178-201</pages>
+        <edition>4e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Blanc, E. &amp; Laurent, A.</author>
+        <date>(2020).</date>
+        <title>Les technologies éducatives.</title>
+        <editor>Gauthier, M. (éd.)</editor>
+        <container-title>École et numérique</container-title>
+        <location>Lyon</location>
+        <publisher>INRP</publisher>
+        <pages>67-89</pages>
+    </sequence>
+    <sequence>
+        <author>Martin, S.</author>
+        <date>(2019).</date>
+        <title>Le roman français au XXIe siècle.</title>
+        <editor>Dupont, A. &amp; Petit, M. (éd.)</editor>
+        <container-title>Histoire de la littérature française contemporaine</container-title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+        <pages>234-267</pages>
+    </sequence>
+    <sequence>
+        <author>Durand, A. &amp; Leroy, M.</author>
+        <date>(2021).</date>
+        <title>Sociologie de l'immigration.</title>
+        <editor>Garnier, P. (éd.)</editor>
+        <container-title>Les mutations de la société française</container-title>
+        <location>Paris</location>
+        <publisher>La Découverte</publisher>
+        <pages>112-134</pages>
+        <translator>Smith, J.</translator>
+    </sequence>
+    <sequence>
+        <author>Garnier, L.</author>
+        <date>(2018).</date>
+        <title>La recherche en éducation.</title>
+        <editor>Roux, S. (éd.)</editor>
+        <container-title>Méthodes en sciences de l'éducation</container-title>
+        <publisher>De Boeck</publisher>
+        <location>Bruxelles</location>
+        <pages>45-67</pages>
+    </sequence>
+    <sequence>
+        <author>Petit, R. &amp; Thomas, C.</author>
+        <date>(2022).</date>
+        <title>Le système de santé français.</title>
+        <editor>Moreau, L. &amp; Blanc, M. (éd.)</editor>
+        <container-title>Politiques de santé</container-title>
+        <location>Paris</location>
+        <publisher>Presses de l'EHESP</publisher>
+        <pages>189-212</pages>
+        <edition>2e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Lefebvre, M.</author>
+        <date>(2020).</date>
+        <title>Neurosciences et apprentissage.</title>
+        <editor>Dubois, A. (éd.)</editor>
+        <container-title>Cerveau et cognition</container-title>
+        <publisher>Odile Jacob</publisher>
+        <location>Paris</location>
+        <pages>78-101</pages>
+    </sequence>
+    <sequence>
+        <author>Dupont, C. &amp; Fabre, J.</author>
+        <date>(2019).</date>
+        <title>L'urbanisme durable.</title>
+        <editor>Laurent, P. &amp; Girard, L. (éd.)</editor>
+        <container-title>Villes et développement durable</container-title>
+        <location>Marseille</location>
+        <publisher>Presses Universitaires de Provence</publisher>
+        <pages>134-156</pages>
+    </sequence>
+    <sequence>
+        <author>Gauthier, M.</author>
+        <date>(2021).</date>
+        <title>La linguistique française.</title>
+        <editor>Martin, R. (éd.)</editor>
+        <container-title>Encyclopédie des sciences du langage</container-title>
+        <publisher>Flammarion</publisher>
+        <location>Paris</location>
+        <pages>201-223</pages>
+    </sequence>
+    <sequence>
+        <author>Laurent, P. &amp; Blanc, S.</author>
+        <date>(2018).</date>
+        <title>Les politiques environnementales.</title>
+        <editor>Petit, L. &amp; Roux, J. (éd.)</editor>
+        <container-title>Politiques publiques</container-title>
+        <location>Paris</location>
+        <publisher>Armand Colin</publisher>
+        <pages>56-78</pages>
+        <edition>3e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Mercier, A.</author>
+        <date>(2022).</date>
+        <title>La photographie contemporaine.</title>
+        <editor>Durand, M. &amp; Leroy, A. (éd.)</editor>
+        <container-title>Histoire de l'art contemporain</container-title>
+        <publisher>Editions du Regard</publisher>
+        <location>Paris</location>
+        <pages>145-167</pages>
+        <translator>Bernard, P.</translator>
+    </sequence>
+    <sequence>
+        <author>Fabre, S. &amp; Gauthier, L.</author>
+        <date>(2020).</date>
+        <title>Anthropologie visuelle.</title>
+        <editor>Thomas, S. (éd.)</editor>
+        <container-title>Méthodes en anthropologie</container-title>
+        <location>Toulouse</location>
+        <publisher>Anacharsis</publisher>
+        <pages>89-112</pages>
+    </sequence>
+    <sequence>
+        <author>Dubois, P.</author>
+        <date>(2019).</date>
+        <title>Le jazz en France.</title>
+        <editor>Blanc, L. &amp; Martin, A. (éd.)</editor>
+        <container-title>Musiques du XXe siècle</container-title>
+        <publisher>Actes Sud</publisher>
+        <location>Arles</location>
+        <pages>178-201</pages>
+    </sequence>
+    <sequence>
+        <author>Petit, M. &amp; Dupont, S.</author>
+        <date>(2021).</date>
+        <title>La gestion des ressources humaines.</title>
+        <editor>Girard, A. (éd.)</editor>
+        <container-title>Management et organisations</container-title>
+        <location>Paris</location>
+        <publisher>La Découverte</publisher>
+        <pages>123-145</pages>
+        <edition>4e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Roux, J.</author>
+        <date>(2018).</date>
+        <title>L'économie sociale et solidaire.</title>
+        <editor>Moreau, P. &amp; Laurent, S. (éd.)</editor>
+        <container-title>Alternatives économiques</container-title>
+        <publisher>Les Liens qui Libèrent</publisher>
+        <location>Paris</location>
+        <pages>67-89</pages>
+    </sequence>
+    <sequence>
+        <author>Blanc, M. &amp; Fabre, M.</author>
+        <date>(2022).</date>
+        <title>Les études de genre.</title>
+        <editor>Dubois, E. (éd.)</editor>
+        <container-title>Sciences sociales et genre</container-title>
+        <location>Paris</location>
+        <publisher>Presses de Sciences Po</publisher>
+        <pages>201-234</pages>
+    </sequence>
+    <sequence>
+        <author>Laurent, S.</author>
+        <date>(2020).</date>
+        <title>La philosophie des sciences cognitives.</title>
+        <editor>Lefebvre, A. &amp; Petit, R. (éd.)</editor>
+        <container-title>Philosophie de l'esprit</container-title>
+        <publisher>Vrin</publisher>
+        <location>Paris</location>
+        <pages>145-178</pages>
+        <translator>Wilson, K.</translator>
+    </sequence>
+    <sequence>
+        <author>Girard, L. &amp; Mercier, P.</author>
+        <date>(2019).</date>
+        <title>Le théâtre contemporain.</title>
+        <editor>Garnier, M. (éd.)</editor>
+        <container-title>Arts du spectacle</container-title>
+        <location>Paris</location>
+        <publisher>Editions Théâtrales</publisher>
+        <pages>56-78</pages>
+    </sequence>
+    <sequence>
+        <author>Moreau, P.</author>
+        <date>(2021).</date>
+        <title>La cryptographie moderne.</title>
+        <editor>Dupont, L. &amp; Roux, P. (éd.)</editor>
+        <container-title>Sécurité informatique</container-title>
+        <publisher>Dunod</publisher>
+        <location>Paris</location>
+        <pages>112-134</pages>
+    </sequence>
+    <sequence>
+        <author>Durand, M. &amp; Blanc, R.</author>
+        <date>(2018).</date>
+        <title>L'architecture écologique.</title>
+        <editor>Fabre, L. (éd.)</editor>
+        <container-title>Construction et environnement</container-title>
+        <location>Marseille</location>
+        <publisher>Éditions Parenthèses</publisher>
+        <pages>78-101</pages>
+        <edition>2e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Thomas, S.</author>
+        <date>(2022).</date>
+        <title>Les migrations internationales.</title>
+        <editor>Laurent, M. &amp; Girard, S. (éd.)</editor>
+        <container-title>Géographie des populations</container-title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+        <pages>189-212</pages>
+    </sequence>
+    <sequence>
+        <author>Petit, L. &amp; Dubois, M.</author>
+        <date>(2020).</date>
+        <title>La bioéthique contemporaine.</title>
+        <editor>Martin, E. (éd.)</editor>
+        <container-title>Éthique et médecine</container-title>
+        <location>Paris</location>
+        <publisher>Presses Universitaires de France</publisher>
+        <pages>134-156</pages>
+    </sequence>
+    <sequence>
+        <author>Gauthier, L.</author>
+        <date>(2019).</date>
+        <title>Le cinéma documentaire.</title>
+        <editor>Blanc, A. &amp; Roux, M. (éd.)</editor>
+        <container-title>Études cinématographiques</container-title>
+        <publisher>Lettrage</publisher>
+        <location>Paris</location>
+        <pages>67-89</pages>
+        <translator>Anderson, B.</translator>
+    </sequence>
+    <sequence>
+        <author>Fabre, L. &amp; Laurent, E.</author>
+        <date>(2021).</date>
+        <title>Les énergies renouvelables.</title>
+        <editor>Petit, S. &amp; Dupont, M. (éd.)</editor>
+        <container-title>Transition énergétique</container-title>
+        <location>Lyon</location>
+        <publisher>Éditions Terre Vivante</publisher>
+        <pages>101-123</pages>
+    </sequence>
+    <sequence>
+        <author>Martin, E.</author>
+        <date>(2018).</date>
+        <title>La littérature jeunesse.</title>
+        <editor>Garnier, S. &amp; Thomas, P. (éd.)</editor>
+        <container-title>Études littéraires</container-title>
+        <publisher>Presses Universitaires de Rennes</publisher>
+        <location>Rennes</location>
+        <pages>145-167</pages>
+    </sequence>
+    <sequence>
+        <author>Dubois, E. &amp; Moreau, S.</author>
+        <date>(2022).</date>
+        <title>Le droit international humanitaire.</title>
+        <editor>Roux, L. (éd.)</editor>
+        <container-title>Droit et conflits armés</container-title>
+        <location>Paris</location>
+        <publisher>Pédone</publisher>
+        <pages>78-101</pages>
+    </sequence>
+    <sequence>
+        <author>Roux, M. &amp; Girard, P.</author>
+        <date>(2020).</date>
+        <title>La cuisine française traditionnelle.</title>
+        <editor>Blanc, E. &amp; Laurent, P. (éd.)</editor>
+        <container-title>Patrimoine culinaire</container-title>
+        <publisher>Editions du Chêne</publisher>
+        <location>Paris</location>
+        <pages>56-78</pages>
+        <edition>3e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Blanc, A.</author>
+        <date>(2019).</date>
+        <title>Les mouvements sociaux contemporains.</title>
+        <editor>Durand, P. &amp; Petit, A. (éd.)</editor>
+        <container-title>Sociologie des mouvements sociaux</container-title>
+        <location>Paris</location>
+        <publisher>La Découverte</publisher>
+        <pages>123-145</pages>
+    </sequence>
+    <sequence>
+        <author>Laurent, E. &amp; Fabre, S.</author>
+        <date>(2021).</date>
+        <title>La nanotechnologie.</title>
+        <editor>Gauthier, P. (éd.)</editor>
+        <container-title>Sciences et technologies émergentes</container-title>
+        <publisher>EDP Sciences</publisher>
+        <location>Les Ulis</location>
+        <pages>189-212</pages>
+    </sequence>
+    <sequence>
+        <author>Garnier, M.</author>
+        <date>(2018).</date>
+        <title>L'opéra en France.</title>
+        <editor>Mercier, L. &amp; Roux, S. (éd.)</editor>
+        <container-title>Histoire de la musique classique</container-title>
+        <location>Paris</location>
+        <publisher>Fayard</publisher>
+        <pages>234-256</pages>
+        <translator>Schmidt, H.</translator>
+    </sequence>
+    <sequence>
+        <author>Petit, A. &amp; Durand, L.</author>
+        <date>(2022).</date>
+        <title>La intelligence économique.</title>
+        <editor>Thomas, M. (éd.)</editor>
+        <container-title>Stratégie d'entreprise</container-title>
+        <publisher>Vuibert</publisher>
+        <location>Paris</location>
+        <pages>67-89</pages>
+    </sequence>
+    <sequence>
+        <author>Dupont, L.</author>
+        <date>(2020).</date>
+        <title>Les plantes médicinales.</title>
+        <editor>Fabre, M. &amp; Laurent, A. (éd.)</editor>
+        <container-title>Phytothérapie et santé</container-title>
+        <location>Toulouse</location>
+        <publisher>Éditions du Sud</publisher>
+        <pages>101-123</pages>
+    </sequence>
+    <sequence>
+        <author>Martin, R. &amp; Blanc, P.</author>
+        <date>(2019).</date>
+        <title>La sémiologie de l'image.</title>
+        <editor>Girard, M. &amp; Petit, L. (éd.)</editor>
+        <container-title>Communication visuelle</container-title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+        <pages>145-167</pages>
+    </sequence>
+    <sequence>
+        <author>Girard, S.</author>
+        <date>(2021).</date>
+        <title>Le patrimoine industriel.</title>
+        <editor>Dubois, L. (éd.)</editor>
+        <container-title>Histoire et patrimoine</container-title>
+        <location>Nancy</location>
+        <publisher>Presses Universitaires de Nancy</publisher>
+        <pages>78-101</pages>
+    </sequence>
+    <sequence>
+        <author>Moreau, S. &amp; Roux, A.</author>
+        <date>(2018).</date>
+        <title>La didactique des langues.</title>
+        <editor>Laurent, S. &amp; Blanc, M. (éd.)</editor>
+        <container-title>Enseignement des langues</container-title>
+        <publisher>Didier</publisher>
+        <location>Paris</location>
+        <pages>56-78</pages>
+        <edition>4e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Blanc, P.</author>
+        <date>(2022).</date>
+        <title>Les politiques migratoires européennes.</title>
+        <editor>Petit, M. &amp; Durand, A. (éd.)</editor>
+        <container-title>Europe et migrations</container-title>
+        <location>Bruxelles</location>
+        <publisher>Éditions de l'Université de Bruxelles</publisher>
+        <pages>134-156</pages>
+    </sequence>
+    <sequence>
+        <author>Fabre, M. &amp; Garnier, P.</author>
+        <date>(2020).</date>
+        <title>La recherche clinique.</title>
+        <editor>Moreau, E. (éd.)</editor>
+        <container-title>Méthodologie de la recherche en santé</container-title>
+        <publisher>Elsevier Masson</publisher>
+        <location>Issy-les-Moulineaux</location>
+        <pages>189-212</pages>
+    </sequence>
+    <sequence>
+        <author>Laurent, M.</author>
+        <date>(2019).</date>
+        <title>L'esthétique contemporaine.</title>
+        <editor>Thomas, A. &amp; Roux, L. (éd.)</editor>
+        <container-title>Philosophie de l'art</container-title>
+        <location>Paris</location>
+        <publisher>Presses Universitaires de France</publisher>
+        <pages>67-89</pages>
+        <translator>Rossi, G.</translator>
+    </sequence>
+    <sequence>
+        <author>Dubois, L. &amp; Martin, P.</author>
+        <date>(2021).</date>
+        <title>Le commerce électronique.</title>
+        <editor>Girard, P. &amp; Blanc, S. (éd.)</editor>
+        <container-title>Digital business</container-title>
+        <publisher>Dunod</publisher>
+        <location>Paris</location>
+        <pages>101-123</pages>
+    </sequence>
+    <sequence>
+        <author>Roux, A.</author>
+        <date>(2018).</date>
+        <title>La viticulture française.</title>
+        <editor>Petit, R. &amp; Fabre, L. (éd.)</editor>
+        <container-title>Agriculture et terroir</container-title>
+        <location>Bordeaux</location>
+        <publisher>Féret</publisher>
+        <pages>145-167</pages>
+    </sequence>
+    <sequence>
+        <author>Petit, R. &amp; Laurent, P.</author>
+        <date>(2022).</date>
+        <title>Les sciences forensiques.</title>
+        <editor>Dubois, P. (éd.)</editor>
+        <container-title>Criminalistique</container-title>
+        <publisher>De Boeck Supérieur</publisher>
+        <location>Bruxelles</location>
+        <pages>78-101</pages>
+    </sequence>
+    <sequence>
+        <author>Gauthier, P.</author>
+        <date>(2020).</date>
+        <title>La musique électronique.</title>
+        <editor>Blanc, L. &amp; Martin, S. (éd.)</editor>
+        <container-title>Sons et technologies</container-title>
+        <location>Paris</location>
+        <publisher>MF Éditions</publisher>
+        <pages>123-145</pages>
+    </sequence>
+    <sequence>
+        <author>Mercier, L. &amp; Dupont, A.</author>
+        <date>(2019).</date>
+        <title>L'archéologie préventive.</title>
+        <editor>Garnier, L. &amp; Roux, M. (éd.)</editor>
+        <container-title>Archéologie et aménagement</container-title>
+        <publisher>La Découverte</publisher>
+        <location>Paris</location>
+        <pages>56-78</pages>
+        <edition>2e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Thomas, A.</author>
+        <date>(2021).</date>
+        <title>La psychanalyse contemporaine.</title>
+        <editor>Moreau, A. &amp; Petit, S. (éd.)</editor>
+        <container-title>Cliniques psychanalytiques</container-title>
+        <location>Paris</location>
+        <publisher>Presses Universitaires de France</publisher>
+        <pages>189-212</pages>
+    </sequence>
+    <sequence>
+        <author>Durand, A. &amp; Girard, L.</author>
+        <date>(2018).</date>
+        <title>Les jeux vidéo comme objet d'étude.</title>
+        <editor>Laurent, E. (éd.)</editor>
+        <container-title>Game studies</container-title>
+        <publisher>Pix'n Love</publisher>
+        <location>Paris</location>
+        <pages>67-89</pages>
+        <translator>Johnson, T.</translator>
+    </sequence>
+    <sequence>
+        <author>Blanc, S. &amp; Fabre, P.</author>
+        <date>(2022).</date>
+        <title>La finance responsable.</title>
+        <editor>Dubois, M. &amp; Roux, P. (éd.)</editor>
+        <container-title>Finance durable</container-title>
+        <location>Paris</location>
+        <publisher>Eyrolles</publisher>
+        <pages>101-123</pages>
+    </sequence>
+    <sequence>
+        <author>Garnier, P.</author>
+        <date>(2020).</date>
+        <title>L'ergonomie cognitive.</title>
+        <editor>Martin, L. (éd.)</editor>
+        <container-title>Psychologie du travail</container-title>
+        <publisher>Presses Universitaires de France</publisher>
+        <location>Paris</location>
+        <pages>145-167</pages>
+    </sequence>
+    <sequence>
+        <author>Petit, S. &amp; Moreau, L.</author>
+        <date>(2019).</date>
+        <title>Le design graphique.</title>
+        <editor>Blanc, A. &amp; Laurent, M. (éd.)</editor>
+        <container-title>Arts appliqués</container-title>
+        <location>Paris</location>
+        <publisher>Eyrolles</publisher>
+        <pages>78-101</pages>
+    </sequence>
+    <sequence>
+        <author>Roux, P. &amp; Durand, P.</author>
+        <date>(2021).</date>
+        <title>La géologie marine.</title>
+        <editor>Fabre, S. (éd.)</editor>
+        <container-title>Océanographie</container-title>
+        <publisher>Ifremer</publisher>
+        <location>Brest</location>
+        <pages>134-156</pages>
+    </sequence>
+    <sequence>
+        <author>Laurent, M.</author>
+        <date>(2018).</date>
+        <title>L'histoire des femmes.</title>
+        <editor>Garnier, M. &amp; Petit, M. (éd.)</editor>
+        <container-title>Genre et histoire</container-title>
+        <location>Toulouse</location>
+        <publisher>Presses Universitaires du Mirail</publisher>
+        <pages>56-78</pages>
+    </sequence>
+    <sequence>
+        <author>Martin, L. &amp; Blanc, E.</author>
+        <date>(2022).</date>
+        <title>La robotique humanoïde.</title>
+        <editor>Girard, S. &amp; Dubois, A. (éd.)</editor>
+        <container-title>Robotique et intelligence artificielle</container-title>
+        <publisher>Hermès Science</publisher>
+        <location>Paris</location>
+        <pages>189-212</pages>
+        <translator>Williams, R.</translator>
+    </sequence>
+    <sequence>
+        <author>Dubois, A.</author>
+        <date>(2020).</date>
+        <title>Les politiques culturelles.</title>
+        <editor>Thomas, L. &amp; Roux, S. (éd.)</editor>
+        <container-title>Culture et société</container-title>
+        <location>Paris</location>
+        <publisher>La Documentation Française</publisher>
+        <pages>67-89</pages>
+    </sequence>
+    <sequence>
+        <author>Girard, M. &amp; Petit, L.</author>
+        <date>(2019).</date>
+        <title>La permaculture.</title>
+        <editor>Laurent, P. &amp; Blanc, R. (éd.)</editor>
+        <container-title>Agriculture écologique</container-title>
+        <publisher>Rustica</publisher>
+        <location>Paris</location>
+        <pages>101-123</pages>
+    </sequence>
+    <sequence>
+        <author>Fabre, S.</author>
+        <date>(2021).</date>
+        <title>Le tourisme durable.</title>
+        <editor>Durand, M. &amp; Garnier, S. (éd.)</editor>
+        <container-title>Géographie du tourisme</container-title>
+        <location>Aix-en-Provence</location>
+        <publisher>Presses Universitaires de Provence</publisher>
+        <pages>145-167</pages>
+    </sequence>
+    <sequence>
+        <author>Moreau, L. &amp; Roux, L.</author>
+        <date>(2018).</date>
+        <title>La linguistique de corpus.</title>
+        <editor>Martin, R. (éd.)</editor>
+        <container-title>Méthodes en linguistique</container-title>
+        <publisher>De Boeck</publisher>
+        <location>Bruxelles</location>
+        <pages>78-101</pages>
+        <edition>3e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Blanc, R.</author>
+        <date>(2022).</date>
+        <title>Les addictions comportementales.</title>
+        <editor>Petit, A. &amp; Fabre, M. (éd.)</editor>
+        <container-title>Psychologie clinique</container-title>
+        <location>Paris</location>
+        <publisher>Dunod</publisher>
+        <pages>134-156</pages>
+    </sequence>
+    <sequence>
+        <author>Petit, A. &amp; Durand, L.</author>
+        <date>(2020).</date>
+        <title>La médiation culturelle.</title>
+        <editor>Girard, L. &amp; Laurent, E. (éd.)</editor>
+        <container-title>Culture et publics</container-title>
+        <publisher>La Territoriale</publisher>
+        <location>Paris</location>
+        <pages>56-78</pages>
+    </sequence>
+    <sequence>
+        <author>Garnier, S. &amp; Martin, S.</author>
+        <date>(2019).</date>
+        <title>Le vieillissement démographique.</title>
+        <editor>Moreau, S. (éd.)</editor>
+        <container-title>Démographie et société</container-title>
+        <location>Paris</location>
+        <publisher>INED</publisher>
+        <pages>189-212</pages>
+        <translator>Brown, L.</translator>
+    </sequence>
+    <sequence>
+        <author>Laurent, E.</author>
+        <date>(2021).</date>
+        <title>Les matériaux composites.</title>
+        <editor>Dubois, E. &amp; Blanc, P. (éd.)</editor>
+        <container-title>Science des matériaux</container-title>
+        <publisher>PPUR</publisher>
+        <location>Lausanne</location>
+        <pages>67-89</pages>
+    </sequence>
+    <sequence>
+        <author>Dubois, E. &amp; Girard, P.</author>
+        <date>(2018).</date>
+        <title>La bande dessinée francophone.</title>
+        <editor>Roux, A. &amp; Petit, R. (éd.)</editor>
+        <container-title>Narratologie et BD</container-title>
+        <location>Angoulême</location>
+        <publisher>Cité nationale de la bande dessinée</publisher>
+        <pages>101-123</pages>
+    </sequence>
+    <sequence>
+        <author>Roux, S.</author>
+        <date>(2022).</date>
+        <title>Les pratiques informationnelles.</title>
+        <editor>Thomas, S. &amp; Laurent, M. (éd.)</editor>
+        <container-title>Sciences de l'information</container-title>
+        <publisher>Éditions du Cercle de la Librairie</publisher>
+        <location>Paris</location>
+        <pages>145-167</pages>
+    </sequence>
+    <sequence>
+        <author>Martin, S. &amp; Blanc, M.</author>
+        <date>(2020).</date>
+        <title>La prévention des risques.</title>
+        <editor>Fabre, L. &amp; Durand, A. (éd.)</editor>
+        <container-title>Gestion des risques</container-title>
+        <location>Paris</location>
+        <publisher>Technopole</publisher>
+        <pages>78-101</pages>
+    </sequence>
+    <sequence>
+        <author>Fabre, L.</author>
+        <date>(2019).</date>
+        <title>L'écriture inclusive.</title>
+        <editor>Petit, L. &amp; Garnier, P. (éd.)</editor>
+        <container-title>Langue et genre</container-title>
+        <publisher>Editions iXe</publisher>
+        <location>Donnemarie-Dontilly</location>
+        <pages>134-156</pages>
+    </sequence>
+    <sequence>
+        <author>Girard, L. &amp; Moreau, E.</author>
+        <date>(2021).</date>
+        <title>La réalité virtuelle.</title>
+        <editor>Blanc, S. &amp; Roux, M. (éd.)</editor>
+        <container-title>Technologies immersives</container-title>
+        <location>Paris</location>
+        <publisher>Dunod</publisher>
+        <pages>56-78</pages>
+        <edition>2e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Petit, L.</author>
+        <date>(2018).</date>
+        <title>Les jardins partagés.</title>
+        <editor>Laurent, S. &amp; Dubois, L. (éd.)</editor>
+        <container-title>Agriculture urbaine</container-title>
+        <publisher>Éditions Ulmer</publisher>
+        <location>Paris</location>
+        <pages>189-212</pages>
+    </sequence>
+    <sequence>
+        <author>Durand, P. &amp; Martin, P.</author>
+        <date>(2022).</date>
+        <title>La cybersécurité industrielle.</title>
+        <editor>Gauthier, M. (éd.)</editor>
+        <container-title>Sécurité des systèmes</container-title>
+        <location>Paris</location>
+        <publisher>Hermès Science</publisher>
+        <pages>67-89</pages>
+        <translator>Miller, D.</translator>
+    </sequence>
+    <sequence>
+        <author>Blanc, M. &amp; Fabre, S.</author>
+        <date>(2020).</date>
+        <title>L'économie circulaire.</title>
+        <editor>Girard, M. &amp; Petit, S. (éd.)</editor>
+        <container-title>Développement durable</container-title>
+        <publisher>Editions de l'Ademe</publisher>
+        <location>Angers</location>
+        <pages>101-123</pages>
+    </sequence>
+    <sequence>
+        <author>Laurent, S.</author>
+        <date>(2019).</date>
+        <title>Les inégalités scolaires.</title>
+        <editor>Roux, P. &amp; Durand, M. (éd.)</editor>
+        <container-title>Sociologie de l'éducation</container-title>
+        <location>Paris</location>
+        <publisher>La Découverte</publisher>
+        <pages>145-167</pages>
+    </sequence>
+    <sequence>
+        <author>Gauthier, M. &amp; Dubois, C.</author>
+        <date>(2021).</date>
+        <title>La data visualisation.</title>
+        <editor>Martin, L. &amp; Blanc, A. (éd.)</editor>
+        <container-title>Science des données</container-title>
+        <publisher>O'Reilly France</publisher>
+        <location>Paris</location>
+        <pages>78-101</pages>
+    </sequence>
+    <sequence>
+        <author>Mercier, P.</author>
+        <date>(2018).</date>
+        <title>Le slam et la poésie orale.</title>
+        <editor>Thomas, P. &amp; Laurent, A. (éd.)</editor>
+        <container-title>Poésie contemporaine</container-title>
+        <location>Marseille</location>
+        <publisher>J. Peyré</publisher>
+        <pages>134-156</pages>
+    </sequence>
+    <sequence>
+        <author>Thomas, P. &amp; Girard, S.</author>
+        <date>(2022).</date>
+        <title>Les biotechnologies marines.</title>
+        <editor>Dubois, P. &amp; Roux, S. (éd.)</editor>
+        <container-title>Biotechnologies bleues</container-title>
+        <publisher>Quae</publisher>
+        <location>Versailles</location>
+        <pages>56-78</pages>
+    </sequence>
+    <sequence>
+        <author>Dubois, C.</author>
+        <date>(2020).</date>
+        <title>La mode éthique.</title>
+        <editor>Petit, M. &amp; Fabre, P. (éd.)</editor>
+        <container-title>Textile et développement durable</container-title>
+        <location>Paris</location>
+        <publisher>Eyrolles</publisher>
+        <pages>189-212</pages>
+        <translator>Davis, K.</translator>
+    </sequence>
+    <sequence>
+        <author>Roux, M. &amp; Laurent, P.</author>
+        <date>(2019).</date>
+        <title>L'accompagnement social.</title>
+        <editor>Moreau, P. (éd.)</editor>
+        <container-title>Travail social</container-title>
+        <publisher>Dunod</publisher>
+        <location>Paris</location>
+        <pages>67-89</pages>
+    </sequence>
+    <sequence>
+        <author>Petit, M. &amp; Blanc, L.</author>
+        <date>(2021).</date>
+        <title>Les communs numériques.</title>
+        <editor>Garnier, L. &amp; Durand, P. (éd.)</editor>
+        <container-title>Biens communs et numérique</container-title>
+        <location>Limoges</location>
+        <publisher>FYP Éditions</publisher>
+        <pages>101-123</pages>
+    </sequence>
+    <sequence>
+        <author>Garnier, L.</author>
+        <date>(2018).</date>
+        <title>La psychologie du développement.</title>
+        <editor>Thomas, A. &amp; Roux, A. (éd.)</editor>
+        <container-title>Enfant et adolescent</container-title>
+        <publisher>De Boeck Supérieur</publisher>
+        <location>Bruxelles</location>
+        <pages>145-167</pages>
+    </sequence>
+    <sequence>
+        <author>Moreau, P. &amp; Girard, A.</author>
+        <date>(2022).</date>
+        <title>Le cloud computing.</title>
+        <editor>Fabre, M. &amp; Blanc, R. (éd.)</editor>
+        <container-title>Informatique dématérialisée</container-title>
+        <location>Paris</location>
+        <publisher>Dunod</publisher>
+        <pages>78-101</pages>
+        <edition>3e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Blanc, L. &amp; Durand, S.</author>
+        <date>(2020).</date>
+        <title>Les humanités numériques.</title>
+        <editor>Laurent, E. &amp; Petit, A. (éd.)</editor>
+        <container-title>Digital humanities</container-title>
+        <publisher>Éditions de la Maison des sciences de l'homme</publisher>
+        <location>Paris</location>
+        <pages>134-156</pages>
+    </sequence>
+    <sequence>
+        <author>Laurent, A.</author>
+        <date>(2019).</date>
+        <title>La gastronomie moléculaire.</title>
+        <editor>Dubois, A. &amp; Martin, S. (éd.)</editor>
+        <container-title>Science et cuisine</container-title>
+        <location>Paris</location>
+        <publisher>Belin</publisher>
+        <pages>56-78</pages>
+    </sequence>
+    <sequence>
+        <author>Fabre, P. &amp; Roux, J.</author>
+        <date>(2021).</date>
+        <title>Les troubles du sommeil.</title>
+        <editor>Gauthier, L. (éd.)</editor>
+        <container-title>Médecine du sommeil</container-title>
+        <publisher>Elsevier Masson</publisher>
+        <location>Issy-les-Moulineaux</location>
+        <pages>189-212</pages>
+        <translator>Thompson, W.</translator>
+    </sequence>
+    <sequence>
+        <author>Girard, A.</author>
+        <date>(2018).</date>
+        <title>Le street art.</title>
+        <editor>Blanc, E. &amp; Petit, L. (éd.)</editor>
+        <container-title>Art urbain</container-title>
+        <location>Paris</location>
+        <publisher>Alternatives</publisher>
+        <pages>67-89</pages>
+    </sequence>
+    <sequence>
+        <author>Durand, S. &amp; Martin, L.</author>
+        <date>(2022).</date>
+        <title>La blockchain.</title>
+        <editor>Garnier, P. &amp; Laurent, M. (éd.)</editor>
+        <container-title>Cryptomonnaies et technologies distribuées</container-title>
+        <publisher>Presses des Mines</publisher>
+        <location>Paris</location>
+        <pages>101-123</pages>
+    </sequence>
+    <sequence>
+        <author>Thomas, M.</author>
+        <date>(2020).</date>
+        <title>Les soins palliatifs.</title>
+        <editor>Roux, L. &amp; Dubois, M. (éd.)</editor>
+        <container-title>Fin de vie et accompagnement</container-title>
+        <location>Paris</location>
+        <publisher>Érès</publisher>
+        <pages>145-167</pages>
+    </sequence>
+    <sequence>
+        <author>Petit, E. &amp; Blanc, P.</author>
+        <date>(2019).</date>
+        <title>La ville intelligente.</title>
+        <editor>Girard, S. &amp; Fabre, L. (éd.)</editor>
+        <container-title>Smart cities</container-title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+        <pages>78-101</pages>
+    </sequence>
+    <sequence>
+        <author>Moreau, E.</author>
+        <date>(2021).</date>
+        <title>Les microplastiques.</title>
+        <editor>Durand, A. &amp; Laurent, S. (éd.)</editor>
+        <container-title>Pollution marine</container-title>
+        <location>Brest</location>
+        <publisher>Ifremer</publisher>
+        <pages>134-156</pages>
+    </sequence>
+    <sequence>
+        <author>Roux, L. &amp; Garnier, M.</author>
+        <date>(2018).</date>
+        <title>La muséologie sociale.</title>
+        <editor>Martin, E. &amp; Petit, R. (éd.)</editor>
+        <container-title>Musées et société</container-title>
+        <publisher>La Documentation Française</publisher>
+        <location>Paris</location>
+        <pages>56-78</pages>
+        <translator>Garcia, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Gauthier, L. &amp; Dubois, S.</author>
+        <date>(2022).</date>
+        <title>Les interfaces cerveau-machine.</title>
+        <editor>Blanc, M. &amp; Laurent, P. (éd.)</editor>
+        <container-title>Neurotechnologies</container-title>
+        <location>Paris</location>
+        <publisher>EDP Sciences</publisher>
+        <pages>189-212</pages>
+    </sequence>
+    <sequence>
+        <author>Martin, E.</author>
+        <date>(2020).</date>
+        <title>Le deuil et ses rituels.</title>
+        <editor>Thomas, E. &amp; Roux, P. (éd.)</editor>
+        <container-title>Anthropologie de la mort</container-title>
+        <publisher>Armand Colin</publisher>
+        <location>Paris</location>
+        <pages>67-89</pages>
+    </sequence>
+    <sequence>
+        <author>Fabre, M. &amp; Girard, L.</author>
+        <date>(2019).</date>
+        <title>Les objets connectés.</title>
+        <editor>Petit, S. &amp; Durand, M. (éd.)</editor>
+        <container-title>Internet des objets</container-title>
+        <location>Paris</location>
+        <publisher>Dunod</publisher>
+        <pages>101-123</pages>
+    </sequence>
+    <sequence>
+        <author>Dubois, S.</author>
+        <date>(2021).</date>
+        <title>La littérature migrante.</title>
+        <editor>Laurent, A. &amp; Blanc, S. (éd.)</editor>
+        <container-title>Écritures migrantes</container-title>
+        <publisher>Editions CEC</publisher>
+        <location>Paris</location>
+        <pages>145-167</pages>
+    </sequence>
+    <sequence>
+        <author>Blanc, P. &amp; Moreau, A.</author>
+        <date>(2018).</date>
+        <title>Les algorithms de recommandation.</title>
+        <editor>Roux, M. &amp; Fabre, P. (éd.)</editor>
+        <container-title>Intelligence artificielle et société</container-title>
+        <location>Paris</location>
+        <publisher>Éditions IMS</publisher>
+        <pages>78-101</pages>
+        <edition>2e éd.</edition>
+    </sequence>
+    <sequence>
+        <author>Laurent, P.</author>
+        <date>(2022).</date>
+        <title>La géothermie.</title>
+        <editor>Garnier, S. &amp; Petit, E. (éd.)</editor>
+        <container-title>Énergies renouvelables</container-title>
+        <publisher>Technip</publisher>
+        <location>Paris</location>
+        <pages>134-156</pages>
+        <translator>Lopez, R.</translator>
+    </sequence>
+    <sequence>
+        <author>Girard, S. &amp; Durand, P.</author>
+        <date>(2020).</date>
+        <title>Le handicap invisible.</title>
+        <editor>Martin, P. &amp; Blanc, L. (éd.)</editor>
+        <container-title>Handicap et société</container-title>
+        <location>Rennes</location>
+        <publisher>Presses EHESP</publisher>
+        <pages>56-78</pages>
+    </sequence>
+    <sequence>
+        <author>Petit, E.</author>
+        <date>(2019).</date>
+        <title>Les fablabs.</title>
+        <editor>Dubois, L. &amp; Laurent, E. (éd.)</editor>
+        <container-title>Fabrication numérique</container-title>
+        <publisher>FYP Éditions</publisher>
+        <location>Limoges</location>
+        <pages>189-212</pages>
+    </sequence>
+    <sequence>
+        <author>Moreau, A. &amp; Roux, S.</author>
+        <date>(2021).</date>
+        <title>La sophrologie.</title>
+        <editor>Gauthier, S. (éd.)</editor>
+        <container-title>Thérapies corporelles</container-title>
+        <location>Paris</location>
+        <publisher>InterEditions</publisher>
+        <pages>67-89</pages>
+    </sequence>
+    <sequence>
+        <author>Durand, M.</author>
+        <date>(2018).</date>
+        <title>Les paysages sonores.</title>
+        <editor>Thomas, M. &amp; Girard, A. (éd.)</editor>
+        <container-title>Acoustique et environnement</container-title>
+        <publisher>Éditions MF</publisher>
+        <location>Paris</location>
+        <pages>101-123</pages>
+    </sequence>
+    <sequence>
+        <author>Blanc, S. &amp; Fabre, A.</author>
+        <date>(2022).</date>
+        <title>La résilience urbaine.</title>
+        <editor>Petit, A. &amp; Laurent, S. (éd.)</editor>
+        <container-title>Villes et changements climatiques</container-title>
+        <location>Paris</location>
+        <publisher>Éditions Le Manuscrit</publisher>
+        <pages>145-167</pages>
+    </sequence>
+    <sequence>
+        <author>Garnier, S.</author>
+        <date>(2020).</date>
+        <title>Les maladies neurodégénératives.</title>
+        <editor>Dubois, C. &amp; Roux, A. (éd.)</editor>
+        <container-title>Neurologie clinique</container-title>
+        <publisher>Springer</publisher>
+        <location>Paris</location>
+        <pages>78-101</pages>
+        <translator>White, J.</translator>
+    </sequence>
+    <sequence>
+        <author>Roux, A. &amp; Martin, S.</author>
+        <date>(2019).</date>
+        <title>Le upcycling.</title>
+        <editor>Blanc, P. &amp; Durand, S. (éd.)</editor>
+        <container-title>Création et recyclage</container-title>
+        <location>Paris</location>
+        <publisher>Eyrolles</publisher>
+        <pages>134-156</pages>
+    </sequence>
+    <sequence>
+        <author>Thomas, E. &amp; Girard, M.</author>
+        <date>(2021).</date>
+        <title>La biologie de synthèse.</title>
+        <editor>Fabre, S. &amp; Petit, M. (éd.)</editor>
+        <container-title>Bio-ingénierie</container-title>
+        <publisher>Quae</publisher>
+        <location>Versailles</location>
+        <pages>56-78</pages>
+    </sequence>
+    <sequence>
+        <author>Dubois, L.</author>
+        <date>(2018).</date>
+        <title>Les communautés Emmaüs.</title>
+        <editor>Laurent, M. &amp; Blanc, E. (éd.)</editor>
+        <container-title>Économie solidaire</container-title>
+        <location>Paris</location>
+        <publisher>Éditions de l'Atelier</publisher>
+        <pages>189-212</pages>
+    </sequence>
+    <sequence>
+        <author>Fabre, A. &amp; Roux, J.</author>
+        <date>(2022).</date>
+        <title>Le computing quantique.</title>
+        <editor>Gauthier, M. &amp; Durand, A. (éd.)</editor>
+        <container-title>Technologies quantiques</container-title>
+        <publisher>EDP Sciences</publisher>
+        <location>Les Ulis</location>
+        <pages>67-89</pages>
+    </sequence>
+    <sequence>
+        <author>Martin, P.</author>
+        <date>(2020).</date>
+        <title>La proxémie.</title>
+        <editor>Petit, L. &amp; Garnier, L. (éd.)</editor>
+        <container-title>Communication non verbale</container-title>
+        <location>Paris</location>
+        <publisher>InterEditions</publisher>
+        <pages>101-123</pages>
+    </sequence>
+    <sequence>
+        <author>Girard, M. &amp; Blanc, A.</author>
+        <date>(2019).</date>
+        <title>Les écovillages.</title>
+        <editor>Laurent, P. &amp; Dubois, E. (éd.)</editor>
+        <container-title>Habitat écologique</container-title>
+        <publisher>Terre Vivante</publisher>
+        <location>Mens</location>
+        <pages>145-167</pages>
+        <translator>Green, S.</translator>
+    </sequence>
+    <sequence>
+        <author>Petit, S. &amp; Moreau, S.</author>
+        <date>(2021).</date>
+        <title>La nutrigénétique.</title>
+        <editor>Roux, S. &amp; Fabre, M. (éd.)</editor>
+        <container-title>Nutrition personnalisée</container-title>
+        <location>Paris</location>
+        <publisher>Dangles</publisher>
+        <pages>78-101</pages>
+    </sequence>
+    <sequence>
+        <author>Laurent, M.</author>
+        <date>(2018).</date>
+        <title>Le mouvement Arts &amp; Crafts.</title>
+        <editor>Durand, P. &amp; Martin, L. (éd.)</editor>
+        <container-title>Histoire du design</container-title>
+        <publisher>Citadelles &amp; Mazenod</publisher>
+        <location>Paris</location>
+        <pages>134-156</pages>
+    </sequence>
+    <sequence>
+        <author>Dubois, E. &amp; Girard, S.</author>
+        <date>(2022).</date>
+        <title>Les low-tech.</title>
+        <editor>Blanc, S. &amp; Petit, E. (éd.)</editor>
+        <container-title>Technologie appropriée</container-title>
+        <location>Paris</location>
+        <publisher>Éditions du Rouergue</publisher>
+        <pages>56-78</pages>
+    </sequence>
+    <sequence>
+        <author>Gauthier, S.</author>
+        <date>(2020).</date>
+        <title>La pleine conscience.</title>
+        <editor>Thomas, S. &amp; Laurent, A. (éd.)</editor>
+        <container-title>Méditation et science</container-title>
+        <publisher>Les Arènes</publisher>
+        <location>Paris</location>
+        <pages>189-212</pages>
+    </sequence>
+    <sequence>
+        <author>Blanc, E. &amp; Durand, L.</author>
+        <date>(2019).</date>
+        <title>Les AMAP.</title>
+        <editor>Garnier, M. &amp; Roux, L. (éd.)</editor>
+        <container-title>Agriculture paysanne</container-title>
+        <location>Lyon</location>
+        <publisher>Éditions Yves Michel</publisher>
+        <pages>67-89</pages>
+    </sequence>
+    <sequence>
+        <author>Roux, J. &amp; Petit, R.</author>
+        <date>(2021).</date>
+        <title>La spectrométrie de masse.</title>
+        <editor>Fabre, L. &amp; Martin, E. (éd.)</editor>
+        <container-title>Chimie analytique</container-title>
+        <publisher>Dunod</publisher>
+        <location>Paris</location>
+        <pages>101-123</pages>
+    </sequence>
+    <sequence>
+        <author>Garnier, M.</author>
+        <date>(2018).</date>
+        <title>Le taïchi chuan.</title>
+        <editor>Dubois, S. &amp; Blanc, M. (éd.)</editor>
+        <container-title>Arts internes chinois</container-title>
+        <location>Paris</location>
+        <publisher>Guy Trédaniel</publisher>
+        <pages>145-167</pages>
+        <translator>Chen, W.</translator>
+    </sequence>
+    <sequence>
+        <author>Petit, R. &amp; Laurent, E.</author>
+        <date>(2022).</date>
+        <title>Les jumeaux numériques.</title>
+        <editor>Girard, P. &amp; Moreau, E. (éd.)</editor>
+        <container-title>Industrie 4.0</container-title>
+        <publisher>Lavoisier</publisher>
+        <location>Paris</location>
+        <pages>78-101</pages>
+    </sequence>
+    <sequence>
+        <author>Moreau, E.</author>
+        <date>(2020).</date>
+        <title>La permaculture urbaine.</title>
+        <editor>Roux, M. &amp; Fabre, A. (éd.)</editor>
+        <container-title>Agriculture citadine</container-title>
+        <location>Paris</location>
+        <publisher>Rustica</publisher>
+        <pages>134-156</pages>
+    </sequence>
+    <sequence>
+        <author>Durand, L. &amp; Blanc, R.</author>
+        <date>(2019).</date>
+        <title>Les makerspaces.</title>
+        <editor>Thomas, A. &amp; Garnier, S. (éd.)</editor>
+        <container-title>Culture maker</container-title>
+        <publisher>FYP Éditions</publisher>
+        <location>Limoges</location>
+        <pages>56-78</pages>
+    </sequence>
+    <sequence>
+        <author>Thomas, A.</author>
+        <date>(2021).</date>
+        <title>La microbiologie du sol.</title>
+        <editor>Laurent, S. &amp; Petit, S. (éd.)</editor>
+        <container-title>Écologie du sol</container-title>
+        <location>Versailles</location>
+        <publisher>Quae</publisher>
+        <pages>189-212</pages>
+    </sequence>
+    <sequence>
+        <author>Fabre, L. &amp; Girard, A.</author>
+        <date>(2018).</date>
+        <title>Le minimalisme.</title>
+        <editor>Dubois, L. &amp; Martin, P. (éd.)</editor>
+        <container-title>Simplicité volontaire</container-title>
+        <location>Paris</location>
+        <publisher>Eyrolles</publisher>
+        <pages>67-89</pages>
+        <translator>Johnson, A.</translator>
+    </sequence>
+    <sequence>
+        <author>Martin, L. &amp; Roux, P.</author>
+        <date>(2022).</date>
+        <title>Les capteurs environnementaux.</title>
+        <editor>Blanc, A. &amp; Durand, M. (éd.)</editor>
+        <container-title>Instrumentation environnementale</container-title>
+        <publisher>Technip</publisher>
+        <location>Paris</location>
+        <pages>101-123</pages>
+    </sequence>
+</dataset>

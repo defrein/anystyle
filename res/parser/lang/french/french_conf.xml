@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <sequence>
+        <author>Dubois, M., &amp; Laurent, P.</author>
+        <date>(2019).</date>
+        <title>Intelligence artificielle et apprentissage automatique.</title>
+        <editor>Martin, R. (ed.)</editor>
+        <container-title>Actes de la 12e Conférence Française sur l'Intelligence Artificielle</container-title>
+        <location>Paris,</location>
+        <pages>45-52.</pages>
+        <publisher>Éditions CNRS.</publisher>
+    </sequence>
+    <sequence>
+        <author>Bernard, J.</author>
+        <date>(2020).</date>
+        <title>Réseaux de neurones profonds pour la vision par ordinateur.</title>
+        <editor>Thomas, A., &amp; Petit, C. (eds.)</editor>
+        <container-title>Proceedings of the International Conference on Machine Learning Applications</container-title>
+        <location>Lyon,</location>
+        <pages>112-119.</pages>
+        <publisher>Springer.</publisher>
+        <doi>10.1007/978-3-030-12345-6_12</doi>
+    </sequence>
+    <sequence>
+        <author>Rousseau, A., Moreau, S., &amp; Girard, L.</author>
+        <date>(2018).</date>
+        <title>Analyse de sentiments dans les réseaux sociaux.</title>
+        <editor>Fabre, D. (ed.)</editor>
+        <container-title>Comptes Rendus du Colloque International sur le Traitement Automatique des Langues</container-title>
+        <location>Marseille,</location>
+        <pages>78-85.</pages>
+        <publisher>ATALA.</publisher>
+    </sequence>
+    <sequence>
+        <author>Petitjean, C.</author>
+        <date>(2021).</date>
+        <title>Sécurité des systèmes distribués.</title>
+        <editor>Blanc, M., &amp; Noir, J. (eds.)</editor>
+        <container-title>Actes du 8e Symposium sur la Cybersécurité</container-title>
+        <location>Toulouse,</location>
+        <pages>23-30.</pages>
+        <publisher>IEEE Computer Society.</publisher>
+    </sequence>
+    <sequence>
+        <author>Lefebvre, H., &amp; Dupont, F.</author>
+        <date>(2017).</date>
+        <title>Optimisation des processus industriels par algorithmes génétiques.</title>
+        <editor>Roux, V. (ed.)</editor>
+        <container-title>Proceedings of the European Conference on Industrial Engineering</container-title>
+        <location>Lille,</location>
+        <pages>156-163.</pages>
+        <publisher>Elsevier.</publisher>
+    </sequence>
+    <sequence>
+        <author>Garnier, T.</author>
+        <date>(2022).</date>
+        <title>Blockchain et cryptomonnaies : perspectives économiques.</title>
+        <editor>Simon, P., &amp; Leroy, M. (eds.)</editor>
+        <container-title>Actes de la Conférence Internationale sur les Technologies Financières</container-title>
+        <location>Bordeaux,</location>
+        <pages>89-96.</pages>
+        <publisher>Presses Universitaires de France.</publisher>
+    </sequence>
+    <sequence>
+        <author>Morel, E., Bertrand, N., &amp; Fournier, G.</author>
+        <date>(2019).</date>
+        <title>Énergies renouvelables et développement durable.</title>
+        <editor>Lambert, K. (ed.)</editor>
+        <container-title>Comptes Rendus du Congrès Français sur l'Environnement</container-title>
+        <location>Nice,</location>
+        <pages>34-41.</pages>
+        <publisher>Éditions Quae.</publisher>
+    </sequence>
+    <sequence>
+        <author>Chevalier, R.</author>
+        <date>(2020).</date>
+        <title>Architecture microservices pour applications cloud.</title>
+        <editor>Bonnet, S. (ed.)</editor>
+        <container-title>Proceedings of the International Software Architecture Conference</container-title>
+        <location>Strasbourg,</location>
+        <pages>67-74.</pages>
+        <publisher>ACM Press.</publisher>
+        <doi>10.1145/3398765.3398801</doi>
+    </sequence>
+    <sequence>
+        <author>Roussel, M., &amp; Gauthier, D.</author>
+        <date>(2018).</date>
+        <title>Interaction homme-machine et expérience utilisateur.</title>
+        <editor>Perrin, A. (ed.)</editor>
+        <container-title>Actes de la 10e Conférence Francophone sur l'Interaction Homme-Machine</container-title>
+        <location>Montpellier,</location>
+        <pages>123-130.</pages>
+        <publisher>ACM SIGCHI.</publisher>
+    </sequence>
+    <sequence>
+        <author>Lemoine, B.</author>
+        <date>(2021).</date>
+        <title>Calcul quantique : algorithmes et applications.</title>
+        <editor>Olivier, C., &amp; Vidal, P. (eds.)</editor>
+        <container-title>Proceedings of the Quantum Computing Symposium</container-title>
+        <location>Grenoble,</location>
+        <pages>45-52.</pages>
+        <publisher>Springer Nature.</publisher>
+    </sequence>
+    <sequence>
+        <author>Giraud, S., Fabre, J., &amp; Mercier, L.</author>
+        <date>(2017).</date>
+        <title>Génomique comparative des bactéries pathogènes.</title>
+        <editor>Renard, M. (ed.)</editor>
+        <container-title>Comptes Rendus du Colloque National de Génétique</container-title>
+        <location>Nantes,</location>
+        <pages>98-105.</pages>
+        <publisher>Éditions de la Société Française de Génétique.</publisher>
+    </sequence>
+    <sequence>
+        <author>Deschamps, V.</author>
+        <date>(2022).</date>
+        <title>Traitement du langage naturel pour langues peu dotées.</title>
+        <editor>Coulon, H., &amp; Dumas, R. (eds.)</editor>
+        <container-title>Actes de la Conférence sur le Traitement Automatique des Langues Africaines</container-title>
+        <location>Dakar,</location>
+        <pages>56-63.</pages>
+        <publisher>AINA.</publisher>
+    </sequence>
+    <sequence>
+        <author>Pascal, O., &amp; Reynaud, G.</author>
+        <date>(2019).</date>
+        <title>Internet des objets : protocoles de communication.</title>
+        <editor>Marchand, L. (ed.)</editor>
+        <container-title>Proceedings of the IoT Systems Conference</container-title>
+        <location>Rennes,</location>
+        <pages>178-185.</pages>
+        <publisher>IEEE Communications Society.</publisher>
+    </sequence>
+    <sequence>
+        <author>Barbier, E.</author>
+        <date>(2020).</date>
+        <title>Apprentissage fédéré pour la santé numérique.</title>
+        <editor>Guerin, F., &amp; Loiseau, P. (eds.)</editor>
+        <container-title>Actes du Symposium Intelligence Artificielle et Santé</container-title>
+        <location>Dijon,</location>
+        <pages>234-241.</pages>
+        <publisher>Elsevier Masson.</publisher>
+    </sequence>
+    <sequence>
+        <author>Caron, M., Dufour, A., &amp; Pelletier, R.</author>
+        <date>(2018).</date>
+        <title>Modélisation climatique régionale.</title>
+        <editor>Hubert, C. (ed.)</editor>
+        <container-title>Comptes Rendus de la Conférence Climat et Société</container-title>
+        <location>Clermont-Ferrand,</location>
+        <pages>145-152.</pages>
+        <publisher>Éditions Météo-France.</publisher>
+    </sequence>
+    <sequence>
+        <author>Lacombe, T.</author>
+        <date>(2021).</date>
+        <title>Robotique collaborative en milieu industriel.</title>
+        <editor>Arnaud, S., &amp; Bouvier, M. (eds.)</editor>
+        <container-title>Proceedings of the International Conference on Collaborative Robotics</container-title>
+        <location>Annecy,</location>
+        <pages>67-74.</pages>
+        <publisher>Springer Tracts in Advanced Robotics.</publisher>
+    </sequence>
+    <sequence>
+        <author>Masson, K., &amp; Picard, J.</author>
+        <date>(2017).</date>
+        <title>Analyse de données massives pour le commerce électronique.</title>
+        <editor>Tessier, L. (ed.)</editor>
+        <container-title>Actes de la Conférence Big Data et Analytics</container-title>
+        <location>Cannes,</location>
+        <pages>89-96.</pages>
+        <publisher>Éditions Dunod.</publisher>
+    </sequence>
+    <sequence>
+        <author>Renou, D.</author>
+        <date>(2022).</date>
+        <title>Cybersécurité des véhicules autonomes.</title>
+        <editor>Fleury, G., &amp; Hamon, C. (eds.)</editor>
+        <container-title>Proceedings of the Autonomous Vehicles Security Conference</container-title>
+        <location>Valence,</location>
+        <pages>112-119.</pages>
+        <publisher>IEEE Intelligent Transportation Systems Society.</publisher>
+    </sequence>
+    <sequence>
+        <author>Blanchard, P., Gagnon, M., &amp; Hébert, S.</author>
+        <date>(2019).</date>
+        <title>Réalité augmentée pour la formation professionnelle.</title>
+        <editor>Leblanc, R. (ed.)</editor>
+        <container-title>Actes de la Conférence Internationale sur les Technologies Éducatives</container-title>
+        <location>Québec,</location>
+        <pages>201-208.</pages>
+        <publisher>Presses de l'Université du Québec.</publisher>
+    </sequence>
+    <sequence>
+        <author>Dumont, C.</author>
+        <date>(2020).</date>
+        <title>Agriculture de précision par imagerie satellitaire.</title>
+        <editor>Vasseur, T., &amp; Willem, J. (eds.)</editor>
+        <container-title>Comptes Rendus du Congrès Agritech International</container-title>
+        <location>Reims,</location>
+        <pages>78-85.</pages>
+        <publisher>Éditions France Agricole.</publisher>
+    </sequence>
+    <sequence>
+        <author>François, N., &amp; Lemaire, B.</author>
+        <date>(2018).</date>
+        <title>Gestion intelligente des déchets urbains.</title>
+        <editor>Gillard, M. (ed.)</editor>
+        <container-title>Proceedings of the Smart Cities Conference</container-title>
+        <location>Tours,</location>
+        <pages>156-163.</pages>
+        <publisher>Éditions Johanet.</publisher>
+    </sequence>
+    <sequence>
+        <author>Poirier, R.</author>
+        <date>(2021).</date>
+        <title>Thérapie génique : avancées récentes.</title>
+        <editor>Roussel, V., &amp; Truchot, A. (eds.)</editor>
+        <container-title>Actes du Symposium de Biotechnologie Médicale</container-title>
+        <location>Lyon,</location>
+        <pages>34-41.</pages>
+        <publisher>Inserm Éditions.</publisher>
+    </sequence>
+    <sequence>
+        <author>Leclerc, J., Moreau, F., &amp; Girard, P.</author>
+        <date>(2017).</date>
+        <title>Économie circulaire dans l'industrie textile.</title>
+        <editor>Bouvet, S. (ed.)</editor>
+        <container-title>Comptes Rendus de la Conférence Développement Durable et Industrie</container-title>
+        <location>Roubaix,</location>
+        <pages>67-74.</pages>
+        <publisher>Éditions de l'Économie Circulaire.</publisher>
+    </sequence>
+    <sequence>
+        <author>Aubry, L.</author>
+        <date>(2022).</date>
+        <title>Calcul haute performance pour la météorologie.</title>
+        <editor>Dupré, C., &amp; Fontaine, R. (eds.)</editor>
+        <container-title>Proceedings of the High Performance Computing Symposium</container-title>
+        <location>Toulouse,</location>
+        <pages>189-196.</pages>
+        <publisher>CEA Éditions.</publisher>
+    </sequence>
+    <sequence>
+        <author>Mallet, G., &amp; Perret, D.</author>
+        <date>(2019).</date>
+        <title>Psychologie cognitive et apprentissage des langues.</title>
+        <editor>Verdier, M. (ed.)</editor>
+        <container-title>Actes de la Conférence Internationale de Psycholinguistique</container-title>
+        <location>Aix-en-Provence,</location>
+        <pages>123-130.</pages>
+        <publisher>Presses Universitaires de Provence.</publisher>
+    </sequence>
+    <sequence>
+        <author>Benoit, A.</author>
+        <date>(2020).</date>
+        <title>Nanomatériaux pour l'énergie solaire.</title>
+        <editor>Charbonneau, P., &amp; Delacroix, S. (eds.)</editor>
+        <container-title>Comptes Rendus du Congrès sur les Nanotechnologies et Énergie</container-title>
+        <location>Grenoble,</location>
+        <pages>45-52.</pages>
+        <publisher>Éditions CNRS Energie.</publisher>
+    </sequence>
+    <sequence>
+        <author>Goulet, M., &amp; Joly, R.</author>
+        <date>(2018).</date>
+        <title>Protection des données personnelles en ligne.</title>
+        <editor>Legrand, T. (ed.)</editor>
+        <container-title>Proceedings of the Privacy and Data Protection Conference</container-title>
+        <location>Bruxelles,</location>
+        <pages>234-241.</pages>
+        <publisher>Éditions Larcier.</publisher>
+    </sequence>
+    <sequence>
+        <author>Fischer, C.</author>
+        <date>(2021).</date>
+        <title>Impression 3D de tissus biologiques.</title>
+        <editor>Pascal, V., &amp; Quéré, D. (eds.)</editor>
+        <container-title>Actes du Symposium Biofabrication</container-title>
+        <location>Strasbourg,</location>
+        <pages>78-85.</pages>
+        <publisher>Springer Biomedical Engineering.</publisher>
+    </sequence>
+    <sequence>
+        <author>Laurent, S., Baudry, L., &amp; Cornu, M.</author>
+        <date>(2017).</date>
+        <title>Gestion de la chaîne logistique par intelligence artificielle.</title>
+        <editor>Monnier, R. (ed.)</editor>
+        <container-title>Comptes Rendus de la Conférence Logistique et Transport</container-title>
+        <location>Le Havre,</location>
+        <pages>156-163.</pages>
+        <publisher>Éditions Logistiques Modernes.</publisher>
+    </sequence>
+    <sequence>
+        <author>Olivier, F.</author>
+        <date>(2022).</date>
+        <title>Réseaux 5G et applications industrielles.</title>
+        <editor>Renaud, J., &amp; Soler, P. (eds.)</editor>
+        <container-title>Proceedings of the 5G Technology Conference</container-title>
+        <location>Sophia Antipolis,</location>
+        <pages>89-96.</pages>
+        <publisher>IEEE Communications Society.</publisher>
+    </sequence>
+    <sequence>
+        <author>Vasseur, H., &amp; Wacquant, E.</author>
+        <date>(2019).</date>
+        <title>Astrophysique des exoplanètes.</title>
+        <editor>Aumont, L. (ed.)</editor>
+        <container-title>Actes de la Conférence Astronomie et Planétologie</container-title>
+        <location>Meudon,</location>
+        <pages>34-41.</pages>
+        <publisher>Éditions de l'Observatoire de Paris.</publisher>
+    </sequence>
+    <sequence>
+        <author>Denis, R.</author>
+        <date>(2020).</date>
+        <title>Compression neuronale pour dispositifs embarqués.</title>
+        <editor>Toussaint, M., &amp; Urbain, C. (eds.)</editor>
+        <container-title>Comptes Rendus du Symposium Edge Computing</container-title>
+        <location>Nancy,</location>
+        <pages>112-119.</pages>
+        <publisher>Springer Lecture Notes in Computer Science.</publisher>
+    </sequence>
+    <sequence>
+        <author>Gaumont, P., &amp; Herriot, J.</author>
+        <date>(2018).</date>
+        <title>Droit numérique et propriété intellectuelle.</title>
+        <editor>Blancard, S. (ed.)</editor>
+        <container-title>Proceedings of the Intellectual Property in Digital Age Conference</container-title>
+        <location>Paris,</location>
+        <pages>201-208.</pages>
+        <publisher>Éditions Dalloz.</publisher>
+    </sequence>
+    <sequence>
+        <author>Rousselet, M.</author>
+        <date>(2021).</date>
+        <title>Épidémiologie computationnelle.</title>
+        <editor>Dumas, F., &amp; Larcher, G. (eds.)</editor>
+        <container-title>Actes de la Conférence Santé Publique et Modélisation</container-title>
+        <location>Villejuif,</location>
+        <pages>67-74.</pages>
+        <publisher>Éditions de l'EHESP.</publisher>
+    </sequence>
+    <sequence>
+        <author>Lefranc, B., Carpentier, A., &amp; Marchal, D.</author>
+        <date>(2017).</date>
+        <title>Architecture bioclimatique et confort thermique.</title>
+        <editor>Verdier, C. (ed.)</editor>
+        <container-title>Comptes Rendus du Congrès Bâtiment Durable</container-title>
+        <location>Chambéry,</location>
+        <pages>145-152.</pages>
+        <publisher>Éditions du CSTB.</publisher>
+    </sequence>
+    <sequence>
+        <author>Beaulieu, J.</author>
+        <date>(2022).</date>
+        <title>Algorithmes évolutionnaires pour l'optimisation multi-objectifs.</title>
+        <editor>Garnier, T., &amp; Houart, L. (eds.)</editor>
+        <container-title>Proceedings of the Evolutionary Computation Conference</container-title>
+        <location>Lille,</location>
+        <pages>234-241.</pages>
+        <publisher>MIT Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Colas, N., &amp; Duval, R.</author>
+        <date>(2019).</date>
+        <title>Océanographie et changement climatique.</title>
+        <editor>Flament, P. (ed.)</editor>
+        <container-title>Actes de la Conférence Océans et Climat</container-title>
+        <location>Brest,</location>
+        <pages>78-85.</pages>
+        <publisher>Éditions Ifremer.</publisher>
+    </sequence>
+    <sequence>
+        <author>Parent, G.</author>
+        <date>(2020).</date>
+        <title>Réalité virtuelle pour la rééducation motrice.</title>
+        <editor>Imbert, R., &amp; Joubert, S. (eds.)</editor>
+        <container-title>Comptes Rendus du Symposium Technologies Médicales Innovantes</container-title>
+        <location>Marseille,</location>
+        <pages>189-196.</pages>
+        <publisher>Elsevier Santé.</publisher>
+    </sequence>
+    <sequence>
+        <author>Proust, E., &amp; Rimbau, F.</author>
+        <date>(2018).</date>
+        <title>Cryptographie post-quantique.</title>
+        <editor>Klein, A. (ed.)</editor>
+        <container-title>Proceedings of the Cryptography Research Conference</container-title>
+        <location>Paris,</location>
+        <pages>45-52.</pages>
+        <publisher>Springer Lecture Notes in Cryptography.</publisher>
+    </sequence>
+    <sequence>
+        <author>Moulin, C.</author>
+        <date>(2021).</date>
+        <title>Sémantique des langues de programmation fonctionnelles.</title>
+        <editor>Normand, B., &amp; Ollivier, C. (eds.)</editor>
+        <container-title>Actes de la Conférence Francophone sur les Langages de Programmation</container-title>
+        <location>Nantes,</location>
+        <pages>123-130.</pages>
+        <publisher>ACM SIGPLAN.</publisher>
+    </sequence>
+    <sequence>
+        <author>Delage, M., Fabre, S., &amp; Guibert, L.</author>
+        <date>(2017).</date>
+        <title>Valorisation des déchets organiques.</title>
+        <editor>Pineau, R. (ed.)</editor>
+        <container-title>Comptes Rendus de la Conférence Chimie Verte et Biotechnologies</container-title>
+        <location>Toulouse,</location>
+        <pages>156-163.</pages>
+        <publisher>Éditions Lavoisier.</publisher>
+    </sequence>
+    <sequence>
+        <author>Hamelin, P.</author>
+        <date>(2022).</date>
+        <title>Télémédecine et intelligence artificielle.</title>
+        <editor>Quennehen, D., &amp; Robert, F. (eds.)</editor>
+        <container-title>Proceedings of the e-Health Technologies Conference</container-title>
+        <location>Rennes,</location>
+        <pages>67-74.</pages>
+        <publisher>IEEE Biomedical Engineering Society.</publisher>
+    </sequence>
+    <sequence>
+        <author>Langlois, D., &amp; Mercier, G.</author>
+        <date>(2019).</date>
+        <title>Hydrogènes verts pour la mobilité durable.</title>
+        <editor>Sarrazin, M. (ed.)</editor>
+        <container-title>Actes du Congrès Hydrogène et Énergies Nouvelles</container-title>
+        <location>Pau,</location>
+        <pages>201-208.</pages>
+        <publisher>Éditions Technip.</publisher>
+    </sequence>
+    <sequence>
+        <author>Fouquet, A.</author>
+        <date>(2020).</date>
+        <title>Analyse statistique de données génomiques.</title>
+        <editor>Thibault, V., &amp; Underwood, P. (eds.)</editor>
+        <container-title>Comptes Rendus de la Conférence Bioinformatique et Génomique</container-title>
+        <location>Montpellier,</location>
+        <pages>34-41.</pages>
+        <publisher>Oxford University Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Boutin, R., &amp; Charron, M.</author>
+        <date>(2018).</date>
+        <title>Gouvernance des données dans les entreprises.</title>
+        <editor>Villette, S. (ed.)</editor>
+        <container-title>Proceedings of the Data Governance Forum</container-title>
+        <location>Paris,</location>
+        <pages>112-119.</pages>
+        <publisher>Éditions Management et Société.</publisher>
+    </sequence>
+    <sequence>
+        <author>Germain, L.</author>
+        <date>(2021).</date>
+        <title>Photovoltaïque organique de nouvelle génération.</title>
+        <editor>Wolff, C., &amp; Xavier, D. (eds.)</editor>
+        <container-title>Actes de la Conférence Matériaux pour l'Énergie</container-title>
+        <location>Grenoble,</location>
+        <pages>78-85.</pages>
+        <publisher>Wiley-VCH.</publisher>
+    </sequence>
+    <sequence>
+        <author>Auger, P., Berthelot, S., &amp; Couturier, R.</author>
+        <date>(2017).</date>
+        <title>Traitement des eaux usées par procédés membranaires.</title>
+        <editor>Yonnet, J. (ed.)</editor>
+        <container-title>Comptes Rendus du Congrès Eau et Environnement</container-title>
+        <location>Lyon,</location>
+        <pages>145-152.</pages>
+        <publisher>Éditions Lavoisier Environnement.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zimmermann, H.</author>
+        <date>(2022).</date>
+        <title>Calcul neuromorphique et architectures bio-inspirées.</title>
+        <editor>André, C., &amp; Berger, F. (eds.)</editor>
+        <container-title>Proceedings of the Neuromorphic Computing Symposium</container-title>
+        <location>Strasbourg,</location>
+        <pages>234-241.</pages>
+        <publisher>Springer Neural Computing and Applications.</publisher>
+    </sequence>
+    <sequence>
+        <author>Brunet, M., &amp; Chevallier, P.</author>
+        <date>(2019).</date>
+        <title>Linguistique computationnelle pour langues romanes.</title>
+        <editor>Cordeiro, A. (ed.)</editor>
+        <container-title>Actes de la Conférence Linguistique et Informatique</container-title>
+        <location>Aix-en-Provence,</location>
+        <pages>89-96.</pages>
+        <publisher>Éditions Orbis.</publisher>
+    </sequence>
+    <sequence>
+        <author>Drouet, F.</author>
+        <date>(2020).</date>
+        <title>Cybersécurité des infrastructures critiques.</title>
+        <editor>Essadi, K., &amp; Fournel, L. (eds.)</editor>
+        <container-title>Comptes Rendus du Symposium Sécurité des Systèmes Industriels</container-title>
+        <location>Metz,</location>
+        <pages>156-163.</pages>
+        <publisher>Éditions Hermès.</publisher>
+    </sequence>
+    <sequence>
+        <author>Hubert, G., &amp; Jacob, N.</author>
+        <date>(2018).</date>
+        <title>Nanocapteurs pour diagnostics médicaux.</title>
+        <editor>Gosselin, R. (ed.)</editor>
+        <container-title>Proceedings of the Biosensors Conference</container-title>
+        <location>Lille,</location>
+        <pages>45-52.</pages>
+        <publisher>Elsevier Biosensors and Bioelectronics.</publisher>
+    </sequence>
+    <sequence>
+        <author>Klein, S.</author>
+        <date>(2021).</date>
+        <title>Optimisation stochastique pour la finance quantitative.</title>
+        <editor>Lemaître, C., &amp; Moreau, X. (eds.)</editor>
+        <container-title>Actes de la Conférence Mathématiques et Finance</container-title>
+        <location>Paris,</location>
+        <pages>123-130.</pages>
+        <publisher>Springer Finance.</publisher>
+    </sequence>
+    <sequence>
+        <author>Larose, T., Maréchal, V., &amp; Noiret, B.</author>
+        <date>(2017).</date>
+        <title>Récifs artificiels et biodiversité marine.</title>
+        <editor>Pelletreau, D. (ed.)</editor>
+        <container-title>Comptes Rendus de la Conférence Écologie Marine</container-title>
+        <location>Toulon,</location>
+        <pages>201-208.</pages>
+        <publisher>Éditions Ifremer Écologie.</publisher>
+    </sequence>
+    <sequence>
+        <author>Oliver, J.</author>
+        <date>(2022).</date>
+        <title>Apprentissage par renforcement profond.</title>
+        <editor>Pascal, E., &amp; Quinet, R. (eds.)</editor>
+        <container-title>Proceedings of the Deep Reinforcement Learning Conference</container-title>
+        <location>Saclay,</location>
+        <pages>67-74.</pages>
+        <publisher>NeurIPS Proceedings.</publisher>
+    </sequence>
+    <sequence>
+        <author>Pelletier, M., &amp; Rivière, C.</author>
+        <date>(2019).</date>
+        <title>Archéologie numérique et patrimoines 3D.</title>
+        <editor>Serret, A. (ed.)</editor>
+        <container-title>Actes du Colloque Humanités Numériques</container-title>
+        <location>Bordeaux,</location>
+        <pages>189-196.</pages>
+        <publisher>Presses Universitaires de Bordeaux.</publisher>
+    </sequence>
+    <sequence>
+        <author>Reynaud, L.</author>
+        <date>(2020).</date>
+        <title>Batteries lithium-soufre pour véhicules électriques.</title>
+        <editor>Tisserand, M., &amp; Usclade, P. (eds.)</editor>
+        <container-title>Comptes Rendus de la Conférence Stockage d'Énergie</container-title>
+        <location>Perpignan,</location>
+        <pages>34-41.</pages>
+        <publisher>Éditions de la Revue des Énergies Renouvelables.</publisher>
+    </sequence>
+    <sequence>
+        <author>Saunier, D., &amp; Tellier, O.</author>
+        <date>(2018).</date>
+        <title>Sciences des données pour l'astronomie.</title>
+        <editor>Valette, G. (ed.)</editor>
+        <container-title>Proceedings of the Astroinformatics Conference</container-title>
+        <location>Nice,</location>
+        <pages>112-119.</pages>
+        <publisher>Cambridge University Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Thibault, R.</author>
+        <date>(2021).</date>
+        <title>Immunothérapie cellulaire contre le cancer.</title>
+        <editor>Wernert, S., &amp; Yger, T. (eds.)</editor>
+        <container-title>Actes du Symposium Oncologie Innovation</container-title>
+        <location>Strasbourg,</location>
+        <pages>234-241.</pages>
+        <publisher>Springer Cancer Immunology and Immunotherapy.</publisher>
+    </sequence>
+    <sequence>
+        <author>Bonnet, F., Durand, M., &amp; Estève, P.</author>
+        <date>(2017).</date>
+        <title>Villes intelligentes et mobilité connectée.</title>
+        <editor>Forestier, R. (ed.)</editor>
+        <container-title>Comptes Rendus de la Conférence Smart Mobility</container-title>
+        <location>La Défense,</location>
+        <pages>78-85.</pages>
+        <publisher>Éditions La Tribune.</publisher>
+    </sequence>
+    <sequence>
+        <author>Girardon, A.</author>
+        <date>(2022).</date>
+        <title>Traitement quantique de l'information.</title>
+        <editor>Horowitz, B., &amp; Isaac, C. (eds.)</editor>
+        <container-title>Proceedings of the Quantum Information Processing Conference</container-title>
+        <location>Les Houches,</location>
+        <pages>45-52.</pages>
+        <publisher>IEEE Quantum Engineering.</publisher>
+    </sequence>
+    <sequence>
+        <author>Huot, S., &amp; Isoard, M.</author>
+        <date>(2019).</date>
+        <title>Éthique de l'intelligence artificielle.</title>
+        <editor>Jankowski, P. (ed.)</editor>
+        <container-title>Actes de la Conférence Éthique et Numérique</container-title>
+        <location>Paris,</location>
+        <pages>156-163.</pages>
+        <publisher>Éditions Le Pommier.</publisher>
+    </sequence>
+    <sequence>
+        <author>Jacquemin, C.</author>
+        <date>(2020).</date>
+        <title>Matériaux composites biosourcés.</title>
+        <editor>Kergourlay, D., &amp; Labbé, E. (eds.)</editor>
+        <container-title>Comptes Rendus du Congrès Matériaux et Développement Durable</container-title>
+        <location>Saint-Nazaire,</location>
+        <pages>89-96.</pages>
+        <publisher>Éditions des Composites.</publisher>
+    </sequence>
+    <sequence>
+        <author>Korbel, P., &amp; Laffont, R.</author>
+        <date>(2018).</date>
+        <title>Systèmes multi-agents pour la coordination de drones.</title>
+        <editor>Messina, G. (ed.)</editor>
+        <container-title>Proceedings of the Multi-Agent Systems Conference</container-title>
+        <location>Toulouse,</location>
+        <pages>123-130.</pages>
+        <publisher>Springer Lecture Notes in Artificial Intelligence.</publisher>
+    </sequence>
+    <sequence>
+        <author>Lebreton, V.</author>
+        <date>(2021).</date>
+        <title>Génomique des populations humaines.</title>
+        <editor>Nivelle, F., &amp; Ostertag, A. (eds.)</editor>
+        <container-title>Actes de la Conférence Génétique des Populations</container-title>
+        <location>Strasbourg,</location>
+        <pages>201-208.</pages>
+        <publisher>Oxford University Press Génétique.</publisher>
+    </sequence>
+    <sequence>
+        <author>Maillard, B., &amp; Neveu, T.</author>
+        <date>(2017).</date>
+        <title>Foresterie urbaine et îlots de chaleur.</title>
+        <editor>Paquier, S. (ed.)</editor>
+        <container-title>Comptes Rendus de la Conférence Urbanisme et Environnement</container-title>
+        <location>Angers,</location>
+        <pages>67-74.</pages>
+        <publisher>Éditions de l'Urbanisme.</publisher>
+    </sequence>
+    <sequence>
+        <author>Novak, A.</author>
+        <date>(2022).</date>
+        <title>Fusion nucléaire : avancées des Tokamaks.</title>
+        <editor>Quemener, L., &amp; Radiguet, P. (eds.)</editor>
+        <container-title>Proceedings of the Nuclear Fusion Energy Conference</container-title>
+        <location>Cadarache,</location>
+        <pages>34-41.</pages>
+        <publisher>IAEA Publications.</publisher>
+    </sequence>
+    <sequence>
+        <author>Octave, J., &amp; Pigeon, F.</author>
+        <date>(2019).</date>
+        <title>Biologie synthétique et production de molécules.</title>
+        <editor>Simeoni, U. (ed.)</editor>
+        <container-title>Actes du Symposium Biologie Synthétique</container-title>
+        <location>Toulouse,</location>
+        <pages>112-119.</pages>
+        <publisher>Nature Publishing Group.</publisher>
+    </sequence>
+    <sequence>
+        <author>Quinon, P.</author>
+        <date>(2020).</date>
+        <title>Accessibilité numérique pour personnes handicapées.</title>
+        <editor>Renaudin, C., &amp; Turlot, M. (eds.)</editor>
+        <container-title>Comptes Rendus de la Conférence Accessibilité et Technologies</container-title>
+        <location>Villeneuve d'Ascq,</location>
+        <pages>189-196.</pages>
+        <publisher>Éditions du Comité National Handicap.</publisher>
+    </sequence>
+    <sequence>
+        <author>Rocher, G., &amp; Seguin, R.</author>
+        <date>(2018).</date>
+        <title>Photonique intégrée pour télécommunications.</title>
+        <editor>Tabard, A. (ed.)</editor>
+        <container-title>Proceedings of the Integrated Photonics Conference</container-title>
+        <location>Besançon,</location>
+        <pages>78-85.</pages>
+        <publisher>IEEE Photonics Society.</publisher>
+    </sequence>
+    <sequence>
+        <author>Thouvenin, E.</author>
+        <date>(2021).</date>
+        <title>Microfluidique et organes sur puce.</title>
+        <editor>Urbanski, V., &amp; Vallerand, B. (eds.)</editor>
+        <container-title>Actes de la Conférence Microfluidique et Biotechnologies</container-title>
+        <location>Grenoble,</location>
+        <pages>234-241.</pages>
+        <publisher>Elsevier Lab on a Chip.</publisher>
+    </sequence>
+    <sequence>
+        <author>Verdier, M., Wirth, S., &amp; Zenobi, R.</author>
+        <date>(2017).</date>
+        <title>Conservation du patrimoine culturel par numérisation 3D.</title>
+        <editor>Ambroise, L. (ed.)</editor>
+        <container-title>Comptes Rendus du Colloque Patrimoine et Numérique</container-title>
+        <location>Avignon,</location>
+        <pages>45-52.</pages>
+        <publisher>Éditions du Patrimoine.</publisher>
+    </sequence>
+    <sequence>
+        <author>Adam, C.</author>
+        <date>(2022).</date>
+        <title>Mécanique des fluides computationnelle pour l'aéronautique.</title>
+        <editor>Barreau, H., &amp; Carron, P. (eds.)</editor>
+        <container-title>Proceedings of the Computational Fluid Dynamics Conference</container-title>
+        <location>Châtillon,</location>
+        <pages>156-163.</pages>
+        <publisher>ONERA Éditions.</publisher>
+    </sequence>
+    <sequence>
+        <author>Blaise, F., &amp; Carton, J.</author>
+        <date>(2019).</date>
+        <title>Socio-économie de la transition énergétique.</title>
+        <editor>Desmoulins, K. (ed.)</editor>
+        <container-title>Actes de la Conférence Économie de l'Énergie</container-title>
+        <location>Paris,</location>
+        <pages>89-96.</pages>
+        <publisher>Éditions Economica.</publisher>
+    </sequence>
+    <sequence>
+        <author>Constant, R.</author>
+        <date>(2020).</date>
+        <title>Diagnostic rapide par intelligence artificielle.</title>
+        <editor>Evrard, L., &amp; Foucault, M. (eds.)</editor>
+        <container-title>Comptes Rendus du Symposium IA et Médecine</container-title>
+        <location>Lyon,</location>
+        <pages>67-74.</pages>
+        <publisher>Springer Medicine.</publisher>
+    </sequence>
+    <sequence>
+        <author>Delage, S., &amp; Enjalbert, V.</author>
+        <date>(2018).</date>
+        <title>Géothermie profonde et stockage thermique.</title>
+        <editor>Gentil, C. (ed.)</editor>
+        <container-title>Proceedings of the Geothermal Energy Conference</container-title>
+        <location>Orléans,</location>
+        <pages>123-130.</pages>
+        <publisher>Éditions BRGM.</publisher>
+    </sequence>
+    <sequence>
+        <author>Faure, P.</author>
+        <date>(2021).</date>
+        <title>Viticulture de précision et capteurs connectés.</title>
+        <editor>Hermitage, R., &amp; Iris, S. (eds.)</editor>
+        <container-title>Actes de la Conférence AgTech Innovation</container-title>
+        <location>Beaune,</location>
+        <pages>201-208.</pages>
+        <publisher>Éditions de la Vigne et du Vin.</publisher>
+    </sequence>
+    <sequence>
+        <author>Guyard, T., &amp; Henri, L.</author>
+        <date>(2017).</date>
+        <title>Protection contre les cyberattaques industrielles.</title>
+        <editor>Jacquot, D. (ed.)</editor>
+        <container-title>Comptes Rendus de la Cybersécurité Industrielle</container-title>
+        <location>Nancy,</location>
+        <pages>34-41.</pages>
+        <publisher>Éditions Lavoisier Sécurité.</publisher>
+    </sequence>
+    <sequence>
+        <author>Hostier, M.</author>
+        <date>(2022).</date>
+        <title>Éducation aux médias et désinformation numérique.</title>
+        <editor>Iseran, N., &amp; Jospin, C. (eds.)</editor>
+        <container-title>Proceedings of the Media Literacy Conference</container-title>
+        <location>Grenoble,</location>
+        <pages>112-119.</pages>
+        <publisher>Éditions de l'INSPE.</publisher>
+    </sequence>
+    <sequence>
+        <author>Innocent, J., &amp; Jumeau, R.</author>
+        <date>(2019).</date>
+        <title>Acoustique architecturale des salles de concert.</title>
+        <editor>Koenig, S. (ed.)</editor>
+        <container-title>Actes de la Conférence Acoustique et Bâtiment</container-title>
+        <location>Le Mans,</location>
+        <pages>78-85.</pages>
+        <publisher>Éditions de la Société Française d'Acoustique.</publisher>
+    </sequence>
+    <sequence>
+        <author>Joly, T.</author>
+        <date>(2020).</date>
+        <title>Bioremédiation des sols pollués.</title>
+        <editor>Lorrain, F., &amp; Massicotte, G. (eds.)</editor>
+        <container-title>Comptes Rendus de la Conférence Dépollution des Sols</container-title>
+        <location>Metz,</location>
+        <pages>189-196.</pages>
+        <publisher>Éditions de l'Environnement.</publisher>
+    </sequence>
+    <sequence>
+        <author>Kessler, P., &amp; Labbé, M.</author>
+        <date>(2018).</date>
+        <title>Systèmes de recommandation personnalisés.</title>
+        <editor>Nicolas, V. (ed.)</editor>
+        <container-title>Proceedings of the Recommender Systems Conference</container-title>
+        <location>Grenoble,</location>
+        <pages>234-241.</pages>
+        <publisher>ACM RecSys.</publisher>
+    </sequence>
+    <sequence>
+        <author>Lailler, F.</author>
+        <date>(2021).</date>
+        <title>Météorologie spatiale et télécommunications.</title>
+        <editor>Oberlé, C., &amp; Parisot, D. (eds.)</editor>
+        <container-title>Actes de la Conférence Space Weather</container-title>
+        <location>Toulouse,</location>
+        <pages>45-52.</pages>
+        <publisher>CNES Éditions.</publisher>
+    </sequence>
+    <sequence>
+        <author>Maillot, G., &amp; Noblecourt, R.</author>
+        <date>(2017).</date>
+        <title>Économie du partage et plateformes collaboratives.</title>
+        <editor>Portalis, S. (ed.)</editor>
+        <container-title>Comptes Rendus de la Conférence Économie Numérique</container-title>
+        <location>Paris,</location>
+        <pages>156-163.</pages>
+        <publisher>Éditions de la Maison des Sciences de l'Homme.</publisher>
+    </sequence>
+    <sequence>
+        <author>Nourry, C.</author>
+        <date>(2022).</date>
+        <title>Catalyse enzymatique pour chimie verte.</title>
+        <editor>Olivier, T., &amp; Perrin, A. (eds.)</editor>
+        <container-title>Proceedings of the Green Chemistry Conference</container-title>
+        <location>Mulhouse,</location>
+        <pages>67-74.</pages>
+        <publisher>Royal Society of Chemistry.</publisher>
+    </sequence>
+    <sequence>
+        <author>Oudin, L., &amp; Pacaud, F.</author>
+        <date>(2019).</date>
+        <title>Hydrologie urbaine et gestion des eaux pluviales.</title>
+        <editor>Questel, R. (ed.)</editor>
+        <container-title>Actes de la Conférence Eau et Urbanisme</container-title>
+        <location>Clermont-Ferrand,</location>
+        <pages>89-96.</pages>
+        <publisher>Éditions de la Houille Blanche.</publisher>
+    </sequence>
+    <sequence>
+        <author>Perret, S.</author>
+        <date>(2020).</date>
+        <title>Analyse de réseaux sociaux complexes.</title>
+        <editor>Roussel, T., &amp; Szabo, V. (eds.)</editor>
+        <container-title>Comptes Rendus de la Conférence Network Science</container-title>
+        <location>Paris,</location>
+        <pages>123-130.</pages>
+        <publisher>Cambridge University Press Networks.</publisher>
+    </sequence>
+    <sequence>
+        <author>Quere, B., &amp; Rossignol, M.</author>
+        <date>(2018).</date>
+        <title>Textiles intelligents et wearables.</title>
+        <editor>Schneider, P. (ed.)</editor>
+        <container-title>Proceedings of the Smart Textiles Conference</container-title>
+        <location>Roubaix,</location>
+        <pages>201-208.</pages>
+        <publisher>Woodhead Publishing.</publisher>
+    </sequence>
+    <sequence>
+        <author>Schmitt, A.</author>
+        <date>(2021).</date>
+        <title>Traitements anticancéreux par nanovecteurs.</title>
+        <editor>Taine, C., &amp; Ucciani, E. (eds.)</editor>
+        <container-title>Actes du Symposium Nanomédecine</container-title>
+        <location>Montpellier,</location>
+        <pages>34-41.</pages>
+        <publisher>Elsevier Nanomedicine.</publisher>
+    </sequence>
+    <sequence>
+        <author>Trainor, D., &amp; Ulmer, G.</author>
+        <date>(2017).</date>
+        <title>Gestion des risques naturels en montagne.</title>
+        <editor>Valéry, S. (ed.)</editor>
+        <container-title>Comptes Rendus de la Conférence Risques et Territoires</container-title>
+        <location>Chambéry,</location>
+        <pages>112-119.</pages>
+        <publisher>Éditions de la Société Hydrotechnique de France.</publisher>
+    </sequence>
+    <sequence>
+        <author>Urbain, F.</author>
+        <date>(2022).</date>
+        <title>Logique floue pour systèmes de contrôle.</title>
+        <editor>Vincent, C., &amp; Weber, D. (eds.)</editor>
+        <container-title>Proceedings of the Fuzzy Logic and Applications Conference</container-title>
+        <location>Valenciennes,</location>
+        <pages>189-196.</pages>
+        <publisher>Springer Lecture Notes in Computer Science.</publisher>
+    </sequence>
+    <sequence>
+        <author>Valette, J., &amp; Wolff, P.</author>
+        <date>(2019).</date>
+        <title>Pédagogie numérique et apprentissage adaptatif.</title>
+        <editor>Yzquierdo, R. (ed.)</editor>
+        <container-title>Actes de la Conférence E-Learning et Formation</container-title>
+        <location>Poitiers,</location>
+        <pages>45-52.</pages>
+        <publisher>Éditions De Boeck.</publisher>
+    </sequence>
+    <sequence>
+        <author>Weber, M.</author>
+        <date>(2020).</date>
+        <title>Caractérisation des matériaux par spectroscopie.</title>
+        <editor>Xenakis, T., &amp; Yonnet, S. (eds.)</editor>
+        <container-title>Comptes Rendus de la Conférence Caractérisation des Matériaux</container-title>
+        <location>Nancy,</location>
+        <pages>234-241.</pages>
+        <publisher>Éditions de la Société Française de Métallurgie.</publisher>
+    </sequence>
+    <sequence>
+        <author>Xenakis, P., &amp; Yzquierdo, L.</author>
+        <date>(2018).</date>
+        <title>Sécurité alimentaire et traçabilité blockchain.</title>
+        <editor>Zimmer, A. (ed.)</editor>
+        <container-title>Proceedings of the Food Safety and Technology Conference</container-title>
+        <location>Dijon,</location>
+        <pages>67-74.</pages>
+        <publisher>Elsevier Food Control.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zephir, R.</author>
+        <date>(2021).</date>
+        <title>Communications optiques sans fil.</title>
+        <editor>Andreani, B., &amp; Bianchi, C. (eds.)</editor>
+        <container-title>Actes de la Conférence Optical Wireless Communications</container-title>
+        <location>Marseille,</location>
+        <pages>156-163.</pages>
+        <publisher>IEEE Communications Society.</publisher>
+    </sequence>
+    <sequence>
+        <author>Andrieu, S., Bertrand, F., &amp; Colbert, G.</author>
+        <date>(2017).</date>
+        <title>Anthropologie numérique et cultures digitales.</title>
+        <editor>Deschamps, H. (ed.)</editor>
+        <container-title>Comptes Rendus du Colloque Anthropologie et Numérique</container-title>
+        <location>Paris,</location>
+        <pages>89-96.</pages>
+        <publisher>Éditions de l'EHESS.</publisher>
+    </sequence>
+    <sequence>
+        <author>Bodin, T.</author>
+        <date>(2022).</date>
+        <title>Simulations de dynamique moléculaire.</title>
+        <editor>Escoffier, J., &amp; Faraday, K. (eds.)</editor>
+        <container-title>Proceedings of the Computational Chemistry Conference</container-title>
+        <location>Lyon,</location>
+        <pages>123-130.</pages>
+        <publisher>Journal of Chemical Theory and Computation.</publisher>
+    </sequence>
+    <sequence>
+        <author>Coulon, V., &amp; Demurger, R.</author>
+        <date>(2019).</date>
+        <title>Économie comportementale et politiques publiques.</title>
+        <editor>Fontaine, L. (ed.)</editor>
+        <container-title>Actes de la Conférence Économie Comportementale</container-title>
+        <location>Paris,</location>
+        <pages>201-208.</pages>
+        <publisher>Éditions La Découverte.</publisher>
+    </sequence>
+    <sequence>
+        <author>Escobar, M.</author>
+        <date>(2020).</date>
+        <title>Contrôle qualité par vision artificielle.</title>
+        <editor>Gaspard, N., &amp; Hippolyte, P. (eds.)</editor>
+        <container-title>Comptes Rendus de la Conférence Vision Industrielle</container-title>
+        <location>Compiègne,</location>
+        <pages>34-41.</pages>
+        <publisher>Éditions HERMES.</publisher>
+    </sequence>
+    <sequence>
+        <author>Foucault, S., &amp; Gambetta, L.</author>
+        <date>(2018).</date>
+        <title>Préservation des écosystèmes côtiers.</title>
+        <editor>Horowitz, D. (ed.)</editor>
+        <container-title>Proceedings of the Coastal Ecology Conference</container-title>
+        <location>La Rochelle,</location>
+        <pages>112-119.</pages>
+        <publisher>Elsevier Estuarine, Coastal and Shelf Science.</publisher>
+    </sequence>
+    <sequence>
+        <author>Gosselin, R.</author>
+        <date>(2021).</date>
+        <title>Technologies spatiales pour observation terrestre.</title>
+        <editor>Italienne, S., &amp; Kennedy, M. (eds.)</editor>
+        <container-title>Actes de la Conférence Earth Observation</container-title>
+        <location>Cannes,</location>
+        <pages>78-85.</pages>
+        <publisher>ESA Publications.</publisher>
+    </sequence>
+    <sequence>
+        <author>Hannan, C., &amp; Ibrahim, F.</author>
+        <date>(2017).</date>
+        <title>Management interculturel et diversité.</title>
+        <editor>Jansen, K. (ed.)</editor>
+        <container-title>Comptes Rendus de la Conférence Management International</container-title>
+        <location>Reims,</location>
+        <pages>189-196.</pages>
+        <publisher>Éditions EMS.</publisher>
+    </sequence>
+    <sequence>
+        <author>Jacobson, P.</author>
+        <date>(2022).</date>
+        <title>Régulation des marchés financiers par IA.</title>
+        <editor>Karpov, L., &amp; Laporte, M. (eds.)</editor>
+        <container-title>Proceedings of the Financial Regulation Technologies</container-title>
+        <location>Paris,</location>
+        <pages>234-241.</pages>
+        <publisher>Oxford University Press Finance.</publisher>
+    </sequence>
+    <sequence>
+        <author>Kasparov, E., &amp; Lemonnier, D.</author>
+        <date>(2019).</date>
+        <title>Acoustique sous-marine et détection.</title>
+        <editor>Malraux, F. (ed.)</editor>
+        <container-title>Actes de la Conférence Océan Acoustique</container-title>
+        <location>Brest,</location>
+        <pages>45-52.</pages>
+        <publisher>Éditions SHOM.</publisher>
+    </sequence>
+    <sequence>
+        <author>Labatut, G.</author>
+        <date>(2020).</date>
+        <title>Psychologie sociale et réseaux numériques.</title>
+        <editor>Nobelis, H., &amp; Oceanos, P. (eds.)</editor>
+        <container-title>Comptes Rendus de la Conférence Psychologie du Numérique</container-title>
+        <location>Bordeaux,</location>
+        <pages>67-74.</pages>
+        <publisher>Éditions In Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Manson, T., &amp; Newton, R.</author>
+        <date>(2018).</date>
+        <title>Ingénierie tissulaire et médecine régénératrice.</title>
+        <editor>Olympe, S. (ed.)</editor>
+        <container-title>Proceedings of the Tissue Engineering Conference</container-title>
+        <location>Lille,</location>
+        <pages>156-163.</pages>
+        <publisher>Springer Tissue Engineering and Regenerative Medicine.</publisher>
+    </sequence>
+    <sequence>
+        <author>Orsini, V.</author>
+        <date>(2021).</date>
+        <title>Tourisme durable et technologies numériques.</title>
+        <editor>Platon, Q., &amp; Quebec, R. (eds.)</editor>
+        <container-title>Actes de la Conférence Tourisme et Innovation</container-title>
+        <location>Annecy,</location>
+        <pages>89-96.</pages>
+        <publisher>Éditions Tourisme et Patrimoine.</publisher>
+    </sequence>
+    <sequence>
+        <author>Papadopoulos, C., &amp; Quintal, F.</author>
+        <date>(2017).</date>
+        <title>Sécurité sanitaire et veille épidémiologique.</title>
+        <editor>Romanov, S. (ed.)</editor>
+        <container-title>Comptes Rendus de la Conférence Santé Publique</container-title>
+        <location>Rennes,</location>
+        <pages>123-130.</pages>
+        <publisher>Éditions de l'OMS Europe.</publisher>
+    </sequence>
+    <sequence>
+        <author>Robespierre, L.</author>
+        <date>(2022).</date>
+        <title>Microélectronique et matériaux 2D.</title>
+        <editor>Staline, M., &amp; Turing, N. (eds.)</editor>
+        <container-title>Proceedings of the 2D Materials Conference</container-title>
+        <location>Grenoble,</location>
+        <pages>201-208.</pages>
+        <publisher>American Physical Society.</publisher>
+    </sequence>
+    <sequence>
+        <author>Socrate, T., &amp; Tesla, U.</author>
+        <date>(2019).</date>
+        <title>Transport public autonome et intelligent.</title>
+        <editor>Verne, V. (ed.)</editor>
+        <container-title>Actes de la Conférence Mobilité du Futur</container-title>
+        <location>Orléans,</location>
+        <pages>34-41.</pages>
+        <publisher>Éditions RATP.</publisher>
+    </sequence>
+    <sequence>
+        <author>Triomphe, W.</author>
+        <date>(2020).</date>
+        <title>Biotechnologies marines et ressources océaniques.</title>
+        <editor>Xavier, Y., &amp; Yorick, Z. (eds.)</editor>
+        <container-title>Comptes Rendus de la Conférence Biotechnologies Bleues</container-title>
+        <location>Lorient,</location>
+        <pages>112-119.</pages>
+        <publisher>Éditions Ifremer Biotechnologies.</publisher>
+    </sequence>
+    <sequence>
+        <author>Amper, A., &amp; Bellini, C.</author>
+        <date>(2018).</date>
+        <title>Intelligence économique et veille stratégique.</title>
+        <editor>Cesar, D. (ed.)</editor>
+        <container-title>Proceedings of the Economic Intelligence Conference</container-title>
+        <location>Paris,</location>
+        <pages>234-241.</pages>
+        <publisher>Éditions Dunod Stratégie.</publisher>
+    </sequence>
+    <sequence>
+        <author>Dante, E.</author>
+        <date>(2021).</date>
+        <title>Restoration d'œuvres d'art par technologies numériques.</title>
+        <editor>Eluard, F., &amp; Flaubert, G. (eds.)</editor>
+        <container-title>Actes de la Conférence Art et Technologie</container-title>
+        <location>Paris,</location>
+        <pages>45-52.</pages>
+        <publisher>Éditions du Louvre.</publisher>
+    </sequence>
+    <sequence>
+        <author>Galilée, H., &amp; Harvey, P.</author>
+        <date>(2017).</date>
+        <title>Muséographie interactive et visiteurs connectés.</title>
+        <editor>Ionesco, J. (ed.)</editor>
+        <container-title>Comptes Rendus de la Conférence Muséologie Nouvelle</container-title>
+        <location>Lyon,</location>
+        <pages>189-196.</pages>
+        <publisher>Éditions de l'ICOM.</publisher>
+    </sequence>
+    <sequence>
+        <author>Kant, L.</author>
+        <date>(2022).</date>
+        <title>Philosophie de l'esprit et sciences cognitives.</title>
+        <editor>Leibniz, M., &amp; Malebranche, N. (eds.)</editor>
+        <container-title>Proceedings of the Philosophy of Mind Conference</container-title>
+        <location>Paris,</location>
+        <pages>67-74.</pages>
+        <publisher>Éditions Vrin.</publisher>
+    </sequence>
+    <sequence>
+        <author>Montesquieu, O., &amp; Nietzsche, P.</author>
+        <date>(2019).</date>
+        <title>Éthique environnementale et responsabilité écologique.</title>
+        <editor>Orwell, Q. (ed.)</editor>
+        <container-title>Actes de la Conférence Éthique de l'Environnement</container-title>
+        <location>Grenoble,</location>
+        <pages>156-163.</pages>
+        <publisher>Éditions Écologie et Philosophie.</publisher>
+    </sequence>
+    <sequence>
+        <author>Pascal, R.</author>
+        <date>(2020).</date>
+        <title>Didactique des sciences et apprentissage numérique.</title>
+        <editor>Rousseau, S., &amp; Sartre, T. (eds.)</editor>
+        <container-title>Comptes Rendus de la Conférence Didactique et Innovation</container-title>
+        <location>Montpellier,</location>
+        <pages>89-96.</pages>
+        <publisher>Éditions de l'ARDIST.</publisher>
+    </sequence>
+    <sequence>
+        <author>Voltaire, U., &amp; Wittgenstein, V.</author>
+        <date>(2018).</date>
+        <title>Humanités numériques et édition critique.</title>
+        <editor>Zola, X. (ed.)</editor>
+        <container-title>Proceedings of the Digital Humanities Conference</container-title>
+        <location>Tours,</location>
+        <pages>123-130.</pages>
+        <publisher>Éditions CLASSIC.</publisher>
+    </sequence>
+    <sequence>
+        <author>Aristote, A., &amp; Bacon, B.</author>
+        <date>(2017).</date>
+        <title>Méthodologie de recherche et analyse qualitative.</title>
+        <editor>Comte, C. (ed.)</editor>
+        <container-title>Actes de la Conférence Méthodes de Recherche</container-title>
+        <location>Poitiers,</location>
+        <pages>78-85.</pages>
+        <publisher>Éditions Universitaires de France.</publisher>
+    </sequence>
+    <sequence>
+        <author>Descartes, E.</author>
+        <date>(2022).</date>
+        <title>Robotique humanoïde et interaction sociale.</title>
+        <editor>Einstein, F., &amp; Fermi, G. (eds.)</editor>
+        <container-title>Proceedings of the Humanoid Robotics Conference</container-title>
+        <location>Toulouse,</location>
+        <pages>201-208.</pages>
+        <publisher>IEEE Robotics and Automation Society.</publisher>
+    </sequence>
+    <sequence>
+        <author>Euler, H., &amp; Gauss, P.</author>
+        <date>(2020).</date>
+        <title>Théorie des graphes et réseaux complexes.</title>
+        <editor>Hilbert, R. (ed.)</editor>
+        <container-title>Actes de la Conférence Mathématiques Discrètes</container-title>
+        <location>Strasbourg,</location>
+        <pages>34-41.</pages>
+        <publisher>Société Mathématique de France.</publisher>
+    </sequence>
+    <sequence>
+        <author>Hypatie, I.</author>
+        <date>(2019).</date>
+        <title>Calcul astronomique et mécanique céleste.</title>
+        <editor>Kepler, J., &amp; Laplace, K. (eds.)</editor>
+        <container-title>Comptes Rendus de la Conférence Astronomie Mathématique</container-title>
+        <location>Nice,</location>
+        <pages>145-152.</pages>
+        <publisher>Éditions de l'Observatoire de la Côte d'Azur.</publisher>
+    </sequence>
+    <sequence>
+        <author>Lovelace, L., &amp; Maxwell, N.</author>
+        <date>(2021).</date>
+        <title>Algorithmes distribués et systèmes répartis.</title>
+        <editor>Newton, O. (ed.)</editor>
+        <container-title>Proceedings of the Distributed Algorithms Conference</container-title>
+        <location>Montpellier,</location>
+        <pages>67-74.</pages>
+        <publisher>Springer Distributed Computing.</publisher>
+    </sequence>
+    <sequence>
+        <author>Oppenheimer, P.</author>
+        <date>(2018).</date>
+        <title>Énergies nucléaires et sécurité des réacteurs.</title>
+        <editor>Planck, Q., &amp; Rutherford, S. (eds.)</editor>
+        <container-title>Actes de la Conférence Physique Nucléaire</container-title>
+        <location>Grenoble,</location>
+        <pages>189-196.</pages>
+        <publisher>Éditions de la Société Française de Physique.</publisher>
+    </sequence>
+    <sequence>
+        <author>Schrödinger, T., &amp; Heisenberg, U.</author>
+        <date>(2017).</date>
+        <title>Mécanique quantique et optique quantique.</title>
+        <editor>Bohr, V. (ed.)</editor>
+        <container-title>Comptes Rendus du Symposium Physique Quantique</container-title>
+        <location>Les Houches,</location>
+        <pages>112-119.</pages>
+        <publisher>Elsevier Physics Letters.</publisher>
+    </sequence>
+    <sequence>
+        <author>Wu, X.</author>
+        <date>(2022).</date>
+        <title>Physique des particules et accélérateurs.</title>
+        <editor>Yang, Y., &amp; Zhou, Z. (eds.)</editor>
+        <container-title>Proceedings of the High Energy Physics Conference</container-title>
+        <location>Annecy,</location>
+        <pages>234-241.</pages>
+        <publisher>CERN Publications.</publisher>
+    </sequence>
+    <sequence>
+        <author>Bernoulli, A., &amp; Euler, B.</author>
+        <date>(2020).</date>
+        <title>Analyse numérique et équations différentielles.</title>
+        <editor>Lagrange, C. (ed.)</editor>
+        <container-title>Actes de la Conférence Mathématiques Appliquées</container-title>
+        <location>Lyon,</location>
+        <pages>45-52.</pages>
+        <publisher>Éditions de la SMAI.</publisher>
+    </sequence>
+    <sequence>
+        <author>Fourier, D.</author>
+        <date>(2019).</date>
+        <title>Traitement du signal et ondelettes.</title>
+        <editor>Gauss, E., &amp; Legendre, F. (eds.)</editor>
+        <container-title>Comptes Rendus de la Conférence Signal et Image</container-title>
+        <location>Toulouse,</location>
+        <pages>156-163.</pages>
+        <publisher>GRETSI.</publisher>
+    </sequence>
+    <sequence>
+        <author>Hamilton, G., &amp; Jacobi, H.</author>
+        <date>(2021).</date>
+        <title>Algèbre linéaire et optimisation convexe.</title>
+        <editor>Kronecker, I. (ed.)</editor>
+        <container-title>Proceedings of the Linear Algebra Conference</container-title>
+        <location>Marseille,</location>
+        <pages>78-85.</pages>
+        <publisher>Cambridge University Press Algebra.</publisher>
+    </sequence>
+    <sequence>
+        <author>Lebesgue, J.</author>
+        <date>(2018).</date>
+        <title>Théorie de la mesure et probabilités.</title>
+        <editor>Montel, K., &amp; Poincaré, L. (eds.)</editor>
+        <container-title>Actes de la Conférence Probabilités et Statistiques</container-title>
+        <location>Nancy,</location>
+        <pages>123-130.</pages>
+        <publisher>IMS Lecture Notes.</publisher>
+    </sequence>
+    <sequence>
+        <author>Riemann, M., &amp; Sobolev, N.</author>
+        <date>(2017).</date>
+        <title>Analyse fonctionnelle et espaces de Banach.</title>
+        <editor>Steklov, O. (ed.)</editor>
+        <container-title>Comptes Rendus de la Conférence Analyse Fonctionnelle</container-title>
+        <location>Paris,</location>
+        <pages>201-208.</pages>
+        <publisher>Éditions de la Société Mathématique de France.</publisher>
+    </sequence>
+</dataset>
