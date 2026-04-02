@@ -1,0 +1,1533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <sequence>
+        <author>García Márquez, G.</author>
+        <date>(2020).</date>
+        <title>Cien años de soledad: Análisis crítico.</title>
+        <publisher>Editorial Sudamericana</publisher>
+        <location>Buenos Aires</location>
+        <edition>3ra ed.</edition>
+        <translator>Martínez, J.</translator>
+    </sequence>
+    <sequence>
+        <author>Vargas Llosa, M.</author>
+        <date>(2019).</date>
+        <title>La ciudad y los perros: Estudios literarios.</title>
+        <publisher>Alfaguara</publisher>
+        <location>Madrid</location>
+        <edition>2da ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Cortázar, J.</author>
+        <date>(2021).</date>
+        <title>Rayuela: Perspectivas contemporáneas.</title>
+        <publisher>Fondo de Cultura Económica</publisher>
+        <location>México D.F.</location>
+        <edition>1ra ed.</edition>
+        <translator>López, A.</translator>
+    </sequence>
+    <sequence>
+        <author>Borges, J. L.</author>
+        <date>(2018).</date>
+        <title>Ficciones: Ensayos y comentarios.</title>
+        <publisher>Emecé Editores</publisher>
+        <location>Buenos Aires</location>
+        <edition>5ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Neruda, P.</author>
+        <date>(2022).</date>
+        <title>Veinte poemas de amor: Antología crítica.</title>
+        <publisher>Editorial Losada</publisher>
+        <location>Buenos Aires</location>
+        <edition>4ta ed.</edition>
+        <translator>Ruiz, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Allende, I.</author>
+        <date>(2020).</date>
+        <title>La casa de los espíritus: Guía de estudio.</title>
+        <publisher>Debolsillo</publisher>
+        <location>Barcelona</location>
+        <edition>6ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Fuentes, C.</author>
+        <date>(2019).</date>
+        <title>La región más transparente: Análisis narrativo.</title>
+        <publisher>Seix Barral</publisher>
+        <location>Barcelona</location>
+        <edition>2da ed.</edition>
+        <translator>Díaz, P.</translator>
+    </sequence>
+    <sequence>
+        <author>Onetti, J. C.</author>
+        <date>(2021).</date>
+        <title>El astillero: Lecturas contemporáneas.</title>
+        <publisher>Editorial Arca</publisher>
+        <location>Montevideo</location>
+        <edition>1ra ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Rulfo, J.</author>
+        <date>(2018).</date>
+        <title>Pedro Páramo: Edición comentada.</title>
+        <publisher>Fondo de Cultura Económica</publisher>
+        <location>México D.F.</location>
+        <edition>8va ed.</edition>
+        <translator>Sánchez, R.</translator>
+    </sequence>
+    <sequence>
+        <author>Asturias, M. Á.</author>
+        <date>(2020).</date>
+        <title>Hombres de maíz: Estudio antropológico.</title>
+        <publisher>Editorial Universitaria</publisher>
+        <location>Guatemala</location>
+        <edition>3ra ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Carpentier, A.</author>
+        <date>(2019).</date>
+        <title>El siglo de las luces: Ensayo crítico.</title>
+        <publisher>Editorial Letras Cubanas</publisher>
+        <location>La Habana</location>
+        <edition>2da ed.</edition>
+        <translator>Gómez, L.</translator>
+    </sequence>
+    <sequence>
+        <author>Donoso, J.</author>
+        <date>(2021).</date>
+        <title>El obsceno pájaro de la noche: Análisis.</title>
+        <publisher>Seix Barral</publisher>
+        <location>Santiago</location>
+        <edition>1ra ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Sábato, E.</author>
+        <date>(2022).</date>
+        <title>Sobre héroes y tumbas: Comentarios.</title>
+        <publisher>Seix Barral</publisher>
+        <location>Buenos Aires</location>
+        <edition>4ta ed.</edition>
+        <translator>Fernández, C.</translator>
+    </sequence>
+    <sequence>
+        <author>Paz, O.</author>
+        <date>(2020).</date>
+        <title>El laberinto de la soledad: Edición crítica.</title>
+        <publisher>Fondo de Cultura Económica</publisher>
+        <location>México D.F.</location>
+        <edition>10ma ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Vallejo, C.</author>
+        <date>(2019).</date>
+        <title>Trilce: Antología poética.</title>
+        <publisher>Editorial Horizonte</publisher>
+        <location>Lima</location>
+        <edition>3ra ed.</edition>
+        <translator>Castro, D.</translator>
+    </sequence>
+    <sequence>
+        <author>Mistral, G.</author>
+        <date>(2021).</date>
+        <title>Desolación: Poemas escogidos.</title>
+        <publisher>Editorial Universitaria</publisher>
+        <location>Santiago</location>
+        <edition>5ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Darío, R.</author>
+        <date>(2018).</date>
+        <title>Azul: Edición anotada.</title>
+        <publisher>Editorial Anaya</publisher>
+        <location>Madrid</location>
+        <edition>7ma ed.</edition>
+        <translator>Morales, S.</translator>
+    </sequence>
+    <sequence>
+        <author>Unamuno, M. de</author>
+        <date>(2020).</date>
+        <title>Niebla: Estudio filosófico.</title>
+        <publisher>Editorial Alianza</publisher>
+        <location>Madrid</location>
+        <edition>12da ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Ortega y Gasset, J.</author>
+        <date>(2019).</date>
+        <title>La rebelión de las masas: Comentarios.</title>
+        <publisher>Editorial Revista de Occidente</publisher>
+        <location>Madrid</location>
+        <edition>15ta ed.</edition>
+        <translator>Ortega, F.</translator>
+    </sequence>
+    <sequence>
+        <author>Cela, C. J.</author>
+        <date>(2021).</date>
+        <title>La familia de Pascual Duarte: Análisis.</title>
+        <publisher>Destino</publisher>
+        <location>Barcelona</location>
+        <edition>20ma ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Delibes, M.</author>
+        <date>(2022).</date>
+        <title>Los santos inocentes: Guía didáctica.</title>
+        <publisher>Destino</publisher>
+        <location>Barcelona</location>
+        <edition>8va ed.</edition>
+        <translator>Jiménez, A.</translator>
+    </sequence>
+    <sequence>
+        <author>Fernán Caballero</author>
+        <date>(2020).</date>
+        <title>La gaviota: Edición crítica.</title>
+        <publisher>Editorial Castalia</publisher>
+        <location>Madrid</location>
+        <edition>4ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Valera, J.</author>
+        <date>(2019).</date>
+        <title>Pepita Jiménez: Estudio literario.</title>
+        <publisher>Editorial Cátedra</publisher>
+        <location>Madrid</location>
+        <edition>6ta ed.</edition>
+        <translator>Ramírez, E.</translator>
+    </sequence>
+    <sequence>
+        <author>Pereda, J. M. de</author>
+        <date>(2021).</date>
+        <title>Sotileza: Análisis costumbrista.</title>
+        <publisher>Editorial Milenio</publisher>
+        <location>Lleida</location>
+        <edition>2da ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Clarín</author>
+        <date>(2018).</date>
+        <title>La Regenta: Edición comentada.</title>
+        <publisher>Editorial Espasa</publisher>
+        <location>Madrid</location>
+        <edition>25ta ed.</edition>
+        <translator>Vega, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Galdós, B.</author>
+        <date>(2020).</date>
+        <title>Fortunata y Jacinta: Estudio crítico.</title>
+        <publisher>Editorial Alianza</publisher>
+        <location>Madrid</location>
+        <edition>18va ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Pardo Bazán, E.</author>
+        <date>(2019).</date>
+        <title>Los pazos de Ulloa: Análisis naturalista.</title>
+        <publisher>Editorial Akal</publisher>
+        <location>Madrid</location>
+        <edition>5ta ed.</edition>
+        <translator>Silva, R.</translator>
+    </sequence>
+    <sequence>
+        <author>Alarcón, P. A. de</author>
+        <date>(2021).</date>
+        <title>El sombrero de tres picos: Comentarios.</title>
+        <publisher>Editorial Anaya</publisher>
+        <location>Madrid</location>
+        <edition>9na ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Valdés, A. M.</author>
+        <date>(2022).</date>
+        <title>Peñas arriba: Edición escolar.</title>
+        <publisher>Editorial Vicens Vives</publisher>
+        <location>Barcelona</location>
+        <edition>3ra ed.</edition>
+        <translator>Mendoza, L.</translator>
+    </sequence>
+    <sequence>
+        <author>Palacio Valdés, A.</author>
+        <date>(2020).</date>
+        <title>La hermana San Sulpicio: Guía de lectura.</title>
+        <publisher>Editorial Planeta</publisher>
+        <location>Barcelona</location>
+        <edition>4ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Machado, A.</author>
+        <date>(2019).</date>
+        <title>Campos de Castilla: Antología.</title>
+        <publisher>Editorial Espasa</publisher>
+        <location>Madrid</location>
+        <edition>14ta ed.</edition>
+        <translator>Romero, P.</translator>
+    </sequence>
+    <sequence>
+        <author>Jiménez, J. R.</author>
+        <date>(2021).</date>
+        <title>Platero y yo: Edición ilustrada.</title>
+        <publisher>Editorial Alhambra</publisher>
+        <location>Madrid</location>
+        <edition>22da ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Alberti, R.</author>
+        <date>(2018).</date>
+        <title>Marinero en tierra: Poemas.</title>
+        <publisher>Editorial Visor</publisher>
+        <location>Madrid</location>
+        <edition>6ta ed.</edition>
+        <translator>Guerrero, T.</translator>
+    </sequence>
+    <sequence>
+        <author>García Lorca, F.</author>
+        <date>(2020).</date>
+        <title>Romancero gitano: Estudio.</title>
+        <publisher>Editorial Cátedra</publisher>
+        <location>Madrid</location>
+        <edition>30ma ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Salinas, P.</author>
+        <date>(2019).</date>
+        <title>La voz a ti debida: Análisis.</title>
+        <publisher>Editorial Lumen</publisher>
+        <location>Barcelona</location>
+        <edition>8va ed.</edition>
+        <translator>Herrera, D.</translator>
+    </sequence>
+    <sequence>
+        <author>Guillén, J.</author>
+        <date>(2021).</date>
+        <title>Cántico: Edición crítica.</title>
+        <publisher>Editorial Galaxia Gutenberg</publisher>
+        <location>Barcelona</location>
+        <edition>3ra ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Cernuda, L.</author>
+        <date>(2022).</date>
+        <title>La realidad y el deseo: Comentarios.</title>
+        <publisher>Editorial Siruela</publisher>
+        <location>Madrid</location>
+        <edition>5ta ed.</edition>
+        <translator>Blanco, F.</translator>
+    </sequence>
+    <sequence>
+        <author>Aleixandre, V.</author>
+        <date>(2020).</date>
+        <title>La destrucción o el amor: Estudio.</title>
+        <publisher>Editorial Renacimiento</publisher>
+        <location>Sevilla</location>
+        <edition>4ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Altolaguirre, M.</author>
+        <date>(2019).</date>
+        <title>Las islas invitadas: Antología.</title>
+        <publisher>Editorial Pre-Textos</publisher>
+        <location>Valencia</location>
+        <edition>2da ed.</edition>
+        <translator>Cabrera, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Prados, E.</author>
+        <date>(2021).</date>
+        <title>La tierra que no alienta: Poemas.</title>
+        <publisher>Editorial Diputación de Málaga</publisher>
+        <location>Málaga</location>
+        <edition>1ra ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Hernández, M.</author>
+        <date>(2018).</date>
+        <title>El rayo que no cesa: Edición.</title>
+        <publisher>Editorial Espasa</publisher>
+        <location>Madrid</location>
+        <edition>16ta ed.</edition>
+        <translator>Pastor, J.</translator>
+    </sequence>
+    <sequence>
+        <author>Rosales, L.</author>
+        <date>(2020).</date>
+        <title>Destino de la carne: Antología poética.</title>
+        <publisher>Editorial Visor</publisher>
+        <location>Madrid</location>
+        <edition>3ra ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Panero, L.</author>
+        <date>(2019).</date>
+        <title>Los trucos de la muerte: Estudio.</title>
+        <publisher>Editorial Debate</publisher>
+        <location>Madrid</location>
+        <edition>2da ed.</edition>
+        <translator>Vidal, A.</translator>
+    </sequence>
+    <sequence>
+        <author>Otero, A.</author>
+        <date>(2021).</date>
+        <title>Cantidad continuada: Análisis.</title>
+        <publisher>Editorial Hiperión</publisher>
+        <location>Madrid</location>
+        <edition>1ra ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Valente, J. A.</author>
+        <date>(2022).</date>
+        <title>Material memoria: Comentarios.</title>
+        <publisher>Editorial Galaxia Gutenberg</publisher>
+        <location>Barcelona</location>
+        <edition>4ta ed.</edition>
+        <translator>Santos, R.</translator>
+    </sequence>
+    <sequence>
+        <author>Goytisolo, J. A.</author>
+        <date>(2020).</date>
+        <title>El sitio de los sitios: Ensayo.</title>
+        <publisher>Editorial Tusquets</publisher>
+        <location>Barcelona</location>
+        <edition>2da ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Gimferrer, P.</author>
+        <date>(2019).</date>
+        <title>Accésit: Antología crítica.</title>
+        <publisher>Editorial Seix Barral</publisher>
+        <location>Barcelona</location>
+        <edition>3ra ed.</edition>
+        <translator>Martín, L.</translator>
+    </sequence>
+    <sequence>
+        <author>Carnero, G.</author>
+        <date>(2021).</date>
+        <title>Dibujo de la muerte: Estudio.</title>
+        <publisher>Editorial Pre-Textos</publisher>
+        <location>Valencia</location>
+        <edition>1ra ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Martínez Sarrión, A.</author>
+        <date>(2018).</date>
+        <title>Una juventud: Memorias.</title>
+        <publisher>Editorial Galaxia Gutenberg</publisher>
+        <location>Barcelona</location>
+        <edition>2da ed.</edition>
+        <translator>Crespo, D.</translator>
+    </sequence>
+    <sequence>
+        <author>Moya, C.</author>
+        <date>(2020).</date>
+        <title>La estación de los cuerpos: Poemas.</title>
+        <publisher>Editorial Visor</publisher>
+        <location>Madrid</location>
+        <edition>1ra ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Luis García Montero</author>
+        <date>(2019).</date>
+        <title>Completamente viernes: Análisis.</title>
+        <publisher>Editorial Tusquets</publisher>
+        <location>Barcelona</location>
+        <edition>5ta ed.</edition>
+        <translator>Reyes, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Albiach, A.</author>
+        <date>(2021).</date>
+        <title>Tres tratados: Ensayo poético.</title>
+        <publisher>Editorial Pre-Textos</publisher>
+        <location>Valencia</location>
+        <edition>2da ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Castro Flórez, F.</author>
+        <date>(2022).</date>
+        <title>El último de la fiesta: Comentarios.</title>
+        <publisher>Editorial Hiperión</publisher>
+        <location>Madrid</location>
+        <edition>1ra ed.</edition>
+        <translator>Navarro, P.</translator>
+    </sequence>
+    <sequence>
+        <author>Villena, L. A.</author>
+        <date>(2020).</date>
+        <title>La guía de la luz: Antología.</title>
+        <publisher>Editorial Visor</publisher>
+        <location>Madrid</location>
+        <edition>3ra ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Pearson, M.</author>
+        <date>(2019).</date>
+        <title>Introducción a la lingüística hispánica.</title>
+        <publisher>Editorial Gredos</publisher>
+        <location>Madrid</location>
+        <edition>4ta ed.</edition>
+        <translator>Pearson, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Bosque, I.</author>
+        <date>(2021).</date>
+        <title>Las categorías gramaticales.</title>
+        <publisher>Editorial Síntesis</publisher>
+        <location>Madrid</location>
+        <edition>6ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Demonte, V.</author>
+        <date>(2018).</date>
+        <title>El complemento preposicional.</title>
+        <publisher>Editorial Akal</publisher>
+        <location>Madrid</location>
+        <edition>3ra ed.</edition>
+        <translator>Moreno, C.</translator>
+    </sequence>
+    <sequence>
+        <author>Brucart, J. M.</author>
+        <date>(2020).</date>
+        <title>La modalidad oracional.</title>
+        <publisher>Editorial Verbum</publisher>
+        <location>Madrid</location>
+        <edition>2da ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Gutiérrez Ordóñez, S.</author>
+        <date>(2019).</date>
+        <title>El sintagma nominal.</title>
+        <publisher>Editorial Arco</publisher>
+        <location>Madrid</location>
+        <edition>5ta ed.</edition>
+        <translator>Ruiz, S.</translator>
+    </sequence>
+    <sequence>
+        <author>Montolío, E.</author>
+        <date>(2021).</date>
+        <title>La subordinación adverbial.</title>
+        <publisher>Editorial Síntesis</publisher>
+        <location>Madrid</location>
+        <edition>1ra ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Cortés, L.</author>
+        <date>(2022).</date>
+        <title>La oración simple.</title>
+        <publisher>Editorial Alhambra</publisher>
+        <location>Madrid</location>
+        <edition>4ta ed.</edition>
+        <translator>Lozano, F.</translator>
+    </sequence>
+    <sequence>
+        <author>Escandell, M. V.</author>
+        <date>(2020).</date>
+        <title>Introducción a la pragmática.</title>
+        <publisher>Editorial Ariel</publisher>
+        <location>Barcelona</location>
+        <edition>7ma ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Briz, A.</author>
+        <date>(2019).</date>
+        <title>El español coloquial.</title>
+        <publisher>Editorial Ariel</publisher>
+        <location>Barcelona</location>
+        <edition>9na ed.</edition>
+        <translator>Caballero, A.</translator>
+    </sequence>
+    <sequence>
+        <author>Palomo, M. I.</author>
+        <date>(2021).</date>
+        <title>La entonación en el español.</title>
+        <publisher>Editorial Arco</publisher>
+        <location>Madrid</location>
+        <edition>2da ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Quilis, A.</author>
+        <date>(2018).</date>
+        <title>Fonética y fonología.</title>
+        <publisher>Editorial Ariel</publisher>
+        <location>Barcelona</location>
+        <edition>11va ed.</edition>
+        <translator>Fuentes, R.</translator>
+    </sequence>
+    <sequence>
+        <author>Gil, L.</author>
+        <date>(2020).</date>
+        <title>El acento del español.</title>
+        <publisher>Editorial Gredos</publisher>
+        <location>Madrid</location>
+        <edition>3ra ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Rivas, E.</author>
+        <date>(2019).</date>
+        <title>El sistema verbal.</title>
+        <publisher>Editorial Verbum</publisher>
+        <location>Madrid</location>
+        <edition>4ta ed.</edition>
+        <translator>Pascual, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Rojas, A.</author>
+        <date>(2021).</date>
+        <title>Los tiempos verbales.</title>
+        <publisher>Editorial Síntesis</publisher>
+        <location>Madrid</location>
+        <edition>2da ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Serrano, M. J.</author>
+        <date>(2022).</date>
+        <title>Variación lingüística y cambio social.</title>
+        <publisher>Editorial Cátedra</publisher>
+        <location>Madrid</location>
+        <edition>1ra ed.</edition>
+        <translator>Santana, J.</translator>
+    </sequence>
+    <sequence>
+        <author>Hernández, C.</author>
+        <date>(2020).</date>
+        <title>El español de América.</title>
+        <publisher>Editorial Ariel</publisher>
+        <location>Barcelona</location>
+        <edition>8va ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Alvar, M.</author>
+        <date>(2019).</date>
+        <title>El español en América.</title>
+        <publisher>Editorial Castalia</publisher>
+        <location>Madrid</location>
+        <edition>5ta ed.</edition>
+        <translator>Espinosa, L.</translator>
+    </sequence>
+    <sequence>
+        <author>Zamora Vicente, A.</author>
+        <date>(2021).</date>
+        <title>Dialectología española.</title>
+        <publisher>Editorial Gredos</publisher>
+        <location>Madrid</location>
+        <edition>10ma ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Mondéjar, J.</author>
+        <date>(2018).</date>
+        <title>El verbo andaluz.</title>
+        <publisher>Editorial Ágora</publisher>
+        <location>Málaga</location>
+        <edition>3ra ed.</edition>
+        <translator>Ortiz, D.</translator>
+    </sequence>
+    <sequence>
+        <author>Borrego, J.</author>
+        <date>(2020).</date>
+        <title>El habla de Salamanca.</title>
+        <publisher>Editorial Universidad de Salamanca</publisher>
+        <location>Salamanca</location>
+        <edition>2da ed.</edition>
+    </sequence>
+    <sequence>
+        <author>García Mouton, P.</author>
+        <date>(2019).</date>
+        <title>Cómo hablan las mujeres.</title>
+        <publisher>Editorial Arco</publisher>
+        <location>Madrid</location>
+        <edition>4ta ed.</edition>
+        <translator>Cano, R.</translator>
+    </sequence>
+    <sequence>
+        <author>Moliner, M.</author>
+        <date>(2021).</date>
+        <title>Diccionario de uso del español.</title>
+        <publisher>Editorial Gredos</publisher>
+        <location>Madrid</location>
+        <edition>15ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Seco, M.</author>
+        <date>(2022).</date>
+        <title>Diccionario del español actual.</title>
+        <publisher>Editorial Aguilar</publisher>
+        <location>Madrid</location>
+        <edition>8va ed.</edition>
+        <translator>Andrés, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Corominas, J.</author>
+        <date>(2020).</date>
+        <title>Diccionario etimológico.</title>
+        <publisher>Editorial Gredos</publisher>
+        <location>Madrid</location>
+        <edition>6ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Corominas, J., &amp; Pascual, J. A.</author>
+        <date>(2019).</date>
+        <title>Diccionario crítico etimológico.</title>
+        <publisher>Editorial Gredos</publisher>
+        <location>Madrid</location>
+        <edition>4ta ed.</edition>
+        <translator>Pineda, F.</translator>
+    </sequence>
+    <sequence>
+        <author>Alvar Ezquerra, M.</author>
+        <date>(2021).</date>
+        <title>Diccionario del español.</title>
+        <publisher>Editorial Vox</publisher>
+        <location>Barcelona</location>
+        <edition>12da ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Seco, R.</author>
+        <date>(2018).</date>
+        <title>Gramática esencial del español.</title>
+        <publisher>Editorial Espasa</publisher>
+        <location>Madrid</location>
+        <edition>9na ed.</edition>
+        <translator>Salas, A.</translator>
+    </sequence>
+    <sequence>
+        <author>Alcina, J., &amp; Blecua, J. M.</author>
+        <date>(2020).</date>
+        <title>Gramática española.</title>
+        <publisher>Editorial Ariel</publisher>
+        <location>Barcelona</location>
+        <edition>7ma ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Real Academia Española</author>
+        <date>(2019).</date>
+        <title>Nueva gramática de la lengua española.</title>
+        <publisher>Espasa Libros</publisher>
+        <location>Madrid</location>
+        <edition>3ra ed.</edition>
+        <translator>Santiago, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Asociación de Academias</author>
+        <date>(2021).</date>
+        <title>Ortografía de la lengua española.</title>
+        <publisher>Espasa Libros</publisher>
+        <location>Madrid</location>
+        <edition>5ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Instituto Cervantes</author>
+        <date>(2022).</date>
+        <title>Plan Curricular del Instituto Cervantes.</title>
+        <publisher>Editorial Santillana</publisher>
+        <location>Madrid</location>
+        <edition>2da ed.</edition>
+        <translator>Valcárcel, P.</translator>
+    </sequence>
+    <sequence>
+        <author>Sánchez Lobato, J.</author>
+        <date>(2020).</date>
+        <title>Gramática básica del estudiante.</title>
+        <publisher>Editorial Difusión</publisher>
+        <location>Barcelona</location>
+        <edition>6ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Buschmann, J.</author>
+        <date>(2019).</date>
+        <title>Gramática de uso del español.</title>
+        <publisher>Editorial Edinumen</publisher>
+        <location>Alicante</location>
+        <edition>8va ed.</edition>
+        <translator>Iglesias, R.</translator>
+    </sequence>
+    <sequence>
+        <author>Caparrós, M.</author>
+        <date>(2021).</date>
+        <title>Ejercicios de gramática.</title>
+        <publisher>Editorial SGEL</publisher>
+        <location>Madrid</location>
+        <edition>4ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Casado, M.</author>
+        <date>(2018).</date>
+        <title>Uso correcto del español.</title>
+        <publisher>Editorial Ariel</publisher>
+        <location>Barcelona</location>
+        <edition>11va ed.</edition>
+        <translator>Nieto, L.</translator>
+    </sequence>
+    <sequence>
+        <author>Gómez Torrego, L.</author>
+        <date>(2020).</date>
+        <title>Errores y dudas del español.</title>
+        <publisher>Editorial Cátedra</publisher>
+        <location>Madrid</location>
+        <edition>7ma ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Santos, J.</author>
+        <date>(2019).</date>
+        <title>Manual de estilo del español.</title>
+        <publisher>Editorial Arco</publisher>
+        <location>Madrid</location>
+        <edition>3ra ed.</edition>
+        <translator>Laguna, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Lázaro, F.</author>
+        <date>(2021).</date>
+        <title>Redacción y composición.</title>
+        <publisher>Editorial Castalia</publisher>
+        <location>Madrid</location>
+        <edition>5ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Martín Vivaldi, G.</author>
+        <date>(2022).</date>
+        <title>Técnica de la expresión verbal.</title>
+        <publisher>Editorial Anaya</publisher>
+        <location>Madrid</location>
+        <edition>20ma ed.</edition>
+        <translator>Soto, R.</translator>
+    </sequence>
+    <sequence>
+        <author>Albalá, M.</author>
+        <date>(2020).</date>
+        <title>Oratoria y comunicación.</title>
+        <publisher>Editorial Universitas</publisher>
+        <location>Madrid</location>
+        <edition>4ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Cassany, D.</author>
+        <date>(2019).</date>
+        <title>La cocina de la escritura.</title>
+        <publisher>Editorial Anagrama</publisher>
+        <location>Barcelona</location>
+        <edition>14ta ed.</edition>
+        <translator>Ferrer, A.</translator>
+    </sequence>
+    <sequence>
+        <author>Serafini, M. T.</author>
+        <date>(2021).</date>
+        <title>Cómo redactar un tema.</title>
+        <publisher>Editorial Paidós</publisher>
+        <location>Barcelona</location>
+        <edition>9na ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Álvarez, F.</author>
+        <date>(2018).</date>
+        <title>Tipologías textuales.</title>
+        <publisher>Editorial Universidad de Alcalá</publisher>
+        <location>Alcalá de Henares</location>
+        <edition>3ra ed.</edition>
+        <translator>Marcos, D.</translator>
+    </sequence>
+    <sequence>
+        <author>Calsamiglia, H.</author>
+        <date>(2020).</date>
+        <title>Las cosas del decir.</title>
+        <publisher>Editorial Ariel</publisher>
+        <location>Barcelona</location>
+        <edition>5ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Van Dijk, T.</author>
+        <date>(2019).</date>
+        <title>Estructuras de la conversación.</title>
+        <publisher>Editorial Gedisa</publisher>
+        <location>Barcelona</location>
+        <edition>6ta ed.</edition>
+        <translator>Castillo, F.</translator>
+    </sequence>
+    <sequence>
+        <author>Greimas, A. J.</author>
+        <date>(2021).</date>
+        <title>Semántica estructural.</title>
+        <publisher>Editorial Gredos</publisher>
+        <location>Madrid</location>
+        <edition>2da ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Genette, G.</author>
+        <date>(2022).</date>
+        <title>Figuras retóricas.</title>
+        <publisher>Editorial Lumen</publisher>
+        <location>Barcelona</location>
+        <edition>4ta ed.</edition>
+        <translator>Puerto, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Todorov, T.</author>
+        <date>(2020).</date>
+        <title>Los géneros del discurso.</title>
+        <publisher>Editorial Cátedra</publisher>
+        <location>Madrid</location>
+        <edition>3ra ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Eco, U.</author>
+        <date>(2019).</date>
+        <title>Cómo se hace una tesis.</title>
+        <publisher>Editorial Gedisa</publisher>
+        <location>Barcelona</location>
+        <edition>22da ed.</edition>
+        <translator>Lucía, J.</translator>
+    </sequence>
+    <sequence>
+        <author>Umberto, E.</author>
+        <date>(2021).</date>
+        <title>Lector in fabula.</title>
+        <publisher>Editorial Lumen</publisher>
+        <location>Barcelona</location>
+        <edition>8va ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Lotman, Y.</author>
+        <date>(2018).</date>
+        <title>La estructura del texto artístico.</title>
+        <publisher>Editorial Istmo</publisher>
+        <location>Madrid</location>
+        <edition>5ta ed.</edition>
+        <translator>Medina, A.</translator>
+    </sequence>
+    <sequence>
+        <author>Jakobson, R.</author>
+        <date>(2020).</date>
+        <title>Ensayos de lingüística general.</title>
+        <publisher>Editorial Ariel</publisher>
+        <location>Barcelona</location>
+        <edition>12da ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Bajtin, M.</author>
+        <date>(2019).</date>
+        <title>Estética de la creación verbal.</title>
+        <publisher>Editorial Siglo XXI</publisher>
+        <location>México D.F.</location>
+        <edition>6ta ed.</edition>
+        <translator>Bubnova, T.</translator>
+    </sequence>
+    <sequence>
+        <author>Voloshinov, V.</author>
+        <date>(2021).</date>
+        <title>El marxismo y la filosofía del lenguaje.</title>
+        <publisher>Editorial Godoy</publisher>
+        <location>Madrid</location>
+        <edition>3ra ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Saussure, F.</author>
+        <date>(2022).</date>
+        <title>Curso de lingüística general.</title>
+        <publisher>Editorial Gredos</publisher>
+        <location>Madrid</location>
+        <edition>18va ed.</edition>
+        <translator>Alonso, A.</translator>
+    </sequence>
+    <sequence>
+        <author>Bloomfield, L.</author>
+        <date>(2020).</date>
+        <title>El lenguaje.</title>
+        <publisher>Editorial Aguilar</publisher>
+        <location>Madrid</location>
+        <edition>4ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Chomsky, N.</author>
+        <date>(2019).</date>
+        <title>Aspectos de la teoría de la sintaxis.</title>
+        <publisher>Editorial Aguilar</publisher>
+        <location>Madrid</location>
+        <edition>9na ed.</edition>
+        <translator>Cantera, F.</translator>
+    </sequence>
+    <sequence>
+        <author>Fillmore, C.</author>
+        <date>(2021).</date>
+        <title>Gramática del caso.</title>
+        <publisher>Editorial Gredos</publisher>
+        <location>Madrid</location>
+        <edition>2da ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Halliday, M.</author>
+        <date>(2018).</date>
+        <title>Introducción a la gramática funcional.</title>
+        <publisher>Editorial Gredos</publisher>
+        <location>Madrid</location>
+        <edition>3ra ed.</edition>
+        <translator>Ponce, R.</translator>
+    </sequence>
+    <sequence>
+        <author>Lakoff, G.</author>
+        <date>(2020).</date>
+        <title>Mujeres, fuego y cosas peligrosas.</title>
+        <publisher>Editorial Ariel</publisher>
+        <location>Barcelona</location>
+        <edition>4ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Johnson, M.</author>
+        <date>(2019).</date>
+        <title>El cuerpo en la mente.</title>
+        <publisher>Editorial Pirámide</publisher>
+        <location>Madrid</location>
+        <edition>5ta ed.</edition>
+        <translator>Tabernero, C.</translator>
+    </sequence>
+    <sequence>
+        <author>Turner, M.</author>
+        <date>(2021).</date>
+        <title>Lectura de la mente.</title>
+        <publisher>Editorial Fondo de Cultura</publisher>
+        <location>México D.F.</location>
+        <edition>2da ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Fauconnier, G.</author>
+        <date>(2022).</date>
+        <title>Mapeos en el pensamiento.</title>
+        <publisher>Editorial Gedisa</publisher>
+        <location>Barcelona</location>
+        <edition>3ra ed.</edition>
+        <translator>González, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Sperber, D.</author>
+        <date>(2020).</date>
+        <title>La relevancia.</title>
+        <publisher>Editorial Visor</publisher>
+        <location>Madrid</location>
+        <edition>4ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Wilson, D.</author>
+        <date>(2019).</date>
+        <title>Pragmática y cognición.</title>
+        <publisher>Editorial Ariel</publisher>
+        <location>Barcelona</location>
+        <edition>2da ed.</edition>
+        <translator>Ramón, F.</translator>
+    </sequence>
+    <sequence>
+        <author>Grice, P.</author>
+        <date>(2021).</date>
+        <title>Lógica y conversación.</title>
+        <publisher>Editorial Técnos</publisher>
+        <location>Madrid</location>
+        <edition>6ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Searle, J.</author>
+        <date>(2018).</date>
+        <title>Actos de habla.</title>
+        <publisher>Editorial Cátedra</publisher>
+        <location>Madrid</location>
+        <edition>10ma ed.</edition>
+        <translator>Valdés, L.</translator>
+    </sequence>
+    <sequence>
+        <author>Austin, J.</author>
+        <date>(2020).</date>
+        <title>Cómo hacer cosas con palabras.</title>
+        <publisher>Editorial Paidós</publisher>
+        <location>Barcelona</location>
+        <edition>8va ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Wittgenstein, L.</author>
+        <date>(2019).</date>
+        <title>Investigaciones filosóficas.</title>
+        <publisher>Editorial Crítica</publisher>
+        <location>Barcelona</location>
+        <edition>15ta ed.</edition>
+        <translator>García, A.</translator>
+    </sequence>
+    <sequence>
+        <author>Quine, W.</author>
+        <date>(2021).</date>
+        <title>Palabra y objeto.</title>
+        <publisher>Editorial Labor</publisher>
+        <location>Barcelona</location>
+        <edition>4ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Putnam, H.</author>
+        <date>(2022).</date>
+        <title>El significado de significado.</title>
+        <publisher>Editorial Paidós</publisher>
+        <location>Barcelona</location>
+        <edition>3ra ed.</edition>
+        <translator>Rovira, F.</translator>
+    </sequence>
+    <sequence>
+        <author>Kripke, S.</author>
+        <date>(2020).</date>
+        <title>Elaborar y nombrar.</title>
+        <publisher>Editorial Crítica</publisher>
+        <location>Barcelona</location>
+        <edition>5ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Davidson, D.</author>
+        <date>(2019).</date>
+        <title>Verdad e interpretación.</title>
+        <publisher>Editorial Paidós</publisher>
+        <location>Barcelona</location>
+        <edition>2da ed.</edition>
+        <translator>Moya, C.</translator>
+    </sequence>
+    <sequence>
+        <author>Dennett, D.</author>
+        <date>(2021).</date>
+        <title>La actitud intencional.</title>
+        <publisher>Editorial Cátedra</publisher>
+        <location>Madrid</location>
+        <edition>4ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Fodor, J.</author>
+        <date>(2018).</date>
+        <title>La modularidad de la mente.</title>
+        <publisher>Editorial Morata</publisher>
+        <location>Madrid</location>
+        <edition>6ta ed.</edition>
+        <translator>Torrisi, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Gardner, H.</author>
+        <date>(2020).</date>
+        <title>La nueva ciencia de la mente.</title>
+        <publisher>Editorial Paidós</publisher>
+        <location>Barcelona</location>
+        <edition>7ma ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Pinker, S.</author>
+        <date>(2019).</date>
+        <title>El instinto del lenguaje.</title>
+        <publisher>Editorial Paidós</publisher>
+        <location>Barcelona</location>
+        <edition>12da ed.</edition>
+        <translator>Cevera, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Dehaene, S.</author>
+        <date>(2021).</date>
+        <title>Los neuronas de la lectura.</title>
+        <publisher>Editorial Siglo XXI</publisher>
+        <location>México D.F.</location>
+        <edition>3ra ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Changeux, J.</author>
+        <date>(2022).</date>
+        <title>El cerebro de la música.</title>
+        <publisher>Editorial Gedisa</publisher>
+        <location>Barcelona</location>
+        <edition>2da ed.</edition>
+        <translator>Bassols, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Damasio, A.</author>
+        <date>(2020).</date>
+        <title>El error de Descartes.</title>
+        <publisher>Editorial Crítica</publisher>
+        <location>Barcelona</location>
+        <edition>9na ed.</edition>
+    </sequence>
+    <sequence>
+        <author>LeDoux, J.</author>
+        <date>(2019).</date>
+        <title>El cerebro emocional.</title>
+        <publisher>Editorial Planeta</publisher>
+        <location>Barcelona</location>
+        <edition>8va ed.</edition>
+        <translator>Domènech, A.</translator>
+    </sequence>
+    <sequence>
+        <author>Goleman, D.</author>
+        <date>(2021).</date>
+        <title>Inteligencia emocional.</title>
+        <publisher>Editorial Kairós</publisher>
+        <location>Barcelona</location>
+        <edition>25ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Siegel, D.</author>
+        <date>(2018).</date>
+        <title>La mente en desarrollo.</title>
+        <publisher>Editorial Desclée</publisher>
+        <location>Bilbao</location>
+        <edition>4ta ed.</edition>
+        <translator>Ibañez, F.</translator>
+    </sequence>
+    <sequence>
+        <author>Stern, D.</author>
+        <date>(2020).</date>
+        <title>Diario de un bebé.</title>
+        <publisher>Editorial Paidós</publisher>
+        <location>Barcelona</location>
+        <edition>10ma ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Bowlby, J.</author>
+        <date>(2019).</date>
+        <title>El vínculo afectivo.</title>
+        <publisher>Editorial Paidós</publisher>
+        <location>Barcelona</location>
+        <edition>14ta ed.</edition>
+        <translator>Lupano, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Ainsworth, M.</author>
+        <date>(2021).</date>
+        <title>Patrones de apego.</title>
+        <publisher>Editorial Morata</publisher>
+        <location>Madrid</location>
+        <edition>3ra ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Main, M.</author>
+        <date>(2022).</date>
+        <title>El apego en la adultez.</title>
+        <publisher>Editorial Desclée</publisher>
+        <location>Bilbao</location>
+        <edition>2da ed.</edition>
+        <translator>Arranz, F.</translator>
+    </sequence>
+    <sequence>
+        <author>Fonagy, P.</author>
+        <date>(2020).</date>
+        <title>Teoría del apego.</title>
+        <publisher>Editorial Paidós</publisher>
+        <location>Barcelona</location>
+        <edition>4ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Wallin, D.</author>
+        <date>(2019).</date>
+        <title>El apego en psicoterapia.</title>
+        <publisher>Editorial Desclée</publisher>
+        <location>Bilbao</location>
+        <edition>5ta ed.</edition>
+        <translator>Esteban, R.</translator>
+    </sequence>
+    <sequence>
+        <author>Mikulincer, M.</author>
+        <date>(2021).</date>
+        <title>Operaciones del apego.</title>
+        <publisher>Editorial Desclée</publisher>
+        <location>Bilbao</location>
+        <edition>2da ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Cassidy, J.</author>
+        <date>(2018).</date>
+        <title>Manual de apego.</title>
+        <publisher>Editorial Desclée</publisher>
+        <location>Bilbao</location>
+        <edition>3ra ed.</edition>
+        <translator>Pérez, E.</translator>
+    </sequence>
+    <sequence>
+        <author>Shaver, P.</author>
+        <date>(2020).</date>
+        <title>El apego y las relaciones.</title>
+        <publisher>Editorial Desclée</publisher>
+        <location>Bilbao</location>
+        <edition>4ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Holmes, J.</author>
+        <date>(2019).</date>
+        <title>Exploración del apego.</title>
+        <publisher>Editorial Herder</publisher>
+        <location>Barcelona</location>
+        <edition>2da ed.</edition>
+        <translator>Bozzo, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Van der Kolk, B.</author>
+        <date>(2021).</date>
+        <title>El cuerpo lleva la cuenta.</title>
+        <publisher>Editorial Eleftheria</publisher>
+        <location>Barcelona</location>
+        <edition>8va ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Ogden, P.</author>
+        <date>(2022).</date>
+        <title>Psicoterapia sensoriomotriz.</title>
+        <publisher>Editorial Kairós</publisher>
+        <location>Barcelona</location>
+        <edition>3ra ed.</edition>
+        <translator>Rabasseda, L.</translator>
+    </sequence>
+    <sequence>
+        <author>Levine, P.</author>
+        <date>(2020).</date>
+        <title>Despertar el tigre.</title>
+        <publisher>Editorial Urano</publisher>
+        <location>Barcelona</location>
+        <edition>12da ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Maté, G.</author>
+        <date>(2019).</date>
+        <title>Cuando el cuerpo dice no.</title>
+        <publisher>Editorial Luciérnaga</publisher>
+        <location>Barcelona</location>
+        <edition>9na ed.</edition>
+        <translator>Labajos, C.</translator>
+    </sequence>
+    <sequence>
+        <author>Sapolsky, R.</author>
+        <date>(2021).</date>
+        <title>¿Por qué las cebras no tienen úlcera?</title>
+        <publisher>Editorial Alianza</publisher>
+        <location>Madrid</location>
+        <edition>6ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Epel, E.</author>
+        <date>(2018).</date>
+        <title>El efecto telómero.</title>
+        <publisher>Editorial Ariel</publisher>
+        <location>Barcelona</location>
+        <edition>4ta ed.</edition>
+        <translator>Soler, J.</translator>
+    </sequence>
+    <sequence>
+        <author>Lipton, B.</author>
+        <date>(2020).</date>
+        <title>La biología de la creencia.</title>
+        <publisher>Editorial La Esfera</publisher>
+        <location>Madrid</location>
+        <edition>15ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Dispenza, J.</author>
+        <date>(2019).</date>
+        <title>Deje de ser usted mismo.</title>
+        <publisher>Editorial Urano</publisher>
+        <location>Barcelona</location>
+        <edition>10ma ed.</edition>
+        <translator>Garrido, P.</translator>
+    </sequence>
+    <sequence>
+        <author>Rupert, J.</author>
+        <date>(2021).</date>
+        <title>El poder del ahora.</title>
+        <publisher>Editorial Grijalbo</publisher>
+        <location>Barcelona</location>
+        <edition>20ma ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Cohen, A.</author>
+        <date>(2022).</date>
+        <title>El cerebro y la felicidad.</title>
+        <publisher>Editorial Arcopress</publisher>
+        <location>Málaga</location>
+        <edition>3ra ed.</edition>
+        <translator>Vivas, A.</translator>
+    </sequence>
+    <sequence>
+        <author>Begley, S.</author>
+        <date>(2020).</date>
+        <title>El secreto del cerebro.</title>
+        <publisher>Editorial Aguilar</publisher>
+        <location>Madrid</location>
+        <edition>2da ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Restak, R.</author>
+        <date>(2019).</date>
+        <title>Potencia su cerebro.</title>
+        <publisher>Editorial Urano</publisher>
+        <location>Barcelona</location>
+        <edition>5ta ed.</edition>
+        <translator>Dauder, R.</translator>
+    </sequence>
+    <sequence>
+        <author>Kandel, E.</author>
+        <date>(2021).</date>
+        <title>En busca de la memoria.</title>
+        <publisher>Editorial Katz</publisher>
+        <location>Buenos Aires</location>
+        <edition>4ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Doidge, N.</author>
+        <date>(2018).</date>
+        <title>El cerebro que se transforma.</title>
+        <publisher>Editorial Aguilar</publisher>
+        <location>Madrid</location>
+        <edition>8va ed.</edition>
+        <translator>Benítez, F.</translator>
+    </sequence>
+    <sequence>
+        <author>Siegel, D.</author>
+        <date>(2020).</date>
+        <title>Mindsight.</title>
+        <publisher>Editorial Alba</publisher>
+        <location>Barcelona</location>
+        <edition>6ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Hanson, R.</author>
+        <date>(2019).</date>
+        <title>El cerebro de Buda.</title>
+        <publisher>Editorial Kairós</publisher>
+        <location>Barcelona</location>
+        <edition>7ma ed.</edition>
+        <translator>Cervera, J.</translator>
+    </sequence>
+    <sequence>
+        <author>Ricard, M.</author>
+        <date>(2021).</date>
+        <title>Alegría.</title>
+        <publisher>Editorial Kairós</publisher>
+        <location>Barcelona</location>
+        <edition>5ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Goleman, D.</author>
+        <date>(2022).</date>
+        <title>Foco.</title>
+        <publisher>Editorial Kairós</publisher>
+        <location>Barcelona</location>
+        <edition>9na ed.</edition>
+        <translator>Bargalló, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Newport, C.</author>
+        <date>(2020).</date>
+        <title>Trabajo profundo.</title>
+        <publisher>Editorial Planeta</publisher>
+        <location>Barcelona</location>
+        <edition>11va ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Clear, J.</author>
+        <date>(2019).</date>
+        <title>Hábitos atómicos.</title>
+        <publisher>Editorial Diana</publisher>
+        <location>México D.F.</location>
+        <edition>18va ed.</edition>
+        <translator>Chávez, C.</translator>
+    </sequence>
+    <sequence>
+        <author>Duhigg, C.</author>
+        <date>(2021).</date>
+        <title>El poder del hábito.</title>
+        <publisher>Editorial Urano</publisher>
+        <location>Barcelona</location>
+        <edition>14ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Heath, C.</author>
+        <date>(2018).</date>
+        <title>Cambia el chip.</title>
+        <publisher>Editorial Conecta</publisher>
+        <location>Barcelona</location>
+        <edition>3ra ed.</edition>
+        <translator>Martínez, V.</translator>
+    </sequence>
+    <sequence>
+        <author>Patterson, K.</author>
+        <date>(2020).</date>
+        <title>Crucial conversations.</title>
+        <publisher>Editorial McGraw-Hill</publisher>
+        <location>México D.F.</location>
+        <edition>6ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Stone, D.</author>
+        <date>(2019).</date>
+        <title>Conversaciones difíciles.</title>
+        <publisher>Editorial Urano</publisher>
+        <location>Barcelona</location>
+        <edition>4ta ed.</edition>
+        <translator>Lucini, F.</translator>
+    </sequence>
+    <sequence>
+        <author>Rosenberg, M.</author>
+        <date>(2021).</date>
+        <title>Comunicación no violenta.</title>
+        <publisher>Editorial Acantilado</publisher>
+        <location>Barcelona</location>
+        <edition>10ma ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Watzlawick, P.</author>
+        <date>(2022).</date>
+        <title>Teoría de la comunicación humana.</title>
+        <publisher>Editorial Herder</publisher>
+        <location>Barcelona</location>
+        <edition>22da ed.</edition>
+        <translator>Rabasseda, F.</translator>
+    </sequence>
+    <sequence>
+        <author>Nardone, G.</author>
+        <date>(2020).</date>
+        <title>El cambio terapéutico.</title>
+        <publisher>Editorial Herder</publisher>
+        <location>Barcelona</location>
+        <edition>5ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Minuchin, S.</author>
+        <date>(2019).</date>
+        <title>Familias y terapia familiar.</title>
+        <publisher>Editorial Gedisa</publisher>
+        <location>Barcelona</location>
+        <edition>12da ed.</edition>
+        <translator>Rovira, A.</translator>
+    </sequence>
+    <sequence>
+        <author>Satir, V.</author>
+        <date>(2021).</date>
+        <title>Nuevas relaciones humanas.</title>
+        <publisher>Editorial Pax</publisher>
+        <location>México D.F.</location>
+        <edition>8va ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Haley, J.</author>
+        <date>(2018).</date>
+        <title>Terapia no convencional.</title>
+        <publisher>Editorial Amorrortu</publisher>
+        <location>Buenos Aires</location>
+        <edition>4ta ed.</edition>
+        <translator>Petris, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Milton Erickson</author>
+        <date>(2020).</date>
+        <title>Hipnoterapia.</title>
+        <publisher>Editorial Paidós</publisher>
+        <location>Barcelona</location>
+        <edition>6ta ed.</edition>
+    </sequence>
+    <sequence>
+        <author>Bandler, R.</author>
+        <date>(2019).</date>
+        <title>Use su cabeza para variar.</title>
+        <publisher>Editorial Obelisco</publisher>
+        <location>Barcelona</location>
+        <edition>9na ed.</edition>
+        <translator>Andújar, L.</translator>
+    </sequence>
+    <sequence>
+        <author>Grinder, J.</author>
+        <date>(2021).</date>
+        <title>Trance-formación.</title>
+        <publisher>Editorial Grijalbo</publisher>
+        <location>Barcelona</location>
+        <edition>3ra ed.</edition>
+    </sequence>
+</dataset>

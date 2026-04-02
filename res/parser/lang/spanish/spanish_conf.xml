@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <sequence>
+        <author>García, M.</author>
+        <date>(2019).</date>
+        <title>Inteligencia artificial en la educación superior.</title>
+        <editor>Rodríguez, L. (Ed.).</editor>
+        <container-title>Actas del Congreso Nacional de Tecnología Educativa</container-title>
+        <location>Madrid</location>
+        <pages>45-52.</pages>
+    </sequence>
+    <sequence>
+        <author>Martínez, J. y López, A.</author>
+        <date>(2020).</date>
+        <title>Transformación digital en las pymes españolas.</title>
+        <editor>Sánchez, M. (Ed.).</editor>
+        <container-title>Memorias del Simposio de Economía Digital</container-title>
+        <location>Barcelona</location>
+        <pages>112-125.</pages>
+    </sequence>
+    <sequence>
+        <author>Fernández, R.</author>
+        <date>(2018).</date>
+        <title>Cambio climático y sostenibilidad urbana.</title>
+        <editor>Gómez, P. y Ruiz, C. (Eds.).</editor>
+        <container-title>Proceedings del Congreso Internacional de Medio Ambiente</container-title>
+        <location>Valencia</location>
+        <pages>78-89.</pages>
+    </sequence>
+    <sequence>
+        <author>Ruiz, C. et al.</author>
+        <date>(2021).</date>
+        <title>Avances en medicina regenerativa.</title>
+        <editor>Pérez, D. (Ed.).</editor>
+        <container-title>Actas del Congreso Español de Biotecnología</container-title>
+        <location>Sevilla</location>
+        <pages>201-215.</pages>
+    </sequence>
+    <sequence>
+        <author>López, A. y Díaz, F.</author>
+        <date>(2022).</date>
+        <title>Metodologías activas en el aula.</title>
+        <editor>Martín, S. (Ed.).</editor>
+        <container-title>Memorias del Encuentro Nacional de Innovación Educativa</container-title>
+        <location>Bilbao</location>
+        <pages>33-41.</pages>
+    </sequence>
+    <sequence>
+        <author>González, T.</author>
+        <date>(2020).</date>
+        <title>Patrimonio cultural y turismo sostenible.</title>
+        <editor>Álvarez, R. (Ed.).</editor>
+        <container-title>Actas del Congreso de Patrimonio y Turismo</container-title>
+        <location>Granada</location>
+        <pages>156-168.</pages>
+    </sequence>
+    <sequence>
+        <author>Sánchez, M. y Torres, J.</author>
+        <date>(2019).</date>
+        <title>Blockchain y criptomonedas en el sistema financiero.</title>
+        <editor>Navarro, E. (Ed.).</editor>
+        <container-title>Proceedings del Simposio de Finanzas Digitales</container-title>
+        <location>Zaragoza</location>
+        <pages>92-104.</pages>
+    </sequence>
+    <sequence>
+        <author>Pérez, D.</author>
+        <date>(2023).</date>
+        <title>Neurociencia cognitiva aplicada al aprendizaje.</title>
+        <editor>Romero, I. (Ed.).</editor>
+        <container-title>Actas del Congreso Nacional de Neurociencias</container-title>
+        <location>Madrid</location>
+        <pages>267-279.</pages>
+    </sequence>
+    <sequence>
+        <author>Díaz, F. y Moreno, B.</author>
+        <date>(2021).</date>
+        <title>Arquitectura bioclimática en el Mediterráneo.</title>
+        <editor>Castro, V. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Arquitectura Sostenible</container-title>
+        <location>Alicante</location>
+        <pages>145-158.</pages>
+    </sequence>
+    <sequence>
+        <author>Álvarez, R.</author>
+        <date>(2022).</date>
+        <title>Comunicación política en redes sociales.</title>
+        <editor>Vega, N. (Ed.).</editor>
+        <container-title>Actas del Congreso de Comunicación y Sociedad</container-title>
+        <location>Salamanca</location>
+        <pages>88-97.</pages>
+    </sequence>
+    <sequence>
+        <author>Romero, I. y Ortiz, H.</author>
+        <date>(2020).</date>
+        <title>Energías renovables en zonas rurales.</title>
+        <editor>Fuentes, M. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Energía Limpia</container-title>
+        <location>Valladolid</location>
+        <pages>134-147.</pages>
+    </sequence>
+    <sequence>
+        <author>Castro, V.</author>
+        <date>(2019).</date>
+        <title>Historia del arte contemporáneo español.</title>
+        <editor>Blanco, A. (Ed.).</editor>
+        <container-title>Actas del Simposio de Historia del Arte</container-title>
+        <location>Toledo</location>
+        <pages>56-68.</pages>
+    </sequence>
+    <sequence>
+        <author>Vega, N. y Santos, L.</author>
+        <date>(2021).</date>
+        <title>Derechos humanos en la era digital.</title>
+        <editor>Molina, K. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Derechos Humanos</container-title>
+        <location>Barcelona</location>
+        <pages>178-192.</pages>
+    </sequence>
+    <sequence>
+        <author>Fuentes, M.</author>
+        <date>(2023).</date>
+        <title>Innovación en la industria 4.0.</title>
+        <editor>Ramos, G. (Ed.).</editor>
+        <container-title>Actas del Congreso Nacional de Ingeniería Industrial</container-title>
+        <location>Bilbao</location>
+        <pages>223-235.</pages>
+    </sequence>
+    <sequence>
+        <author>Blanco, A. y Gil, P.</author>
+        <date>(2022).</date>
+        <title>Literatura latinoamericana del siglo XXI.</title>
+        <editor>Suárez, Y. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Literatura Contemporánea</container-title>
+        <location>Madrid</location>
+        <pages>101-115.</pages>
+    </sequence>
+    <sequence>
+        <author>Molina, K.</author>
+        <date>(2020).</date>
+        <title>Psicología del deporte de alto rendimiento.</title>
+        <editor>Herrero, D. (Ed.).</editor>
+        <container-title>Actas del Congreso de Psicología del Deporte</container-title>
+        <location>Valencia</location>
+        <pages>67-79.</pages>
+    </sequence>
+    <sequence>
+        <author>Ramos, G. y Iglesias, T.</author>
+        <date>(2019).</date>
+        <title>Gestión del agua en regiones áridas.</title>
+        <editor>Pascual, O. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Recursos Hídricos</container-title>
+        <location>Murcia</location>
+        <pages>189-203.</pages>
+    </sequence>
+    <sequence>
+        <author>Suárez, Y.</author>
+        <date>(2021).</date>
+        <title>Feminismo y estudios de género.</title>
+        <editor>Cabrera, X. (Ed.).</editor>
+        <container-title>Actas del Congreso de Estudios de Género</container-title>
+        <location>Sevilla</location>
+        <pages>112-124.</pages>
+    </sequence>
+    <sequence>
+        <author>Herrero, D.</author>
+        <date>(2022).</date>
+        <title>Seguridad alimentaria y nutrición.</title>
+        <editor>Delgado, Z. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Ciencias de la Nutrición</container-title>
+        <location>Zaragoza</location>
+        <pages>145-159.</pages>
+    </sequence>
+    <sequence>
+        <author>Pascual, O. y Mendez, Q.</author>
+        <date>(2020).</date>
+        <title>Robótica colaborativa en manufactura.</title>
+        <editor>Espinosa, W. (Ed.).</editor>
+        <container-title>Actas del Congreso de Robótica Avanzada</container-title>
+        <location>Madrid</location>
+        <pages>234-248.</pages>
+    </sequence>
+    <sequence>
+        <author>Cabrera, X.</author>
+        <date>(2023).</date>
+        <title>Migraciones y diversidad cultural.</title>
+        <editor>Figueroa, V. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Sociología</container-title>
+        <location>Barcelona</location>
+        <pages>78-91.</pages>
+    </sequence>
+    <sequence>
+        <author>Delgado, Z.</author>
+        <date>(2021).</date>
+        <title>Telemedicina en atención primaria.</title>
+        <editor>Garrido, U. (Ed.).</editor>
+        <container-title>Actas del Congreso de Salud Digital</container-title>
+        <location>Valencia</location>
+        <pages>156-168.</pages>
+    </sequence>
+    <sequence>
+        <author>Espinosa, W.</author>
+        <date>(2019).</date>
+        <title>Machine learning aplicado a finanzas.</title>
+        <editor>Hidalgo, T. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Inteligencia Artificial</container-title>
+        <location>Bilbao</location>
+        <pages>189-201.</pages>
+    </sequence>
+    <sequence>
+        <author>Figueroa, V. y Jiménez, S.</author>
+        <date>(2022).</date>
+        <title>Educación inclusiva en el siglo XXI.</title>
+        <editor>Leonardo, R. (Ed.).</editor>
+        <container-title>Actas del Congreso de Educación Inclusiva</container-title>
+        <location>Granada</location>
+        <pages>123-137.</pages>
+    </sequence>
+    <sequence>
+        <author>Garrido, U.</author>
+        <date>(2020).</date>
+        <title>Conservación de ecosistemas marinos.</title>
+        <editor>Márquez, P. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Biología Marina</container-title>
+        <location>Cádiz</location>
+        <pages>201-214.</pages>
+    </sequence>
+    <sequence>
+        <author>Hidalgo, T.</author>
+        <date>(2023).</date>
+        <title>Urbanismo táctico y ciudades inteligentes.</title>
+        <editor>Núñez, L. (Ed.).</editor>
+        <container-title>Actas del Congreso de Urbanismo Sostenible</container-title>
+        <location>Madrid</location>
+        <pages>89-102.</pages>
+    </sequence>
+    <sequence>
+        <author>Jiménez, S. y Kattan, M.</author>
+        <date>(2021).</date>
+        <title>Periodismo de datos y visualización.</title>
+        <editor>Otero, N. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Comunicación Digital</container-title>
+        <location>Barcelona</location>
+        <pages>167-179.</pages>
+    </sequence>
+    <sequence>
+        <author>Leonardo, R.</author>
+        <date>(2022).</date>
+        <title>Filosofía política contemporánea.</title>
+        <editor>Quintana, J. (Ed.).</editor>
+        <container-title>Actas del Congreso de Filosofía</container-title>
+        <location>Salamanca</location>
+        <pages>134-148.</pages>
+    </sequence>
+    <sequence>
+        <author>Márquez, P.</author>
+        <date>(2020).</date>
+        <title>Química verde y procesos sostenibles.</title>
+        <editor>Rivera, K. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Química Ambiental</container-title>
+        <location>Tarragona</location>
+        <pages>178-191.</pages>
+    </sequence>
+    <sequence>
+        <author>Núñez, L.</author>
+        <date>(2019).</date>
+        <title>Arqueología del Mediterráneo antiguo.</title>
+        <editor>Serrano, H. (Ed.).</editor>
+        <container-title>Actas del Congreso de Arqueología</container-title>
+        <location>Córdoba</location>
+        <pages>112-126.</pages>
+    </sequence>
+    <sequence>
+        <author>Otero, N. y Peña, G.</author>
+        <date>(2021).</date>
+        <title>Gestión de residuos electrónicos.</title>
+        <editor>Urbano, F. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Economía Circular</container-title>
+        <location>Valladolid</location>
+        <pages>145-157.</pages>
+    </sequence>
+    <sequence>
+        <author>Quintana, J.</author>
+        <date>(2023).</date>
+        <title>Lingüística computacional del español.</title>
+        <editor>Vargas, E. (Ed.).</editor>
+        <container-title>Actas del Congreso de Lingüística</container-title>
+        <location>Madrid</location>
+        <pages>201-215.</pages>
+    </sequence>
+    <sequence>
+        <author>Rivera, K.</author>
+        <date>(2022).</date>
+        <title>Marketing digital y comportamiento del consumidor.</title>
+        <editor>Zamora, D. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Marketing Digital</container-title>
+        <location>Sevilla</location>
+        <pages>88-101.</pages>
+    </sequence>
+    <sequence>
+        <author>Serrano, H. y Acosta, M.</author>
+        <date>(2020).</date>
+        <title>Física de materiales avanzados.</title>
+        <editor>Benítez, C. (Ed.).</editor>
+        <container-title>Actas del Congreso de Física Aplicada</container-title>
+        <location>Zaragoza</location>
+        <pages>167-182.</pages>
+    </sequence>
+    <sequence>
+        <author>Urbano, F.</author>
+        <date>(2021).</date>
+        <title>Antropología visual y cultura digital.</title>
+        <editor>Campos, R. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Antropología</container-title>
+        <location>Barcelona</location>
+        <pages>123-136.</pages>
+    </sequence>
+    <sequence>
+        <author>Vargas, E.</author>
+        <date>(2019).</date>
+        <title>Enfermería en cuidados paliativos.</title>
+        <editor>Duarte, A. (Ed.).</editor>
+        <container-title>Actas del Congreso de Ciencias de Enfermería</container-title>
+        <location>Valencia</location>
+        <pages>189-201.</pages>
+    </sequence>
+    <sequence>
+        <author>Zamora, D.</author>
+        <date>(2023).</date>
+        <title>Administración pública y transparencia.</title>
+        <editor>Escobar, I. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Administración Pública</container-title>
+        <location>Madrid</location>
+        <pages>145-159.</pages>
+    </sequence>
+    <sequence>
+        <author>Acosta, M. y Fuentes, O.</author>
+        <date>(2022).</date>
+        <title>Diseño gráfico e identidad corporativa.</title>
+        <editor>Guzmán, L. (Ed.).</editor>
+        <container-title>Actas del Congreso de Diseño</container-title>
+        <location>Bilbao</location>
+        <pages>112-125.</pages>
+    </sequence>
+    <sequence>
+        <author>Benítez, C.</author>
+        <date>(2020).</date>
+        <title>Victimología y justicia restaurativa.</title>
+        <editor>Ibarra, N. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Ciencias Penales</container-title>
+        <location>Granada</location>
+        <pages>178-192.</pages>
+    </sequence>
+    <sequence>
+        <author>Campos, R.</author>
+        <date>(2021).</date>
+        <title>Astronomía y exploración espacial.</title>
+        <editor>Jaramillo, P. (Ed.).</editor>
+        <container-title>Actas del Congreso de Astronomía</container-title>
+        <location>Almería</location>
+        <pages>201-216.</pages>
+    </sequence>
+    <sequence>
+        <author>Duarte, A. y Lozano, K.</author>
+        <date>(2019).</date>
+        <title>Musicología y patrimonio sonoro.</title>
+        <editor>Medina, S. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Musicología</container-title>
+        <location>Sevilla</location>
+        <pages>89-103.</pages>
+    </sequence>
+    <sequence>
+        <author>Escobar, I.</author>
+        <date>(2023).</date>
+        <title>Logística y cadena de suministro.</title>
+        <editor>Ortega, V. (Ed.).</editor>
+        <container-title>Actas del Congreso de Logística</container-title>
+        <location>Madrid</location>
+        <pages>156-169.</pages>
+    </sequence>
+    <sequence>
+        <author>Fuentes, O.</author>
+        <date>(2022).</date>
+        <title>Geología del Cuaternario ibérico.</title>
+        <editor>Pacheco, W. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Geología</container-title>
+        <location>Oviedo</location>
+        <pages>134-147.</pages>
+    </sequence>
+    <sequence>
+        <author>Guzmán, L.</author>
+        <date>(2020).</date>
+        <title>Fotografía documental contemporánea.</title>
+        <editor>Reyes, T. (Ed.).</editor>
+        <container-title>Actas del Congreso de Artes Visuales</container-title>
+        <location>Barcelona</location>
+        <pages>178-191.</pages>
+    </sequence>
+    <sequence>
+        <author>Ibarra, N. y Salinas, U.</author>
+        <date>(2021).</date>
+        <title>Criminología y prevención del delito.</title>
+        <editor>Tamayo, X. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Criminología</container-title>
+        <location>Madrid</location>
+        <pages>112-126.</pages>
+    </sequence>
+    <sequence>
+        <author>Jaramillo, P.</author>
+        <date>(2019).</date>
+        <title>Edafología y gestión de suelos.</title>
+        <editor>Uribe, Y. (Ed.).</editor>
+        <container-title>Actas del Congreso de Ciencias del Suelo</container-title>
+        <location>Ciudad Real</location>
+        <pages>145-158.</pages>
+    </sequence>
+    <sequence>
+        <author>Lozano, K.</author>
+        <date>(2023).</date>
+        <title>Traducción e interpretación jurídica.</title>
+        <editor>Valencia, Z. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Traducción</container-title>
+        <location>Salamanca</location>
+        <pages>189-203.</pages>
+    </sequence>
+    <sequence>
+        <author>Medina, S.</author>
+        <date>(2022).</date>
+        <title>Hidrología y gestión de cuencas.</title>
+        <editor>Wilches, A. (Ed.).</editor>
+        <container-title>Actas del Congreso de Hidrología</container-title>
+        <location>Zaragoza</location>
+        <pages>167-181.</pages>
+    </sequence>
+    <sequence>
+        <author>Ortega, V. y Yepes, B.</author>
+        <date>(2020).</date>
+        <title>Pedagogía hospitalaria.</title>
+        <editor>Zavala, C. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Pedagogía</container-title>
+        <location>Valencia</location>
+        <pages>123-135.</pages>
+    </sequence>
+    <sequence>
+        <author>Pacheco, W.</author>
+        <date>(2021).</date>
+        <title>Viticultura y enología moderna.</title>
+        <editor>Abad, D. (Ed.).</editor>
+        <container-title>Actas del Congreso de Enología</container-title>
+        <location>Logroño</location>
+        <pages>201-215.</pages>
+    </sequence>
+    <sequence>
+        <author>Reyes, T.</author>
+        <date>(2019).</date>
+        <title>Optometría y ciencias de la visión.</title>
+        <editor>Bueno, E. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Optometría</container-title>
+        <location>Alicante</location>
+        <pages>89-102.</pages>
+    </sequence>
+    <sequence>
+        <author>Salinas, U.</author>
+        <date>(2023).</date>
+        <title>Cartografía digital y SIG.</title>
+        <editor>Calvo, F. (Ed.).</editor>
+        <container-title>Actas del Congreso de Geomática</container-title>
+        <location>Madrid</location>
+        <pages>145-158.</pages>
+    </sequence>
+    <sequence>
+        <author>Tamayo, X. y Dávila, G.</author>
+        <date>(2022).</date>
+        <title>Silvicultura y gestión forestal.</title>
+        <editor>Estrada, H. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Ciencias Forestales</container-title>
+        <location>Pontevedra</location>
+        <pages>178-192.</pages>
+    </sequence>
+    <sequence>
+        <author>Uribe, Y.</author>
+        <date>(2020).</date>
+        <title>Farmacología clínica.</title>
+        <editor>Franco, I. (Ed.).</editor>
+        <container-title>Actas del Congreso de Farmacología</container-title>
+        <location>Barcelona</location>
+        <pages>134-147.</pages>
+    </sequence>
+    <sequence>
+        <author>Valencia, Z.</author>
+        <date>(2021).</date>
+        <title>Estadística aplicada a las ciencias sociales.</title>
+        <editor>Galán, J. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Estadística</container-title>
+        <location>Sevilla</location>
+        <pages>112-126.</pages>
+    </sequence>
+    <sequence>
+        <author>Wilches, A. y Herrera, K.</author>
+        <date>(2019).</date>
+        <title>Oceanografía física y biológica.</title>
+        <editor>Irizar, L. (Ed.).</editor>
+        <container-title>Actas del Congreso de Oceanografía</container-title>
+        <location>Las Palmas</location>
+        <pages>189-204.</pages>
+    </sequence>
+    <sequence>
+        <author>Zavala, C.</author>
+        <date>(2023).</date>
+        <title>Psiquiatría infanto-juvenil.</title>
+        <editor>Jordán, M. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Psiquiatría</container-title>
+        <location>Madrid</location>
+        <pages>156-169.</pages>
+    </sequence>
+    <sequence>
+        <author>Abad, D.</author>
+        <date>(2022).</date>
+        <title>Paleontología de vertebrados ibéricos.</title>
+        <editor>Lemus, N. (Ed.).</editor>
+        <container-title>Actas del Congreso de Paleontología</container-title>
+        <location>Burgos</location>
+        <pages>201-216.</pages>
+    </sequence>
+    <sequence>
+        <author>Bueno, E.</author>
+        <date>(2020).</date>
+        <title>Podología deportiva.</title>
+        <editor>Marín, O. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Podología</container-title>
+        <location>Valencia</location>
+        <pages>88-101.</pages>
+    </sequence>
+    <sequence>
+        <author>Calvo, F. y Núñez, P.</author>
+        <date>(2021).</date>
+        <title>Ecotoxicología ambiental.</title>
+        <editor>Olmos, Q. (Ed.).</editor>
+        <container-title>Actas del Congreso de Toxicología</container-title>
+        <location>Madrid</location>
+        <pages>167-181.</pages>
+    </sequence>
+    <sequence>
+        <author>Estrada, H.</author>
+        <date>(2019).</date>
+        <title>Etología animal aplicada.</title>
+        <editor>Parra, R. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Etología</container-title>
+        <location>Córdoba</location>
+        <pages>134-148.</pages>
+    </sequence>
+    <sequence>
+        <author>Franco, I.</author>
+        <date>(2023).</date>
+        <title>Odontología conservadora.</title>
+        <editor>Quero, S. (Ed.).</editor>
+        <container-title>Actas del Congreso de Odontología</container-title>
+        <location>Barcelona</location>
+        <pages>112-125.</pages>
+    </sequence>
+    <sequence>
+        <author>Galán, J.</author>
+        <date>(2022).</date>
+        <title>Microbiología de alimentos.</title>
+        <editor>Rivas, T. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Microbiología</container-title>
+        <location>Zaragoza</location>
+        <pages>178-192.</pages>
+    </sequence>
+    <sequence>
+        <author>Herrera, K. y Soto, U.</author>
+        <date>(2020).</date>
+        <title>Fisioterapia geriátrica.</title>
+        <editor>Tapia, V. (Ed.).</editor>
+        <container-title>Actas del Congreso de Fisioterapia</container-title>
+        <location>Sevilla</location>
+        <pages>145-158.</pages>
+    </sequence>
+    <sequence>
+        <author>Jordán, M.</author>
+        <date>(2021).</date>
+        <title>Documentación administrativa.</title>
+        <editor>Umaña, W. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Documentación</container-title>
+        <location>Madrid</location>
+        <pages>201-214.</pages>
+    </sequence>
+    <sequence>
+        <author>Lemus, N.</author>
+        <date>(2019).</date>
+        <title>Inmunología tumoral.</title>
+        <editor>Villalba, X. (Ed.).</editor>
+        <container-title>Actas del Congreso de Inmunología</container-title>
+        <location>Valencia</location>
+        <pages>89-103.</pages>
+    </sequence>
+    <sequence>
+        <author>Marín, O.</author>
+        <date>(2023).</date>
+        <title>Geofísica exploratoria.</title>
+        <editor>Zarate, Y. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Geofísica</container-title>
+        <location>Oviedo</location>
+        <pages>156-170.</pages>
+    </sequence>
+    <sequence>
+        <author>Núñez, P. y Acuña, Z.</author>
+        <date>(2022).</date>
+        <title>Nutrición animal y producción.</title>
+        <editor>Bravo, A. (Ed.).</editor>
+        <container-title>Actas del Congreso de Zootecnia</container-title>
+        <location>Córdoba</location>
+        <pages>134-147.</pages>
+    </sequence>
+    <sequence>
+        <author>Olmos, Q.</author>
+        <date>(2020).</date>
+        <title>Climatología y cambio global.</title>
+        <editor>Cepeda, B. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Climatología</container-title>
+        <location>Santiago de Compostela</location>
+        <pages>178-193.</pages>
+    </sequence>
+    <sequence>
+        <author>Parra, R.</author>
+        <date>(2021).</date>
+        <title>Terapia ocupacional pediátrica.</title>
+        <editor>Domínguez, C. (Ed.).</editor>
+        <container-title>Actas del Congreso de Terapia Ocupacional</container-title>
+        <location>Barcelona</location>
+        <pages>112-126.</pages>
+    </sequence>
+    <sequence>
+        <author>Quero, S.</author>
+        <date>(2019).</date>
+        <title>Epigenética y desarrollo.</title>
+        <editor>Escudero, D. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Genética</container-title>
+        <location>Madrid</location>
+        <pages>189-204.</pages>
+    </sequence>
+    <sequence>
+        <author>Rivas, T. y Fajardo, E.</author>
+        <date>(2023).</date>
+        <title>Arqueobotánica y paleoetnobotánica.</title>
+        <editor>Granados, F. (Ed.).</editor>
+        <container-title>Actas del Congreso de Arqueobotánica</container-title>
+        <location>Granada</location>
+        <pages>145-159.</pages>
+    </sequence>
+    <sequence>
+        <author>Soto, U.</author>
+        <date>(2022).</date>
+        <title>Logopedia y trastornos del lenguaje.</title>
+        <editor>Hinojosa, G. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Logopedia</container-title>
+        <location>Valencia</location>
+        <pages>167-181.</pages>
+    </sequence>
+    <sequence>
+        <author>Tapia, V.</author>
+        <date>(2020).</date>
+        <title>Ciencia política comparada.</title>
+        <editor>Ibarra, H. (Ed.).</editor>
+        <container-title>Actas del Congreso de Ciencia Política</container-title>
+        <location>Salamanca</location>
+        <pages>201-215.</pages>
+    </sequence>
+    <sequence>
+        <author>Umaña, W. y Jara, I.</author>
+        <date>(2021).</date>
+        <title>Bibliotecología digital.</title>
+        <editor>Linares, J. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Biblioteconomía</container-title>
+        <location>Madrid</location>
+        <pages>88-102.</pages>
+    </sequence>
+    <sequence>
+        <author>Villalba, X.</author>
+        <date>(2019).</date>
+        <title>Virología molecular.</title>
+        <editor>Mora, K. (Ed.).</editor>
+        <container-title>Actas del Congreso de Virología</container-title>
+        <location>Barcelona</location>
+        <pages>134-148.</pages>
+    </sequence>
+    <sequence>
+        <author>Zarate, Y.</author>
+        <date>(2023).</date>
+        <title>Sociolingüística del contacto.</title>
+        <editor>Nieto, L. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Sociolingüística</container-title>
+        <location>San Sebastián</location>
+        <pages>178-191.</pages>
+    </sequence>
+    <sequence>
+        <author>Acuña, Z.</author>
+        <date>(2022).</date>
+        <title>Mineralogía industrial.</title>
+        <editor>Ochoa, M. (Ed.).</editor>
+        <container-title>Actas del Congreso de Mineralogía</container-title>
+        <location>León</location>
+        <pages>112-126.</pages>
+    </sequence>
+    <sequence>
+        <author>Bravo, A. y Cordero, N.</author>
+        <date>(2020).</date>
+        <title>Psicopedagogía educativa.</title>
+        <editor>Pineda, O. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Psicopedagogía</container-title>
+        <location>Sevilla</location>
+        <pages>145-159.</pages>
+    </sequence>
+    <sequence>
+        <author>Cepeda, B.</author>
+        <date>(2021).</date>
+        <title>Hematología clínica.</title>
+        <editor>Rangel, P. (Ed.).</editor>
+        <container-title>Actas del Congreso de Hematología</container-title>
+        <location>Madrid</location>
+        <pages>189-203.</pages>
+    </sequence>
+    <sequence>
+        <author>Domínguez, C.</author>
+        <date>(2019).</date>
+        <title>Meteorología operativa.</title>
+        <editor>Sandoval, Q. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Meteorología</container-title>
+        <location>Zaragoza</location>
+        <pages>156-170.</pages>
+    </sequence>
+    <sequence>
+        <author>Escudero, D. y Téllez, R.</author>
+        <date>(2023).</date>
+        <title>Endocrinología metabólica.</title>
+        <editor>Urrutia, S. (Ed.).</editor>
+        <container-title>Actas del Congreso de Endocrinología</container-title>
+        <location>Barcelona</location>
+        <pages>201-216.</pages>
+    </sequence>
+    <sequence>
+        <author>Fajardo, E.</author>
+        <date>(2022).</date>
+        <title>Espeleología y karstología.</title>
+        <editor>Valdés, T. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Espeleología</container-title>
+        <location>Santander</location>
+        <pages>88-101.</pages>
+    </sequence>
+    <sequence>
+        <author>Granados, F.</author>
+        <date>(2020).</date>
+        <title>Oftalmología quirúrgica.</title>
+        <editor>Wong, U. (Ed.).</editor>
+        <container-title>Actas del Congreso de Oftalmología</container-title>
+        <location>Valencia</location>
+        <pages>167-182.</pages>
+    </sequence>
+    <sequence>
+        <author>Hinojosa, G. y Yáñez, V.</author>
+        <date>(2021).</date>
+        <title>Radiología diagnóstica.</title>
+        <editor>Zúñiga, W. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Radiología</container-title>
+        <location>Madrid</location>
+        <pages>134-148.</pages>
+    </sequence>
+    <sequence>
+        <author>Ibarra, H.</author>
+        <date>(2019).</date>
+        <title>Urgencias y emergencias médicas.</title>
+        <editor>Arellano, X. (Ed.).</editor>
+        <container-title>Actas del Congreso de Medicina de Urgencias</container-title>
+        <location>Sevilla</location>
+        <pages>178-192.</pages>
+    </sequence>
+    <sequence>
+        <author>Jara, I.</author>
+        <date>(2023).</date>
+        <title>Neumología intervencionista.</title>
+        <editor>Bautista, Y. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Neumología</container-title>
+        <location>Barcelona</location>
+        <pages>112-125.</pages>
+    </sequence>
+    <sequence>
+        <author>Linares, J.</author>
+        <date>(2022).</date>
+        <title>Gastroenterología hepatológica.</title>
+        <editor>Castañeda, Z. (Ed.).</editor>
+        <container-title>Actas del Congreso de Gastroenterología</container-title>
+        <location>Madrid</location>
+        <pages>145-158.</pages>
+    </sequence>
+    <sequence>
+        <author>Mora, K.</author>
+        <date>(2020).</date>
+        <title>Nefrología y trasplantes.</title>
+        <editor>Dorado, A. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Nefrología</container-title>
+        <location>Valencia</location>
+        <pages>189-204.</pages>
+    </sequence>
+    <sequence>
+        <author>Nieto, L. y Espino, B.</author>
+        <date>(2021).</date>
+        <title>Reumatología clínica.</title>
+        <editor>Fuentes, C. (Ed.).</editor>
+        <container-title>Actas del Congreso de Reumatología</container-title>
+        <location>Bilbao</location>
+        <pages>156-170.</pages>
+    </sequence>
+    <sequence>
+        <author>Ochoa, M.</author>
+        <date>(2019).</date>
+        <title>Dermatología oncológica.</title>
+        <editor>Guerrero, D. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Dermatología</container-title>
+        <location>Madrid</location>
+        <pages>201-215.</pages>
+    </sequence>
+    <sequence>
+        <author>Pineda, O.</author>
+        <date>(2023).</date>
+        <title>Angiología y cirugía vascular.</title>
+        <editor>Henríquez, E. (Ed.).</editor>
+        <container-title>Actas del Congreso de Angiología</container-title>
+        <location>Barcelona</location>
+        <pages>88-102.</pages>
+    </sequence>
+    <sequence>
+        <author>Rangel, P.</author>
+        <date>(2022).</date>
+        <title>Otorrinolaringología pediátrica.</title>
+        <editor>Infante, F. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Otorrinolaringología</container-title>
+        <location>Zaragoza</location>
+        <pages>134-147.</pages>
+    </sequence>
+    <sequence>
+        <author>Sandoval, Q.</author>
+        <date>(2020).</date>
+        <title>Andrología y fertilidad.</title>
+        <editor>Jaque, G. (Ed.).</editor>
+        <container-title>Actas del Congreso de Andrología</container-title>
+        <location>Sevilla</location>
+        <pages>178-191.</pages>
+    </sequence>
+    <sequence>
+        <author>Téllez, R.</author>
+        <date>(2021).</date>
+        <title>Ginecología oncológica.</title>
+        <editor>Lugo, H. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Ginecología</container-title>
+        <location>Valencia</location>
+        <pages>112-126.</pages>
+    </sequence>
+    <sequence>
+        <author>Urrutia, S. y Mata, I.</author>
+        <date>(2019).</date>
+        <title>Cardiología intervencionista.</title>
+        <editor>Naranjo, J. (Ed.).</editor>
+        <container-title>Actas del Congreso de Cardiología</container-title>
+        <location>Madrid</location>
+        <pages>145-159.</pages>
+    </sequence>
+    <sequence>
+        <author>Valdés, T.</author>
+        <date>(2023).</date>
+        <title>Anestesiología y reanimación.</title>
+        <editor>Olivares, K. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Anestesiología</container-title>
+        <location>Barcelona</location>
+        <pages>189-203.</pages>
+    </sequence>
+    <sequence>
+        <author>Wong, U.</author>
+        <date>(2022).</date>
+        <title>Traumatología deportiva.</title>
+        <editor>Palacios, L. (Ed.).</editor>
+        <container-title>Actas del Congreso de Traumatología</container-title>
+        <location>Madrid</location>
+        <pages>156-170.</pages>
+    </sequence>
+    <sequence>
+        <author>Yáñez, V.</author>
+        <date>(2020).</date>
+        <title>Estomatología maxilofacial.</title>
+        <editor>Quintanilla, M. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Estomatología</container-title>
+        <location>Valencia</location>
+        <pages>201-216.</pages>
+    </sequence>
+    <sequence>
+        <author>Zúñiga, W.</author>
+        <date>(2021).</date>
+        <title>Patología clínica.</title>
+        <editor>Rincón, N. (Ed.).</editor>
+        <container-title>Actas del Congreso de Patología</container-title>
+        <location>Sevilla</location>
+        <pages>88-101.</pages>
+    </sequence>
+    <sequence>
+        <author>Arellano, X.</author>
+        <date>(2019).</date>
+        <title>Medicina nuclear.</title>
+        <editor>Saavedra, O. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Medicina Nuclear</container-title>
+        <location>Madrid</location>
+        <pages>167-181.</pages>
+    </sequence>
+    <sequence>
+        <author>Bautista, Y. y Trujillo, P.</author>
+        <date>(2023).</date>
+        <title>Geriatría y gerontología.</title>
+        <editor>Ugalde, Q. (Ed.).</editor>
+        <container-title>Actas del Congreso de Geriatría</container-title>
+        <location>Barcelona</location>
+        <pages>134-148.</pages>
+    </sequence>
+    <sequence>
+        <author>Castañeda, Z.</author>
+        <date>(2022).</date>
+        <title>Medicina física y rehabilitación.</title>
+        <editor>Vera, R. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Rehabilitación</container-title>
+        <location>Zaragoza</location>
+        <pages>178-192.</pages>
+    </sequence>
+    <sequence>
+        <author>Dorado, A.</author>
+        <date>(2020).</date>
+        <title>Salud laboral y prevención.</title>
+        <editor>Zepeda, S. (Ed.).</editor>
+        <container-title>Actas del Congreso de Salud Laboral</container-title>
+        <location>Bilbao</location>
+        <pages>112-125.</pages>
+    </sequence>
+    <sequence>
+        <author>Espino, B.</author>
+        <date>(2021).</date>
+        <title>Medicina del trabajo.</title>
+        <editor>Abarca, T. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Medicina del Trabajo</container-title>
+        <location>Valencia</location>
+        <pages>145-158.</pages>
+    </sequence>
+    <sequence>
+        <author>Fuentes, C.</author>
+        <date>(2019).</date>
+        <title>Salud pública y epidemiología.</title>
+        <editor>Barros, U. (Ed.).</editor>
+        <container-title>Actas del Congreso de Salud Pública</container-title>
+        <location>Madrid</location>
+        <pages>189-204.</pages>
+    </sequence>
+    <sequence>
+        <author>Guerrero, D.</author>
+        <date>(2023).</date>
+        <title>Higiene industrial.</title>
+        <editor>Caballero, V. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Higiene Industrial</container-title>
+        <location>Sevilla</location>
+        <pages>156-170.</pages>
+    </sequence>
+    <sequence>
+        <author>Henríquez, E. y Del Río, W.</author>
+        <date>(2022).</date>
+        <title>Toxicología ocupacional.</title>
+        <editor>Echeverría, X. (Ed.).</editor>
+        <container-title>Actas del Congreso de Toxicología Ocupacional</container-title>
+        <location>Barcelona</location>
+        <pages>201-215.</pages>
+    </sequence>
+    <sequence>
+        <author>Infante, F.</author>
+        <date>(2020).</date>
+        <title>Ergonomía aplicada.</title>
+        <editor>Franco, Y. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Ergonomía</container-title>
+        <location>Madrid</location>
+        <pages>88-102.</pages>
+    </sequence>
+    <sequence>
+        <author>Jaque, G.</author>
+        <date>(2021).</date>
+        <title>Psicosociología laboral.</title>
+        <editor>Gamboa, Z. (Ed.).</editor>
+        <container-title>Actas del Congreso de Psicosociología</container-title>
+        <location>Valencia</location>
+        <pages>134-147.</pages>
+    </sequence>
+    <sequence>
+        <author>Velasco, M.</author>
+        <date>(2024).</date>
+        <title>Computación cuántica y aplicaciones.</title>
+        <editor>Montero, R. (Ed.).</editor>
+        <container-title>Actas del Congreso de Computación Cuántica</container-title>
+        <location>Madrid</location>
+        <pages>23-37.</pages>
+    </sequence>
+    <sequence>
+        <author>Santander, L. y Rojas, P.</author>
+        <date>(2024).</date>
+        <title>Biodiversidad en ecosistemas mediterráneos.</title>
+        <editor>Cabrera, F. (Ed.).</editor>
+        <container-title>Memorias del Simposio de Ecología Mediterránea</container-title>
+        <location>Málaga</location>
+        <pages>78-92.</pages>
+    </sequence>
+    <sequence>
+        <author>Montoya, J.</author>
+        <date>(2024).</date>
+        <title>Inteligencia emocional en el liderazgo.</title>
+        <editor>Solís, M. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Psicología Organizacional</container-title>
+        <location>Bilbao</location>
+        <pages>145-159.</pages>
+    </sequence>
+    <sequence>
+        <author>Ortiz, D. y Méndez, A.</author>
+        <date>(2024).</date>
+        <title>Realidad virtual en la formación profesional.</title>
+        <editor>Pastor, L. (Ed.).</editor>
+        <container-title>Actas del Congreso de Tecnologías Inmersivas</container-title>
+        <location>Valencia</location>
+        <pages>56-69.</pages>
+    </sequence>
+    <sequence>
+        <author>Guillén, R.</author>
+        <date>(2024).</date>
+        <title>Políticas de igualdad en la empresa.</title>
+        <editor>Medrano, C. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Recursos Humanos</container-title>
+        <location>Madrid</location>
+        <pages>112-124.</pages>
+    </sequence>
+    <sequence>
+        <author>Ferrero, S. y Blanco, J.</author>
+        <date>(2024).</date>
+        <title>Nanotecnología en biomedicina.</title>
+        <editor>Ortega, D. (Ed.).</editor>
+        <container-title>Actas del Simposio de Nanomedicina</container-title>
+        <location>Barcelona</location>
+        <pages>189-203.</pages>
+    </sequence>
+    <sequence>
+        <author>Sampedro, M.</author>
+        <date>(2024).</date>
+        <title>Educación ambiental en primaria.</title>
+        <editor>Vicente, P. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Educación Ambiental</container-title>
+        <location>Sevilla</location>
+        <pages>67-81.</pages>
+    </sequence>
+    <sequence>
+        <author>Cisneros, L. y Aguirre, N.</author>
+        <date>(2024).</date>
+        <title>Ciberseguridad en infraestructuras críticas.</title>
+        <editor>Salazar, R. (Ed.).</editor>
+        <container-title>Actas del Congreso de Ciberseguridad</container-title>
+        <location>Madrid</location>
+        <pages>134-148.</pages>
+    </sequence>
+    <sequence>
+        <author>Bermejo, F.</author>
+        <date>(2024).</date>
+        <title>Gastronomía y turismo enológico.</title>
+        <editor>Delgado, M. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Turismo Gastronómico</container-title>
+        <location>Logroño</location>
+        <pages>78-91.</pages>
+    </sequence>
+    <sequence>
+        <author>Valenzuela, P. y Soria, T.</author>
+        <date>(2024).</date>
+        <title>Genómica de poblaciones ibéricas.</title>
+        <editor>Rubio, A. (Ed.).</editor>
+        <container-title>Actas del Congreso de Genómica</container-title>
+        <location>Barcelona</location>
+        <pages>156-170.</pages>
+    </sequence>
+    <sequence>
+        <author>Montalvo, G.</author>
+        <date>(2024).</date>
+        <title>Periodismo multimedia y narrativas digitales.</title>
+        <editor>Carrasco, L. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Periodismo Digital</container-title>
+        <location>Málaga</location>
+        <pages>92-105.</pages>
+    </sequence>
+    <sequence>
+        <author>Echeverría, J. y Puig, M.</author>
+        <date>(2024).</date>
+        <title>Movilidad eléctrica sostenible.</title>
+        <editor>Vidal, S. (Ed.).</editor>
+        <container-title>Actas del Congreso de Movilidad Urbana</container-title>
+        <location>Valencia</location>
+        <pages>201-216.</pages>
+    </sequence>
+    <sequence>
+        <author>Espinosa, R.</author>
+        <date>(2024).</date>
+        <title>Psicología forense aplicada.</title>
+        <editor>Mateos, P. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Psicología Forense</container-title>
+        <location>Madrid</location>
+        <pages>45-58.</pages>
+    </sequence>
+    <sequence>
+        <author>Coronado, A. y Leyva, J.</author>
+        <date>(2024).</date>
+        <title>Conservación de patrimonio arquitectónico.</title>
+        <editor>Girón, F. (Ed.).</editor>
+        <container-title>Actas del Congreso de Restauración</container-title>
+        <location>Granada</location>
+        <pages>123-137.</pages>
+    </sequence>
+    <sequence>
+        <author>Puente, M.</author>
+        <date>(2024).</date>
+        <title>Big data en la gestión sanitaria.</title>
+        <editor>Ramos, I. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Salud y Datos</container-title>
+        <location>Bilbao</location>
+        <pages>167-181.</pages>
+    </sequence>
+    <sequence>
+        <author>Verdú, L. y Herranz, D.</author>
+        <date>(2024).</date>
+        <title>Enseñanza de lenguas extranjeras.</title>
+        <editor>Coloma, R. (Ed.).</editor>
+        <container-title>Actas del Congreso de Didáctica de Lenguas</container-title>
+        <location>Salamanca</location>
+        <pages>88-102.</pages>
+    </sequence>
+    <sequence>
+        <author>Barbero, C.</author>
+        <date>(2024).</date>
+        <title>Robotica quirúrgica de precisión.</title>
+        <editor>Santos, F. (Ed.).</editor>
+        <container-title>Memorias del Congreso de Cirugía Avanzada</container-title>
+        <location>Madrid</location>
+        <pages>145-159.</pages>
+    </sequence>
+    <sequence>
+        <author>Alameda, P. y Prieto, S.</author>
+        <date>(2024).</date>
+        <title>Sostenibilidad en la moda.</title>
+        <editor>Trujillo, A. (Ed.).</editor>
+        <container-title>Actas del Congreso de Moda Sostenible</container-title>
+        <location>Barcelona</location>
+        <pages>234-247.</pages>
+    </sequence>
+    <sequence>
+        <author>Carrillo, M.</author>
+        <date>(2024).</date>
+        <title>Neuromarketing y consumo.</title>
+        <editor>Vargas, J. (Ed.).</editor>
+        <container-title>Proceedings del Congreso de Neuromarketing</container-title>
+        <location>Sevilla</location>
+        <pages>178-192.</pages>
+    </sequence>
+    <sequence>
+        <author>Requena, S. y Gil, A.</author>
+        <date>(2024).</date>
+        <title>Resiliencia comunitaria ante desastres.</title>
+        <editor>Peña, L. (Ed.).</editor>
+        <container-title>Actas del Congreso de Gestión de Emergencias</container-title>
+        <location>Alicante</location>
+        <pages>112-126.</pages>
+    </sequence>
+</dataset>
