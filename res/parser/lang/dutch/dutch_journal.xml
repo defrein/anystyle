@@ -1,0 +1,3205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <sequence>
+        <author>van den Berg, M.</author>
+        <date>(2023).</date>
+        <title>Digitale transformatie in Nederlandse ondernemingen.</title>
+        <journal>Tijdschrift voor Bedrijfskunde</journal>
+        <volume>45(3),</volume>
+        <pages>234-251.</pages>
+        <doi>10.1234/tjb.2023.001</doi>
+    </sequence>
+    <sequence>
+        <author>Jansen, P., &amp; de Vries, K.</author>
+        <date>2022.</date>
+        <title>Duurzaamheid en innovatie in de Nederlandse industrie.</title>
+        <journal>Journal of Dutch Management</journal>
+        <volume>18(2),</volume>
+        <pages>45-67.</pages>
+    </sequence>
+    <sequence>
+        <author>Kroonen, A.</author>
+        <date>2023.</date>
+        <title>Taalgebruik en communicatie in multikulturele organisaties.</title>
+        <journal>Nederlands Tijdschrift voor Linguïstiek</journal>
+        <volume>31(4),</volume>
+        <pages>102-128.</pages>
+        <doi>10.5432/ntl.2023.045</doi>
+        <url>https://www.ntl-journal.nl/articles/2023/045</url>
+    </sequence>
+    <sequence>
+        <author>de Boer, S., &amp; van Dijk, R., &amp; Hendrix, W.</author>
+        <date>(2021).</date>
+        <title>Effecten van telewerken op werkproductiviteit en welzijn.</title>
+        <journal>Arbeid &amp; Organisatie Quarterly</journal>
+        <volume>29(1),</volume>
+        <pages>78-95.</pages>
+    </sequence>
+    <sequence>
+        <author>Verstappen, F.</author>
+        <date>2023.</date>
+        <title>Kunstmatige intelligentie in de zorgsector.</title>
+        <journal>Medisch Weekblad Informatica</journal>
+        <volume>12(5),</volume>
+        <pages>201-218.</pages>
+        <doi>10.3333/mwi.2023.012</doi>
+    </sequence>
+    <sequence>
+        <author>van Leeuwen, J., &amp; Maes, D.</author>
+        <date>2022.</date>
+        <title>Consumentengedrag in de e-commerce sector.</title>
+        <journal>Retail &amp; Commerce Tijdschrift</journal>
+        <volume>15(3),</volume>
+        <pages>34-52.</pages>
+        <url>https://www.rct-journal.nl/2022/15-3-34</url>
+    </sequence>
+    <sequence>
+        <author>Hermans, T.</author>
+        <date>(2023).</date>
+        <title>Wetgeving en regelgeving rond gegevensbescherming in Nederland.</title>
+        <journal>Recht &amp; Technologie</journal>
+        <volume>22(2),</volume>
+        <pages>156-171.</pages>
+    </sequence>
+    <sequence>
+        <author>de Wilde, M., &amp; Rood, L., &amp; Peeters, G., &amp; Schipper, N.</author>
+        <date>2021.</date>
+        <title>Klimaatverandering en landbouwpraktijken.</title>
+        <journal>Agrarisch Onderzoeks Bulletin</journal>
+        <volume>38(4),</volume>
+        <pages>289-307.</pages>
+        <doi>10.2222/aob.2021.038</doi>
+    </sequence>
+    <sequence>
+        <author>van Eck, R.</author>
+        <date>2022.</date>
+        <title>Social media en politieke polarisatie in Europa.</title>
+        <journal>Sociologie Vandaag</journal>
+        <volume>25(1),</volume>
+        <pages>12-29.</pages>
+    </sequence>
+    <sequence>
+        <author>Smeets, A., &amp; Faber, C.</author>
+        <date>(2023).</date>
+        <title>Onderwijs en maatschappelijke inclusie.</title>
+        <journal>Onderwijskunde Quarterly</journal>
+        <volume>19(3),</volume>
+        <pages>189-206.</pages>
+        <doi>10.4567/ukq.2023.019</doi>
+        <url>https://www.onderwijskunde-quarterly.nl/vol/19/3</url>
+    </sequence>
+    <sequence>
+        <author>Bax, H.</author>
+        <date>2023.</date>
+        <title>Culturele diversiteit en organisatieontwikkeling.</title>
+        <journal>Management Review Nederland</journal>
+        <volume>41(2),</volume>
+        <pages>88-103.</pages>
+    </sequence>
+    <sequence>
+        <author>van der Wal, J., &amp; Timmermans, K.</author>
+        <date>2022.</date>
+        <title>Cybersecurity bedreigingen in Nederlandse financiële instellingen.</title>
+        <journal>Informatica Risicoanalyse</journal>
+        <volume>14(4),</volume>
+        <pages>267-285.</pages>
+        <doi>10.1111/ira.2022.014</doi>
+    </sequence>
+    <sequence>
+        <author>de Ridder, M.</author>
+        <date>(2021).</date>
+        <title>Mentale gezondheid in het bedrijfsleven.</title>
+        <journal>Bedrijfsgezondheid Tijdschrift</journal>
+        <volume>16(3),</volume>
+        <pages>134-149.</pages>
+    </sequence>
+    <sequence>
+        <author>Bakker, S., &amp; van Geel, T., &amp; Hooijdonk, R.</author>
+        <date>2023.</date>
+        <title>Blockchain-toepassingen in logistiek.</title>
+        <journal>Technologische Toepassingen Review</journal>
+        <volume>28(1),</volume>
+        <pages>45-61.</pages>
+        <url>https://www.ttr-journal.nl/2023/blockchain</url>
+    </sequence>
+    <sequence>
+        <author>Groote, L.</author>
+        <date>2022.</date>
+        <title>Water management in de Nederlandse deltagebieden.</title>
+        <journal>Watermanagement Symposium</journal>
+        <volume>11(2),</volume>
+        <pages>78-92.</pages>
+        <doi>10.5555/wm.2022.011</doi>
+    </sequence>
+    <sequence>
+        <author>Vos, P., &amp; Adams, Q.</author>
+        <date>(2023).</date>
+        <title>Kennisoverdracht in family businesses.</title>
+        <journal>Journal of Family Enterprise</journal>
+        <volume>24(4),</volume>
+        <pages>312-329.</pages>
+    </sequence>
+    <sequence>
+        <author>van Meijel, H.</author>
+        <date>2021.</date>
+        <title>Verpleegkundige praktijken in een veranderende samenleving.</title>
+        <journal>Verpleegkunde Perspectief</journal>
+        <volume>17(1),</volume>
+        <pages>8-23.</pages>
+        <doi>10.6789/vp.2021.017</doi>
+        <url>https://www.verpleegkundeperspectief.nl/2021/17-1</url>
+    </sequence>
+    <sequence>
+        <author>de Smedt, R., &amp; Vandenbosch, M., &amp; Cools, P., &amp; Verhoeven, T.</author>
+        <date>2022.</date>
+        <title>Green buildings en energiebesparing in Nederland.</title>
+        <journal>Architectuur &amp; Duurzaamheid</journal>
+        <volume>13(3),</volume>
+        <pages>167-184.</pages>
+    </sequence>
+    <sequence>
+        <author>Korsten, U.</author>
+        <date>(2023).</date>
+        <title>Ethische kwesties in medisch onderzoek.</title>
+        <journal>Medical Ethics Review</journal>
+        <volume>26(2),</volume>
+        <pages>101-118.</pages>
+        <doi>10.7890/mer.2023.026</doi>
+    </sequence>
+    <sequence>
+        <author>van Dorp, N.</author>
+        <date>2023.</date>
+        <title>Sportprestatie en voeding in topsport.</title>
+        <journal>Sports Science Netherlands</journal>
+        <volume>20(3),</volume>
+        <pages>245-262.</pages>
+    </sequence>
+    <sequence>
+        <author>Heus, K., &amp; de Graaff, S.</author>
+        <date>2022.</date>
+        <title>Marketing automation en klantenrelatie.</title>
+        <journal>Digital Marketing Quarterly</journal>
+        <volume>19(4),</volume>
+        <pages>298-315.</pages>
+        <url>https://www.dmq-journal.nl/2022/19-4</url>
+    </sequence>
+    <sequence>
+        <author>Voorn, M.</author>
+        <date>(2021).</date>
+        <title>Openbare diensten en burgerparticipatie.</title>
+        <journal>Bestuurskunde Jaarboek</journal>
+        <volume>29(5),</volume>
+        <pages>412-428.</pages>
+        <doi>10.3210/bj.2021.029</doi>
+    </sequence>
+    <sequence>
+        <author>van Schijndel, B., &amp; Mertens, R., &amp; Leemans, V.</author>
+        <date>2023.</date>
+        <title>Machine learning toepassingen in dataanalyse.</title>
+        <journal>Data Science Review</journal>
+        <volume>15(2),</volume>
+        <pages>67-84.</pages>
+    </sequence>
+    <sequence>
+        <author>Hoekstra, W.</author>
+        <date>2022.</date>
+        <title>Economische groei en werkplekkenvergroting.</title>
+        <journal>Economisch Maandblad</journal>
+        <volume>44(3),</volume>
+        <pages>156-172.</pages>
+        <doi>10.4321/em.2022.044</doi>
+        <url>https://www.economischaandblad.nl/2022/44-3</url>
+    </sequence>
+    <sequence>
+        <author>Dekker, J.</author>
+        <date>(2023).</date>
+        <title>Schuldbeheer en persoonlijke financiën.</title>
+        <journal>Financieel Adviesblad</journal>
+        <volume>31(1),</volume>
+        <pages>34-51.</pages>
+    </sequence>
+    <sequence>
+        <author>Mertens, A., &amp; Nijs, O., &amp; Pauwels, X.</author>
+        <date>2021.</date>
+        <title>Grondwaterverontreiniging in industriegebieden.</title>
+        <journal>Milieu &amp; Gezondheid</journal>
+        <volume>23(2),</volume>
+        <pages>89-106.</pages>
+        <doi>10.5432/mg.2021.023</doi>
+    </sequence>
+    <sequence>
+        <author>Boekman, S.</author>
+        <date>2023.</date>
+        <title>Innovatie in voedselproductie.</title>
+        <journal>Agro Technology Digest</journal>
+        <volume>12(4),</volume>
+        <pages>223-240.</pages>
+    </sequence>
+    <sequence>
+        <author>de Brouwer, F., &amp; van Alphen, E.</author>
+        <date>(2022).</date>
+        <title>Arbeidsmarkt- en vaardigheidsfragmentatie.</title>
+        <journal>Labour Studies Netherlands</journal>
+        <volume>28(3),</volume>
+        <pages>201-218.</pages>
+        <url>https://www.lsn-journal.nl/2022/28-3</url>
+    </sequence>
+    <sequence>
+        <author>Gerrits, H.</author>
+        <date>2022.</date>
+        <title>Culturele erfgoed en toerisme in oude steden.</title>
+        <journal>Tourism &amp; Heritage Quarterly</journal>
+        <volume>21(1),</volume>
+        <pages>12-28.</pages>
+        <doi>10.6543/thq.2022.021</doi>
+    </sequence>
+    <sequence>
+        <author>Kleijn, D., &amp; Lemmens, T., &amp; Moens, R., &amp; Nagel, S.</author>
+        <date>(2023).</date>
+        <title>Biodiversiteit in landbouwlandschappen.</title>
+        <journal>Ecologie en Bosbouw</journal>
+        <volume>35(2),</volume>
+        <pages>145-161.</pages>
+    </sequence>
+    <sequence>
+        <author>Bouwmeester, M.</author>
+        <date>2021.</date>
+        <title>Rechtszaken en conflictbeslechting.</title>
+        <journal>Juridisch Maandblad</journal>
+        <volume>39(4),</volume>
+        <pages>267-283.</pages>
+        <url>https://www.juridisch-maandblad.nl/2021/39-4</url>
+    </sequence>
+    <sequence>
+        <author>Staats, U., &amp; Tielen, V.</author>
+        <date>2023.</date>
+        <title>Reproducibiliteit in wetenschappelijk onderzoek.</title>
+        <journal>Scientific Integrity Review</journal>
+        <volume>16(3),</volume>
+        <pages>189-205.</pages>
+        <doi>10.7654/sir.2023.016</doi>
+    </sequence>
+    <sequence>
+        <author>Pothoven, K.</author>
+        <date>(2022).</date>
+        <title>Creatieve industrieën en economische impact.</title>
+        <journal>Creative Economy Journal</journal>
+        <volume>14(4),</volume>
+        <pages>312-329.</pages>
+    </sequence>
+    <sequence>
+        <author>van den Hoeven, J., &amp; Swinnen, R.</author>
+        <date>2022.</date>
+        <title>Verkeersveiligheid en weginformatie.</title>
+        <journal>Traffic Safety Quarterly</journal>
+        <volume>25(2),</volume>
+        <pages>78-94.</pages>
+        <url>https://www.tsq-journal.nl/2022/25-2</url>
+    </sequence>
+    <sequence>
+        <author>Verbeeck, L.</author>
+        <date>(2021).</date>
+        <title>Psychiatrische zorg en stigmatisering.</title>
+        <journal>Mental Health Netherlands</journal>
+        <volume>18(1),</volume>
+        <pages>45-60.</pages>
+        <doi>10.4321/mhn.2021.018</doi>
+    </sequence>
+    <sequence>
+        <author>Beenakker, S., &amp; Casanova, T., &amp; Damen, U.</author>
+        <date>2023.</date>
+        <title>Strategische supply chain management.</title>
+        <journal>Logistics Review Netherlands</journal>
+        <volume>20(3),</volume>
+        <pages>156-173.</pages>
+    </sequence>
+    <sequence>
+        <author>Dykstra, R.</author>
+        <date>2022.</date>
+        <title>Hogeronderwijskwaliteit en studentenuitkomsten.</title>
+        <journal>Higher Education Assessment</journal>
+        <volume>22(4),</volume>
+        <pages>234-251.</pages>
+        <doi>10.5432/hea.2022.022</doi>
+    </sequence>
+    <sequence>
+        <author>Fievet, N., &amp; Grimmelt, O.</author>
+        <date>(2023).</date>
+        <title>Energietransitie in Nederlandse steden.</title>
+        <journal>Urban Energy Transition</journal>
+        <volume>17(1),</volume>
+        <pages>8-24.</pages>
+    </sequence>
+    <sequence>
+        <author>van Leeuwen, S.</author>
+        <date>2021.</date>
+        <title>Kinderopvang kwaliteitsnormen en ontwikkeling.</title>
+        <journal>Child Care Quality Review</journal>
+        <volume>19(2),</volume>
+        <pages>112-128.</pages>
+        <url>https://www.ccqr-journal.nl/2021/19-2</url>
+    </sequence>
+    <sequence>
+        <author>Helsdingen, A., &amp; Idema, P., &amp; Jansen, K., &amp; Kronecker, W.</author>
+        <date>2022.</date>
+        <title>Informatiebeveiliging in overheidsorganisaties.</title>
+        <journal>Government IT Security</journal>
+        <volume>13(3),</volume>
+        <pages>201-218.</pages>
+        <doi>10.3333/gits.2022.013</doi>
+    </sequence>
+    <sequence>
+        <author>Kroon, Y.</author>
+        <date>(2023).</date>
+        <title>Patiëntenbetrokkenheid in zorgprocessen.</title>
+        <journal>Healthcare Engagement Quarterly</journal>
+        <volume>24(4),</volume>
+        <pages>289-306.</pages>
+    </sequence>
+    <sequence>
+        <author>Lakeman, B., &amp; Meeuwisse, M.</author>
+        <date>2023.</date>
+        <title>Armoede en sociale uitsluiting in Nederland.</title>
+        <journal>Social Policy Review</journal>
+        <volume>30(1),</volume>
+        <pages>34-50.</pages>
+        <url>https://www.spr-journal.nl/2023/30-1</url>
+    </sequence>
+    <sequence>
+        <author>Monten, V.</author>
+        <date>2022.</date>
+        <title>Wetenschappelijke communicatie naar het publiek.</title>
+        <journal>Science Communication Studies</journal>
+        <volume>21(2),</volume>
+        <pages>145-161.</pages>
+        <doi>10.6789/scs.2022.021</doi>
+    </sequence>
+    <sequence>
+        <author>Nijkamp, P., &amp; Ottens, R.</author>
+        <date>(2021).</date>
+        <title>Regionale ontwikkeling en innovatie.</title>
+        <journal>Regional Studies Quarterly</journal>
+        <volume>26(3),</volume>
+        <pages>178-194.</pages>
+    </sequence>
+    <sequence>
+        <author>van Oorschot, W.</author>
+        <date>2023.</date>
+        <title>Sociaal cohesie en maatschappelijke verdeeldheid.</title>
+        <journal>Cohesion &amp; Society</journal>
+        <volume>15(4),</volume>
+        <pages>267-284.</pages>
+        <doi>10.4567/cs.2023.015</doi>
+    </sequence>
+    <sequence>
+        <author>Pijnenburg, H., &amp; Quisquater, I., &amp; Roos, J.</author>
+        <date>2022.</date>
+        <title>Risicobeheersing in bouwprojecten.</title>
+        <journal>Construction Risk Management</journal>
+        <volume>18(1),</volume>
+        <pages>56-72.</pages>
+    </sequence>
+    <sequence>
+        <author>Samson, A.</author>
+        <date>(2023).</date>
+        <title>Gedragseconomie en consumentenbeslissingen.</title>
+        <journal>Behavioral Economics Journal</journal>
+        <volume>25(2),</volume>
+        <pages>89-105.</pages>
+        <url>https://www.bej-journal.nl/2023/25-2</url>
+    </sequence>
+    <sequence>
+        <author>Timmermans, B., &amp; Uijtenboogaard, C.</author>
+        <date>2021.</date>
+        <title>Landschapsplanning en ecologische waarden.</title>
+        <journal>Landscape Ecology Netherlands</journal>
+        <volume>27(3),</volume>
+        <pages>212-228.</pages>
+        <doi>10.5432/len.2021.027</doi>
+    </sequence>
+    <sequence>
+        <author>van Valckenborgh, D.</author>
+        <date>2022.</date>
+        <title>Merk loyaliteit in voedselkeuzes.</title>
+        <journal>Food Brand Quarterly</journal>
+        <volume>16(4),</volume>
+        <pages>301-318.</pages>
+    </sequence>
+    <sequence>
+        <author>Werdmuller von Elgg, A., &amp; Xander, B., &amp; Yonker, C., &amp; Zaaijer, D.</author>
+        <date>(2023).</date>
+        <title>Cybercriminaliteit en digitale delicten.</title>
+        <journal>Cybercrime Review</journal>
+        <volume>12(1),</volume>
+        <pages>23-39.</pages>
+        <url>https://www.cybercrimereview.nl/2023/12-1</url>
+    </sequence>
+    <sequence>
+        <author>Verhoeven, R.</author>
+        <date>2023.</date>
+        <title>Kunstmatige intelligentie in het onderwijs.</title>
+        <journal>Education Technology Review</journal>
+        <volume>20(2),</volume>
+        <pages>134-150.</pages>
+        <doi>10.3210/etr.2023.020</doi>
+    </sequence>
+    <sequence>
+        <author>de Vrij, S., &amp; Waite, T.</author>
+        <date>2022.</date>
+        <title>Vrije tijd en vrijetijdsbesteding in Nederland.</title>
+        <journal>Leisure Studies Quarterly</journal>
+        <volume>19(3),</volume>
+        <pages>167-183.</pages>
+    </sequence>
+    <sequence>
+        <author>van der Weide, M.</author>
+        <date>(2021).</date>
+        <title>Stadsverdichting en leefkwaliteit.</title>
+        <journal>Urban Density Journal</journal>
+        <volume>14(4),</volume>
+        <pages>245-261.</pages>
+        <url>https://www.udj-journal.nl/2021/14-4</url>
+    </sequence>
+    <sequence>
+        <author>Vandersmissen, H., &amp; Ybema, M., &amp; van Zuylen, O.</author>
+        <date>2023.</date>
+        <title>Werknemersmobiliteit en loopbaanontwikkeling.</title>
+        <journal>Career Development Review</journal>
+        <volume>17(1),</volume>
+        <pages>45-61.</pages>
+        <doi>10.6789/cdr.2023.017</doi>
+    </sequence>
+    <sequence>
+        <author>de Ham, S.</author>
+        <date>2022.</date>
+        <title>Moleculaire biologie en genetische therapie.</title>
+        <journal>Molecular Biology Research</journal>
+        <volume>28(2),</volume>
+        <pages>112-128.</pages>
+    </sequence>
+    <sequence>
+        <author>Aerts, K., &amp; Beeman, L.</author>
+        <date>(2023).</date>
+        <title>Democratie en politieke participatie.</title>
+        <journal>Democracy Studies</journal>
+        <volume>22(3),</volume>
+        <pages>178-194.</pages>
+        <url>https://www.democracy-studies.nl/2023/22-3</url>
+    </sequence>
+    <sequence>
+        <author>Ceulemans, H.</author>
+        <date>2021.</date>
+        <title>Duurzame productie en industriële ecologie.</title>
+        <journal>Sustainable Production Quarterly</journal>
+        <volume>15(4),</volume>
+        <pages>267-283.</pages>
+        <doi>10.4321/spq.2021.015</doi>
+    </sequence>
+    <sequence>
+        <author>Donkel, I., &amp; Eisen, J., &amp; Franken, K.</author>
+        <date>2022.</date>
+        <title>Immunologie en vaccinatiestudies.</title>
+        <journal>Immunology Journal Netherlands</journal>
+        <volume>23(1),</volume>
+        <pages>34-50.</pages>
+    </sequence>
+    <sequence>
+        <author>Geerts, L.</author>
+        <date>(2023).</date>
+        <title>Geslacht en genderrollen in management.</title>
+        <journal>Gender Management Studies</journal>
+        <volume>19(2),</volume>
+        <pages>101-117.</pages>
+        <doi>10.5432/gms.2023.019</doi>
+    </sequence>
+    <sequence>
+        <author>Hartman, O., &amp; Hendriks, P.</author>
+        <date>2023.</date>
+        <title>Kennismanagement in organisaties.</title>
+        <journal>Knowledge Management Review</journal>
+        <volume>24(3),</volume>
+        <pages>189-205.</pages>
+    </sequence>
+    <sequence>
+        <author>Hermans, U.</author>
+        <date>2022.</date>
+        <title>Inteligentie en leerprocessen bij kinderen.</title>
+        <journal>Child Intelligence Quarterly</journal>
+        <volume>17(4),</volume>
+        <pages>245-261.</pages>
+        <url>https://www.ciq-journal.nl/2022/17-4</url>
+    </sequence>
+    <sequence>
+        <author>Jansen, V., &amp; Kanters, W., &amp; Leuven, X.</author>
+        <date>(2021).</date>
+        <title>Justitie en rechtspraak in Europa.</title>
+        <journal>European Justice Review</journal>
+        <volume>25(1),</volume>
+        <pages>56-72.</pages>
+        <doi>10.3333/ejr.2021.025</doi>
+    </sequence>
+    <sequence>
+        <author>de Klerk, A.</author>
+        <date>2023.</date>
+        <title>Culturele diversiteit in scholen.</title>
+        <journal>School Diversity Quarterly</journal>
+        <volume>16(2),</volume>
+        <pages>123-139.</pages>
+    </sequence>
+    <sequence>
+        <author>Leenerts, S., &amp; Mauritz, T.</author>
+        <date>2022.</date>
+        <title>Openbare ruimte en stadsleven.</title>
+        <journal>Public Space Studies</journal>
+        <volume>20(3),</volume>
+        <pages>167-183.</pages>
+        <url>https://www.pss-journal.nl/2022/20-3</url>
+    </sequence>
+    <sequence>
+        <author>Nietefeld, H.</author>
+        <date>(2023).</date>
+        <title>Orthopedische chirurgie en revalidatie.</title>
+        <journal>Orthopedic Surgery Review</journal>
+        <volume>26(4),</volume>
+        <pages>301-318.</pages>
+        <doi>10.6789/osr.2023.026</doi>
+    </sequence>
+    <sequence>
+        <author>Oost, J., &amp; Panis, K., &amp; Quart, L., &amp; Rijnders, M.</author>
+        <date>2021.</date>
+        <title>Obstretische zorg en zwangerschapsuitkomsten.</title>
+        <journal>Obstetric Care Quarterly</journal>
+        <volume>18(1),</volume>
+        <pages>45-61.</pages>
+    </sequence>
+    <sequence>
+        <author>Sennekens, Y.</author>
+        <date>2023.</date>
+        <title>Psychologische effecten van werkstress.</title>
+        <journal>Work Psychology Netherlands</journal>
+        <volume>21(2),</volume>
+        <pages>112-128.</pages>
+        <doi>10.4321/wpn.2023.021</doi>
+    </sequence>
+    <sequence>
+        <author>Thijs, U., &amp; Uittenbogaard, V.</author>
+        <date>(2022).</date>
+        <title>QuasiExperimentele designs in onderzoek.</title>
+        <journal>Research Methods Quarterly</journal>
+        <volume>27(3),</volume>
+        <pages>212-228.</pages>
+    </sequence>
+    <sequence>
+        <author>Versteeg, W.</author>
+        <date>2022.</date>
+        <title>Radicalisering en extremisme in Europa.</title>
+        <journal>Radicalization Studies</journal>
+        <volume>14(4),</volume>
+        <pages>289-305.</pages>
+        <url>https://www.radicalizationstudies.nl/2022/14-4</url>
+    </sequence>
+    <sequence>
+        <author>Wellewaard, A., &amp; Ypma, B.</author>
+        <date>(2021).</date>
+        <title>Slachtoffers van huiselijk geweld.</title>
+        <journal>Domestic Violence Review</journal>
+        <volume>15(1),</volume>
+        <pages>23-39.</pages>
+        <doi>10.5432/dvr.2021.015</doi>
+    </sequence>
+    <sequence>
+        <author>Zijlma, C.</author>
+        <date>2023.</date>
+        <title>Tijdsbesteding en dagelijks ritme.</title>
+        <journal>Daily Rhythm Journal</journal>
+        <volume>22(2),</volume>
+        <pages>134-150.</pages>
+    </sequence>
+    <sequence>
+        <author>van Aalst, D.</author>
+        <date>2022.</date>
+        <title>Architectuurgeschiedenis van Nederland.</title>
+        <journal>Architecture History Quarterly</journal>
+        <volume>19(3),</volume>
+        <pages>201-217.</pages>
+        <doi>10.3333/ahq.2022.019</doi>
+    </sequence>
+    <sequence>
+        <author>Bergsma, E., &amp; Burger, F., &amp; Coppens, G., &amp; Dam, H.</author>
+        <date>(2023).</date>
+        <title>Biodiversiteit en beschermde soorten.</title>
+        <journal>Species Protection Review</journal>
+        <volume>23(4),</volume>
+        <pages>312-328.</pages>
+    </sequence>
+    <sequence>
+        <author>Driessen, I.</author>
+        <date>2021.</date>
+        <title>Energietechnologie en hernieuwbare bronnen.</title>
+        <journal>Renewable Energy Journal</journal>
+        <volume>16(1),</volume>
+        <pages>45-61.</pages>
+        <url>https://www.rej-journal.nl/2021/16-1</url>
+    </sequence>
+    <sequence>
+        <author>Faber, J., &amp; Giordano, K.</author>
+        <date>2023.</date>
+        <title>Familiebetrekkingen en sociale steun.</title>
+        <journal>Family Relations Quarterly</journal>
+        <volume>20(2),</volume>
+        <pages>123-139.</pages>
+        <doi>10.6789/frq.2023.020</doi>
+    </sequence>
+    <sequence>
+        <author>Geurts, L.</author>
+        <date>2022.</date>
+        <title>Financiële markten en investeringsgedrag.</title>
+        <journal>Financial Markets Review</journal>
+        <volume>25(3),</volume>
+        <pages>189-205.</pages>
+    </sequence>
+    <sequence>
+        <author>Hoekstra, M., &amp; Iding, N., &amp; Jaspers, P.</author>
+        <date>(2021).</date>
+        <title>Grondgebruik en landgebruikveranderingen.</title>
+        <journal>Land Use Changes Quarterly</journal>
+        <volume>24(4),</volume>
+        <pages>267-283.</pages>
+        <url>https://www.lucq-journal.nl/2021/24-4</url>
+    </sequence>
+    <sequence>
+        <author>Karels, Q.</author>
+        <date>2023.</date>
+        <title>Huishoudensinkomens en armoederisico.</title>
+        <journal>Household Income Studies</journal>
+        <volume>18(1),</volume>
+        <pages>56-72.</pages>
+        <doi>10.4321/his.2023.018</doi>
+    </sequence>
+    <sequence>
+        <author>Klinkhamer, S., &amp; Lammerts, T.</author>
+        <date>2022.</date>
+        <title>Informatisering van processen.</title>
+        <journal>Information Technology Quarterly</journal>
+        <volume>21(2),</volume>
+        <pages>112-128.</pages>
+    </sequence>
+    <sequence>
+        <author>Maas, U.</author>
+        <date>(2023).</date>
+        <title>Jurisprudentie en rechtsontwikkeling.</title>
+        <journal>Case Law Review</journal>
+        <volume>27(3),</volume>
+        <pages>201-217.</pages>
+        <doi>10.5432/clr.2023.027</doi>
+    </sequence>
+    <sequence>
+        <author>Mudde, V., &amp; Nijs, W., &amp; Olthoff, X.</author>
+        <date>2021.</date>
+        <title>Klimaatbeleid en emissiekaarten.</title>
+        <journal>Climate Policy Review</journal>
+        <volume>26(4),</volume>
+        <pages>289-305.</pages>
+    </sequence>
+    <sequence>
+        <author>Pattoon, Y.</author>
+        <date>2023.</date>
+        <title>Literaire studies: taal en cultuur.</title>
+        <journal>Literary Studies Quarterly</journal>
+        <volume>19(1),</volume>
+        <pages>34-50.</pages>
+        <url>https://www.lsq-journal.nl/2023/19-1</url>
+    </sequence>
+    <sequence>
+        <author>Reuzen, Z., &amp; Schaap, A.</author>
+        <date>2022.</date>
+        <title>Medische ethiek en euthanasie.</title>
+        <journal>Medical Ethics Quarterly</journal>
+        <volume>23(2),</volume>
+        <pages>145-161.</pages>
+        <doi>10.3333/meq.2022.023</doi>
+    </sequence>
+    <sequence>
+        <author>Stelten, B.</author>
+        <date>(2021).</date>
+        <title>Neurobiologie en hersenfunctie.</title>
+        <journal>Neurobiology Research</journal>
+        <volume>17(3),</volume>
+        <pages>178-194.</pages>
+    </sequence>
+    <sequence>
+        <author>Tensen, C., &amp; Utermark, D., &amp; Veena, E., &amp; Wagter, F.</author>
+        <date>2023.</date>
+        <title>Woonhuissituatie en huisvesting.</title>
+        <journal>Housing Studies Netherlands</journal>
+        <volume>20(4),</volume>
+        <pages>267-283.</pages>
+        <url>https://www.hsn-journal.nl/2023/20-4</url>
+    </sequence>
+    <sequence>
+        <author>Voorhaar, G.</author>
+        <date>2022.</date>
+        <title>Xenobiologische onderzoeken.</title>
+        <journal>Xenobiological Research</journal>
+        <volume>14(1),</volume>
+        <pages>56-72.</pages>
+        <doi>10.6789/xr.2022.014</doi>
+    </sequence>
+    <sequence>
+        <author>Zadelaar, H.</author>
+        <date>(2023).</date>
+        <title>Zoölogische studies van zoogdieren.</title>
+        <journal>Zoological Studies</journal>
+        <volume>25(2),</volume>
+        <pages>123-139.</pages>
+    </sequence>
+    <sequence>
+        <author>Aerdschot, I., &amp; Backer, J.</author>
+        <date>2021.</date>
+        <title>Arbeidsmobilisering in oorlogstijden.</title>
+        <journal>Labour Mobilization Review</journal>
+        <volume>22(3),</volume>
+        <pages>189-205.</pages>
+        <doi>10.4321/lmr.2021.022</doi>
+    </sequence>
+    <sequence>
+        <author>Ceulemans, V.</author>
+        <date>2023.</date>
+        <title>Bedrijfsstructuur en concurrentiekracht.</title>
+        <journal>Business Structure Quarterly</journal>
+        <volume>16(4),</volume>
+        <pages>301-317.</pages>
+    </sequence>
+    <sequence>
+        <author>Dorsen, W., &amp; Eijkman, X., &amp; Faber, Y.</author>
+        <date>(2022).</date>
+        <title>Detectie van anomalieën in data.</title>
+        <journal>Anomaly Detection Review</journal>
+        <volume>18(1),</volume>
+        <pages>45-61.</pages>
+        <url>https://www.adr-journal.nl/2022/18-1</url>
+    </sequence>
+    <sequence>
+        <author>Geuze, Z.</author>
+        <date>2022.</date>
+        <title>Efficiëntie in openbare diensten.</title>
+        <journal>Public Service Efficiency</journal>
+        <volume>21(2),</volume>
+        <pages>112-128.</pages>
+        <doi>10.5432/pse.2022.021</doi>
+    </sequence>
+    <sequence>
+        <author>Hamstra, A., &amp; Immers, B., &amp; Jansen, C.</author>
+        <date>(2021).</date>
+        <title>Fractale structuren in wiskunde.</title>
+        <journal>Mathematical Structures</journal>
+        <volume>26(3),</volume>
+        <pages>201-217.</pages>
+    </sequence>
+    <sequence>
+        <author>Koppelman, D.</author>
+        <date>2023.</date>
+        <title>Genetische markers in medicinale onderzoeken.</title>
+        <journal>Genetic Medicine Quarterly</journal>
+        <volume>24(4),</volume>
+        <pages>289-305.</pages>
+        <url>https://www.gmq-journal.nl/2023/24-4</url>
+    </sequence>
+    <sequence>
+        <author>Lowerman, E., &amp; Mensinga, F., &amp; Nieman, G.</author>
+        <date>2022.</date>
+        <title>Heterogene katalysatoren in chemie.</title>
+        <journal>Chemistry &amp; Catalysis</journal>
+        <volume>19(1),</volume>
+        <pages>34-50.</pages>
+        <doi>10.3333/cc.2022.019</doi>
+    </sequence>
+    <sequence>
+        <author>Overmeer, H.</author>
+        <date>(2023).</date>
+        <title>Immunogeniteit van vaccins.</title>
+        <journal>Vaccine Immunology</journal>
+        <volume>23(2),</volume>
+        <pages>145-161.</pages>
+    </sequence>
+    <sequence>
+        <author>Peetoom, I., &amp; Quant, J., &amp; Renting, K.</author>
+        <date>2021.</date>
+        <title>Joystick-technologie in gaming.</title>
+        <journal>Gaming Technology Review</journal>
+        <volume>15(3),</volume>
+        <pages>178-194.</pages>
+        <url>https://www.gtr-journal.nl/2021/15-3</url>
+    </sequence>
+    <sequence>
+        <author>Smits, L.</author>
+        <date>2023.</date>
+        <title>Kinetische theorie van gassen.</title>
+        <journal>Kinetic Theory Quarterly</journal>
+        <volume>20(4),</volume>
+        <pages>267-283.</pages>
+        <doi>10.6789/ktq.2023.020</doi>
+    </sequence>
+    <sequence>
+        <author>Tromsma, M., &amp; Uijnstra, N.</author>
+        <date>2022.</date>
+        <title>Lexicale semantiek en woordbetekenis.</title>
+        <journal>Semantic Studies</journal>
+        <volume>17(1),</volume>
+        <pages>56-72.</pages>
+    </sequence>
+    <sequence>
+        <author>Vervenne, O.</author>
+        <date>(2021).</date>
+        <title>Microbiologie en infecties bij immunocompromitteerde patiënten.</title>
+        <journal>Microbiology &amp; Infection</journal>
+        <volume>18(2),</volume>
+        <pages>123-139.</pages>
+        <doi>10.4321/mi.2021.018</doi>
+    </sequence>
+    <sequence>
+        <author>Weterings, P., &amp; Xenia, Q.</author>
+        <date>2023.</date>
+        <title>Nutriëntstoffenwisseling en metabolisme.</title>
+        <journal>Nutrition Metabolism Review</journal>
+        <volume>21(3),</volume>
+        <pages>189-205.</pages>
+    </sequence>
+    <sequence>
+        <author>Yanssen, R.</author>
+        <date>2022.</date>
+        <title>Oceanografie en mariene ecosystemen.</title>
+        <journal>Marine Ecology Journal</journal>
+        <volume>25(4),</volume>
+        <pages>301-317.</pages>
+        <url>https://www.mej-journal.nl/2022/25-4</url>
+    </sequence>
+    <sequence>
+        <author>Zwitser, S.</author>
+        <date>(2023).</date>
+        <title>Paleontologie en fossielen.</title>
+        <journal>Paleontology Research</journal>
+        <volume>28(1),</volume>
+        <pages>45-61.</pages>
+        <doi>10.5432/pr.2023.028</doi>
+    </sequence>
+    <sequence>
+        <author>Akkerman, T., &amp; Bekker, U., &amp; Cornelisse, V., &amp; de Boer, W.</author>
+        <date>2021.</date>
+        <title>Qubits en quantumcomputing.</title>
+        <journal>Quantum Computing Quarterly</journal>
+        <volume>22(2),</volume>
+        <pages>112-128.</pages>
+    </sequence>
+    <sequence>
+        <author>Ernst, X.</author>
+        <date>2023.</date>
+        <title>Radiologie en beeldvorming.</title>
+        <journal>Radiology &amp; Imaging</journal>
+        <volume>19(3),</volume>
+        <pages>201-217.</pages>
+        <url>https://www.ri-journal.nl/2023/19-3</url>
+    </sequence>
+    <sequence>
+        <author>Flipse, Y., &amp; Gielstra, Z.</author>
+        <date>2022.</date>
+        <title>Seismologie en aardbevingen.</title>
+        <journal>Seismic Studies</journal>
+        <volume>23(4),</volume>
+        <pages>289-305.</pages>
+        <doi>10.3333/ss.2022.023</doi>
+    </sequence>
+    <sequence>
+        <author>Hoensbroech, A.</author>
+        <date>(2021).</date>
+        <title>Telemetrie en afstandsmeting.</title>
+        <journal>Telemetry Research</journal>
+        <volume>16(1),</volume>
+        <pages>34-50.</pages>
+    </sequence>
+    <sequence>
+        <author>Jeekel, B., &amp; Koolstra, C., &amp; Lenting, D., &amp; Mastenbroek, E.</author>
+        <date>2023.</date>
+        <title>Ultrageluid en echografie.</title>
+        <journal>Ultrasound Medicine</journal>
+        <volume>20(2),</volume>
+        <pages>145-161.</pages>
+        <url>https://www.um-journal.nl/2023/20-2</url>
+    </sequence>
+    <sequence>
+        <author>Nillesen, F.</author>
+        <date>2022.</date>
+        <title>Virologie en virale infecties.</title>
+        <journal>Virology Quarterly</journal>
+        <volume>24(3),</volume>
+        <pages>201-217.</pages>
+        <doi>10.6789/vq.2022.024</doi>
+    </sequence>
+    <sequence>
+        <author>Olphert, G., &amp; Papendrecht, H., &amp; Quitters, I.</author>
+        <date>(2023).</date>
+        <title>Wavelengths en elektromagnetische straling.</title>
+        <journal>Electromagnetic Research</journal>
+        <volume>17(4),</volume>
+        <pages>289-305.</pages>
+    </sequence>
+    <sequence>
+        <author>Rekkers, J.</author>
+        <date>2021.</date>
+        <title>Xenografie en transplantatie.</title>
+        <journal>Transplant Surgery Review</journal>
+        <volume>18(1),</volume>
+        <pages>56-72.</pages>
+        <doi>10.4321/tsr.2021.018</doi>
+    </sequence>
+    <sequence>
+        <author>Schippers, K., &amp; Tillotson, L., &amp; Unser, M.</author>
+        <date>2023.</date>
+        <title>Yield en productieverhoging.</title>
+        <journal>Crop Production Quarterly</journal>
+        <volume>21(2),</volume>
+        <pages>123-139.</pages>
+    </sequence>
+    <sequence>
+        <author>Venterink, N.</author>
+        <date>2022.</date>
+        <title>Zoogleiden en dierlijke hormonale systemen.</title>
+        <journal>Zoological Endocrinology</journal>
+        <volume>19(3),</volume>
+        <pages>189-205.</pages>
+        <url>https://www.ze-journal.nl/2022/19-3</url>
+    </sequence>
+    <sequence>
+        <author>Abels, O., &amp; Bakker, P., &amp; Cauberg, Q.</author>
+        <date>(2021).</date>
+        <title>Absorptie van voedingsstoffen.</title>
+        <journal>Nutrition Absorption</journal>
+        <volume>25(4),</volume>
+        <pages>267-283.</pages>
+        <doi>10.5432/na.2021.025</doi>
+    </sequence>
+    <sequence>
+        <author>Damen, R.</author>
+        <date>2023.</date>
+        <title>Bacteriologie en PathogenenBacterium.</title>
+        <journal>Bacteriology Review</journal>
+        <volume>22(1),</volume>
+        <pages>45-61.</pages>
+    </sequence>
+    <sequence>
+        <author>Emmen, S., &amp; Fransen, T., &amp; Gutnik, U., &amp; Hoeksema, V.</author>
+        <date>2022.</date>
+        <title>Cytologie en celmorfologie.</title>
+        <journal>Cell Biology Quarterly</journal>
+        <volume>20(2),</volume>
+        <pages>112-128.</pages>
+        <url>https://www.cbq-journal.nl/2022/20-2</url>
+    </sequence>
+    <sequence>
+        <author>Jolie, W.</author>
+        <date>(2023).</date>
+        <title>Dermatologie en huidziekten.</title>
+        <journal>Dermatology Journal</journal>
+        <volume>18(3),</volume>
+        <pages>201-217.</pages>
+        <doi>10.3333/dj.2023.018</doi>
+    </sequence>
+    <sequence>
+        <author>Kees, X., &amp; Lindeman, Y.</author>
+        <date>2021.</date>
+        <title>Embryologie en embryonale ontwikkeling.</title>
+        <journal>Embryology Research</journal>
+        <volume>23(4),</volume>
+        <pages>289-305.</pages>
+    </sequence>
+    <sequence>
+        <author>Mertens, Z.</author>
+        <date>2023.</date>
+        <title>Fibroblastfunctie en weefselherstel.</title>
+        <journal>Tissue Repair Quarterly</journal>
+        <volume>21(1),</volume>
+        <pages>34-50.</pages>
+        <url>https://www.trq-journal.nl/2023/21-1</url>
+    </sequence>
+    <sequence>
+        <author>Oliemans, A., &amp; Paans, B., &amp; Quilligan, C., &amp; Rooks, D.</author>
+        <date>2022.</date>
+        <title>Gastroenterologie en maagdarmaandoeningen.</title>
+        <journal>Gastroenterology Review</journal>
+        <volume>26(2),</volume>
+        <pages>145-161.</pages>
+        <doi>10.6789/gr.2022.026</doi>
+    </sequence>
+    <sequence>
+        <author>Sluiter, E.</author>
+        <date>(2021).</date>
+        <title>Hematologie en bloedziekten.</title>
+        <journal>Hematology Journal</journal>
+        <volume>19(3),</volume>
+        <pages>189-205.</pages>
+    </sequence>
+    <sequence>
+        <author>Terpstra, F., &amp; Uggla, G., &amp; Veenman, H.</author>
+        <date>2023.</date>
+        <title>Infarcten en hartnecrosis.</title>
+        <journal>Cardiology &amp; Infarction</journal>
+        <volume>22(4),</volume>
+        <pages>267-283.</pages>
+        <url>https://www.ci-journal.nl/2023/22-4</url>
+    </sequence>
+    <sequence>
+        <author>Venne, I.</author>
+        <date>2022.</date>
+        <title>Jaundice en galstenen.</title>
+        <journal>Biliary Disease Quarterly</journal>
+        <volume>17(1),</volume>
+        <pages>56-72.</pages>
+        <doi>10.4321/bdq.2022.017</doi>
+    </sequence>
+    <sequence>
+        <author>Willemse, J., &amp; Yulian, K.</author>
+        <date>(2023).</date>
+        <title>Klinische chemie en laboratoriumonderzoeken.</title>
+        <journal>Clinical Chemistry</journal>
+        <volume>24(2),</volume>
+        <pages>123-139.</pages>
+    </sequence>
+    <sequence>
+        <author>Zeldenrust, L.</author>
+        <date>2021.</date>
+        <title>Lymfocyten en immuunfunctie.</title>
+        <journal>Immunocyte Research</journal>
+        <volume>20(3),</volume>
+        <pages>189-205.</pages>
+        <url>https://www.ir-journal.nl/2021/20-3</url>
+    </sequence>
+    <sequence>
+        <author>Appel, M., &amp; Brock, N., &amp; Cornelis, O., &amp; Drees, P.</author>
+        <date>2023.</date>
+        <title>Mitochondriën en celenergie.</title>
+        <journal>Mitochondrial Biology</journal>
+        <volume>25(4),</volume>
+        <pages>289-305.</pages>
+        <doi>10.5432/mb.2023.025</doi>
+    </sequence>
+    <sequence>
+        <author>Emmerik, Q.</author>
+        <date>2022.</date>
+        <title>Nefrologie en nierfunctie.</title>
+        <journal>Nephrology Quarterly</journal>
+        <volume>21(1),</volume>
+        <pages>45-61.</pages>
+    </sequence>
+    <sequence>
+        <author>Ferris, R., &amp; Gewecke, S., &amp; Hallema, T.</author>
+        <date>(2021).</date>
+        <title>Oncologie en kankerbehandeling.</title>
+        <journal>Oncology Review</journal>
+        <volume>18(2),</volume>
+        <pages>112-128.</pages>
+        <url>https://www.oncology-review.nl/2021/18-2</url>
+    </sequence>
+    <sequence>
+        <author>Haagen, U.</author>
+        <date>2023.</date>
+        <title>Pathofysiologie van ziekten.</title>
+        <journal>Pathophysiology Journal</journal>
+        <volume>23(3),</volume>
+        <pages>201-217.</pages>
+        <doi>10.3333/pj.2023.023</doi>
+    </sequence>
+    <sequence>
+        <author>Jansen, V., &amp; Kiernan, W., &amp; Liefstingh, X.</author>
+        <date>2022.</date>
+        <title>Quorum sensing in bacteriën.</title>
+        <journal>Bacterial Communication</journal>
+        <volume>19(4),</volume>
+        <pages>289-305.</pages>
+    </sequence>
+    <sequence>
+        <author>Meijer, Y.</author>
+        <date>(2023).</date>
+        <title>Rhabdomyosarcoom en weefseltumoren.</title>
+        <journal>Tumor Biology</journal>
+        <volume>20(1),</volume>
+        <pages>34-50.</pages>
+        <url>https://www.tumor-biology.nl/2023/20-1</url>
+    </sequence>
+    <sequence>
+        <author>Oort, Z., &amp; Pfeiffer, A.</author>
+        <date>2021.</date>
+        <title>Spondylitis en wervelkolomontsteking.</title>
+        <journal>Spinal Inflammation Review</journal>
+        <volume>17(2),</volume>
+        <pages>123-139.</pages>
+        <doi>10.6789/sir.2021.017</doi>
+    </sequence>
+    <sequence>
+        <author>Rutten, B.</author>
+        <date>2023.</date>
+        <title>Trombose en bloedstolsels.</title>
+        <journal>Thrombosis &amp; Hemostasis</journal>
+        <volume>22(3),</volume>
+        <pages>189-205.</pages>
+    </sequence>
+    <sequence>
+        <author>Schinuhe, C., &amp; Thijs, D., &amp; Uijling, E., &amp; Veling, F.</author>
+        <date>2022.</date>
+        <title>Urologie en urinewegaandoeningen.</title>
+        <journal>Urology Quarterly</journal>
+        <volume>24(4),</volume>
+        <pages>267-283.</pages>
+        <url>https://www.urology-quarterly.nl/2022/24-4</url>
+    </sequence>
+    <sequence>
+        <author>Weijerden, G.</author>
+        <date>(2021).</date>
+        <title>Vasculaire aandoeningen en vaatpathologie.</title>
+        <journal>Vascular Pathology</journal>
+        <volume>19(1),</volume>
+        <pages>56-72.</pages>
+        <doi>10.4321/vp.2021.019</doi>
+    </sequence>
+    <sequence>
+        <author>Anholts, H., &amp; Bergma, I., &amp; Cluppens, J., &amp; Duivenvoorden, K.</author>
+        <date>2023.</date>
+        <title>Xenograften en heterotransplantatie.</title>
+        <journal>Transplantation Science</journal>
+        <volume>21(2),</volume>
+        <pages>145-161.</pages>
+    </sequence>
+    <sequence>
+        <author>Everaert, L.</author>
+        <date>2022.</date>
+        <title>Zoonoses en dierlijke infecties.</title>
+        <journal>Zoonotic Disease Review</journal>
+        <volume>25(3),</volume>
+        <pages>201-217.</pages>
+        <url>https://www.zdr-journal.nl/2022/25-3</url>
+    </sequence>
+    <sequence>
+        <author>Freudenthal, M., &amp; Gorsira, N.</author>
+        <date>(2023).</date>
+        <title>Aandoeningen van het zenuwstelsel.</title>
+        <journal>Neurology &amp; Neurological Disorders</journal>
+        <volume>26(4),</volume>
+        <pages>289-305.</pages>
+        <doi>10.5432/nnd.2023.026</doi>
+    </sequence>
+    <sequence>
+        <author>Hilhorst, O.</author>
+        <date>2021.</date>
+        <title>Blindheid en visuele stoornissen.</title>
+        <journal>Ophthalmology Journal</journal>
+        <volume>20(1),</volume>
+        <pages>45-61.</pages>
+    </sequence>
+    <sequence>
+        <author>Janssens, P., &amp; Knepfle, Q., &amp; Lemmens, R., &amp; Meuleman, S.</author>
+        <date>2023.</date>
+        <title>Congenitale aandoeningen en erfelijke ziekten.</title>
+        <journal>Genetic Disorders Quarterly</journal>
+        <volume>22(2),</volume>
+        <pages>112-128.</pages>
+        <url>https://www.gdq-journal.nl/2023/22-2</url>
+    </sequence>
+    <sequence>
+        <author>Wienke, T.</author>
+        <date>2022.</date>
+        <title>Doofheid en gehoorproblemen.</title>
+        <journal>Audiology Review</journal>
+        <volume>18(3),</volume>
+        <pages>189-205.</pages>
+        <doi>10.3333/ar.2022.018</doi>
+    </sequence>
+    <sequence>
+        <author>Abos, U., &amp; Brekel, V., &amp; Custers, W., &amp; Daenen, X.</author>
+        <date>(2021).</date>
+        <title>Endocriene aandoeningen en hormoonimbalans.</title>
+        <journal>Endocrinology Quarterly</journal>
+        <volume>23(4),</volume>
+        <pages>267-283.</pages>
+    </sequence>
+    <sequence>
+        <author>Floering, Y.</author>
+        <date>2023.</date>
+        <title>Fibromyalgie en chronische pijnen.</title>
+        <journal>Chronic Pain Management</journal>
+        <volume>21(1),</volume>
+        <pages>34-50.</pages>
+        <url>https://www.cpm-journal.nl/2023/21-1</url>
+    </sequence>
+    <sequence>
+        <author>Geuken, Z., &amp; Hofland, A.</author>
+        <date>2022.</date>
+        <title>Gicht en hyperurikemie.</title>
+        <journal>Metabolic Disease Review</journal>
+        <volume>19(2),</volume>
+        <pages>123-139.</pages>
+        <doi>10.6789/mdr.2022.019</doi>
+    </sequence>
+    <sequence>
+        <author>Heeren, B.</author>
+        <date>(2023).</date>
+        <title>Hepatitis en leveraandoeningen.</title>
+        <journal>Hepatology Journal</journal>
+        <volume>24(3),</volume>
+        <pages>201-217.</pages>
+    </sequence>
+    <sequence>
+        <author>Igelsman, C., &amp; Jensen, D., &amp; Koolen, E., &amp; Leenders, F.</author>
+        <date>2021.</date>
+        <title>Influenza en virale respiratoire aandoeningen.</title>
+        <journal>Respiratory Infections Quarterly</journal>
+        <volume>17(4),</volume>
+        <pages>289-305.</pages>
+        <url>https://www.riq-journal.nl/2021/17-4</url>
+    </sequence>
+    <sequence>
+        <author>Meunier, G.</author>
+        <date>2023.</date>
+        <title>Ischemia en weefselbeschadiging.</title>
+        <journal>Tissue Injury Research</journal>
+        <volume>20(1),</volume>
+        <pages>56-72.</pages>
+        <doi>10.4321/tir.2023.020</doi>
+    </sequence>
+    <sequence>
+        <author>Niklaus, H., &amp; Olthuis, I., &amp; Peterman, J., &amp; Quast, K.</author>
+        <date>2022.</date>
+        <title>Jicht en synoviale ontstekingen.</title>
+        <journal>Joint Inflammation Review</journal>
+        <volume>25(2),</volume>
+        <pages>145-161.</pages>
+    </sequence>
+    <sequence>
+        <author>Reitsma, L.</author>
+        <date>(2021).</date>
+        <title>Keratitis en hoornvliesstoornissen.</title>
+        <journal>Corneal Disease Quarterly</journal>
+        <volume>18(3),</volume>
+        <pages>189-205.</pages>
+        <url>https://www.cdq-journal.nl/2021/18-3</url>
+    </sequence>
+    <sequence>
+        <author>Suiker, M., &amp; Timmermans, N., &amp; Urquhart, O.</author>
+        <date>2023.</date>
+        <title>Lupus en systemische bindweefselaandoeningen.</title>
+        <journal>Autoimmune Disease Review</journal>
+        <volume>22(4),</volume>
+        <pages>267-283.</pages>
+        <doi>10.5432/adr.2023.022</doi>
+    </sequence>
+    <sequence>
+        <author>Vermeeren, P.</author>
+        <date>2022.</date>
+        <title>Meningitis en hersenontsteking.</title>
+        <journal>Neuroinflammation Journal</journal>
+        <volume>19(1),</volume>
+        <pages>45-61.</pages>
+    </sequence>
+    <sequence>
+        <author>Verspui, Q., &amp; Waarts, R.</author>
+        <date>(2023).</date>
+        <title>Narcolepsie en slaapstoornissen.</title>
+        <journal>Sleep Disorders Review</journal>
+        <volume>23(2),</volume>
+        <pages>112-128.</pages>
+        <url>https://www.sdr-journal.nl/2023/23-2</url>
+    </sequence>
+    <sequence>
+        <author>Werkman, S.</author>
+        <date>2021.</date>
+        <title>Osteomyelitis en botontsteking.</title>
+        <journal>Bone Infection Quarterly</journal>
+        <volume>21(3),</volume>
+        <pages>189-205.</pages>
+        <doi>10.3333/biq.2021.021</doi>
+    </sequence>
+    <sequence>
+        <author>Zaanzi, T., &amp; Bijlert, U., &amp; Caan, V., &amp; Dijkema, W.</author>
+        <date>2023.</date>
+        <title>Pancreatitis en alvleesklierontsteking.</title>
+        <journal>Pancreatic Disease Research</journal>
+        <volume>20(4),</volume>
+        <pages>267-283.</pages>
+    </sequence>
+    <sequence>
+        <author>Elmers, X.</author>
+        <date>2022.</date>
+        <title>Pneumonie en longinfecties.</title>
+        <journal>Respiratory Pathology</journal>
+        <volume>24(1),</volume>
+        <pages>45-61.</pages>
+        <url>https://www.rp-journal.nl/2022/24-1</url>
+    </sequence>
+    <sequence>
+        <author>Felten, Y., &amp; Geertsema, Z.</author>
+        <date>(2021).</date>
+        <title>Psoriasis en dermatologische aandoeningen.</title>
+        <journal>Dermatological Conditions</journal>
+        <volume>18(2),</volume>
+        <pages>123-139.</pages>
+        <doi>10.6789/dc.2021.018</doi>
+    </sequence>
+    <sequence>
+        <author>Heck, A.</author>
+        <date>2023.</date>
+        <title>Reumatoïde artritis en autoimmuune aandoeningen.</title>
+        <journal>Rheumatology Quarterly</journal>
+        <volume>25(3),</volume>
+        <pages>201-217.</pages>
+    </sequence>
+    <sequence>
+        <author>Jager, B., &amp; Kloet, C., &amp; Leeuwenstein, D., &amp; Manders, E.</author>
+        <date>2022.</date>
+        <title>Sarcoidose en multisysteemaandoeningen.</title>
+        <journal>Systemic Disease Review</journal>
+        <volume>19(4),</volume>
+        <pages>289-305.</pages>
+        <url>https://www.sdr-journal.nl/2022/19-4</url>
+    </sequence>
+    <sequence>
+        <author>Neijland, F.</author>
+        <date>(2023).</date>
+        <title>Syndroom van X-gebonden stoornis.</title>
+        <journal>X-Linked Disorder Quarterly</journal>
+        <volume>22(1),</volume>
+        <pages>34-50.</pages>
+        <doi>10.4321/xlq.2023.022</doi>
+    </sequence>
+    <sequence>
+        <author>Offershagen, G., &amp; Plakke, H., &amp; Quinzaert, I., &amp; Raat, J.</author>
+        <date>2021.</date>
+        <title>Tetanus en tetanospasme.</title>
+        <journal>Infectious Disease Quarterly</journal>
+        <volume>20(2),</volume>
+        <pages>145-161.</pages>
+    </sequence>
+    <sequence>
+        <author>Scholten, K.</author>
+        <date>2023.</date>
+        <title>Ulcuslijden en maagzweren.</title>
+        <journal>Gastric Ulcer Research</journal>
+        <volume>23(3),</volume>
+        <pages>189-205.</pages>
+        <url>https://www.gur-journal.nl/2023/23-3</url>
+    </sequence>
+    <sequence>
+        <author>Sman, L., &amp; Teunissen, M., &amp; Uitterhoeve, N.</author>
+        <date>2022.</date>
+        <title>Varicella en waterpokken.</title>
+        <journal>Viral Infection Review</journal>
+        <volume>21(4),</volume>
+        <pages>267-283.</pages>
+        <doi>10.5432/vir.2022.021</doi>
+    </sequence>
+    <sequence>
+        <author>Vos, O.</author>
+        <date>(2021).</date>
+        <title>Whooping cough en bordetellose.</title>
+        <journal>Respiratory Disease Journal</journal>
+        <volume>17(1),</volume>
+        <pages>56-72.</pages>
+    </sequence>
+    <sequence>
+        <author>Walda, P., &amp; Yates, Q.</author>
+        <date>2023.</date>
+        <title>X-ray imaging en diagnostische radiologie.</title>
+        <journal>Radiology &amp; Diagnosis</journal>
+        <volume>19(2),</volume>
+        <pages>112-128.</pages>
+        <url>https://www.rd-journal.nl/2023/19-2</url>
+    </sequence>
+    <sequence>
+        <author>Zarith, R.</author>
+        <date>2022.</date>
+        <title>Zuurgraad en erosieve aandoeningen.</title>
+        <journal>Acid Reflux Research</journal>
+        <volume>24(3),</volume>
+        <pages>189-205.</pages>
+        <doi>10.3333/arr.2022.024</doi>
+    </sequence>
+    <sequence>
+        <author>Aardema, S., &amp; Beemers, T., &amp; Cramer, U., &amp; Donkersloot, V.</author>
+        <date>(2023).</date>
+        <title>Achteruitgang in cognitieve functies.</title>
+        <journal>Cognitive Decline Quarterly</journal>
+        <volume>20(4),</volume>
+        <pages>267-283.</pages>
+    </sequence>
+    <sequence>
+        <author>Eriks, W.</author>
+        <date>2021.</date>
+        <title>Acute leverziekte en hepatische beschadiging.</title>
+        <journal>Acute Liver Disease</journal>
+        <volume>18(1),</volume>
+        <pages>34-50.</pages>
+        <url>https://www.ald-journal.nl/2021/18-1</url>
+    </sequence>
+    <sequence>
+        <author>Flom, X., &amp; Gilsing, Y.</author>
+        <date>2023.</date>
+        <title>Allergische reacties en allergiën.</title>
+        <journal>Allergy Research Review</journal>
+        <volume>22(2),</volume>
+        <pages>123-139.</pages>
+        <doi>10.6789/arr.2023.022</doi>
+    </sequence>
+    <sequence>
+        <author>Henk, Z.</author>
+        <date>2022.</date>
+        <title>Anemia en anemische stoornissen.</title>
+        <journal>Anemia Quarterly</journal>
+        <volume>19(3),</volume>
+        <pages>201-217.</pages>
+    </sequence>
+    <sequence>
+        <author>Hilbrink, A., &amp; Inden, B., &amp; Jansen, C., &amp; Koolstra, D.</author>
+        <date>(2021).</date>
+        <title>Angina pectoris en hartklachten.</title>
+        <journal>Cardiac Pain Review</journal>
+        <volume>25(4),</volume>
+        <pages>289-305.</pages>
+        <url>https://www.cpr-journal.nl/2021/25-4</url>
+    </sequence>
+    <sequence>
+        <author>Lennarts, E.</author>
+        <date>2023.</date>
+        <title>Anthrax en anthraxbesmetting.</title>
+        <journal>Biological Threat Research</journal>
+        <volume>17(1),</volume>
+        <pages>45-61.</pages>
+        <doi>10.4321/btr.2023.017</doi>
+    </sequence>
+    <sequence>
+        <author>Meijer, F., &amp; Neijssen, G., &amp; Olhoff, H., &amp; Pasman, I.</author>
+        <date>2022.</date>
+        <title>Appendicitis en appendixontsteking.</title>
+        <journal>Abdominal Surgery Quarterly</journal>
+        <volume>21(2),</volume>
+        <pages>112-128.</pages>
+    </sequence>
+    <sequence>
+        <author>Quist, J.</author>
+        <date>(2023).</date>
+        <title>Arteriosclerose en verkalking van slagaders.</title>
+        <journal>Vascular Calcification</journal>
+        <volume>23(3),</volume>
+        <pages>189-205.</pages>
+        <url>https://www.vc-journal.nl/2023/23-3</url>
+    </sequence>
+    <sequence>
+        <author>Rittenberg, K., &amp; Scholten, L., &amp; Thunemann, M., &amp; Uitentuis, N.</author>
+        <date>2021.</date>
+        <title>Asbestose en beroepsziekten.</title>
+        <journal>Occupational Disease Review</journal>
+        <volume>20(4),</volume>
+        <pages>267-283.</pages>
+        <doi>10.5432/odr.2021.020</doi>
+    </sequence>
+    <sequence>
+        <author>Smeets, O.</author>
+        <date>2023.</date>
+        <title>Astma en reactive airways disease.</title>
+        <journal>Respiratory Disease Quarterly</journal>
+        <volume>19(1),</volume>
+        <pages>56-72.</pages>
+    </sequence>
+    <sequence>
+        <author>Vasak, P., &amp; Wanders, Q.</author>
+        <date>2022.</date>
+        <title>Ateromatose en atherosclerose.</title>
+        <journal>Atherosclerosis Research</journal>
+        <volume>24(2),</volume>
+        <pages>145-161.</pages>
+        <url>https://www.ath-research.nl/2022/24-2</url>
+    </sequence>
+    <sequence>
+        <author>Ysman, R.</author>
+        <date>(2021).</date>
+        <title>Athetose en onwillekeurige bewegingen.</title>
+        <journal>Movement Disorder Quarterly</journal>
+        <volume>18(3),</volume>
+        <pages>189-205.</pages>
+        <doi>10.3333/mdq.2021.018</doi>
+    </sequence>
+    <sequence>
+        <author>Addinks, S., &amp; Bauer, T., &amp; Caspers, U., &amp; Dickman, V.</author>
+        <date>2023.</date>
+        <title>Atriale fibrillatie en hartritmestoornissen.</title>
+        <journal>Cardiac Arrhythmia Review</journal>
+        <volume>21(4),</volume>
+        <pages>267-283.</pages>
+    </sequence>
+    <sequence>
+        <author>Eijkern, W.</author>
+        <date>2022.</date>
+        <title>Autisme en autismespectrumstoornis.</title>
+        <journal>Autism Spectrum Research</journal>
+        <volume>22(1),</volume>
+        <pages>34-50.</pages>
+        <url>https://www.asr-journal.nl/2022/22-1</url>
+    </sequence>
+    <sequence>
+        <author>Flipsen, X., &amp; Groen, Y.</author>
+        <date>(2023).</date>
+        <title>Bacteriële infecties en septicemie.</title>
+        <journal>Bacterial Infection Quarterly</journal>
+        <volume>20(2),</volume>
+        <pages>123-139.</pages>
+        <doi>10.6789/biq.2023.020</doi>
+    </sequence>
+    <sequence>
+        <author>Heiselman, Z.</author>
+        <date>2021.</date>
+        <title>Baldheid en haaruitval.</title>
+        <journal>Hair Loss Review</journal>
+        <volume>19(3),</volume>
+        <pages>201-217.</pages>
+    </sequence>
+    <sequence>
+        <author>van Houten, R.</author>
+        <date>(2024).</date>
+        <title>Digitale geletterdheid onder eerstejaarsstudenten.</title>
+        <journal>Journal voor Hoger Onderwijs</journal>
+        <volume>27(1),</volume>
+        <pages>15-33.</pages>
+        <doi>10.2487/jho.2024.27101</doi>
+    </sequence>
+    <sequence>
+        <author>de Jonge, M., &amp; Kuiper, T.</author>
+        <date>2023.</date>
+        <title>Regionale verschillen in huisartsenzorg.</title>
+        <journal>Nederlands Tijdschrift voor Volksgezondheid</journal>
+        <volume>41(2),</volume>
+        <pages>88-104.</pages>
+    </sequence>
+    <sequence>
+        <author>Smulders, P.</author>
+        <date>2022.</date>
+        <title>Algoritmische besluitvorming bij gemeenten.</title>
+        <journal>Bestuurskunde en Technologie</journal>
+        <volume>14(4),</volume>
+        <pages>201-219.</pages>
+        <url>https://www.bestuurskunde-technologie.nl/2022/14-4/algoritmische-besluitvorming</url>
+    </sequence>
+    <sequence>
+        <author>Wouters, E., &amp; Janssen, H., &amp; Bosman, L.</author>
+        <date>(2024).</date>
+        <title>Werkdruk en verloopintentie in de verpleging.</title>
+        <journal>Zorg en Arbeid</journal>
+        <volume>18(3),</volume>
+        <pages>122-141.</pages>
+        <doi>10.5561/za.2024.18307</doi>
+    </sequence>
+    <sequence>
+        <author>van Rooy, N.</author>
+        <date>2021.</date>
+        <title>Stikstofbeleid en vergunningverlening.</title>
+        <journal>Milieurecht Actueel</journal>
+        <volume>33(2),</volume>
+        <pages>56-73.</pages>
+    </sequence>
+    <sequence>
+        <author>Peeters, K., &amp; Otten, S.</author>
+        <date>2023.</date>
+        <title>Online fraudepreventie bij ouderen.</title>
+        <journal>Cyberveiligheid in Praktijk</journal>
+        <volume>9(1),</volume>
+        <pages>9-27.</pages>
+        <doi>10.9034/cvp.2023.09102</doi>
+        <url>https://www.cyberveiligheidinpraktijk.nl/artikel/9-1-fraudepreventie-ouderen</url>
+    </sequence>
+    <sequence>
+        <author>de Lange, B.</author>
+        <date>(2022).</date>
+        <title>Cultureel ondernemerschap in middelgrote steden.</title>
+        <journal>Creatieve Economie Nederland</journal>
+        <volume>11(3),</volume>
+        <pages>147-165.</pages>
+    </sequence>
+    <sequence>
+        <author>van Eijk, A., &amp; Haring, D., &amp; Linders, M., et al.</author>
+        <date>2024.</date>
+        <title>Snelle triage op de spoedeisende hulp met AI-ondersteuning.</title>
+        <journal>Medische Informatica Review</journal>
+        <volume>22(2),</volume>
+        <pages>77-96.</pages>
+        <doi>10.7742/mir.2024.22204</doi>
+    </sequence>
+    <sequence>
+        <author>Groenendijk, J.</author>
+        <date>2023.</date>
+        <title>De effectiviteit van buurtbemiddeling.</title>
+        <journal>Sociaal Werk Tijdschrift</journal>
+        <volume>29(4),</volume>
+        <pages>211-229.</pages>
+    </sequence>
+    <sequence>
+        <author>van Doorn, I., &amp; Koster, P.</author>
+        <date>(2024).</date>
+        <title>Elektrische deelmobiliteit en ruimtelijke ordening.</title>
+        <journal>Mobiliteit &amp; Stad</journal>
+        <volume>16(1),</volume>
+        <pages>33-50.</pages>
+        <url>https://www.mobiliteitstad.nl/jaargang16/nummer1/deelmobiliteit-ruimtelijke-ordening</url>
+    </sequence>
+    <sequence>
+        <author>Visser, T.</author>
+        <date>2020.</date>
+        <title>Lezen op scherm versus papier in het voortgezet onderwijs.</title>
+        <journal>Didactiek Vandaag</journal>
+        <volume>12(2),</volume>
+        <pages>61-79.</pages>
+        <doi>10.4477/dv.2020.12205</doi>
+    </sequence>
+    <sequence>
+        <author>Mulder, C., &amp; van Ginkel, S., &amp; Buiting, F.</author>
+        <date>2021.</date>
+        <title>Prijsprikkels en gezond koopgedrag in supermarkten.</title>
+        <journal>Voeding en Beleid</journal>
+        <volume>8(3),</volume>
+        <pages>140-158.</pages>
+    </sequence>
+    <sequence>
+        <author>Rietveld, H.</author>
+        <date>(2023).</date>
+        <title>Nieuwe normen voor datadeling in ketenzorg.</title>
+        <journal>Tijdschrift voor Zorginnovatie</journal>
+        <volume>19(2),</volume>
+        <pages>97-113.</pages>
+    </sequence>
+    <sequence>
+        <author>de Wit, G., &amp; van Meel, R.</author>
+        <date>2024.</date>
+        <title>Brandveiligheid in hoogbouw: lessen uit praktijkdata.</title>
+        <journal>Bouwkunde en Veiligheid</journal>
+        <volume>25(1),</volume>
+        <pages>24-42.</pages>
+        <doi>10.6012/bv.2024.25103</doi>
+    </sequence>
+    <sequence>
+        <author>Kramer, S.</author>
+        <date>2022.</date>
+        <title>Taalattitudes bij meertalige jongeren in Rotterdam.</title>
+        <journal>Taal en Samenleving</journal>
+        <volume>30(3),</volume>
+        <pages>166-184.</pages>
+        <url>https://www.taalen-samenleving.nl/artikel/2022/30-3/taalattitudes-rotterdam</url>
+    </sequence>
+    <sequence>
+        <author>van Loon, M., &amp; Evers, A., et al.</author>
+        <date>(2021).</date>
+        <title>Predictoren van studievertraging in bacheloropleidingen.</title>
+        <journal>Hoger Onderwijs Onderzoek</journal>
+        <volume>17(4),</volume>
+        <pages>245-263.</pages>
+        <doi>10.8190/hoo.2021.17408</doi>
+    </sequence>
+    <sequence>
+        <author>Hendriks, W.</author>
+        <date>2024.</date>
+        <title>Rechtsvergelijking van platformarbeid in de Benelux.</title>
+        <journal>Arbeidsrecht Europa</journal>
+        <volume>13(2),</volume>
+        <pages>71-90.</pages>
+    </sequence>
+    <sequence>
+        <author>Meijerink, D., &amp; van Schaik, J.</author>
+        <date>2023.</date>
+        <title>Klimaatadaptatie in historische binnensteden.</title>
+        <journal>Ruimte en Klimaat</journal>
+        <volume>10(4),</volume>
+        <pages>201-220.</pages>
+        <url>https://www.ruimteklimaat.nl/2023/10-4/klimaatadaptatie-binnensteden</url>
+    </sequence>
+    <sequence>
+        <author>Arendse, L.</author>
+        <date>(2022).</date>
+        <title>Patiëntportalen en ervaren regie in de eerstelijnszorg.</title>
+        <journal>eHealth en Praktijk</journal>
+        <volume>7(2),</volume>
+        <pages>55-72.</pages>
+        <doi>10.3328/ehp.2022.07202</doi>
+    </sequence>
+    <sequence>
+        <author>de Bruin, V., &amp; van Oijen, K., &amp; Schonewille, M.</author>
+        <date>2024.</date>
+        <title>Langdurig thuiswerken en teamcohesie.</title>
+        <journal>Organisatiepsychologie Vandaag</journal>
+        <volume>21(1),</volume>
+        <pages>12-31.</pages>
+    </sequence>
+    <sequence>
+        <author>Koopman, R.</author>
+        <date>2023.</date>
+        <title>Verduurzaming van bedrijventerreinen: een evaluatie.</title>
+        <journal>Energiebeleid Kwartaal</journal>
+        <volume>15(3),</volume>
+        <pages>138-156.</pages>
+        <doi>10.4904/ebk.2023.15306</doi>
+    </sequence>
+    <sequence>
+        <author>Veldhuis, A., &amp; Timmer, E.</author>
+        <date>(2021).</date>
+        <title>Publiek vertrouwen in lokale journalistiek.</title>
+        <journal>Mediaonderzoek Nederland</journal>
+        <volume>26(2),</volume>
+        <pages>84-102.</pages>
+        <url>https://www.mediaonderzoek-nederland.nl/2021/26-2/vertrouwen-lokale-journalistiek</url>
+    </sequence>
+    <sequence>
+        <author>van Damme, P.</author>
+        <date>2022.</date>
+        <title>Waterstof in regionale energiesystemen.</title>
+        <journal>Techniek en Transitie</journal>
+        <volume>12(1),</volume>
+        <pages>29-47.</pages>
+    </sequence>
+    <sequence>
+        <author>Huls, M., &amp; de Groot, N., et al.</author>
+        <date>2023.</date>
+        <title>Effecten van schoolmaaltijden op concentratie in de klas.</title>
+        <journal>Pedagogische Studies</journal>
+        <volume>44(4),</volume>
+        <pages>267-286.</pages>
+        <doi>10.7088/ps.2023.44409</doi>
+    </sequence>
+    <sequence>
+        <author>van Kesteren, F.</author>
+        <date>(2024).</date>
+        <title>Open data en burgerwetenschap in luchtkwaliteitsmetingen.</title>
+        <journal>Data &amp; Samenleving</journal>
+        <volume>9(2),</volume>
+        <pages>63-81.</pages>
+        <url>https://www.dataensamenleving.nl/jaargang9/nummer2/luchtkwaliteit-burgerwetenschap</url>
+    </sequence>
+    <sequence>
+        <author>de Graaf, H., &amp; van Lier, J.</author>
+        <date>2021.</date>
+        <title>Leefbaarheid en huurprijsontwikkeling in naoorlogse wijken.</title>
+        <journal>Stedelijke Ontwikkeling</journal>
+        <volume>32(3),</volume>
+        <pages>150-169.</pages>
+    </sequence>
+    <sequence>
+        <author>Veenstra, K.</author>
+        <date>2022.</date>
+        <title>Studentwelzijn tijdens blended learning.</title>
+        <journal>Onderwijs in Verandering</journal>
+        <volume>18(2),</volume>
+        <pages>92-110.</pages>
+        <doi>10.6154/oiv.2022.18204</doi>
+    </sequence>
+    <sequence>
+        <author>Rombouts, T., &amp; Koetsier, B.</author>
+        <date>(2023).</date>
+        <title>Materiaalpaspoorten in de circulaire bouw.</title>
+        <journal>Circulaire Economie Review</journal>
+        <volume>13(1),</volume>
+        <pages>18-36.</pages>
+        <url>https://www.circulaireeconomie-review.nl/2023/13-1/materiaalpaspoorten</url>
+    </sequence>
+    <sequence>
+        <author>van Dalen, S.</author>
+        <date>2024.</date>
+        <title>Mentorschap en studiesucces bij eerste generatie studenten.</title>
+        <journal>Academische Praktijk</journal>
+        <volume>11(4),</volume>
+        <pages>205-223.</pages>
+    </sequence>
+    <sequence>
+        <author>Brinkman, E., &amp; Postma, L., &amp; Vrolijk, P.</author>
+        <date>2023.</date>
+        <title>Zelfredzaamheid en digitale loketten bij gemeenten.</title>
+        <journal>Publieke Dienstverlening</journal>
+        <volume>20(3),</volume>
+        <pages>133-152.</pages>
+        <doi>10.2871/pd.2023.20305</doi>
+    </sequence>
+    <sequence>
+        <author>Hagenaar, D.</author>
+        <date>(2022).</date>
+        <title>Misinformatie over vaccins op Nederlandstalige platforms.</title>
+        <journal>Gezondheidscommunicatie</journal>
+        <volume>14(2),</volume>
+        <pages>74-92.</pages>
+        <url>https://www.gezondheidscommunicatie.nl/2022/14-2/misinformatie-vaccins</url>
+    </sequence>
+    <sequence>
+        <author>de Ruiter, M., &amp; Jorritsma, R.</author>
+        <date>2021.</date>
+        <title>Wachtlijsten in de ggz: trends en verklaringen.</title>
+        <journal>Psychische Zorg Monitor</journal>
+        <volume>16(4),</volume>
+        <pages>231-249.</pages>
+    </sequence>
+    <sequence>
+        <author>van Pelt, A.</author>
+        <date>2023.</date>
+        <title>Fietsveiligheid op drukke kruispunten.</title>
+        <journal>Verkeer en Infrastructuur</journal>
+        <volume>28(1),</volume>
+        <pages>11-30.</pages>
+        <doi>10.5503/vi.2023.28102</doi>
+    </sequence>
+    <sequence>
+        <author>Schoemaker, J., &amp; de Koning, F., et al.</author>
+        <date>(2024).</date>
+        <title>Spraakherkenning voor medische verslaglegging in het Nederlands.</title>
+        <journal>Toegepaste Taaltechnologie</journal>
+        <volume>9(3),</volume>
+        <pages>143-162.</pages>
+    </sequence>
+    <sequence>
+        <author>van Baaren, H.</author>
+        <date>2022.</date>
+        <title>Publieke percepties van kernenergie na 2020.</title>
+        <journal>Energie en Opinie</journal>
+        <volume>6(2),</volume>
+        <pages>58-76.</pages>
+        <url>https://www.energie-en-opinie.nl/2022/6-2/publieke-percepties-kernenergie</url>
+    </sequence>
+    <sequence>
+        <author>Verbeek, R., &amp; van Emmerik, N.</author>
+        <date>(2021).</date>
+        <title>Docentprofessionalisering in hybride onderwijsomgevingen.</title>
+        <journal>Leren en Lesgeven</journal>
+        <volume>24(3),</volume>
+        <pages>169-187.</pages>
+        <doi>10.7091/ll.2021.24306</doi>
+    </sequence>
+    <sequence>
+        <author>de Vaan, S.</author>
+        <date>2023.</date>
+        <title>De rol van wijkverpleegkundigen bij valpreventie.</title>
+        <journal>Preventie in de Zorg</journal>
+        <volume>12(4),</volume>
+        <pages>214-232.</pages>
+    </sequence>
+    <sequence>
+        <author>Kieft, M., &amp; van Nuland, G., &amp; Bos, T.</author>
+        <date>2024.</date>
+        <title>Datagedreven onderhoud van regionale spoorlijnen.</title>
+        <journal>Rail en Mobiliteit</journal>
+        <volume>10(1),</volume>
+        <pages>20-39.</pages>
+        <doi>10.3920/rm.2024.10103</doi>
+    </sequence>
+    <sequence>
+        <author>van Beusekom, L.</author>
+        <date>(2022).</date>
+        <title>Participatieve begrotingen in Nederlandse gemeenten.</title>
+        <journal>Lokale Democratie</journal>
+        <volume>15(2),</volume>
+        <pages>93-111.</pages>
+    </sequence>
+    <sequence>
+        <author>de Keijzer, A., &amp; Prins, H.</author>
+        <date>2021.</date>
+        <title>Schuldenproblematiek en vroegsignalering bij jongeren.</title>
+        <journal>Sociaal Beleid Kwartaal</journal>
+        <volume>19(1),</volume>
+        <pages>41-59.</pages>
+        <url>https://www.sociaalbeleidkwartaal.nl/2021/19-1/vroegsignalering-jongeren</url>
+    </sequence>
+    <sequence>
+        <author>van Mierlo, E.</author>
+        <date>2023.</date>
+        <title>Open source software in publieke ICT-aanbestedingen.</title>
+        <journal>IT-Recht en Beleid</journal>
+        <volume>8(4),</volume>
+        <pages>225-244.</pages>
+        <doi>10.6408/irb.2023.08407</doi>
+    </sequence>
+    <sequence>
+        <author>Hofstede, T., &amp; van Reenen, C.</author>
+        <date>(2024).</date>
+        <title>Vraagrespons in stedelijke warmtenetten.</title>
+        <journal>Energietechniek Nederland</journal>
+        <volume>17(3),</volume>
+        <pages>132-150.</pages>
+    </sequence>
+    <sequence>
+        <author>van Kooten, J.</author>
+        <date>2022.</date>
+        <title>Revalidatie-uitkomsten na heupfractuur bij 80-plussers.</title>
+        <journal>Geriatrie en Herstel</journal>
+        <volume>13(2),</volume>
+        <pages>67-85.</pages>
+        <doi>10.5133/gh.2022.13203</doi>
+        <url>https://www.geriatrie-en-herstel.nl/2022/13-2/heupfractuur-uitkomsten</url>
+    </sequence>
+    <sequence>
+        <author>Rademaker, I., &amp; Wessels, M., &amp; van der Meer, B.</author>
+        <date>(2023).</date>
+        <title>Werkplekleren in technische mbo-opleidingen.</title>
+        <journal>Beroepsonderwijs Onderzocht</journal>
+        <volume>22(1),</volume>
+        <pages>13-32.</pages>
+    </sequence>
+    <sequence>
+        <author>de Winter, P.</author>
+        <date>2021.</date>
+        <title>Stedelijke hitte en gezondheid in kwetsbare buurten.</title>
+        <journal>Gezondheid en Ruimte</journal>
+        <volume>9(3),</volume>
+        <pages>154-172.</pages>
+    </sequence>
+    <sequence>
+        <author>van den Broek, N., &amp; Segers, L.</author>
+        <date>2024.</date>
+        <title>Langetermijneffecten van coronabeleid op mentale gezondheid.</title>
+        <journal>Psychologie en Maatschappij</journal>
+        <volume>31(2),</volume>
+        <pages>95-114.</pages>
+        <doi>10.7740/pm.2024.31204</doi>
+    </sequence>
+    <sequence>
+        <author>van Til, K.</author>
+        <date>(2023).</date>
+        <title>De betrouwbaarheid van AI-gegenereerde samenvattingen in het recht.</title>
+        <journal>Juridische Informatica</journal>
+        <volume>12(4),</volume>
+        <pages>238-257.</pages>
+        <url>https://www.juridische-informatica.nl/2023/12-4/ai-samenvattingen-recht</url>
+    </sequence>
+    <sequence>
+        <author>de Boer, Y., &amp; Lambooij, R., et al.</author>
+        <date>2022.</date>
+        <title>Woningisolatie en energiearmoede: een quasi-experimentele studie.</title>
+        <journal>Tijdschrift voor Sociaal-Economisch Beleid</journal>
+        <volume>20(3),</volume>
+        <pages>146-165.</pages>
+        <doi>10.9221/tseb.2022.20306</doi>
+    </sequence>
+    <sequence>
+        <author>van Vliet, C.</author>
+        <date>2021.</date>
+        <title>Meertalige dienstverlening in ziekenhuizen.</title>
+        <journal>Zorgcommunicatie</journal>
+        <volume>15(1),</volume>
+        <pages>21-39.</pages>
+    </sequence>
+    <sequence>
+        <author>Kapteijn, S., &amp; de Vos, A.</author>
+        <date>(2024).</date>
+        <title>Digitale toegankelijkheid van gemeentelijke websites.</title>
+        <journal>Overheid en Digitale Inclusie</journal>
+        <volume>7(1),</volume>
+        <pages>5-24.</pages>
+        <url>https://www.overheiddigitaleinclusie.nl/2024/7-1/toegankelijkheid-websites</url>
+    </sequence>
+    <sequence>
+        <author>Hoorn, B.</author>
+        <date>2023.</date>
+        <title>Zelfregulatie en toetsangst bij havo-leerlingen.</title>
+        <journal>Onderwijspsychologie</journal>
+        <volume>28(4),</volume>
+        <pages>219-237.</pages>
+        <doi>10.3622/op.2023.28408</doi>
+    </sequence>
+    <sequence>
+        <author>van Andel, M., &amp; Eijgenraam, F.</author>
+        <date>2022.</date>
+        <title>Regionale voedselketens en korte logistieke lijnen.</title>
+        <journal>Agrologistiek Studies</journal>
+        <volume>9(2),</volume>
+        <pages>73-92.</pages>
+    </sequence>
+    <sequence>
+        <author>Bloem, D.</author>
+        <date>(2024).</date>
+        <title>Jongerenparticipatie bij buurtvergroening.</title>
+        <journal>Stadsnatuur en Beleid</journal>
+        <volume>6(3),</volume>
+        <pages>141-159.</pages>
+        <url>https://www.stadsnatuurenbeleid.nl/2024/6-3/jongerenparticipatie</url>
+    </sequence>
+    <sequence>
+        <author>de Man, T., &amp; van de Kamp, P.</author>
+        <date>2021.</date>
+        <title>Auditcultuur en professionele autonomie in de zorg.</title>
+        <journal>Beleid en Beroep</journal>
+        <volume>18(2),</volume>
+        <pages>80-99.</pages>
+        <doi>10.2817/bb.2021.18205</doi>
+    </sequence>
+    <sequence>
+        <author>van Rijn, H.</author>
+        <date>2023.</date>
+        <title>Lokale energiecooperaties en burgervertrouwen.</title>
+        <journal>Duurzame Samenleving</journal>
+        <volume>14(1),</volume>
+        <pages>27-45.</pages>
+    </sequence>
+    <sequence>
+        <author>Terlouw, V., &amp; van Wijk, R., et al.</author>
+        <date>(2022).</date>
+        <title>Digitale vaardigheden van zij-instromers in het onderwijs.</title>
+        <journal>Professionalisering in Onderwijs</journal>
+        <volume>12(3),</volume>
+        <pages>151-170.</pages>
+        <doi>10.8483/pio.2022.12306</doi>
+    </sequence>
+    <sequence>
+        <author>de Haan, L.</author>
+        <date>2024.</date>
+        <title>Klachtenprocedures bij jeugdhulporganisaties.</title>
+        <journal>Jeugdbeleid in Praktijk</journal>
+        <volume>10(2),</volume>
+        <pages>60-79.</pages>
+        <url>https://www.jeugdbeleidinpraktijk.nl/2024/10-2/klachtenprocedures</url>
+    </sequence>
+    <sequence>
+        <author>van der Wal, M., &amp; Oerlemans, J.</author>
+        <date>(2023).</date>
+        <title>Simulatieonderwijs in verpleegkundige vervolgopleidingen.</title>
+        <journal>Onderwijs in de Zorg</journal>
+        <volume>16(3),</volume>
+        <pages>136-154.</pages>
+    </sequence>
+    <sequence>
+        <author>de Nooij, C.</author>
+        <date>2021.</date>
+        <title>Hittestress op schoolpleinen en eenvoudige interventies.</title>
+        <journal>Klimaat en Jeugd</journal>
+        <volume>5(4),</volume>
+        <pages>188-206.</pages>
+        <doi>10.7119/kj.2021.05407</doi>
+    </sequence>
+    <sequence>
+        <author>van Tongeren, E., &amp; de Bruijn, S.</author>
+        <date>2024.</date>
+        <title>Risicoselectie in algoritmen voor uitkeringscontrole.</title>
+        <journal>Sociaal Recht en Data</journal>
+        <volume>8(1),</volume>
+        <pages>14-33.</pages>
+    </sequence>
+    <sequence>
+        <author>Koole, F.</author>
+        <date>(2022).</date>
+        <title>Verkeerslawaai en slaapkwaliteit in stedelijke corridors.</title>
+        <journal>Omgevingsgezondheid</journal>
+        <volume>13(2),</volume>
+        <pages>86-104.</pages>
+        <url>https://www.omgevingsgezondheid.nl/2022/13-2/verkeerslawaai-slaapkwaliteit</url>
+    </sequence>
+    <sequence>
+        <author>van den Akker, J., &amp; Bennis, K., &amp; Drost, M.</author>
+        <date>2023.</date>
+        <title>Effect van deeltijdstudie op studiesucces in het hbo.</title>
+        <journal>Studie en Loopbaan</journal>
+        <volume>21(4),</volume>
+        <pages>246-265.</pages>
+        <doi>10.4420/sl.2023.21409</doi>
+    </sequence>
+    <sequence>
+        <author>de Roo, P.</author>
+        <date>2021.</date>
+        <title>Openbaar vervoer en sociale inclusie in krimpregio's.</title>
+        <journal>Regionale Mobiliteit</journal>
+        <volume>11(3),</volume>
+        <pages>152-170.</pages>
+    </sequence>
+    <sequence>
+        <author>van Gurp, A., &amp; Wester, H.</author>
+        <date>(2024).</date>
+        <title>Rekenangst en numerieke geletterdheid bij volwassenen.</title>
+        <journal>Volwasseneneducatie</journal>
+        <volume>9(1),</volume>
+        <pages>17-35.</pages>
+        <doi>10.5388/ve.2024.09104</doi>
+    </sequence>
+    <sequence>
+        <author>Prins, R.</author>
+        <date>2023.</date>
+        <title>De governance van regionale dataplatforms.</title>
+        <journal>Publieke Innovatie Review</journal>
+        <volume>12(2),</volume>
+        <pages>79-98.</pages>
+        <url>https://www.publieke-innovatie-review.nl/2023/12-2/governance-dataplatforms</url>
+    </sequence>
+    <sequence>
+        <author>van Dongen, G., &amp; Nijland, V.</author>
+        <date>2022.</date>
+        <title>Schooluitval en sociaal-economische achtergrond.</title>
+        <journal>Onderwijs en Ongelijkheid</journal>
+        <volume>18(4),</volume>
+        <pages>204-223.</pages>
+    </sequence>
+    <sequence>
+        <author>de Boer, I.</author>
+        <date>(2024).</date>
+        <title>Stadslogistiek met emissievrije zones: eerste effecten.</title>
+        <journal>Transport en Duurzaamheid</journal>
+        <volume>14(2),</volume>
+        <pages>91-110.</pages>
+        <doi>10.6605/td.2024.14205</doi>
+    </sequence>
+    <sequence>
+        <author>Smid, N., &amp; van Helden, C., et al.</author>
+        <date>2021.</date>
+        <title>Hulpmiddelengebruik bij thuiswonende ouderen.</title>
+        <journal>Gerontologie Vandaag</journal>
+        <volume>22(1),</volume>
+        <pages>25-44.</pages>
+    </sequence>
+    <sequence>
+        <author>van Rees, T.</author>
+        <date>2023.</date>
+        <title>Inclusieve ontwerpprincipes voor publieke apps.</title>
+        <journal>Mens en Interface</journal>
+        <volume>8(3),</volume>
+        <pages>159-178.</pages>
+        <url>https://www.menseninterface.nl/2023/8-3/inclusieve-ontwerpprincipes</url>
+    </sequence>
+    <sequence>
+        <author>Leijten, S., &amp; van der Laan, B.</author>
+        <date>(2022).</date>
+        <title>Docentfeedback en motivatie in het mbo.</title>
+        <journal>Beroepspedagogiek</journal>
+        <volume>13(2),</volume>
+        <pages>88-107.</pages>
+        <doi>10.5016/bp.2022.13203</doi>
+    </sequence>
+    <sequence>
+        <author>van Asten, E.</author>
+        <date>2024.</date>
+        <title>Vergrijzing en vrijwilligerswerk in dorpskernen.</title>
+        <journal>Platteland en Samenleving</journal>
+        <volume>7(4),</volume>
+        <pages>202-221.</pages>
+    </sequence>
+    <sequence>
+        <author>de Bie, H., &amp; Romijn, M.</author>
+        <date>(2021).</date>
+        <title>Cyberpesten en psychosociaal welbevinden bij tieners.</title>
+        <journal>Jeugd en Media</journal>
+        <volume>10(3),</volume>
+        <pages>132-151.</pages>
+        <url>https://www.jeugdenmedia.nl/2021/10-3/cyberpesten-welbevinden</url>
+    </sequence>
+    <sequence>
+        <author>Vink, P.</author>
+        <date>2023.</date>
+        <title>Sensoren voor voorspellend onderhoud van bruggen.</title>
+        <journal>Civiele Techniek Nu</journal>
+        <volume>19(1),</volume>
+        <pages>30-49.</pages>
+        <doi>10.2743/ctn.2023.19104</doi>
+    </sequence>
+    <sequence>
+        <author>de Graauw, F., &amp; Hamming, J.</author>
+        <date>2022.</date>
+        <title>Zelfrapportage en objectieve metingen van beweeggedrag.</title>
+        <journal>Sportwetenschap in Nederland</journal>
+        <volume>14(4),</volume>
+        <pages>211-230.</pages>
+    </sequence>
+    <sequence>
+        <author>van Asselt, C.</author>
+        <date>(2024).</date>
+        <title>Bibliotheekfuncties in de digitale wijk.</title>
+        <journal>Cultuur en Publiek</journal>
+        <volume>9(2),</volume>
+        <pages>71-90.</pages>
+        <url>https://www.cultuurenpubliek.nl/2024/9-2/bibliotheekfuncties-digitale-wijk</url>
+    </sequence>
+    <sequence>
+        <author>de Vet, M., &amp; van der Sluijs, L., et al.</author>
+        <date>2021.</date>
+        <title>Samenwerking tussen ggz en huisartsenposten.</title>
+        <journal>Tijdschrift voor Integrale Zorg</journal>
+        <volume>12(1),</volume>
+        <pages>18-37.</pages>
+        <doi>10.8841/tiz.2021.12102</doi>
+    </sequence>
+    <sequence>
+        <author>Goudriaan, R.</author>
+        <date>2023.</date>
+        <title>Levenslang ontwikkelen bij technische beroepen.</title>
+        <journal>Arbeidsmarkt en Scholing</journal>
+        <volume>16(2),</volume>
+        <pages>94-113.</pages>
+    </sequence>
+    <sequence>
+        <author>van den Heuvel, J., &amp; Molenaar, A.</author>
+        <date>(2022).</date>
+        <title>Kwaliteitsindicatoren in wijkgerichte jeugdzorg.</title>
+        <journal>Jeugdzorg Onderzoek</journal>
+        <volume>11(3),</volume>
+        <pages>153-172.</pages>
+        <doi>10.3076/jo.2022.11305</doi>
+    </sequence>
+    <sequence>
+        <author>de Wolff, E.</author>
+        <date>2024.</date>
+        <title>De rol van de ombudsfunctie bij publieke conflicten.</title>
+        <journal>Bestuurlijke Rechtspraktijk</journal>
+        <volume>23(1),</volume>
+        <pages>36-55.</pages>
+    </sequence>
+    <sequence>
+        <author>Schouten, B., &amp; van Nierop, T.</author>
+        <date>(2021).</date>
+        <title>Data-ethiek in onderwijsanalytics.</title>
+        <journal>Ethiek en Technologie</journal>
+        <volume>8(4),</volume>
+        <pages>220-239.</pages>
+        <url>https://www.ethieken-technologie.nl/2021/8-4/data-ethiek-onderwijsanalytics</url>
+    </sequence>
+    <sequence>
+        <author>Kempen, I.</author>
+        <date>2023.</date>
+        <title>Veranderende woonvoorkeuren van starters.</title>
+        <journal>Wonen en Markt</journal>
+        <volume>17(2),</volume>
+        <pages>82-101.</pages>
+        <doi>10.7098/wm.2023.17204</doi>
+    </sequence>
+    <sequence>
+        <author>van den Berg, T., &amp; Veltkamp, R.</author>
+        <date>2022.</date>
+        <title>Beleidsevaluatie van schoolzwemprogramma's.</title>
+        <journal>Beweging en Onderwijs</journal>
+        <volume>12(2),</volume>
+        <pages>99-118.</pages>
+    </sequence>
+    <sequence>
+        <author>de Groot, P.</author>
+        <date>(2024).</date>
+        <title>Dynamische snelheidslimieten en verkeersdoorstroming.</title>
+        <journal>Mobiliteitsmanagement</journal>
+        <volume>15(1),</volume>
+        <pages>26-45.</pages>
+        <url>https://www.mobiliteitsmanagement.nl/2024/15-1/dynamische-snelheidslimieten</url>
+    </sequence>
+    <sequence>
+        <author>Huizinga, A., &amp; van Roon, S., et al.</author>
+        <date>2023.</date>
+        <title>Telefonische triage en werkbelasting in huisartsenpraktijken.</title>
+        <journal>Eerstelijnszorg Onderzocht</journal>
+        <volume>14(3),</volume>
+        <pages>142-161.</pages>
+        <doi>10.5448/ezo.2023.14306</doi>
+    </sequence>
+    <sequence>
+        <author>van der Burg, K.</author>
+        <date>2021.</date>
+        <title>Stedelijke voedselbossen en buurtcohesie.</title>
+        <journal>Ecologie in de Stad</journal>
+        <volume>6(1),</volume>
+        <pages>19-38.</pages>
+    </sequence>
+    <sequence>
+        <author>de Kroon, M., &amp; Vissers, J.</author>
+        <date>(2022).</date>
+        <title>Tijdig signaleren van leerachterstanden in groep 7.</title>
+        <journal>Basisonderwijs in Beeld</journal>
+        <volume>20(4),</volume>
+        <pages>228-247.</pages>
+    </sequence>
+    <sequence>
+        <author>van Hese, R.</author>
+        <date>2024.</date>
+        <title>Leegstandstransformatie naar betaalbare huurwoningen.</title>
+        <journal>Vastgoed en Beleid</journal>
+        <volume>18(2),</volume>
+        <pages>87-106.</pages>
+        <doi>10.2890/vb.2024.18205</doi>
+    </sequence>
+    <sequence>
+        <author>Paauwe, L., &amp; Miedema, C.</author>
+        <date>(2023).</date>
+        <title>Docentburn-out en organisatorische ondersteuning.</title>
+        <journal>Onderwijsmanagement Kwartaal</journal>
+        <volume>13(3),</volume>
+        <pages>149-168.</pages>
+        <url>https://www.onderwijsmanagement-kwartaal.nl/2023/13-3/docentburn-out</url>
+    </sequence>
+    <sequence>
+        <author>van Os, B.</author>
+        <date>2022.</date>
+        <title>Waterberging en multifunctionele pleinen.</title>
+        <journal>Klimaatbestendige Stad</journal>
+        <volume>9(4),</volume>
+        <pages>210-229.</pages>
+        <doi>10.6110/ks.2022.09408</doi>
+    </sequence>
+    <sequence>
+        <author>de Jong, R., &amp; van den Elzen, T., et al.</author>
+        <date>(2021).</date>
+        <title>Chatondersteuning voor schuldhulpverlening.</title>
+        <journal>Digitale Hulpverlening</journal>
+        <volume>7(2),</volume>
+        <pages>66-85.</pages>
+    </sequence>
+    <sequence>
+        <author>Witteveen, F.</author>
+        <date>2024.</date>
+        <title>Participatie van ouders in voorschoolse educatie.</title>
+        <journal>Vroege Ontwikkeling</journal>
+        <volume>11(1),</volume>
+        <pages>23-42.</pages>
+        <url>https://www.vroegeontwikkeling.nl/2024/11-1/participatie-ouders</url>
+    </sequence>
+    <sequence>
+        <author>van Dijk, H., &amp; Bontenbal, N.</author>
+        <date>2023.</date>
+        <title>Burgerberaden en lokaal klimaatbeleid.</title>
+        <journal>Democratische Innovatie</journal>
+        <volume>8(2),</volume>
+        <pages>75-94.</pages>
+        <doi>10.7314/di.2023.08203</doi>
+    </sequence>
+    <sequence>
+        <author>de Zeeuw, K.</author>
+        <date>(2022).</date>
+        <title>Open standaarden in gemeentelijke softwareketens.</title>
+        <journal>ICT en Overheid</journal>
+        <volume>19(3),</volume>
+        <pages>171-190.</pages>
+    </sequence>
+    <sequence>
+        <author>van der Plas, C., &amp; van Veen, M.</author>
+        <date>2021.</date>
+        <title>Effecten van buurtsportcoaches op beweegparticipatie.</title>
+        <journal>Sportbeleid en Gezondheid</journal>
+        <volume>14(1),</volume>
+        <pages>28-47.</pages>
+        <doi>10.6751/sg.2021.14104</doi>
+    </sequence>
+    <sequence>
+        <author>de Ronde, E.</author>
+        <date>(2024).</date>
+        <title>De arbeidsmarktpositie van statushouders na drie jaar.</title>
+        <journal>Migratie en Integratie Studies</journal>
+        <volume>12(2),</volume>
+        <pages>89-108.</pages>
+        <url>https://www.migratie-integratie-studies.nl/2024/12-2/arbeidsmarktpositie-statushouders</url>
+    </sequence>
+    <sequence>
+        <author>van Kollenburg, J., &amp; Sengers, P., et al.</author>
+        <date>2023.</date>
+        <title>Hybride werken en reistijdgerelateerde uitstoot.</title>
+        <journal>Duurzame Mobiliteit</journal>
+        <volume>10(3),</volume>
+        <pages>133-152.</pages>
+        <doi>10.8402/dm.2023.10305</doi>
+    </sequence>
+    <sequence>
+        <author>de Vries, W.</author>
+        <date>2022.</date>
+        <title>Cyberhygiëne in kleine mkb-bedrijven.</title>
+        <journal>Security Management Nederland</journal>
+        <volume>13(4),</volume>
+        <pages>216-235.</pages>
+    </sequence>
+    <sequence>
+        <author>van Dorssen, A., &amp; Luijkx, H.</author>
+        <date>(2021).</date>
+        <title>Vroegtijdig schoolverlaten en begeleidingstrajecten.</title>
+        <journal>Onderwijs en Jeugdbeleid</journal>
+        <volume>17(2),</volume>
+        <pages>95-114.</pages>
+        <url>https://www.onderwijs-en-jeugdbeleid.nl/2021/17-2/vroegtijdig-schoolverlaten</url>
+    </sequence>
+    <sequence>
+        <author>Keulen, N.</author>
+        <date>2024.</date>
+        <title>Publieke laadinfra en piekbelasting in woonwijken.</title>
+        <journal>Energie-infrastructuur</journal>
+        <volume>8(1),</volume>
+        <pages>12-31.</pages>
+        <doi>10.4207/ei.2024.08102</doi>
+    </sequence>
+    <sequence>
+        <author>van Holten, M., &amp; Rozema, B.</author>
+        <date>2023.</date>
+        <title>Woonzorgconcepten voor alleenstaande ouderen.</title>
+        <journal>Zorgvastgoed Review</journal>
+        <volume>11(4),</volume>
+        <pages>207-226.</pages>
+    </sequence>
+    <sequence>
+        <author>de Vreede, T.</author>
+        <date>(2022).</date>
+        <title>Documentautomatisering in de advocatuur.</title>
+        <journal>Praktijkblad Juridische Innovatie</journal>
+        <volume>9(3),</volume>
+        <pages>158-177.</pages>
+        <doi>10.7330/pji.2022.09306</doi>
+    </sequence>
+    <sequence>
+        <author>van den Elshout, C., &amp; Dekkers, E.</author>
+        <date>2021.</date>
+        <title>Mentale belasting van mantelzorgers in stedelijke regio's.</title>
+        <journal>Informele Zorgstudies</journal>
+        <volume>12(1),</volume>
+        <pages>20-39.</pages>
+        <url>https://www.informelezorgstudies.nl/2021/12-1/mentale-belasting-mantelzorgers</url>
+    </sequence>
+    <sequence>
+        <author>van Mook, S.</author>
+        <date>(2024).</date>
+        <title>Taalondersteuning voor nieuwkomers in het vmbo.</title>
+        <journal>Taal en Onderwijspraktijk</journal>
+        <volume>14(2),</volume>
+        <pages>81-100.</pages>
+    </sequence>
+    <sequence>
+        <author>de Koker, A., &amp; Wijnands, T., et al.</author>
+        <date>2023.</date>
+        <title>Risicoanalyse van overstroming in buitendijkse gebieden.</title>
+        <journal>Waterveiligheid en Delta</journal>
+        <volume>18(3),</volume>
+        <pages>139-158.</pages>
+        <doi>10.9162/wd.2023.18307</doi>
+    </sequence>
+    <sequence>
+        <author>van Etten, H.</author>
+        <date>2022.</date>
+        <title>Zichtbare taalnormen in nieuwsmedia.</title>
+        <journal>Neerlandistiek Vandaag</journal>
+        <volume>25(1),</volume>
+        <pages>34-53.</pages>
+    </sequence>
+    <sequence>
+        <author>de Koster, J., &amp; van den Bosch, R.</author>
+        <date>(2021).</date>
+        <title>Recht op reparatie en consumentengedrag.</title>
+        <journal>Consument en Duurzaamheid</journal>
+        <volume>7(4),</volume>
+        <pages>213-232.</pages>
+        <url>https://www.consumentenduurzaamheid.nl/2021/7-4/recht-op-reparatie</url>
+    </sequence>
+    <sequence>
+        <author>van Straten, P.</author>
+        <date>2024.</date>
+        <title>Leiderschapstraining voor teamleiders in de zorg.</title>
+        <journal>Management in de Zorg</journal>
+        <volume>16(1),</volume>
+        <pages>25-44.</pages>
+        <doi>10.3064/mz.2024.16103</doi>
+    </sequence>
+    <sequence>
+        <author>de Kok, D., &amp; Freriks, L.</author>
+        <date>2023.</date>
+        <title>Ruimtelijke segregatie en schoolkeuze in grote steden.</title>
+        <journal>Stad en Onderwijs</journal>
+        <volume>9(2),</volume>
+        <pages>90-109.</pages>
+    </sequence>
+    <sequence>
+        <author>van Veenendaal, N.</author>
+        <date>(2022).</date>
+        <title>Transparantie van algoritmische aanbevelingen in publieke media.</title>
+        <journal>Media en Democratie</journal>
+        <volume>11(3),</volume>
+        <pages>157-176.</pages>
+        <doi>10.5529/md.2022.11306</doi>
+        <url>https://www.mediaendemocratie.nl/2022/11-3/algoritmische-aanbevelingen</url>
+    </sequence>
+    <sequence>
+        <author>de Laat, B., &amp; van Praag, F., et al.</author>
+        <date>2021.</date>
+        <title>De relatie tussen nachtdiensten en herstelbehoefte.</title>
+        <journal>Arbeid en Gezondheid</journal>
+        <volume>20(2),</volume>
+        <pages>102-121.</pages>
+    </sequence>
+    <sequence>
+        <author>van Buuren, T.</author>
+        <date>2024.</date>
+        <title>Sociaal contact in digitale wijkteams.</title>
+        <journal>Gemeenschapswerk Nu</journal>
+        <volume>8(3),</volume>
+        <pages>146-165.</pages>
+        <url>https://www.gemeenschapswerknu.nl/2024/8-3/sociaal-contact-digitale-wijkteams</url>
+    </sequence>
+    <sequence>
+        <author>de Vries, J.</author>
+        <date>(2023).</date>
+        <title>Flexwoningen en lokale acceptatie.</title>
+        <journal>Wonen in Transitie</journal>
+        <volume>12(4),</volume>
+        <pages>221-240.</pages>
+    </sequence>
+    <sequence>
+        <author>van den Brink, A., &amp; Kallenberg, H.</author>
+        <date>2022.</date>
+        <title>Datavaardigheden van beleidsmedewerkers.</title>
+        <journal>Bestuurlijk Datawerk</journal>
+        <volume>6(1),</volume>
+        <pages>16-35.</pages>
+        <doi>10.2801/bd.2022.06103</doi>
+    </sequence>
+    <sequence>
+        <author>de Nijs, R.</author>
+        <date>(2021).</date>
+        <title>Doorstroom van mbo naar hbo in de zorgsector.</title>
+        <journal>Onderwijsloopbanen</journal>
+        <volume>15(3),</volume>
+        <pages>160-179.</pages>
+    </sequence>
+    <sequence>
+        <author>van der Werf, C., &amp; Kusters, S.</author>
+        <date>2024.</date>
+        <title>Natuurinclusief bouwen en gemeentelijke kaders.</title>
+        <journal>Bouwen aan de Toekomst</journal>
+        <volume>11(2),</volume>
+        <pages>78-97.</pages>
+        <doi>10.7466/bt.2024.11204</doi>
+    </sequence>
+    <sequence>
+        <author>de Hamer, M.</author>
+        <date>2023.</date>
+        <title>Effecten van buurtapps op ervaren veiligheid.</title>
+        <journal>Veiligheid en Stad</journal>
+        <volume>9(1),</volume>
+        <pages>22-41.</pages>
+        <url>https://www.veiligheidenstad.nl/2023/9-1/buurtapps-ervaren-veiligheid</url>
+    </sequence>
+    <sequence>
+        <author>van der Steen, H., &amp; de Blaauw, P.</author>
+        <date>(2022).</date>
+        <title>Leeromgevingen voor programmeeronderwijs in het primair onderwijs.</title>
+        <journal>ICT in de Klas</journal>
+        <volume>14(4),</volume>
+        <pages>230-249.</pages>
+    </sequence>
+    <sequence>
+        <author>de Klijn, F.</author>
+        <date>2021.</date>
+        <title>Publieke waarden in digitale dienstverlening.</title>
+        <journal>Overheidsmanagement</journal>
+        <volume>18(1),</volume>
+        <pages>31-50.</pages>
+        <doi>10.6955/om.2021.18104</doi>
+    </sequence>
+    <sequence>
+        <author>van Mook, L., &amp; Rijsenbrij, E., et al.</author>
+        <date>(2024).</date>
+        <title>Data-uitwisseling tussen onderwijs en jeugdhulp.</title>
+        <journal>Jeugd en Data</journal>
+        <volume>7(2),</volume>
+        <pages>68-87.</pages>
+        <url>https://www.jeugden-data.nl/2024/7-2/data-uitwisseling-onderwijs-jeugdhulp</url>
+    </sequence>
+    <sequence>
+        <author>de Graaf, T.</author>
+        <date>2023.</date>
+        <title>Inzet van buurtbudgetten voor klimaatmaatregelen.</title>
+        <journal>Lokaal Bestuur en Klimaat</journal>
+        <volume>10(2),</volume>
+        <pages>82-101.</pages>
+    </sequence>
+    <sequence>
+        <author>van Schie, B., &amp; van den Oever, D.</author>
+        <date>2022.</date>
+        <title>Digitale dossiers en administratiedruk in de ouderenzorg.</title>
+        <journal>Zorgorganisatie en Kwaliteit</journal>
+        <volume>13(3),</volume>
+        <pages>155-174.</pages>
+        <doi>10.8644/zk.2022.13306</doi>
+    </sequence>
+    <sequence>
+        <author>de Wit, E.</author>
+        <date>(2021).</date>
+        <title>Praktijkgericht onderzoek in associate degree-programma's.</title>
+        <journal>Hbo-onderzoek</journal>
+        <volume>9(4),</volume>
+        <pages>214-233.</pages>
+    </sequence>
+    <sequence>
+        <author>van Weelden, P., &amp; de Roon, K.</author>
+        <date>2024.</date>
+        <title>De impact van deelfietsen op OV-knooppunten.</title>
+        <journal>Transportbeleid Vandaag</journal>
+        <volume>16(1),</volume>
+        <pages>18-37.</pages>
+        <url>https://www.transportbeleidvandaag.nl/2024/16-1/deelfietsen-ov-knooppunten</url>
+    </sequence>
+    <sequence>
+        <author>de Reuver, H.</author>
+        <date>2023.</date>
+        <title>Prestatiemeting in sociale wijkteams.</title>
+        <journal>Sociaal Domein Review</journal>
+        <volume>12(3),</volume>
+        <pages>148-167.</pages>
+        <doi>10.5138/sdr.2023.12305</doi>
+    </sequence>
+    <sequence>
+        <author>van Erp, N., &amp; Kooijman, J., et al.</author>
+        <date>(2022).</date>
+        <title>Werktevredenheid onder jonge leraren.</title>
+        <journal>Docent en Ontwikkeling</journal>
+        <volume>14(2),</volume>
+        <pages>87-106.</pages>
+    </sequence>
+    <sequence>
+        <author>de Vries, A.</author>
+        <date>2021.</date>
+        <title>De effectiviteit van wijkgerichte valpreventie.</title>
+        <journal>Volksgezondheid Praktijk</journal>
+        <volume>17(1),</volume>
+        <pages>26-45.</pages>
+    </sequence>
+    <sequence>
+        <author>van Ommen, S., &amp; Talsma, R.</author>
+        <date>(2024).</date>
+        <title>Transformatie van kantorengebieden naar gemengde wijken.</title>
+        <journal>Ruimtelijke Planning Actueel</journal>
+        <volume>19(2),</volume>
+        <pages>92-111.</pages>
+        <doi>10.9462/rpa.2024.19204</doi>
+    </sequence>
+    <sequence>
+        <author>de Kort, C.</author>
+        <date>2023.</date>
+        <title>Leerachterstanden na schoolsluitingen: een longitudinale verkenning.</title>
+        <journal>Onderwijseffecten</journal>
+        <volume>10(4),</volume>
+        <pages>222-241.</pages>
+        <url>https://www.onderwijseffecten.nl/2023/10-4/leerachterstanden-longitudinaal</url>
+    </sequence>
+    <sequence>
+        <author>van Aalderen, H., &amp; de Jongh, P.</author>
+        <date>2022.</date>
+        <title>Besluitvorming over zonnevelden in landelijke gemeenten.</title>
+        <journal>Energie en Ruimtebeleid</journal>
+        <volume>8(3),</volume>
+        <pages>139-158.</pages>
+    </sequence>
+    <sequence>
+        <author>de Koning, M.</author>
+        <date>(2021).</date>
+        <title>Digitale inclusie bij laaggeletterde volwassenen.</title>
+        <journal>Maatschappelijke Participatie</journal>
+        <volume>15(2),</volume>
+        <pages>83-102.</pages>
+        <doi>10.3977/mp.2021.15205</doi>
+    </sequence>
+    <sequence>
+        <author>van Rijswijk, E., &amp; Schuurman, F., et al.</author>
+        <date>2024.</date>
+        <title>Burgeradviesraden en vertrouwen in lokaal bestuur.</title>
+        <journal>Bestuur en Samenleving</journal>
+        <volume>21(1),</volume>
+        <pages>19-38.</pages>
+    </sequence>
+    <sequence>
+        <author>de Waard, N.</author>
+        <date>2023.</date>
+        <title>De opkomst van datajournalistiek in regionale media.</title>
+        <journal>Journalistieke Praktijken</journal>
+        <volume>9(2),</volume>
+        <pages>88-107.</pages>
+        <url>https://www.journalistiekepraktijken.nl/2023/9-2/datajournalistiek-regionale-media</url>
+    </sequence>
+    <sequence>
+        <author>van de Ven, B., &amp; Penders, H.</author>
+        <date>(2022).</date>
+        <title>Werkplekinterventies tegen zittend gedrag.</title>
+        <journal>Arbeidsfysiologie</journal>
+        <volume>11(4),</volume>
+        <pages>213-232.</pages>
+        <doi>10.7409/af.2022.11408</doi>
+    </sequence>
+    <sequence>
+        <author>de Haan, R.</author>
+        <date>2021.</date>
+        <title>Publieke communicatie tijdens wateroverlast.</title>
+        <journal>Crisiscommunicatie in Nederland</journal>
+        <volume>6(1),</volume>
+        <pages>15-34.</pages>
+    </sequence>
+    <sequence>
+        <author>van der Valk, T., &amp; Kuit, E.</author>
+        <date>(2024).</date>
+        <title>Leven lang ontwikkelen in de publieke sector.</title>
+        <journal>HRM en Overheid</journal>
+        <volume>12(2),</volume>
+        <pages>85-104.</pages>
+        <url>https://www.hrmenoverheid.nl/2024/12-2/leven-lang-ontwikkelen</url>
+    </sequence>
+    <sequence>
+        <author>de Rooij, S.</author>
+        <date>2023.</date>
+        <title>Sociale netwerken en eenzaamheid bij studenten.</title>
+        <journal>Studentenwelzijn Studies</journal>
+        <volume>7(3),</volume>
+        <pages>147-166.</pages>
+        <doi>10.6216/sss.2023.07306</doi>
+    </sequence>
+    <sequence>
+        <author>van den Hurk, C., &amp; Aben, M., et al.</author>
+        <date>2022.</date>
+        <title>Zelfsturende teams in wijkverpleging: randvoorwaarden en resultaten.</title>
+        <journal>Zorgorganisatie en Leiderschap</journal>
+        <volume>10(1),</volume>
+        <pages>28-47.</pages>
+    </sequence>
+    <sequence>
+        <author>de Kler, P.</author>
+        <date>(2021).</date>
+        <title>Leerwerktrajecten voor statushouders in de techniek.</title>
+        <journal>Integratie op de Arbeidsmarkt</journal>
+        <volume>8(4),</volume>
+        <pages>216-235.</pages>
+        <url>https://www.integratie-op-de-arbeidsmarkt.nl/2021/8-4/leerwerktrajecten-statushouders</url>
+    </sequence>
+    <sequence>
+        <author>van Beek, F., &amp; Krop, T.</author>
+        <date>2024.</date>
+        <title>Datagestuurde aanpak van ondermijning op wijkniveau.</title>
+        <journal>Veiligheidsbeleid en Analyse</journal>
+        <volume>14(3),</volume>
+        <pages>140-159.</pages>
+        <doi>10.9325/vba.2024.14307</doi>
+    </sequence>
+    <sequence>
+        <author>de Hout, M.</author>
+        <date>2023.</date>
+        <title>Digitale routeplanners en reisgedrag van ouderen.</title>
+        <journal>Mobiliteit en Leeftijd</journal>
+        <volume>9(1),</volume>
+        <pages>24-43.</pages>
+    </sequence>
+    <sequence>
+        <author>van der Zalm, R., &amp; Pijl, C.</author>
+        <date>(2022).</date>
+        <title>Restwarmtebenutting in glastuinbouwclusters.</title>
+        <journal>Agro-Energie Kwartaal</journal>
+        <volume>7(2),</volume>
+        <pages>79-98.</pages>
+        <url>https://www.agro-energie-kwartaal.nl/2022/7-2/restwarmtebenutting</url>
+    </sequence>
+    <sequence>
+        <author>de Boer, K.</author>
+        <date>2021.</date>
+        <title>Onderwijskansen en voorschoolse interventies.</title>
+        <journal>Vroege Kansen</journal>
+        <volume>11(3),</volume>
+        <pages>158-177.</pages>
+        <doi>10.4880/vk.2021.11306</doi>
+    </sequence>
+    <sequence>
+        <author>van Raaij, L., &amp; Smit, J., et al.</author>
+        <date>(2024).</date>
+        <title>Green deal-initiatieven en mkb-innovatie.</title>
+        <journal>Ondernemen en Transitie</journal>
+        <volume>10(2),</volume>
+        <pages>90-109.</pages>
+    </sequence>
+    <sequence>
+        <author>de Geus, A.</author>
+        <date>2023.</date>
+        <title>De bruikbaarheid van open overheidsdata voor journalisten.</title>
+        <journal>Media en Data</journal>
+        <volume>6(4),</volume>
+        <pages>219-238.</pages>
+        <url>https://www.mediaendata.nl/2023/6-4/open-overheidsdata-journalisten</url>
+    </sequence>
+    <sequence>
+        <author>van de Wetering, P., &amp; van Klei, M.</author>
+        <date>(2022).</date>
+        <title>Wijkgerichte aanpak van problematische schulden.</title>
+        <journal>Sociaal Financieel Beleid</journal>
+        <volume>13(1),</volume>
+        <pages>27-46.</pages>
+        <doi>10.8187/sfb.2022.13104</doi>
+    </sequence>
+    <sequence>
+        <author>de Bruijn, T.</author>
+        <date>2021.</date>
+        <title>Onderzoeksvaardigheden in propedeusecurricula.</title>
+        <journal>Academisch Leren</journal>
+        <volume>8(2),</volume>
+        <pages>86-105.</pages>
+    </sequence>
+    <sequence>
+        <author>van den Boom, H., &amp; Castelein, R.</author>
+        <date>(2024).</date>
+        <title>Fietsstraten en subjectieve verkeersveiligheid.</title>
+        <journal>Stedelijke Mobiliteitsstudies</journal>
+        <volume>12(1),</volume>
+        <pages>21-40.</pages>
+        <url>https://www.stedelijkemobiliteitsstudies.nl/2024/12-1/fietsstraten-subjectieve-veiligheid</url>
+    </sequence>
+    <sequence>
+        <author>de Vries, C.</author>
+        <date>2023.</date>
+        <title>Data literacy voor verpleegkundigen in opleiding.</title>
+        <journal>Zorgonderwijs en Innovatie</journal>
+        <volume>9(3),</volume>
+        <pages>149-168.</pages>
+        <doi>10.7035/zi.2023.09306</doi>
+    </sequence>
+    <sequence>
+        <author>van den Top, M., &amp; Elstgeest, N., et al.</author>
+        <date>(2022).</date>
+        <title>Samen beslissen in chronische zorgpaden.</title>
+        <journal>Patiënt en Zorgproces</journal>
+        <volume>14(4),</volume>
+        <pages>230-249.</pages>
+    </sequence>
+    <sequence>
+        <author>de Laat, R.</author>
+        <date>2021.</date>
+        <title>Klassenmanagement en leerklimaat in vmbo-basis.</title>
+        <journal>Didactische Praktijken</journal>
+        <volume>15(1),</volume>
+        <pages>32-51.</pages>
+        <url>https://www.didactischepraktijken.nl/2021/15-1/klassenmanagement-vmbo-basis</url>
+    </sequence>
+    <sequence>
+        <author>van den Brink, R., &amp; Wilschut, F.</author>
+        <date>(2024).</date>
+        <title>CO2-monitoring in klaslokalen en ventilatiegedrag.</title>
+        <journal>School en Gezonde Lucht</journal>
+        <volume>7(1),</volume>
+        <pages>11-30.</pages>
+        <doi>10.9541/sgl.2024.07103</doi>
+    </sequence>
+    <sequence>
+        <author>de Vos, E.</author>
+        <date>2023.</date>
+        <title>Werk-privébalans van jonge ouders in de publieke sector.</title>
+        <journal>HR en Samenleving</journal>
+        <volume>12(2),</volume>
+        <pages>87-106.</pages>
+    </sequence>
+    <sequence>
+        <author>van Schendel, J., &amp; Boon, K.</author>
+        <date>(2022).</date>
+        <title>Openbare ruimte als koelte-infrastructuur.</title>
+        <journal>Klimaatadaptatie Praktijk</journal>
+        <volume>9(3),</volume>
+        <pages>156-175.</pages>
+        <url>https://www.klimaatadaptatiepraktijk.nl/2022/9-3/koelte-infrastructuur-openbare-ruimte</url>
+    </sequence>
+    <sequence>
+        <author>de Vink, N.</author>
+        <date>2021.</date>
+        <title>Ouderbetrokkenheid in taalrijke gezinsomgevingen.</title>
+        <journal>Jeugd en Ontwikkeling</journal>
+        <volume>16(4),</volume>
+        <pages>217-236.</pages>
+        <doi>10.6292/jo.2021.16408</doi>
+    </sequence>
+    <sequence>
+        <author>van der Sande, P., &amp; Kers, H., et al.</author>
+        <date>(2024).</date>
+        <title>Publieke waardecreatie met digitale burgerpanels.</title>
+        <journal>Bestuurlijke Vernieuwing</journal>
+        <volume>13(2),</volume>
+        <pages>91-110.</pages>
+    </sequence>
+    <sequence>
+        <author>de Kruijf, C.</author>
+        <date>2023.</date>
+        <title>Stresservaring van handhavers in uitgaansgebieden.</title>
+        <journal>Veiligheid op Straat</journal>
+        <volume>8(1),</volume>
+        <pages>19-38.</pages>
+        <url>https://www.veiligheidopstraat.nl/2023/8-1/stresservaring-handhavers</url>
+    </sequence>
+    <sequence>
+        <author>van den Berg, H., &amp; de Weerd, S.</author>
+        <date>(2022).</date>
+        <title>Leerdoelgericht toetsen in projectonderwijs.</title>
+        <journal>Toetsing en Didactiek</journal>
+        <volume>11(3),</volume>
+        <pages>164-183.</pages>
+        <doi>10.8527/td.2022.11306</doi>
+    </sequence>
+    <sequence>
+        <author>de Jong, F.</author>
+        <date>2021.</date>
+        <title>Verduurzaming van sportaccommodaties in gemeenten.</title>
+        <journal>Sport en Openbaar Bestuur</journal>
+        <volume>10(2),</volume>
+        <pages>90-109.</pages>
+    </sequence>
+    <sequence>
+        <author>van den Nieuwenhof, G., &amp; Roodenburg, L.</author>
+        <date>(2024).</date>
+        <title>Gezondheidsvaardigheden en medicatiegebruik bij ouderen.</title>
+        <journal>Farmacie en Patiënt</journal>
+        <volume>12(1),</volume>
+        <pages>17-36.</pages>
+        <doi>10.9764/fp.2024.12104</doi>
+    </sequence>
+    <sequence>
+        <author>de Groot, B.</author>
+        <date>2023.</date>
+        <title>Talentontwikkeling in regionale innovatiehubs.</title>
+        <journal>Innovatie en Human Capital</journal>
+        <volume>9(4),</volume>
+        <pages>223-242.</pages>
+        <url>https://www.innovatie-human-capital.nl/2023/9-4/talentontwikkeling-innovatiehubs</url>
+    </sequence>
+    <sequence>
+        <author>van den Eijnde, J., &amp; Mol, S., et al.</author>
+        <date>(2022).</date>
+        <title>Hydrologische stress in stedelijke watersystemen.</title>
+        <journal>Water en Klimaatonderzoek</journal>
+        <volume>15(2),</volume>
+        <pages>95-114.</pages>
+        <doi>10.5691/wk.2022.15204</doi>
+    </sequence>
+    <sequence>
+        <author>de Lint, P.</author>
+        <date>2021.</date>
+        <title>Inclusieve sportprogramma's voor kinderen met beperking.</title>
+        <journal>Adaptieve Bewegingsstudies</journal>
+        <volume>8(3),</volume>
+        <pages>160-179.</pages>
+    </sequence>
+    <sequence>
+        <author>van den Bosch, M., &amp; Gerritsen, T.</author>
+        <date>(2024).</date>
+        <title>Data governance in samenwerkingsverbanden van gemeenten.</title>
+        <journal>Publieke Data Governance</journal>
+        <volume>7(1),</volume>
+        <pages>13-32.</pages>
+        <url>https://www.publiekedatagovernance.nl/2024/7-1/data-governance-gemeenten</url>
+    </sequence>
+    <sequence>
+        <author>de Boer, D.</author>
+        <date>2023.</date>
+        <title>Studiekeuze-informatie en kansengelijkheid.</title>
+        <journal>Toegang tot Onderwijs</journal>
+        <volume>10(2),</volume>
+        <pages>84-103.</pages>
+        <doi>10.6182/to.2023.10203</doi>
+    </sequence>
+    <sequence>
+        <author>van Laar, C., &amp; van den Hoek, P.</author>
+        <date>(2022).</date>
+        <title>De invloed van buurtgroen op ervaren stress.</title>
+        <journal>Gezonde Leefomgeving</journal>
+        <volume>13(4),</volume>
+        <pages>226-245.</pages>
+    </sequence>
+    <sequence>
+        <author>de Bruijn, A.</author>
+        <date>2021.</date>
+        <title>Praktijkleren met simulaties in technische opleidingen.</title>
+        <journal>Techniekdidactiek</journal>
+        <volume>11(1),</volume>
+        <pages>24-43.</pages>
+        <url>https://www.techniekdidactiek.nl/2021/11-1/praktijkleren-simulaties</url>
+    </sequence>
+    <sequence>
+        <author>van Dalen, P., &amp; Mertens, H., et al.</author>
+        <date>(2024).</date>
+        <title>Werkdrukmonitoring met digitale dagboekstudies.</title>
+        <journal>Arbeidspsychologie Review</journal>
+        <volume>14(1),</volume>
+        <pages>19-38.</pages>
+        <doi>10.9026/ar.2024.14104</doi>
+    </sequence>
+    <sequence>
+        <author>de Vos, M.</author>
+        <date>2023.</date>
+        <title>Gemeentelijke aanpak van energiearmoede in huurwoningen.</title>
+        <journal>Sociaal Klimaatbeleid</journal>
+        <volume>8(2),</volume>
+        <pages>93-112.</pages>
+    </sequence>
+    <sequence>
+        <author>van der Lugt, R., &amp; van Duijn, E.</author>
+        <date>(2022).</date>
+        <title>Klantreizen in publieke dienstverlening: een praktijkstudie.</title>
+        <journal>Service Design in de Overheid</journal>
+        <volume>6(3),</volume>
+        <pages>155-174.</pages>
+        <url>https://www.servicedesign-overheid.nl/2022/6-3/klantreizen-praktijkstudie</url>
+    </sequence>
+    <sequence>
+        <author>de Graaf, J.</author>
+        <date>2021.</date>
+        <title>Kwaliteit van hybride vergaderen in publieke teams.</title>
+        <journal>Organiseren op Afstand</journal>
+        <volume>9(4),</volume>
+        <pages>218-237.</pages>
+        <doi>10.7813/oa.2021.09408</doi>
+    </sequence>
+    <sequence>
+        <author>van de Pol, S., &amp; de Jager, R.</author>
+        <date>(2024).</date>
+        <title>Effect van buurtcoaches op sportdeelname van meisjes.</title>
+        <journal>Sport en Inclusie</journal>
+        <volume>7(2),</volume>
+        <pages>88-107.</pages>
+    </sequence>
+    <sequence>
+        <author>de Ruijter, N.</author>
+        <date>2023.</date>
+        <title>Versterking van leesmotivatie met korte interventies.</title>
+        <journal>Lezen in School</journal>
+        <volume>12(3),</volume>
+        <pages>160-179.</pages>
+        <url>https://www.lezeninschool.nl/2023/12-3/leesmotivatie-korte-interventies</url>
+    </sequence>
+    <sequence>
+        <author>van den Oord, E., &amp; Smits, K., et al.</author>
+        <date>(2022).</date>
+        <title>Datagestuurde planning in wijkonderhoud.</title>
+        <journal>Stadsbeheer en Data</journal>
+        <volume>10(1),</volume>
+        <pages>27-46.</pages>
+        <doi>10.6671/sd.2022.10104</doi>
+    </sequence>
+    <sequence>
+        <author>de Nood, B.</author>
+        <date>2021.</date>
+        <title>Juridische aspecten van gemeentelijke algoritmeregisters.</title>
+        <journal>Recht en Digitalisering</journal>
+        <volume>8(4),</volume>
+        <pages>225-244.</pages>
+    </sequence>
+    <sequence>
+        <author>van den Elzen, S., &amp; Veenhof, P.</author>
+        <date>(2024).</date>
+        <title>Kwaliteitsborging van micro-credentials in het hbo.</title>
+        <journal>Hoger Onderwijskwaliteit</journal>
+        <volume>13(1),</volume>
+        <pages>14-33.</pages>
+        <url>https://www.hogeronderwijskwaliteit.nl/2024/13-1/micro-credentials-kwaliteitsborging</url>
+    </sequence>
+    <sequence>
+        <author>de Jong, C.</author>
+        <date>2023.</date>
+        <title>Buurtbemiddeling en recidive van overlastmeldingen.</title>
+        <journal>Veilige Buurten</journal>
+        <volume>9(2),</volume>
+        <pages>91-110.</pages>
+        <doi>10.5739/vb.2023.09203</doi>
+    </sequence>
+    <sequence>
+        <author>van den Berg, L., &amp; de Vries, P.</author>
+        <date>(2022).</date>
+        <title>Professionele ruimte van startende leraren in teamverband.</title>
+        <journal>Onderwijsprofessionals</journal>
+        <volume>11(4),</volume>
+        <pages>232-251.</pages>
+    </sequence>
+    <sequence>
+        <author>de Kramer, F.</author>
+        <date>2021.</date>
+        <title>Groene daken en stedelijke waterretentie.</title>
+        <journal>Urban Klimaattechniek</journal>
+        <volume>7(3),</volume>
+        <pages>161-180.</pages>
+        <url>https://www.urbanklimaattechniek.nl/2021/7-3/groene-daken-waterretentie</url>
+    </sequence>
+    <sequence>
+        <author>van Tiel, M., &amp; de Ruiter, E., et al.</author>
+        <date>(2024).</date>
+        <title>Samenwerking tussen wijkagenten en jongerenwerkers.</title>
+        <journal>Veiligheidsnetwerken</journal>
+        <volume>8(1),</volume>
+        <pages>18-37.</pages>
+        <doi>10.8107/vn.2024.08104</doi>
+    </sequence>
+    <sequence>
+        <author>de Haan, S.</author>
+        <date>2023.</date>
+        <title>Zelftoetsen en toetsmotivatie in online cursussen.</title>
+        <journal>Digitale Didactiek</journal>
+        <volume>10(2),</volume>
+        <pages>89-108.</pages>
+    </sequence>
+    <sequence>
+        <author>van der Mark, B., &amp; van Maanen, F.</author>
+        <date>(2022).</date>
+        <title>Duurzame inkoopcriteria bij provinciale aanbestedingen.</title>
+        <journal>Inkoop en Beleid</journal>
+        <volume>12(3),</volume>
+        <pages>164-183.</pages>
+        <doi>10.7258/ib.2022.12306</doi>
+    </sequence>
+    <sequence>
+        <author>de Boer, L.</author>
+        <date>2021.</date>
+        <title>Ruimte voor ontmoeting in naoorlogse wijken.</title>
+        <journal>Stedelijke Sociologie</journal>
+        <volume>14(1),</volume>
+        <pages>33-52.</pages>
+        <url>https://www.stedelijkesociologie.nl/2021/14-1/ruimte-voor-ontmoeting</url>
+    </sequence>
+    <sequence>
+        <author>van Dongen, T., &amp; de Lange, H., et al.</author>
+        <date>(2024).</date>
+        <title>Datagestuurde signalering van onderwijsachterstanden.</title>
+        <journal>Onderwijsdata en Beleid</journal>
+        <volume>9(1),</volume>
+        <pages>12-31.</pages>
+        <doi>10.6694/ob.2024.09103</doi>
+    </sequence>
+    <sequence>
+        <author>de Meijer, P.</author>
+        <date>2023.</date>
+        <title>Fietsparkeren bij stations en ketenmobiliteit.</title>
+        <journal>OV en Bereikbaarheid</journal>
+        <volume>11(2),</volume>
+        <pages>92-111.</pages>
+    </sequence>
+    <sequence>
+        <author>van den Brand, S., &amp; Wieringa, M.</author>
+        <date>(2022).</date>
+        <title>Wijkgerichte energiebesparing met bewonerscoaches.</title>
+        <journal>Duurzaam Wonen Onderzocht</journal>
+        <volume>8(4),</volume>
+        <pages>229-248.</pages>
+        <url>https://www.duurzaamwonenonderzocht.nl/2022/8-4/bewonerscoaches-energiebesparing</url>
+    </sequence>
+    <sequence>
+        <author>de Jong, N.</author>
+        <date>2021.</date>
+        <title>Mentale veerkracht bij eerstejaarsstudenten.</title>
+        <journal>Student en Welzijn</journal>
+        <volume>7(3),</volume>
+        <pages>162-181.</pages>
+        <doi>10.5440/sw.2021.07306</doi>
+    </sequence>
+    <sequence>
+        <author>van Oorschot, A., &amp; de Gier, C., et al.</author>
+        <date>(2024).</date>
+        <title>Doorontwikkeling van wijkbudgetten met burgerco-creatie.</title>
+        <journal>Lokaal Samen Besturen</journal>
+        <volume>10(1),</volume>
+        <pages>20-39.</pages>
+    </sequence>
+    <sequence>
+        <author>de Vries, B.</author>
+        <date>2023.</date>
+        <title>De relatie tussen schermtijd en slaapkwaliteit bij adolescenten.</title>
+        <journal>Jeugdgezondheid Kwartaal</journal>
+        <volume>12(2),</volume>
+        <pages>90-109.</pages>
+        <url>https://www.jeugdgezondheidkwartaal.nl/2023/12-2/schermtijd-slaapkwaliteit</url>
+    </sequence>
+    <sequence>
+        <author>van den Heuvel, R., &amp; de Groot, F.</author>
+        <date>(2022).</date>
+        <title>Hybride burgerparticipatie bij omgevingsvisies.</title>
+        <journal>Participatie en Ruimte</journal>
+        <volume>11(3),</volume>
+        <pages>167-186.</pages>
+        <doi>10.7902/pr.2022.11306</doi>
+    </sequence>
+    <sequence>
+        <author>de Boer, J.</author>
+        <date>2021.</date>
+        <title>Kwaliteitspercepties van leerlingen over online feedback.</title>
+        <journal>Leerprocessen en Evaluatie</journal>
+        <volume>9(4),</volume>
+        <pages>226-245.</pages>
+    </sequence>
+</dataset>
