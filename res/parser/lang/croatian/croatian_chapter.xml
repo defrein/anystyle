@@ -1,0 +1,1419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <sequence>
+        <author>Horvat, M.</author>
+        <date>(2022).</date>
+        <title>Digitalna transformacija u Hrvatskoj: izazovi i mogućnosti.</title>
+        <editor>Kovačić, J. &amp; Marević, D. (ur.)</editor>
+        <container-title>Informacijske tehnologije u 21. stoljeću</container-title>
+        <location>Zagreb:</location>
+        <publisher>Element</publisher>
+        <pages>45-68.</pages>
+    </sequence>
+    <sequence>
+        <author>Petrović, A., Sudec, V., &amp; Mišević, N.</author>
+        <date>(2021).</date>
+        <title>Ekonomska politika Europske unije i njezine primjene.</title>
+        <editor>Novak, S. (ur.)</editor>
+        <container-title>Europski izazovi u 21. stoljeću</container-title>
+        <location>Zagreb:</location>
+        <publisher>Školska knjiga</publisher>
+        <pages>123-156.</pages>
+        <edition>2. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Andrija, K.</author>
+        <date>(2023).</date>
+        <title>Zdravstveni sustav i reforma u kontekstu hrvatskog razvoja.</title>
+        <editor>Tadić, B. &amp; Čech, R. (ur.)</editor>
+        <container-title>Javne institucije i društvena zaštita</container-title>
+        <location>Zagreb:</location>
+        <publisher>Medicinska naklada</publisher>
+        <pages>78-101.</pages>
+    </sequence>
+    <sequence>
+        <author>Kiss, J., &amp; Babić, D.</author>
+        <date>(2020).</date>
+        <title>Industrijska proizvodnja i automatizacija: primjena u malim poduzećima.</title>
+        <editor>Jovanović, M. (ur.)</editor>
+        <container-title>Tehnološka rješenja za konkurentnost</container-title>
+        <location>Varaždin:</location>
+        <publisher>Breza</publisher>
+        <pages>189-214.</pages>
+        <translator>Horvat, P.</translator>
+    </sequence>
+    <sequence>
+        <author>Marić, S.</author>
+        <date>(2022).</date>
+        <title>Obrazovna reforma i metodike nastave hrvatskog jezika.</title>
+        <editor>Filipović, V. &amp; Nikolić, G. (ur.)</editor>
+        <container-title>Pedagoške perspektive u hrvatskom obrazovanju</container-title>
+        <location>Zagreb:</location>
+        <publisher>Profil Klett</publisher>
+        <pages>245-268.</pages>
+    </sequence>
+    <sequence>
+        <author>Popović, R., Marković, L., &amp; Đorđević, T.</author>
+        <date>(2021).</date>
+        <title>Zaštita okoline i održivi razvoj u poljoprivredi.</title>
+        <editor>Bogdanović, S. (ur.)</editor>
+        <container-title>Ekološka perspektiva hrvatske ekonomije</container-title>
+        <location>Osijek:</location>
+        <publisher>Novi liber</publisher>
+        <pages>112-135.</pages>
+        <edition>3. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Stanković, U., &amp; Radić, M.</author>
+        <date>(2023).</date>
+        <title>Turizam i lokalni razvoj destination menadžmenta.</title>
+        <editor>Vidović, A. &amp; Josipović, K. (ur.)</editor>
+        <container-title>Turizamska ekonomija i upravljanje destinacijama</container-title>
+        <location>Split:</location>
+        <publisher>Mate d.o.o.</publisher>
+        <pages>67-90.</pages>
+    </sequence>
+    <sequence>
+        <author>Čukelj, M.</author>
+        <date>(2020).</date>
+        <title>Psihološke teorije i njihova primjena u organizacijama.</title>
+        <editor>Meštrović, B. &amp; Blažević, S. (ur.)</editor>
+        <container-title>Psihologija rada i organizacije</container-title>
+        <location>Zagreb:</location>
+        <publisher>Zaum</publisher>
+        <pages>156-178.</pages>
+    </sequence>
+    <sequence>
+        <author>Kurtović, L., Vranešević, Z., &amp; Kovačević, I.</author>
+        <date>(2022).</date>
+        <title>Prava čovjeka i međunarodno pravo u praksi.</title>
+        <editor>Matošević, G. (ur.)</editor>
+        <container-title>Međunarodno pravo i ljudska prava</container-title>
+        <location>Rijeka:</location>
+        <publisher>Alfa</publisher>
+        <pages>234-261.</pages>
+        <edition>4. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Paladino, E.</author>
+        <date>(2021).</date>
+        <title>Arhitektura i urbanizam u kontekstu povijesti.</title>
+        <editor>Radošević, M. &amp; Rončević, S. (ur.)</editor>
+        <container-title>Graditeljstvo i prostorno planiranje Hrvatske</container-title>
+        <location>Zagreb:</location>
+        <publisher>Prostor</publisher>
+        <pages>45-68.</pages>
+    </sequence>
+    <sequence>
+        <author>Rogulj, N., Babić, V., &amp; Mikulečki, T.</author>
+        <date>(2023).</date>
+        <title>Financijski sustavi i bankarstvo u eurointegracijama.</title>
+        <editor>Zeman, D. (ur.)</editor>
+        <container-title>Financijska stabilnost i ekonomska politika</container-title>
+        <location>Zagreb:</location>
+        <publisher>Jaspis</publisher>
+        <pages>123-151.</pages>
+    </sequence>
+    <sequence>
+        <author>Šak, M.</author>
+        <date>(2020).</date>
+        <title>Proizvodne tehnologije i inovacije u 21. stoljeću.</title>
+        <editor>Bašić, M. &amp; Čech, K. (ur.)</editor>
+        <container-title>Tehnološke transformacije i konkurentnost</container-title>
+        <location>Varaždin:</location>
+        <publisher>Naklad Slap</publisher>
+        <pages>178-204.</pages>
+        <translator>Marić, A.</translator>
+    </sequence>
+    <sequence>
+        <author>Horvat, A., &amp; Vidović, M.</author>
+        <date>(2022).</date>
+        <title>Socijalna politika i sustav socijalne zaštite u Hrvatskoj.</title>
+        <editor>Tadić, S. &amp; Jurčević, J. (ur.)</editor>
+        <container-title>Socijalne perspektive hrvatskog društva</container-title>
+        <location>Zagreb:</location>
+        <publisher>FF press</publisher>
+        <pages>89-112.</pages>
+        <edition>2. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Marković, P., Nikolić, V., &amp; Popović, D.</author>
+        <date>(2021).</date>
+        <title>Politički sustav i demokratske institucije u Europa.</title>
+        <editor>Bogdanović, L. (ur.)</editor>
+        <container-title>Politička teorija i praksa suvremene Europe</container-title>
+        <location>Osijek:</location>
+        <publisher>Nakladni zavod Globus</publisher>
+        <pages>212-245.</pages>
+    </sequence>
+    <sequence>
+        <author>Stanković, K.</author>
+        <date>(2023).</date>
+        <title>Komunikacijska strategija u digitalnom dobu.</title>
+        <editor>Radić, N. &amp; Vidović, T. (ur.)</editor>
+        <container-title>Medijska komunikacija i modernost</container-title>
+        <location>Zagreb:</location>
+        <publisher>Kurioziteti</publisher>
+        <pages>134-161.</pages>
+    </sequence>
+    <sequence>
+        <author>Čukelj, R., &amp; Meštrović, A.</author>
+        <date>(2020).</date>
+        <title>Ekologija i biološka raznolikost u hrvatskim ekosistemima.</title>
+        <editor>Blažević, M. &amp; Vranešević, K. (ur.)</editor>
+        <container-title>Zaštita prirode i biodiverziteta</container-title>
+        <location>Rijeka:</location>
+        <publisher>Meandar</publisher>
+        <pages>67-94.</pages>
+        <edition>3. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Kurtović, S., Kovačević, M., &amp; Matošević, B.</author>
+        <date>(2022).</date>
+        <title>Kriminalitet i pravosudni sustav u Hrvatskoj.</title>
+        <editor>Paladino, L. (ur.)</editor>
+        <container-title>Sigurnost i pravna zaštita</container-title>
+        <location>Zagreb:</location>
+        <publisher>Pucko</publisher>
+        <pages>198-225.</pages>
+    </sequence>
+    <sequence>
+        <author>Radošević, N.</author>
+        <date>(2021).</date>
+        <title>Kulturna baština i konzervacija spomenika.</title>
+        <editor>Rončević, V. &amp; Rogulj, P. (ur.)</editor>
+        <container-title>Nasijeđe i modernizacija</container-title>
+        <location>Split:</location>
+        <publisher>Marko Marulić</publisher>
+        <pages>45-68.</pages>
+        <translator>Horvat, J.</translator>
+    </sequence>
+    <sequence>
+        <author>Mikulečki, D., &amp; Zeman, S.</author>
+        <date>(2023).</date>
+        <title>Računalna znanost i programiranje u praksi.</title>
+        <editor>Babić, M. &amp; Šak, R. (ur.)</editor>
+        <container-title>Informacijske tehnologije i razvoj softvera</container-title>
+        <location>Zagreb:</location>
+        <publisher>Fakultet prirodoslovno-matematičkih znanosti</publisher>
+        <pages>112-141.</pages>
+    </sequence>
+    <sequence>
+        <author>Bašić, A., Čech, L., &amp; Horvat, G.</author>
+        <date>(2020).</date>
+        <title>Medicinska etika i zdravstveno pravo.</title>
+        <editor>Vidović, S. &amp; Tadić, M. (ur.)</editor>
+        <container-title>Etika i medicina u suvremenom svijetu</container-title>
+        <location>Zagreb:</location>
+        <publisher>Medicinska naklada</publisher>
+        <pages>156-179.</pages>
+        <edition>2. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Marić, L., &amp; Jurčević, K.</author>
+        <date>(2022).</date>
+        <title>Lingvistika hrvatskog jezika i dijakroni razvoj.</title>
+        <editor>Nikolić, T. &amp; Popović, E. (ur.)</editor>
+        <container-title>Jezikoznana i jezičnih istraživanja</container-title>
+        <location>Osijek:</location>
+        <publisher>Pucko</publisher>
+        <pages>234-268.</pages>
+    </sequence>
+    <sequence>
+        <author>Bogdanović, V.</author>
+        <date>(2021).</date>
+        <title>Matematička teorija i primjene u inženjerstvu.</title>
+        <editor>Stanković, J. &amp; Radić, A. (ur.)</editor>
+        <container-title>Matematika i praktična primjena</container-title>
+        <location>Zagreb:</location>
+        <publisher>FF press</publisher>
+        <pages>89-114.</pages>
+    </sequence>
+    <sequence>
+        <author>Vidović, R., Marković, S., &amp; Đorđević, N.</author>
+        <date>(2023).</date>
+        <title>Fizika i energetika u suvremenom dobu.</title>
+        <editor>Čukelj, T. (ur.)</editor>
+        <container-title>Energija i održivi razvoj</container-title>
+        <location>Rijeka:</location>
+        <publisher>Alfa</publisher>
+        <pages>145-172.</pages>
+        <translator>Meštrović, D.</translator>
+    </sequence>
+    <sequence>
+        <author>Stanković, P., &amp; Radić, L.</author>
+        <date>(2020).</date>
+        <title>Kemija i kemijski procesi u industriji.</title>
+        <editor>Blažević, K. &amp; Vranešević, M. (ur.)</editor>
+        <container-title>Kemijska tehnologija i proizvodnja</container-title>
+        <location>Varaždin:</location>
+        <publisher>Breza</publisher>
+        <pages>67-91.</pages>
+        <edition>3. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Čukelj, E., Kovačević, L., &amp; Matošević, V.</author>
+        <date>(2022).</date>
+        <title>Biologije i genetika u modernoj medicini.</title>
+        <editor>Paladino, M. &amp; Radošević, R. (ur.)</editor>
+        <container-title>Moderna biologija i genomske tehnologije</container-title>
+        <location>Zagreb:</location>
+        <publisher>Element</publisher>
+        <pages>198-225.</pages>
+    </sequence>
+    <sequence>
+        <author>Rončević, A.</author>
+        <date>(2021).</date>
+        <title>Sociologija obitelji i obiteljskih odnosa.</title>
+        <editor>Rogulj, M. &amp; Mikulečki, B. (ur.)</editor>
+        <container-title>Sociološke perspektive obitelji</container-title>
+        <location>Split:</location>
+        <publisher>Novi liber</publisher>
+        <pages>45-68.</pages>
+        <translator>Zeman, L.</translator>
+    </sequence>
+    <sequence>
+        <author>Babić, N., &amp; Šak, V.</author>
+        <date>(2023).</date>
+        <title>Geologija i mineralogia hrvatskih regija.</title>
+        <editor>Bašić, L. &amp; Čech, S. (ur.)</editor>
+        <container-title>Prirodne bogatstva i njihovo iskorištenje</container-title>
+        <location>Zagreb:</location>
+        <publisher>Školska knjiga</publisher>
+        <pages>112-139.</pages>
+    </sequence>
+    <sequence>
+        <author>Horvat, B., Marić, M., &amp; Jurčević, S.</author>
+        <date>(2020).</date>
+        <title>Astronomija i kosmologija u hrvatskom kontekstu.</title>
+        <editor>Vidović, N. &amp; Tadić, R. (ur.)</editor>
+        <container-title>Astronomija i istraživanja svemira</container-title>
+        <location>Osijek:</location>
+        <publisher>Zaum</publisher>
+        <pages>156-182.</pages>
+        <edition>2. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Nikolić, P., &amp; Popović, K.</author>
+        <date>(2022).</date>
+        <title>Meteorologija i klimatske promjene u Hrvatskoj.</title>
+        <editor>Bogdanović, A. (ur.)</editor>
+        <container-title>Klimatske studije i prognoze</container-title>
+        <location>Rijeka:</location>
+        <publisher>Prostor</publisher>
+        <pages>234-261.</pages>
+    </sequence>
+    <sequence>
+        <author>Stanković, M., Radić, V., &amp; Vidović, E.</author>
+        <date>(2021).</date>
+        <title>Oceanografija i morska zaštita Jadrana.</title>
+        <editor>Marković, B. &amp; Đorđević, L. (ur.)</editor>
+        <container-title>Morski ekosustavi i zaštita</container-title>
+        <location>Zagreb:</location>
+        <publisher>Jaspis</publisher>
+        <pages>89-112.</pages>
+        <translator>Čukelj, V.</translator>
+    </sequence>
+    <sequence>
+        <author>Čukelj, C.</author>
+        <date>(2023).</date>
+        <title>Poljoprivreda i poljoprivredne tehnologije.</title>
+        <editor>Meštrović, L. &amp; Blažević, J. (ur.)</editor>
+        <container-title>Poljoprivredna proizvodnja i održivost</container-title>
+        <location>Varaždin:</location>
+        <publisher>Kurioziteti</publisher>
+        <pages>145-171.</pages>
+    </sequence>
+    <sequence>
+        <author>Blažević, R., &amp; Vranešević, N.</author>
+        <date>(2020).</date>
+        <title>Veterina i zdravlje životinja u Hrvatskoj.</title>
+        <editor>Kovačević, D. &amp; Matošević, M. (ur.)</editor>
+        <container-title>Veterinska znanost i praksa</container-title>
+        <location>Split:</location>
+        <publisher>Medicinska naklada</publisher>
+        <pages>67-94.</pages>
+        <edition>3. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Paladino, S., Radošević, K., &amp; Rončević, D.</author>
+        <date>(2022).</date>
+        <title>Šumarstvo i zaštita šuma u operacionalnoj praksi.</title>
+        <editor>Rogulj, B. (ur.)</editor>
+        <container-title>Šumska ekonomija i upravljanje resursima</container-title>
+        <location>Zagreb:</location>
+        <publisher>Naklad Slap</publisher>
+        <pages>198-225.</pages>
+    </sequence>
+    <sequence>
+        <author>Mikulečki, M., &amp; Zeman, A.</author>
+        <date>(2021).</date>
+        <title>Ribarstvo i aquacultura u Jadranskom moru.</title>
+        <editor>Babić, K. &amp; Šak, T. (ur.)</editor>
+        <container-title>Riblje bogatstvo i održivi ribolov</container-title>
+        <location>Rijeka:</location>
+        <publisher>Alfa</publisher>
+        <pages>45-68.</pages>
+        <translator>Bašić, G.</translator>
+    </sequence>
+    <sequence>
+        <author>Čech, N., &amp; Horvat, H.</author>
+        <date>(2023).</date>
+        <title>Tekstilna industrija i moda u Hrvatskoj.</title>
+        <editor>Vidović, L. &amp; Tadić, U. (ur.)</editor>
+        <container-title>Tekstilna tehnologija i dizajn</container-title>
+        <location>Zagreb:</location>
+        <publisher>FF press</publisher>
+        <pages>112-141.</pages>
+    </sequence>
+    <sequence>
+        <author>Marić, T., Jurčević, R., &amp; Nikolić, L.</author>
+        <date>(2020).</date>
+        <title>Prehrambena industrija i tehnike obrade hrane.</title>
+        <editor>Popović, M. &amp; Bogdanović, D. (ur.)</editor>
+        <container-title>Prehrana i tehnologija proizvodnje</container-title>
+        <location>Osijek:</location>
+        <publisher>Zaum</publisher>
+        <pages>156-182.</pages>
+        <edition>2. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Stanković, N., &amp; Radić, S.</author>
+        <date>(2022).</date>
+        <title>Turizam i ugostiteljstvo u suvremenim trendima.</title>
+        <editor>Vidović, P. &amp; Marković, V. (ur.)</editor>
+        <container-title>Uslužni sektor i turizam</container-title>
+        <location>Split:</location>
+        <publisher>Element</publisher>
+        <pages>234-261.</pages>
+    </sequence>
+    <sequence>
+        <author>Čukelj, G., Meštrović, S., &amp; Blažević, E.</author>
+        <date>(2021).</date>
+        <title>Hotelijerstvo i upravljanje objektima.</title>
+        <editor>Đorđević, R. (ur.)</editor>
+        <container-title>Upravljanje hotelima i restoranima</container-title>
+        <location>Zagreb:</location>
+        <publisher>Jaspis</publisher>
+        <pages>89-112.</pages>
+        <translator>Vranešević, A.</translator>
+    </sequence>
+    <sequence>
+        <author>Paladino, A., &amp; Radošević, L.</author>
+        <date>(2023).</date>
+        <title>Transporta i logistika u suvremenom biznisu.</title>
+        <editor>Rončević, M. &amp; Rogulj, S. (ur.)</editor>
+        <container-title>Logistika i upravljanje lancem opskrbe</container-title>
+        <location>Rijeka:</location>
+        <publisher>Nakladni zavod Globus</publisher>
+        <pages>145-171.</pages>
+    </sequence>
+    <sequence>
+        <author>Mikulečki, V., &amp; Zeman, R.</author>
+        <date>(2020).</date>
+        <title>Konstruktivne tehnologije i arhitektonsko planiranje.</title>
+        <editor>Babić, E. &amp; Šak, M. (ur.)</editor>
+        <container-title>Graditeljstvo i projektiranje</container-title>
+        <location>Varaždin:</location>
+        <publisher>Breza</publisher>
+        <pages>67-94.</pages>
+        <edition>3. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Bašić, S., Čech, V., &amp; Horvat, D.</author>
+        <date>(2022).</date>
+        <title>Elektrotehnika i električna energija.</title>
+        <editor>Marić, N. &amp; Jurčević, L. (ur.)</editor>
+        <container-title>Električni sustavi i energetika</container-title>
+        <location>Zagreb:</location>
+        <publisher>Školska knjiga</publisher>
+        <pages>198-225.</pages>
+    </sequence>
+    <sequence>
+        <author>Nikolić, J., &amp; Popović, A.</author>
+        <date>(2021).</date>
+        <title>Mehanika i inženjerske primjene.</title>
+        <editor>Vidović, K. &amp; Tadić, E. (ur.)</editor>
+        <container-title>Mehanička inženjerstva i tehnologije</container-title>
+        <location>Osijek:</location>
+        <publisher>Prostor</publisher>
+        <pages>45-68.</pages>
+        <translator>Bogdanović, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Bogdanović, L., Stanković, J., &amp; Radić, P.</author>
+        <date>(2023).</date>
+        <title>Automatika i robotika u proizvodnji.</title>
+        <editor>Marković, K. (ur.)</editor>
+        <container-title>Automatizacija i industrijska robotika</container-title>
+        <location>Split:</location>
+        <publisher>Kurioziteti</publisher>
+        <pages>112-139.</pages>
+    </sequence>
+    <sequence>
+        <author>Vidović, T., &amp; Čukelj, U.</author>
+        <date>(2020).</date>
+        <title>Fluidna mehanika i hidraulika.</title>
+        <editor>Meštrović, K. &amp; Blažević, B. (ur.)</editor>
+        <container-title>Mehanika fluida i primjene</container-title>
+        <location>Rijeka:</location>
+        <publisher>Zaum</publisher>
+        <pages>156-182.</pages>
+        <edition>2. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Meštrović, N., Blažević, V., &amp; Vranešević, B.</author>
+        <date>(2022).</date>
+        <title>Termodinamika i toplinski sustavi.</title>
+        <editor>Kovačević, P. &amp; Matošević, A. (ur.)</editor>
+        <container-title>Toplinska inženjerstva i energija</container-title>
+        <location>Zagreb:</location>
+        <publisher>Element</publisher>
+        <pages>234-261.</pages>
+    </sequence>
+    <sequence>
+        <author>Paladino, B., &amp; Radošević, M.</author>
+        <date>(2021).</date>
+        <title>Materijali i struktura u inženjerstvu.</title>
+        <editor>Rončević, L. &amp; Rogulj, N. (ur.)</editor>
+        <container-title>Materijali i svojstva njihova</container-title>
+        <location>Varaždin:</location>
+        <publisher>Jaspis</publisher>
+        <pages>89-112.</pages>
+        <translator>Rončević, K.</translator>
+    </sequence>
+    <sequence>
+        <author>Rogulj, P., Mikulečki, D., &amp; Zeman, S.</author>
+        <date>(2023).</date>
+        <title>Zavareni spojevi i tehnike zavarivanja.</title>
+        <editor>Babić, M. (ur.)</editor>
+        <container-title>Zavarivanje i obrada metala</container-title>
+        <location>Split:</location>
+        <publisher>Medicinska naklada</publisher>
+        <pages>145-171.</pages>
+    </sequence>
+    <sequence>
+        <author>Šak, K., &amp; Bašić, R.</author>
+        <date>(2020).</date>
+        <title>Alatne mašine i obrada materijala.</title>
+        <editor>Čech, M. &amp; Horvat, P. (ur.)</editor>
+        <container-title>Alatnu tehniku i obradu</container-title>
+        <location>Zagreb:</location>
+        <publisher>Pucko</publisher>
+        <pages>67-94.</pages>
+        <edition>3. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Horvat, L., Marić, A., &amp; Jurčević, M.</author>
+        <date>(2022).</date>
+        <title>Motorni vozila i motori sa unutarnjim sagorijevanjem.</title>
+        <editor>Nikolić, M. &amp; Popović, B. (ur.)</editor>
+        <container-title>Vozila i motorna tehnologija</container-title>
+        <location>Osijek:</location>
+        <publisher>FF press</publisher>
+        <pages>198-225.</pages>
+    </sequence>
+    <sequence>
+        <author>Vidović, S., &amp; Tadić, V.</author>
+        <date>(2021).</date>
+        <title>Željeznica i sustavi željezničkog transporta.</title>
+        <editor>Bogdanović, N. &amp; Stanković, L. (ur.)</editor>
+        <container-title>Željeznički sustavi i transporta</container-title>
+        <location>Rijeka:</location>
+        <publisher>Alfа</publisher>
+        <pages>45-68.</pages>
+        <translator>Radić, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Marković, A., Đorđević, M., &amp; Čukelj, N.</author>
+        <date>(2023).</date>
+        <title>Zrakoplovstvo i industrijska aeronautika.</title>
+        <editor>Meštrović, R. (ur.)</editor>
+        <container-title>Zrakoplovna tehnologija i sigurnost</container-title>
+        <location>Zagreb:</location>
+        <publisher>Novo Liber</publisher>
+        <pages>112-141.</pages>
+    </sequence>
+    <sequence>
+        <author>Blažević, D., &amp; Vranešević, L.</author>
+        <date>(2020).</date>
+        <title>Brodogradnja i brodske mašine.</title>
+        <editor>Kovačević, L. &amp; Matošević, D. (ur.)</editor>
+        <container-title>Brodska tehnologija i gradnja</container-title>
+        <location>Split:</location>
+        <publisher>Zaum</publisher>
+        <pages>156-182.</pages>
+        <edition>2. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Paladino, M., Radošević, N., &amp; Rončević, P.</author>
+        <date>(2022).</date>
+        <title>Navigacija i morska sigurnost.</title>
+        <editor>Rogulj, M. (ur.)</editor>
+        <container-title>Navigacija i brodarstvo</container-title>
+        <location>Rijeka:</location>
+        <publisher>Jaspis</publisher>
+        <pages>234-261.</pages>
+    </sequence>
+    <sequence>
+        <author>Mikulečki, L., &amp; Zeman, M.</author>
+        <date>(2021).</date>
+        <title>Telekomunikacije i tehnike komunikacija.</title>
+        <editor>Babić, L. &amp; Šak, A. (ur.)</editor>
+        <container-title>Komunikacijske tehnologije i mreže</container-title>
+        <location>Varaždin:</location>
+        <publisher>Element</publisher>
+        <pages>89-112.</pages>
+        <translator>Bašić, T.</translator>
+    </sequence>
+    <sequence>
+        <author>Čech, B., &amp; Horvat, M.</author>
+        <date>(2023).</date>
+        <title>Elektronika i mikroprocesori u praksi.</title>
+        <editor>Marić, L. &amp; Jurčević, K. (ur.)</editor>
+        <container-title>Elektronička rješenja i digitalna tehnologija</container-title>
+        <location>Zagreb:</location>
+        <publisher>Školska knjiga</publisher>
+        <pages>145-171.</pages>
+    </sequence>
+    <sequence>
+        <author>Nikolić, N., Popović, S., &amp; Vidović, R.</author>
+        <date>(2020).</date>
+        <title>Softver i razvoj računalnih aplikacija.</title>
+        <editor>Tadić, T. &amp; Bogdanović, P. (ur.)</editor>
+        <container-title>Programiranje i razvoj softvera</container-title>
+        <location>Osijek:</location>
+        <publisher>Prostor</publisher>
+        <pages>67-94.</pages>
+        <edition>3. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Stanković, G., &amp; Radić, E.</author>
+        <date>(2022).</date>
+        <title>Mrežne komunikacije i interneta tehnologija.</title>
+        <editor>Marković, L. &amp; Đorđević, S. (ur.)</editor>
+        <container-title>Internet i mrežne arhitekture</container-title>
+        <location>Split:</location>
+        <publisher>Kurioziteti</publisher>
+        <pages>198-225.</pages>
+    </sequence>
+    <sequence>
+        <author>Čukelj, E., Meštrović, B., &amp; Blažević, K.</author>
+        <date>(2021).</date>
+        <title>Baze podataka i upravljanje informacijama.</title>
+        <editor>Vranešević, M. (ur.)</editor>
+        <container-title>Upravljanje podacima i baze podataka</container-title>
+        <location>Rijeka:</location>
+        <publisher>Medicinska naklada</publisher>
+        <pages>45-68.</pages>
+        <translator>Paladino, V.</translator>
+    </sequence>
+    <sequence>
+        <author>Rončević, N., Rogulj, T., &amp; Mikulečki, M.</author>
+        <date>(2023).</date>
+        <title>Sigurnost računalnih sistema i enkripcija.</title>
+        <editor>Zeman, K. (ur.)</editor>
+        <container-title>Cyber sigurnost i zaštita podataka</container-title>
+        <location>Zagreb:</location>
+        <publisher>Zaum</publisher>
+        <pages>112-141.</pages>
+    </sequence>
+    <sequence>
+        <author>Babić, P., &amp; Šak, N.</author>
+        <date>(2020).</date>
+        <title>Grafika računala i vizualizacija.</title>
+        <editor>Bašić, L. &amp; Čech, A. (ur.)</editor>
+        <container-title>Računalna grafika i animacija</container-title>
+        <location>Varaždin:</location>
+        <publisher>Jaspis</publisher>
+        <pages>156-182.</pages>
+        <edition>2. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Horvat, C., Marić, E., &amp; Jurčević, P.</author>
+        <date>(2022).</date>
+        <title>Kunstna inteligencija i strojnog učenja.</title>
+        <editor>Nikolić, K. (ur.)</editor>
+        <container-title>AI tehnologije i pametne sustave</container-title>
+        <location>Split:</location>
+        <publisher>Element</publisher>
+        <pages>234-261.</pages>
+    </sequence>
+    <sequence>
+        <author>Vidović, V., &amp; Tadić, A.</author>
+        <date>(2021).</date>
+        <title>Obrada slike i elektronski vid.</title>
+        <editor>Popović, D. &amp; Bogdanović, E. (ur.)</editor>
+        <container-title>Digitalne slike i obrada signala</container-title>
+        <location>Osijek:</location>
+        <publisher>FF press</publisher>
+        <pages>89-112.</pages>
+        <translator>Bogdanović, L.</translator>
+    </sequence>
+    <sequence>
+        <author>Stanković, E., Radić, M., &amp; Marković, N.</author>
+        <date>(2023).</date>
+        <title>Znanost o podatke i algoritmi.</title>
+        <editor>Đorđević, V. (ur.)</editor>
+        <container-title>Analitika podataka i strojnog učenja</container-title>
+        <location>Rijeka:</location>
+        <publisher>Novo Liber</publisher>
+        <pages>145-171.</pages>
+    </sequence>
+    <sequence>
+        <author>Čukelj, L., Meštrović, M., &amp; Blažević, P.</author>
+        <date>(2020).</date>
+        <title>Robotika i automatiziran sustavel.</title>
+        <editor>Vranešević, N. &amp; Kovačević, E. (ur.)</editor>
+        <container-title>Robotske tehnologije i upravljanje</container-title>
+        <location>Zagreb:</location>
+        <publisher>Pucko</publisher>
+        <pages>67-94.</pages>
+        <edition>3. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Paladino, D.</author>
+        <date>(2022).</date>
+        <title>Proizvodnja i kvaliteta industrijskih proizvoda.</title>
+        <editor>Matošević, L. &amp; Radošević, P. (ur.)</editor>
+        <container-title>Kvaliteta i proizvodnja</container-title>
+        <location>Split:</location>
+        <publisher>Zaum</publisher>
+        <pages>198-225.</pages>
+    </sequence>
+    <sequence>
+        <author>Rončević, S., &amp; Rogulj, U.</author>
+        <date>(2021).</date>
+        <title>Upravljanja projektima u praksi.</title>
+        <editor>Mikulečki, N. (ur.)</editor>
+        <container-title>Upravljanja i strateškog planiranja</container-title>
+        <location>Rijeka:</location>
+        <publisher>Element</publisher>
+        <pages>45-68.</pages>
+        <translator>Mikulečki, A.</translator>
+    </sequence>
+    <sequence>
+        <author>Zeman, V., Babić, S., &amp; Šak, B.</author>
+        <date>(2023).</date>
+        <title>Menadžment i organizacijske strukture.</title>
+        <editor>Bašić, M. &amp; Čech, N. (ur.)</editor>
+        <container-title>Organizacijskog razvoja i upravljanja</container-title>
+        <location>Zagreb:</location>
+        <publisher>Jaspis</publisher>
+        <pages>112-141.</pages>
+    </sequence>
+    <sequence>
+        <author>Horvat, N., &amp; Marić, V.</author>
+        <date>(2020).</date>
+        <title>Ljudske resurse: razvoj i trening.</title>
+        <editor>Jurčević, M. &amp; Nikolić, S. (ur.)</editor>
+        <container-title>Ljudski potencijal i razvoj karijere</container-title>
+        <location>Osijek:</location>
+        <publisher>Medicinska naklada</publisher>
+        <pages>156-182.</pages>
+        <edition>2. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Popović, L., Vidović, T., &amp; Tadić, K.</author>
+        <date>(2022).</date>
+        <title>Motivacija i zadovoljstva na radu.</title>
+        <editor>Bogdanović, R. (ur.)</editor>
+        <container-title>Ponašanja na radnom mjestu i motivacija</container-title>
+        <location>Split:</location>
+        <publisher>Prostor</publisher>
+        <pages>234-261.</pages>
+    </sequence>
+    <sequence>
+        <author>Stanković, S., &amp; Radić, N.</author>
+        <date>(2021).</date>
+        <title>Organizacijske kulture i promjene.</title>
+        <editor>Marković, M. &amp; Đorđević, P. (ur.)</editor>
+        <container-title>Kulturne transformacije u organizacijama</container-title>
+        <location>Rijeka:</location>
+        <publisher>Alfa</publisher>
+        <pages>89-112.</pages>
+        <translator>Čukelj, H.</translator>
+    </sequence>
+    <sequence>
+        <author>Čukelj, V., Meštrović, N., &amp; Blažević, M.</author>
+        <date>(2023).</date>
+        <title>Liderstvo i vođenja timova.</title>
+        <editor>Vranešević, P. &amp; Kovačević, M. (ur.)</editor>
+        <container-title>Vodstvo i efikasne timove</container-title>
+        <location>Zagreb:</location>
+        <publisher>Kurioziteti</publisher>
+        <pages>145-171.</pages>
+    </sequence>
+    <sequence>
+        <author>Matošević, N.</author>
+        <date>(2020).</date>
+        <title>Komunikacija u organizaciji i konflikti.</title>
+        <editor>Paladino, K. &amp; Radošević, E. (ur.)</editor>
+        <container-title>Radna komunikacija i rješavanje konflikata</container-title>
+        <location>Varaždin:</location>
+        <publisher>Zaum</publisher>
+        <pages>67-94.</pages>
+        <edition>3. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Rončević, M., Rogulj, L., &amp; Mikulečki, P.</author>
+        <date>(2022).</date>
+        <title>Etika u poslovanju i odgovornost.</title>
+        <editor>Zeman, L. (ur.)</editor>
+        <container-title>Poslovna etika i društvena odgovornost</container-title>
+        <location>Split:</location>
+        <publisher>Jaspis</publisher>
+        <pages>198-225.</pages>
+    </sequence>
+    <sequence>
+        <author>Babić, T., &amp; Šak, D.</author>
+        <date>(2021).</date>
+        <title>Inovacija i poduzetništvo u praksi.</title>
+        <editor>Bašić, N. &amp; Čech, P. (ur.)</editor>
+        <container-title>Tehnološde inovacije i novi biznisi</container-title>
+        <location>Osijek:</location>
+        <publisher>Element</publisher>
+        <pages>45-68.</pages>
+        <translator>Horvat, B.</translator>
+    </sequence>
+    <sequence>
+        <author>Horvat, P., Marić, S., &amp; Jurčević, N.</author>
+        <date>(2023).</date>
+        <title>Marketinga strategije i brendiranje.</title>
+        <editor>Nikolić, R. (ur.)</editor>
+        <container-title>Tržišnog marketinga i komunikacije</container-title>
+        <location>Rijeka:</location>
+        <publisher>Medicinska naklada</publisher>
+        <pages>112-141.</pages>
+    </sequence>
+    <sequence>
+        <author>Vidović, M., &amp; Tadić, N.</author>
+        <date>(2020).</date>
+        <title>Proizvodnih i prodajnih sistema.</title>
+        <editor>Popović, N. &amp; Bogdanović, L. (ur.)</editor>
+        <container-title>Prodaja i distribucije</container-title>
+        <location>Zagreb:</location>
+        <publisher>Pucko</publisher>
+        <pages>156-182.</pages>
+        <edition>2. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Stanković, L., Radić, T., &amp; Marković, P.</author>
+        <date>(2022).</date>
+        <title>Oglašavanja i javnih odnosa u poslovanju.</title>
+        <editor>Đorđević, M. (ur.)</editor>
+        <container-title>Publicitet i komunikacijske kampanje</container-title>
+        <location>Split:</location>
+        <publisher>FF press</publisher>
+        <pages>234-261.</pages>
+    </sequence>
+    <sequence>
+        <author>Čukelj, N., Meštrović, P., &amp; Blažević, L.</author>
+        <date>(2021).</date>
+        <title>Ponašanja potrošače i tržišne trendove.</title>
+        <editor>Vranešević, M. (ur.)</editor>
+        <container-title>Potrošaškog ponašanja i analiza tržišta</container-title>
+        <location>Varaždin:</location>
+        <publisher>Novo Liber</publisher>
+        <pages>89-112.</pages>
+        <translator>Kovačević, N.</translator>
+    </sequence>
+    <sequence>
+        <author>Paladino, L., &amp; Radošević, S.</author>
+        <date>(2023).</date>
+        <title>Odnosa s javnošće i reputacija.</title>
+        <editor>Matošević, M. &amp; Rončević, N. (ur.)</editor>
+        <container-title>Javnih odnosa i medijske komunikacije</container-title>
+        <location>Split:</location>
+        <publisher>Zaum</publisher>
+        <pages>145-171.</pages>
+    </sequence>
+    <sequence>
+        <author>Rogulj, M.</author>
+        <date>(2020).</date>
+        <title>Medijskih istraživanja i emitiranja.</title>
+        <editor>Mikulečki, L. &amp; Zeman, N. (ur.)</editor>
+        <container-title>Medijskih teorija i prakse</container-title>
+        <location>Zagreb:</location>
+        <publisher>Jaspis</publisher>
+        <pages>67-94.</pages>
+        <edition>3. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Horvat, E., &amp; Marić, G.</author>
+        <date>(2022).</date>
+        <title>Novinarstava i etika u medijima.</title>
+        <editor>Jurčević, S. (ur.)</editor>
+        <container-title>Novinarske prakse i standardi</container-title>
+        <location>Split:</location>
+        <publisher>Zaum</publisher>
+        <pages>123-148.</pages>
+    </sequence>
+    <sequence>
+        <author>Nikolić, T., Popović, L., &amp; Vidović, B.</author>
+        <date>(2021).</date>
+        <title>Filmska produkcija i kinematografija.</title>
+        <editor>Tadić, M. (ur.)</editor>
+        <container-title>Filmske tehnike i produkcija</container-title>
+        <location>Zagreb:</location>
+        <publisher>Element</publisher>
+        <pages>89-115.</pages>
+        <translator>Bogdanović, T.</translator>
+    </sequence>
+    <sequence>
+        <author>Stanković, V., &amp; Radić, R.</author>
+        <date>(2023).</date>
+        <title>Televizijska produkcija i emitiranje.</title>
+        <editor>Marković, S. &amp; Đorđević, V. (ur.)</editor>
+        <container-title>Televizijske tehnologije i produkcije</container-title>
+        <location>Osijek:</location>
+        <publisher>Jaspis</publisher>
+        <pages>201-228.</pages>
+    </sequence>
+    <sequence>
+        <author>Čukelj, A.</author>
+        <date>(2020).</date>
+        <title>Radijske stanice i audio produkcija.</title>
+        <editor>Meštrović, R. &amp; Blažević, D. (ur.)</editor>
+        <container-title>Audio tehnologije i radiofona</container-title>
+        <location>Rijeka:</location>
+        <publisher>Medicinska naklada</publisher>
+        <pages>45-68.</pages>
+        <edition>2. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Vranešević, S., &amp; Kovačević, K.</author>
+        <date>(2022).</date>
+        <title>Novaje medije i digitalne platforme.</title>
+        <editor>Matošević, R. &amp; Paladino, N. (ur.)</editor>
+        <container-title>Digitalne medije i društvene mreže</container-title>
+        <location>Split:</location>
+        <publisher>Zaum</publisher>
+        <pages>156-181.</pages>
+    </sequence>
+    <sequence>
+        <author>Radošević, K., &amp; Rončević, M.</author>
+        <date>(2021).</date>
+        <title>Internet notizijeske i blogiranje.</title>
+        <editor>Rogulj, L. (ur.)</editor>
+        <container-title>Web medije i digitalno novinarstvo</container-title>
+        <location>Varaždin:</location>
+        <publisher>Alfa</publisher>
+        <pages>112-134.</pages>
+        <translator>Mikulečki, E.</translator>
+    </sequence>
+    <sequence>
+        <author>Mikulečki, S., Zeman, R., &amp; Babić, M.</author>
+        <date>(2023).</date>
+        <title>Podcast proizvodnja i audio sadržaj.</title>
+        <editor>Šak, L. (ur.)</editor>
+        <container-title>Novog sadržaja i audio formate</container-title>
+        <location>Zagreb:</location>
+        <publisher>Kurioziteti</publisher>
+        <pages>67-92.</pages>
+    </sequence>
+    <sequence>
+        <author>Bašić, V., &amp; Čech, E.</author>
+        <date>(2020).</date>
+        <title>Animacija i 3D grafika u filmima.</title>
+        <editor>Horvat, D. &amp; Marić, P. (ur.)</editor>
+        <container-title>Digitalne animacije i vizualni efekti</container-title>
+        <location>Osijek:</location>
+        <publisher>Element</publisher>
+        <pages>198-225.</pages>
+        <edition>3. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Jurčević, L., &amp; Nikolić, M.</author>
+        <date>(2022).</date>
+        <title>Fotografska tehnike i svjetlost.</title>
+        <editor>Popović, R. &amp; Vidović, S. (ur.)</editor>
+        <container-title>Fotografija i vizualna umetnost</container-title>
+        <location>Split:</location>
+        <publisher>Jaspis</publisher>
+        <pages>145-169.</pages>
+    </sequence>
+    <sequence>
+        <author>Tadić, N., Bogdanović, S., &amp; Stanković, P.</author>
+        <date>(2021).</date>
+        <title>Dizajna grafika i brenda identiteta.</title>
+        <editor>Radić, L. (ur.)</editor>
+        <container-title>Vizualni identitet i grafičkog dizajna</container-title>
+        <location>Rijeka:</location>
+        <publisher>Medicinska naklada</publisher>
+        <pages>78-102.</pages>
+        <translator>Marković, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Marković, G., &amp; Đorđević, T.</author>
+        <date>(2023).</date>
+        <title>Tipografija i layout u publikacijama.</title>
+        <editor>Čukelj, K. (ur.)</editor>
+        <container-title>Dizajna i печатanja proizvodnje</container-title>
+        <location>Zagreb:</location>
+        <publisher>Zaum</publisher>
+        <pages>201-228.</pages>
+    </sequence>
+    <sequence>
+        <author>Meštrović, L., &amp; Blažević, N.</author>
+        <date>(2020).</date>
+        <title>Web dizajna i korisničko iskustvo.</title>
+        <editor>Vranešević, K. &amp; Kovačević, S. (ur.)</editor>
+        <container-title>Dizajna web stranica i UX/UI</container-title>
+        <location>Varaždin:</location>
+        <publisher>Alfa</publisher>
+        <pages>123-148.</pages>
+        <edition>2. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Matošević, E., &amp; Paladino, A.</author>
+        <date>(2022).</date>
+        <title>Interaktivnog dizajna i korisničke sučelje.</title>
+        <editor>Radošević, L. (ur.)</editor>
+        <container-title>Interaktivnog medija i dizajna</container-title>
+        <location>Split:</location>
+        <publisher>Zaum</publisher>
+        <pages>189-214.</pages>
+    </sequence>
+    <sequence>
+        <author>Rončević, L., &amp; Rogulj, T.</author>
+        <date>(2021).</date>
+        <title>Brendiranje i vizualni identiteta.</title>
+        <editor>Mikulečki, M. (ur.)</editor>
+        <container-title>Korporativnog brenda i identiteta</container-title>
+        <location>Zagreb:</location>
+        <publisher>Kurioziteti</publisher>
+        <pages>45-68.</pages>
+        <translator>Zeman, P.</translator>
+    </sequence>
+    <sequence>
+        <author>Babić, D., &amp; Šak, R.</author>
+        <date>(2023).</date>
+        <title>Publikacija i tiskanja tehnike.</title>
+        <editor>Bašić, M. &amp; Čech, V. (ur.)</editor>
+        <container-title>Produkcija tiskanog materijala</container-title>
+        <location>Osijek:</location>
+        <publisher>Element</publisher>
+        <pages>112-139.</pages>
+    </sequence>
+    <sequence>
+        <author>Horvat, K., Marić, B., &amp; Jurčević, R.</author>
+        <date>(2020).</date>
+        <title>Pakovanja dizajna i proizvoda branda.</title>
+        <editor>Nikolić, L. &amp; Popović, M. (ur.)</editor>
+        <container-title>Pakovanja i tržišnog pozicioniranja</container-title>
+        <location>Rijeka:</location>
+        <publisher>Jaspis</publisher>
+        <pages>156-181.</pages>
+        <edition>3. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Vidović, C., &amp; Tadić, D.</author>
+        <date>(2022).</date>
+        <title>Eventoga organizacija i promocija.</title>
+        <editor>Bogdanović, N. (ur.)</editor>
+        <container-title>Evenata i manifestacije</container-title>
+        <location>Split:</location>
+        <publisher>Medicinska naklada</publisher>
+        <pages>67-92.</pages>
+    </sequence>
+    <sequence>
+        <author>Stanković, U., Radić, S., &amp; Marković, D.</author>
+        <date>(2021).</date>
+        <title>Izlaganja i prezentacija vještine.</title>
+        <editor>Đorđević, K. (ur.)</editor>
+        <container-title>Komunikacija i javnog govora</container-title>
+        <location>Zagreb:</location>
+        <publisher>Zaum</publisher>
+        <pages>198-225.</pages>
+        <translator>Čukelj, L.</translator>
+    </sequence>
+    <sequence>
+        <author>Čukelj, M., &amp; Meštrović, E.</author>
+        <date>(2023).</date>
+        <title>Promocije i oglašavanja kampanje.</title>
+        <editor>Blažević, P. &amp; Vranešević, R. (ur.)</editor>
+        <container-title>Marketinga komunnicacija i reklama</container-title>
+        <location>Varaždin:</location>
+        <publisher>Alfa</publisher>
+        <pages>123-148.</pages>
+    </sequence>
+    <sequence>
+        <author>Kovačević, N., &amp; Matošević, S.</author>
+        <date>(2020).</date>
+        <title>Kupca zadovoljstva i lojalnosti.</title>
+        <editor>Paladino, M. &amp; Radošević, T. (ur.)</editor>
+        <container-title>Lojalnost kupaca i odnose</container-title>
+        <location>Split:</location>
+        <publisher>Zaum</publisher>
+        <pages>89-114.</pages>
+        <edition>2. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Rončević, M., Rogulj, N., &amp; Mikulečki, L.</author>
+        <date>(2022).</date>
+        <title>Klijenta服務 i podrške.</title>
+        <editor>Zeman, K. (ur.)</editor>
+        <container-title>Korisničko iskustvo i podrške</container-title>
+        <location>Osijek:</location>
+        <publisher>Zaum</publisher>
+        <pages>201-228.</pages>
+    </sequence>
+    <sequence>
+        <author>Babić, G., &amp; Šak, E.</author>
+        <date>(2021).</date>
+        <title>Kvalitetinog upravljanja sistema.</title>
+        <editor>Bašić, K. (ur.)</editor>
+        <container-title>Upravljanja kvalitetom i standardi</container-title>
+        <location>Rijeka:</location>
+        <publisher>Element</publisher>
+        <pages>145-170.</pages>
+        <translator>Čech, D.</translator>
+    </sequence>
+    <sequence>
+        <author>Horvat, R., &amp; Marić, N.</author>
+        <date>(2023).</date>
+        <title>Izvozna politika i trgovine.</title>
+        <editor>Jurčević, M. &amp; Nikolić, N. (ur.)</editor>
+        <container-title>Međunarodnog trgovine i izvoza</container-title>
+        <location>Zagreb:</location>
+        <publisher>Jaspis</publisher>
+        <pages>67-92.</pages>
+    </sequence>
+    <sequence>
+        <author>Popović, P., &amp; Vidović, N.</author>
+        <date>(2020).</date>
+        <title>Carine i carinskog postupka.</title>
+        <editor>Tadić, E. &amp; Bogdanović, L. (ur.)</editor>
+        <container-title>Carinskog sistema i regulacije</container-title>
+        <location>Split:</location>
+        <publisher>Medicinska naklada</publisher>
+        <pages>198-225.</pages>
+        <edition>3. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Stanković, M., &amp; Radić, A.</author>
+        <date>(2022).</date>
+        <title>Logistika transporta i skladištenja.</title>
+        <editor>Marković, K. (ur.)</editor>
+        <container-title>Supply chain i logističkog upravljanja</container-title>
+        <location>Varaždin:</location>
+        <publisher>Zaum</publisher>
+        <pages>123-148.</pages>
+    </sequence>
+    <sequence>
+        <author>Čukelj, S., Meštrović, S., &amp; Blažević, T.</author>
+        <date>(2021).</date>
+        <title>Skladišta upravljanja i invetara.</title>
+        <editor>Đorđević, L. (ur.)</editor>
+        <container-title>Upravljanja inventara i skladištenja</container-title>
+        <location>Osijek:</location>
+        <publisher>Alfa</publisher>
+        <pages>89-114.</pages>
+        <translator>Vranešević, E.</translator>
+    </sequence>
+    <sequence>
+        <author>Vranešević, K., &amp; Kovačević, P.</author>
+        <date>(2023).</date>
+        <title>Transportnog plana i rutiranja.</title>
+        <editor>Matošević, N. &amp; Paladino, R. (ur.)</editor>
+        <container-title>Transport i distribucije mreža</container-title>
+        <location>Split:</location>
+        <publisher>Element</publisher>
+        <pages>201-228.</pages>
+    </sequence>
+    <sequence>
+        <author>Radošević, M., &amp; Rončević, P.</author>
+        <date>(2020).</date>
+        <title>Graničnog premještanja i kontrola.</title>
+        <editor>Rogulj, M. &amp; Mikulečki, N. (ur.)</editor>
+        <container-title>Graničnog nadzora i sigurnosti</container-title>
+        <location>Rijeka:</location>
+        <publisher>Zaum</publisher>
+        <pages>145-170.</pages>
+        <edition>2. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Zeman, M., Babić, L., &amp; Šak, N.</author>
+        <date>(2022).</date>
+        <title>Propisa i carinskog kodeksa.</title>
+        <editor>Bašić, R. (ur.)</editor>
+        <container-title>Carinskog zakonodavstva i propisa</container-title>
+        <location>Zagreb:</location>
+        <publisher>Jaspis</publisher>
+        <pages>67-92.</pages>
+    </sequence>
+    <sequence>
+        <author>Čech, J., &amp; Horvat, T.</author>
+        <date>(2021).</date>
+        <title>Ponuda i potražnja na tržištu.</title>
+        <editor>Marić, L. &amp; Jurčević, K. (ur.)</editor>
+        <container-title>Tržišne teorije i ekonomije</container-title>
+        <location>Split:</location>
+        <publisher>Medicinska naklada</publisher>
+        <pages>198-225.</pages>
+        <translator>Nikolić, P.</translator>
+    </sequence>
+    <sequence>
+        <author>Popović, S., &amp; Vidović, M.</author>
+        <date>(2023).</date>
+        <title>Konkurencija i monopola analiza.</title>
+        <editor>Tadić, R. (ur.)</editor>
+        <container-title>Konkurencije ekonomije i tržište</container-title>
+        <location>Varaždin:</location>
+        <publisher>Zaum</publisher>
+        <pages>123-148.</pages>
+    </sequence>
+    <sequence>
+        <author>Bogdanović, M., Stanković, N., &amp; Radić, P.</author>
+        <date>(2020).</date>
+        <title>Cijene i cjenovna strategija.</title>
+        <editor>Marković, L. (ur.)</editor>
+        <container-title>Cjenovanja i tržišne strategije</container-title>
+        <location>Osijek:</location>
+        <publisher>Element</publisher>
+        <pages>89-114.</pages>
+        <edition>3. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Čukelj, R., &amp; Meštrović, B.</author>
+        <date>(2022).</date>
+        <title>Potrošačka ponašanja i kupnje.</title>
+        <editor>Blažević, M. &amp; Vranešević, L. (ur.)</editor>
+        <container-title>Ponašanja potrošača i odluka</container-title>
+        <location>Split:</location>
+        <publisher>Alfa</publisher>
+        <pages>201-228.</pages>
+    </sequence>
+    <sequence>
+        <author>Kovačević, M., &amp; Matošević, K.</author>
+        <date>(2021).</date>
+        <title>Poticanja i popusta na prodajnima.</title>
+        <editor>Paladino, L. &amp; Radošević, N. (ur.)</editor>
+        <container-title>Promoti prodaje i popusta</container-title>
+        <location>Rijeka:</location>
+        <publisher>Zaum</publisher>
+        <pages>145-170.</pages>
+        <translator>Rončević, M.</translator>
+    </sequence>
+    <sequence>
+        <author>Rogulj, N., Mikulečki, P., &amp; Zeman, S.</author>
+        <date>(2023).</date>
+        <title>Distribucije kanala i prodaji.</title>
+        <editor>Babić, N. (ur.)</editor>
+        <container-title>Distribucije mrež i kanali</container-title>
+        <location>Zagreb:</location>
+        <publisher>Jaspis</publisher>
+        <pages>67-92.</pages>
+    </sequence>
+    <sequence>
+        <author>Šak, K., &amp; Bašić, L.</author>
+        <date>(2020).</date>
+        <title>Maloprodajnog sustava i trgovine.</title>
+        <editor>Čech, M. &amp; Horvat, L. (ur.)</editor>
+        <container-title>Maloprodaja i trgovinski sustem</container-title>
+        <location>Split:</location>
+        <publisher>Element</publisher>
+        <pages>198-225.</pages>
+        <edition>2. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Marić, M., Jurčević, N., &amp; Nikolić, T.</author>
+        <date>(2022).</date>
+        <title>Veleprodajnog business modela.</title>
+        <editor>Popović, K. &amp; Vidović, N. (ur.)</editor>
+        <container-title>Veleprodajnog poslovanja i modela</container-title>
+        <location>Varaždin:</location>
+        <publisher>Medicinska naklada</publisher>
+        <pages>123-148.</pages>
+    </sequence>
+    <sequence>
+        <author>Tadić, S., &amp; Bogdanović, R.</author>
+        <date>(2021).</date>
+        <title>Trgovine u digitalnom dobu.</title>
+        <editor>Stanković, L. &amp; Radić, S. (ur.)</editor>
+        <container-title>E-handel i digitalni trgovina</container-title>
+        <location>Osijek:</location>
+        <publisher>Zaum</publisher>
+        <pages>89-114.</pages>
+        <translator>Marković, E.</translator>
+    </sequence>
+    <sequence>
+        <author>Čukelj, L., &amp; Meštrović, R.</author>
+        <date>(2023).</date>
+        <title>Online prodajnog iskustva.</title>
+        <editor>Đorđević, M. (ur.)</editor>
+        <container-title>E-handel iskustva i platforme</container-title>
+        <location>Split:</location>
+        <publisher>Alfa</publisher>
+        <pages>201-228.</pages>
+    </sequence>
+    <sequence>
+        <author>Blažević, M., &amp; Vranešević, N.</author>
+        <date>(2020).</date>
+        <title>Plaćanja sistema i e-novčanika.</title>
+        <editor>Kovačević, L. &amp; Matošević, R. (ur.)</editor>
+        <container-title>Digitalno plaćanja i fintech</container-title>
+        <location>Rijeka:</location>
+        <publisher>Element</publisher>
+        <pages>145-170.</pages>
+        <edition>3. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Paladino, M., &amp; Radošević, K.</author>
+        <date>(2022).</date>
+        <title>Mobilne aplikacije i m-handel.</title>
+        <editor>Rončević, P. (ur.)</editor>
+        <container-title>Mobilnog tržavine i aplikacije</container-title>
+        <location>Zagreb:</location>
+        <publisher>Zaum</publisher>
+        <pages>67-92.</pages>
+    </sequence>
+    <sequence>
+        <author>Rogulj, M., Mikulečki, N., &amp; Zeman, L.</author>
+        <date>(2021).</date>
+        <title>Analitika podatka i kupnja.</title>
+        <editor>Babić, K. (ur.)</editor>
+        <container-title>Podataka analitika i tržišta</container-title>
+        <location>Split:</location>
+        <publisher>Jaspis</publisher>
+        <pages>198-225.</pages>
+        <translator>Šak, A.</translator>
+    </sequence>
+    <sequence>
+        <author>Bašić, N., &amp; Čech, P.</author>
+        <date>(2023).</date>
+        <title>Kupnje iskustva i vrućeg tržišta.</title>
+        <editor>Horvat, M. &amp; Marić, L. (ur.)</editor>
+        <container-title>Iskustva ekonomije i tržišta</container-title>
+        <location>Varaždin:</location>
+        <publisher>Element</publisher>
+        <pages>123-148.</pages>
+    </sequence>
+    <sequence>
+        <author>Jurčević, K.</author>
+        <date>(2020).</date>
+        <title>Sezonske trgovine i vrhunci.</title>
+        <editor>Nikolić, S. &amp; Popović, N. (ur.)</editor>
+        <container-title>Sezonskog poslovanja i trendova</container-title>
+        <location>Split:</location>
+        <publisher>Zaum</publisher>
+        <pages>89-114.</pages>
+        <edition>2. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Vidović, L., &amp; Tadić, N.</author>
+        <date>(2022).</date>
+        <title>Promocije i posebne ponude.</title>
+        <editor>Bogdanović, L. (ur.)</editor>
+        <container-title>Promocije strategije i tržišta</container-title>
+        <location>Osijek:</location>
+        <publisher>Alfa</publisher>
+        <pages>145-170.</pages>
+    </sequence>
+    <sequence>
+        <author>Stanković, R., Radić, M., &amp; Marković, T.</author>
+        <date>(2021).</date>
+        <title>Specijalizacije i nišne proizvodnje.</title>
+        <editor>Đorđević, N. (ur.)</editor>
+        <container-title>Specijaliziranog tržišta</container-title>
+        <location>Rijeka:</location>
+        <publisher>Element</publisher>
+        <pages>201-228.</pages>
+        <translator>Čukelj, E.</translator>
+    </sequence>
+    <sequence>
+        <author>Čukelj, J., &amp; Meštrović, K.</author>
+        <date>(2023).</date>
+        <title>Privremeni radnici i sezonskog rada.</title>
+        <editor>Blažević, L. &amp; Vranešević, P. (ur.)</editor>
+        <container-title>Fleksibilnog rada i zapošljavanja</container-title>
+        <location>Zagreb:</location>
+        <publisher>Zaum</publisher>
+        <pages>67-92.</pages>
+    </sequence>
+    <sequence>
+        <author>Kovačević, N., &amp; Matošević, M.</author>
+        <date>(2020).</date>
+        <title>Obuka i razvoj vještinama.</title>
+        <editor>Paladino, K. &amp; Radošević, L. (ur.)</editor>
+        <container-title>Korporativnog obuke i razvoja</container-title>
+        <location>Split:</location>
+        <publisher>Jaspis</publisher>
+        <pages>198-225.</pages>
+        <edition>3. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Rončević, N., Rogulj, E., &amp; Mikulečki, K.</author>
+        <date>(2022).</date>
+        <title>Certification i standards na poslu.</title>
+        <editor>Zeman, M. (ur.)</editor>
+        <container-title>Professionalni standardi i certifikati</container-title>
+        <location>Varaždin:</location>
+        <publisher>Element</publisher>
+        <pages>123-148.</pages>
+    </sequence>
+    <sequence>
+        <author>Babić, E., &amp; Šak, S.</author>
+        <date>(2021).</date>
+        <title>Zdravlja i sigurnosti na radu.</title>
+        <editor>Bašić, P. &amp; Čech, R. (ur.)</editor>
+        <container-title>Zaštite na radnem mjestu</container-title>
+        <location>Osijek:</location>
+        <publisher>Medicinska naklada</publisher>
+        <pages>89-114.</pages>
+        <translator>Horvat, S.</translator>
+    </sequence>
+    <sequence>
+        <author>Horvat, N., &amp; Marić, K.</author>
+        <date>(2023).</date>
+        <title>Radnog okruženja i ergonomije.</title>
+        <editor>Jurčević, P. &amp; Nikolić, N. (ur.)</editor>
+        <container-title>Ergonomije i radnih uvjeta</container-title>
+        <location>Split:</location>
+        <publisher>Alfa</publisher>
+        <pages>201-228.</pages>
+    </sequence>
+    <sequence>
+        <author>Popović, M., &amp; Vidović, P.</author>
+        <date>(2020).</date>
+        <title>Psihološkog svjetla na radu.</title>
+        <editor>Tadić, L. &amp; Bogdanović, M. (ur.)</editor>
+        <container-title>Radne psihologije i blagostanja</container-title>
+        <location>Rijeka:</location>
+        <publisher>Zaum</publisher>
+        <pages>145-170.</pages>
+        <edition>2. izd.</edition>
+    </sequence>
+    <sequence>
+        <author>Stanković, K., Radić, N., &amp; Marković, L.</author>
+        <date>(2022).</date>
+        <title>Stresa na poslu i prevencije.</title>
+        <editor>Đorđević, R. (ur.)</editor>
+        <container-title>Stresa upravljanja i prevencije</container-title>
+        <location>Zagreb:</location>
+        <publisher>Element</publisher>
+        <pages>67-92.</pages>
+    </sequence>
+    <sequence>
+        <author>Čukelj, T., &amp; Meštrović, M.</author>
+        <date>(2021).</date>
+        <title>Burn-out i radne invalidnosti.</title>
+        <editor>Blažević, N. (ur.)</editor>
+        <container-title>Zdravlja zaposlenika i prevencije</container-title>
+        <location>Split:</location>
+        <publisher>Jaspis</publisher>
+        <pages>198-225.</pages>
+        <translator>Vranešević, T.</translator>
+    </sequence>
+    <sequence>
+        <author>Kovačević, K., &amp; Matošević, S.</author>
+        <date>(2023).</date>
+        <title>Privremeni zapošljavanje i fleksibilnost.</title>
+        <editor>Paladino, N. (ur.)</editor>
+        <container-title>Fleksibilnog zapošljavanja trendovi</container-title>
+        <location>Varaždin:</location>
+        <publisher>Element</publisher>
+        <pages>89-112.</pages>
+    </sequence>
+</dataset>
