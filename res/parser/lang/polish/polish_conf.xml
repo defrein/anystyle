@@ -1,0 +1,1474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <sequence>
+        <author>Kowalski, J.</author>
+        <editor>Nowak, A., &amp; Lewandowski, P.</editor>
+        <date>2023.</date>
+        <title>Transformacja cyfrowa w administracji publicznej.</title>
+        <container-title>Konferencja Informatyki Publicznej</container-title>
+        <volume>vol. 15,</volume>
+        <pages>45-62.</pages>
+        <location>Warszawa:</location>
+        <publisher>PWN.</publisher>
+        <doi>10.1234/kip.2023.001</doi>
+    </sequence>
+    <sequence>
+        <author>Zieliński, T., &amp; Górski, M.</author>
+        <editor>Szymański, K.</editor>
+        <date>(2022).</date>
+        <title>Analiza bezpieczeństwa danych w chmurze obliczeniowej.</title>
+        <container-title>Międzynarodowa Konferencja Cyberbezpieczeństwa</container-title>
+        <volume>Proceedings vol. 8,</volume>
+        <pages>123-145.</pages>
+        <location>Kraków:</location>
+        <publisher>Universitas Jagiellonica Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Wiśniewski, P.</author>
+        <editor>Adamczyk, B., &amp; Kostecka, A.</editor>
+        <date>2024.</date>
+        <title>Algorytmy uczenia maszynowego w diagnostyce medycznej.</title>
+        <container-title>Konferencja Sztucznej Inteligencji i Medycyny</container-title>
+        <volume>Proceedings 2024,</volume>
+        <pages>78-95.</pages>
+        <location>Wrocław:</location>
+        <publisher>Prace Naukowe Uniwersytetu Wrocławskiego.</publisher>
+        <doi>10.1234/csim.2024.012</doi>
+    </sequence>
+    <sequence>
+        <author>Karpińska, E.</author>
+        <editor>Piotrowski, S.</editor>
+        <date>2021.</date>
+        <title>Naczelne zasady zarządzania projektami w przedsiębiorstwach technologicznych.</title>
+        <container-title>17. Międzynarodowa Konferencja Zarządzania</container-title>
+        <volume>vol. 12,</volume>
+        <pages>34-51.</pages>
+        <location>Poznań:</location>
+        <publisher>Wydawnictwo Naukowe.</publisher>
+    </sequence>
+    <sequence>
+        <author>Lewandowski, R., &amp; Stępień, J.</author>
+        <editor>Czarnecki, D.</editor>
+        <date>(2023).</date>
+        <title>Optymalizacja procesów logistycznych z zastosowaniem systemów informatycznych.</title>
+        <container-title>Konferencja Logistyki i Transportu</container-title>
+        <pages>102-119.</pages>
+        <location>Gdańsk:</location>
+        <publisher>Maritime Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Niemiec, A.</author>
+        <editor>Graczyk, M., &amp; Szumowski, W.</editor>
+        <date>2022.</date>
+        <title>Trwałość oprogramowania w dobie zmian technologicznych.</title>
+        <container-title>Konferencja Inżynierii Oprogramowania</container-title>
+        <volume>Proceedings vol. 20,</volume>
+        <pages>156-173.</pages>
+        <location>Łódź:</location>
+        <publisher>Technical Press.</publisher>
+        <doi>10.1234/kio.2022.045</doi>
+    </sequence>
+    <sequence>
+        <author>Sokolski, W.</author>
+        <date>2023.</date>
+        <title>Nowe podejścia do edukacji informatycznej w szkołach.</title>
+        <container-title>Konferencja Edukacji Cyfrowej</container-title>
+        <editor>Wesołowski, J.</editor>
+        <volume>vol. 9,</volume>
+        <pages>67-84.</pages>
+        <location>Szczecin:</location>
+        <publisher>Educational Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Kwiatkowski, L., &amp; Grabowski, M.</author>
+        <editor>Nowicki, P.</editor>
+        <date>2021.</date>
+        <title>Zastosowanie technologii blockchain w łańcuchu dostaw.</title>
+        <container-title>Konferencja Technologii Rozproszonej</container-title>
+        <volume>Proceedings 2021, vol. 5,</volume>
+        <pages>201-218.</pages>
+        <location>Warszawa:</location>
+        <publisher>IT Press.</publisher>
+        <doi>10.1234/ktd.2021.034</doi>
+    </sequence>
+    <sequence>
+        <author>Rutkowska, K.</author>
+        <editor>Sobolewski, B., &amp; Jakubek, A.</editor>
+        <date>(2020).</date>
+        <title>Wpływ mediów społecznościowych na zachowania konsumentów.</title>
+        <container-title>Konferencja Marketingu Cyfrowego</container-title>
+        <volume>vol. 14,</volume>
+        <pages>89-106.</pages>
+        <location>Kraków:</location>
+        <publisher>Marketing Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Borkowski, T.</author>
+        <date>2022.</date>
+        <title>Sterowanie robotami autonomicznymi w produkcji przemysłowej.</title>
+        <container-title>14. Konferencja Automatyki i Robotyki</container-title>
+        <editor>Czajkowski, W.</editor>
+        <volume>Proceedings vol. 18,</volume>
+        <pages>45-62.</pages>
+        <location>Wrocław:</location>
+        <publisher>Robotic Technology Press.</publisher>
+        <doi>10.1234/kar.2022.056</doi>
+    </sequence>
+    <sequence>
+        <author>Wojtowicz, P., &amp; Michalski, R.</author>
+        <editor>Sierocki, J.</editor>
+        <date>2023.</date>
+        <title>Interfejsy przyszłości: projektowanie doświadczeń użytkownika.</title>
+        <container-title>Konferencja Dizajnu Interaktywnego</container-title>
+        <volume>vol. 11,</volume>
+        <pages>112-129.</pages>
+        <location>Poznań:</location>
+        <publisher>Design Research Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Pierzchała, E.</author>
+        <editor>Szkoła, T., &amp; Marcinkowski, B.</editor>
+        <date>2021.</date>
+        <title>Analityka wielkich zbiorów danych w biznesie finansowym.</title>
+        <container-title>Konferencja Analityki Danych</container-title>
+        <pages>78-95.</pages>
+        <location>Gdańsk:</location>
+        <publisher>Financial Analytics Press.</publisher>
+        <doi>10.1234/kad.2021.078</doi>
+    </sequence>
+    <sequence>
+        <author>Kucharski, S.</author>
+        <date>2022.</date>
+        <title>Zastosowanie sztucznej inteligencji w opiece zdrowotnej.</title>
+        <container-title>Interdyscyplinarna Konferencja Medycyny Cyfrowej</container-title>
+        <editor>Dąbrowski, M.</editor>
+        <volume>vol. 7,</volume>
+        <pages>134-151.</pages>
+        <location>Łódź:</location>
+        <publisher>Medical Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Jackowski, V., &amp; Romanowski, P.</author>
+        <editor>Śliwa, D.</editor>
+        <date>(2023).</date>
+        <title>Wyzwania w implementacji GDPR w organizacjach.</title>
+        <container-title>Konferencja Prywatności i Danych</container-title>
+        <volume>Proceedings vol. 13,</volume>
+        <pages>56-73.</pages>
+        <location>Szczecin:</location>
+        <publisher>Legal Press.</publisher>
+        <doi>10.1234/kpd.2023.089</doi>
+    </sequence>
+    <sequence>
+        <author>Sochacki, H.</author>
+        <editor>Stasiek, R., &amp; Fedorowicz, J.</editor>
+        <date>2020.</date>
+        <title>Nowe trendy w rozwoju aplikacji mobilnych.</title>
+        <container-title>Konferencja Technologii Mobilnych</container-title>
+        <volume>vol. 9,</volume>
+        <pages>23-40.</pages>
+        <location>Warszawa:</location>
+        <publisher>Mobile Tech Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Gibasiewicz, A.</author>
+        <date>2021.</date>
+        <title>Internet rzeczy i jego zastosowania w inteligentnych miastach.</title>
+        <container-title>Konferencja Technologii IoT</container-title>
+        <editor>Kowalczyk, N.</editor>
+        <volume>Proceedings 2021, vol. 10,</volume>
+        <pages>167-184.</pages>
+        <location>Kraków:</location>
+        <publisher>IoT Press.</publisher>
+        <doi>10.1234/kiot.2021.045</doi>
+    </sequence>
+    <sequence>
+        <author>Tomaszewski, L., &amp; Furmanek, W.</author>
+        <editor>Rybczyński, J.</editor>
+        <date>2022.</date>
+        <title>Przeszkody techniczne i prawne przy migracji do chmury.</title>
+        <container-title>Konferencja Infrastruktury IT</container-title>
+        <pages>89-106.</pages>
+        <location>Wrocław:</location>
+        <publisher>Infrastructure Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Dembowski, K.</author>
+        <editor>Sołtys, M., &amp; Jankowski, B.</editor>
+        <date>(2021).</date>
+        <title>Bezpieczeństwo aplikacji webowych w praktyce.</title>
+        <container-title>Konferencja Bezpieczeństwa Aplikacji</container-title>
+        <volume>vol. 12,</volume>
+        <pages>201-218.</pages>
+        <location>Poznań:</location>
+        <publisher>Web Security Press.</publisher>
+        <doi>10.1234/kba.2021.067</doi>
+    </sequence>
+    <sequence>
+        <author>Sikora, O.</author>
+        <date>2023.</date>
+        <title>Wpływ zmian regulacyjnych na innowacyjność branży technologicznej.</title>
+        <container-title>Konferencja Regulacji Rynku Cyfrowego</container-title>
+        <editor>Pietrzak, S.</editor>
+        <volume>vol. 8,</volume>
+        <pages>45-62.</pages>
+        <location>Gdańsk:</location>
+        <publisher>Regulatory Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Nowakowski, F., &amp; Jeleń, P.</author>
+        <editor>Górski, B.</editor>
+        <date>2020.</date>
+        <title>Optymalizacja wydajności systemów baz danych.</title>
+        <container-title>Konferencja Inżynierii Baz Danych</container-title>
+        <volume>Proceedings vol. 6,</volume>
+        <pages>112-129.</pages>
+        <location>Łódź:</location>
+        <publisher>Database Press.</publisher>
+        <doi>10.1234/kibd.2020.034</doi>
+    </sequence>
+    <sequence>
+        <author>Ostrowska, I.</author>
+        <editor>Cieśla, M., &amp; Konopnicki, J.</editor>
+        <date>2022.</date>
+        <title>Rola eksperta danych w transformacji cyfrowej.</title>
+        <container-title>Konferencja Nauk o Danych</container-title>
+        <pages>78-95.</pages>
+        <location>Warszawa:</location>
+        <publisher>Data Science Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Żumowski, R.</author>
+        <date>(2023).</date>
+        <title>Edukacja standardów kodowania w projektach zespołowych.</title>
+        <container-title>Konferencja Praktyk Programistycznych</container-title>
+        <editor>Ślusarczyk, W.</editor>
+        <volume>vol. 14,</volume>
+        <pages>134-151.</pages>
+        <location>Kraków:</location>
+        <publisher>Programming Press.</publisher>
+        <doi>10.1234/kpp.2023.012</doi>
+    </sequence>
+    <sequence>
+        <author>Pawlik, E., &amp; Trzeciak, A.</author>
+        <editor>Kusiak, H.</editor>
+        <date>2021.</date>
+        <title>Architektura mikrousług w aplikacjach enterprise.</title>
+        <container-title>Konferencja Architektury Systemów</container-title>
+        <volume>vol. 11,</volume>
+        <pages>23-40.</pages>
+        <location>Wrocław:</location>
+        <publisher>Architecture Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Smagała, T.</author>
+        <editor>Mertuszewska, J., &amp; Polkowski, R.</editor>
+        <date>2020.</date>
+        <title>Wdrażanie metodologii DevOps w dużych organizacjach.</title>
+        <container-title>Konferencja DevOps i Inżynierii</container-title>
+        <volume>Proceedings 2020, vol. 7,</volume>
+        <pages>167-184.</pages>
+        <location>Poznań:</location>
+        <publisher>DevOps Press.</publisher>
+        <doi>10.1234/kdi.2020.089</doi>
+    </sequence>
+    <sequence>
+        <author>Urbański, M.</author>
+        <date>2022.</date>
+        <title>Testowanie automatyczne w projektach agile.</title>
+        <container-title>Konferencja Testowania Oprogramowania</container-title>
+        <editor>Sorka, B.</editor>
+        <pages>56-73.</pages>
+        <location>Gdańsk:</location>
+        <publisher>Testing Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zając, S., &amp; Marciniak, W.</author>
+        <editor>Fryc, L.</editor>
+        <date>(2021).</date>
+        <title>Bezpieczeństwo infrastruktury krytycznej w erze cyberataków.</title>
+        <container-title>Konferencja Bezpieczeństwa Infrastruktury</container-title>
+        <volume>vol. 9,</volume>
+        <pages>201-218.</pages>
+        <location>Łódź:</location>
+        <publisher>Critical Infrastructure Press.</publisher>
+        <doi>10.1234/kbi.2021.045</doi>
+    </sequence>
+    <sequence>
+        <author>Sobczuk, P.</author>
+        <editor>Stańczak, R., &amp; Zięba, J.</editor>
+        <date>2023.</date>
+        <title>Wyzwania integracji systemów w przedsiębiorstwach Industry 4.0.</title>
+        <container-title>Konferencja Transformacji Przemysłowej</container-title>
+        <volume>vol. 15,</volume>
+        <pages>89-106.</pages>
+        <location>Warszawa:</location>
+        <publisher>Industrial Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Furman, H.</author>
+        <date>2020.</date>
+        <title>Sztuczna inteligencja w prognozowaniu finansowym.</title>
+        <container-title>Konferencja Technologii Finansowych</container-title>
+        <editor>Lewandowski, T.</editor>
+        <volume>Proceedings vol. 8,</volume>
+        <pages>45-62.</pages>
+        <location>Kraków:</location>
+        <publisher>FinTech Press.</publisher>
+        <doi>10.1234/ktf.2020.056</doi>
+    </sequence>
+    <sequence>
+        <author>Golonka, V., &amp; Michalski, S.</author>
+        <editor>Lewandowski, K.</editor>
+        <date>2021.</date>
+        <title>Ochrona danych osobowych w aplikacjach mobilnych.</title>
+        <container-title>Konferencja Prywatności Mobilnej</container-title>
+        <pages>112-129.</pages>
+        <location>Wrocław:</location>
+        <publisher>Privacy Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Mielczarek, J.</author>
+        <editor>Szafrański, B., &amp; Krasiński, P.</editor>
+        <date>(2022).</date>
+        <title>Trendy w projektowaniu interfejsów użytkownika dla osób niepełnosprawnych.</title>
+        <container-title>Konferencja Dostępności Cyfrowej</container-title>
+        <volume>vol. 10,</volume>
+        <pages>23-40.</pages>
+        <location>Poznań:</location>
+        <publisher>Accessibility Press.</publisher>
+        <doi>10.1234/kdac.2022.078</doi>
+    </sequence>
+    <sequence>
+        <author>Rogowski, D.</author>
+        <date>2020.</date>
+        <title>Wykorzystanie chmury obliczeniowej w edukacji zdalnej.</title>
+        <container-title>Konferencja Edukacji Online</container-title>
+        <editor>Szpaderski, J.</editor>
+        <volume>vol. 6,</volume>
+        <pages>167-184.</pages>
+        <location>Gdańsk:</location>
+        <publisher>Education Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zielonka, A., &amp; Podlasinski, B.</author>
+        <editor>Mikołajczyk, C.</editor>
+        <date>2023.</date>
+        <title>Analiza wydajności algorytmów sortowania na procesorach wielordzeniowych.</title>
+        <container-title>Konferencja Algorytmiki i Obliczeń</container-title>
+        <volume>Proceedings 2023, vol. 12,</volume>
+        <pages>78-95.</pages>
+        <location>Łódź:</location>
+        <publisher>Algorithms Press.</publisher>
+        <doi>10.1234/kao.2023.089</doi>
+    </sequence>
+    <sequence>
+        <author>Szewczyk, T.</author>
+        <date>(2021).</date>
+        <title>Wizualizacja danych w kontekście decyzji biznesowych.</title>
+        <container-title>Konferencja Wizualizacji Informacji</container-title>
+        <editor>Kęsy, J.</editor>
+        <volume>vol. 11,</volume>
+        <pages>56-73.</pages>
+        <location>Warszawa:</location>
+        <publisher>Visualization Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Laskowski, M.</author>
+        <editor>Nowak, T., &amp; Sitek, P.</editor>
+        <date>2022.</date>
+        <title>Optymalizacja sieciowych systemów komunikacyjnych.</title>
+        <container-title>Konferencja Sieci Komputerowych</container-title>
+        <pages>201-218.</pages>
+        <location>Kraków:</location>
+        <publisher>Network Press.</publisher>
+        <doi>10.1234/ksk.2022.034</doi>
+    </sequence>
+    <sequence>
+        <author>Szostak, U., &amp; Górny, W.</author>
+        <editor>Dąbrowski, S.</editor>
+        <date>2021.</date>
+        <title>Nowe podejścia do wsparcia decyzji w systemach medycznych.</title>
+        <container-title>Konferencja Systemów Wspomagania Decyzji</container-title>
+        <volume>vol. 13,</volume>
+        <pages>89-106.</pages>
+        <location>Wrocław:</location>
+        <publisher>Decision Support Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Szlachcic, E.</author>
+        <date>2020.</date>
+        <title>Uczenie maszynowe w predykcji zachowań konsumerów.</title>
+        <container-title>Konferencja Eksploracji Danych</container-title>
+        <editor>Robiski, J.</editor>
+        <volume>Proceedings vol. 9,</volume>
+        <pages>45-62.</pages>
+        <location>Poznań:</location>
+        <publisher>Data Mining Press.</publisher>
+        <doi>10.1234/ked.2020.045</doi>
+    </sequence>
+    <sequence>
+        <author>Zakrzewski, P., &amp; Wysocki, R.</author>
+        <editor>Chłopik, M.</editor>
+        <date>(2023).</date>
+        <title>Rola chmury w transformacji procesów biznesowych.</title>
+        <container-title>Konferencja Transform. Cyfrowej</container-title>
+        <pages>112-129.</pages>
+        <location>Gdańsk:</location>
+        <publisher>Transformation Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Szyszka, I.</author>
+        <editor>Strzelecki, B., &amp; Romanowska, L.</editor>
+        <date>2022.</date>
+        <title>Cyberbezpieczeństwo w pracy zdalnej.</title>
+        <container-title>Konferencja Bezpieczeństwa Pracy Zdalnej</container-title>
+        <volume>vol. 7,</volume>
+        <pages>23-40.</pages>
+        <location>Łódź:</location>
+        <publisher>Remote Work Press.</publisher>
+        <doi>10.1234/kbpz.2022.078</doi>
+    </sequence>
+    <sequence>
+        <author>Wrona, S.</author>
+        <date>2021.</date>
+        <title>Zastosowanie technologii rozszerzonej rzeczywistości w edukacji.</title>
+        <container-title>Konferencja Technologii AR/VR</container-title>
+        <editor>Zając, K.</editor>
+        <volume>vol. 10,</volume>
+        <pages>167-184.</pages>
+        <location>Warszawa:</location>
+        <publisher>AR/VR Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Żuraw, O., &amp; Bochenek, T.</author>
+        <editor>Świątek, R.</editor>
+        <date>2020.</date>
+        <title>Analiza efektywności protokołów sieciowych w systemach IoT.</title>
+        <container-title>Konferencja Protokołów Sieciowych</container-title>
+        <volume>Proceedings 2020, vol. 8,</volume>
+        <pages>78-95.</pages>
+        <location>Kraków:</location>
+        <publisher>Network Protocols Press.</publisher>
+        <doi>10.1234/kps.2020.089</doi>
+    </sequence>
+    <sequence>
+        <author>Żuchowska, M.</author>
+        <date>(2022).</date>
+        <title>Wykorzystanie big data w marketing automation.</title>
+        <container-title>Konferencja Automatyzacji Marketingu</container-title>
+        <editor>Marcin, J.</editor>
+        <volume>vol. 11,</volume>
+        <pages>56-73.</pages>
+        <location>Wrocław:</location>
+        <publisher>Marketing Automation Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Żychiewicz, H., &amp; Skowroński, A.</author>
+        <editor>Wójcik, S.</editor>
+        <date>2023.</date>
+        <title>Wyzwania implementacji standardów ISO w branży IT.</title>
+        <container-title>Konferencja Standardów IT</container-title>
+        <pages>201-218.</pages>
+        <location>Poznań:</location>
+        <publisher>Standards Press.</publisher>
+        <doi>10.1234/ksti.2023.056</doi>
+    </sequence>
+    <sequence>
+        <author>Zimmermann, U.</author>
+        <editor>Żeglowski, L., &amp; Tyrała, J.</editor>
+        <date>2021.</date>
+        <title>Kontrola jakości w projektach informatycznych.</title>
+        <container-title>Konferencja Zarządzania Jakością</container-title>
+        <volume>vol. 9,</volume>
+        <pages>89-106.</pages>
+        <location>Gdańsk:</location>
+        <publisher>Quality Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Żyła, W., &amp; Zmora, P.</author>
+        <date>2020.</date>
+        <title>Prywatność użytkownika w sieciach społecznościowych.</title>
+        <container-title>Konferencja Prywatności Sieciowej</container-title>
+        <editor>Zalewska, B.</editor>
+        <volume>Proceedings vol. 7,</volume>
+        <pages>45-62.</pages>
+        <location>Łódź:</location>
+        <publisher>Social Privacy Press.</publisher>
+        <doi>10.1234/kps.2020.034</doi>
+    </sequence>
+    <sequence>
+        <author>Zabłocki, R.</author>
+        <editor>Zaremba, M., &amp; Zając, S.</editor>
+        <date>(2021).</date>
+        <title>Optymalizacja wydajności aplikacji internetowych.</title>
+        <container-title>Konferencja Wydajności Web</container-title>
+        <volume>vol. 12,</volume>
+        <pages>112-129.</pages>
+        <location>Warszawa:</location>
+        <publisher>Web Performance Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Żak, G.</author>
+        <date>2022.</date>
+        <title>Rola automatyzacji w redukcji kosztów operacyjnych.</title>
+        <container-title>Konferencja Automatyzacji Procesów</container-title>
+        <editor>Zalewska, J.</editor>
+        <volume>vol. 13,</volume>
+        <pages>23-40.</pages>
+        <location>Kraków:</location>
+        <publisher>Process Automation Press.</publisher>
+        <doi>10.1234/kap.2022.078</doi>
+    </sequence>
+    <sequence>
+        <author>Zaleska, T., &amp; Zieliński, W.</author>
+        <editor>Zagórski, P.</editor>
+        <date>2021.</date>
+        <title>Bezpieczeństwo API w aplikacjach cloud-native.</title>
+        <container-title>Konferencja API Security</container-title>
+        <pages>167-184.</pages>
+        <location>Wrocław:</location>
+        <publisher>API Security Press.</publisher>
+        <doi>10.1234/kas.2021.045</doi>
+    </sequence>
+    <sequence>
+        <author>Zapolski, M.</author>
+        <date>2020.</date>
+        <title>Trendy w architekturze rozproszonych systemów.</title>
+        <container-title>Konferencja Systemów Rozproszonych</container-title>
+        <editor>Zapodych, B.</editor>
+        <volume>vol. 8,</volume>
+        <pages>78-95.</pages>
+        <location>Poznań:</location>
+        <publisher>Distributed Systems Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zaremba, E., &amp; Zarych, A.</author>
+        <editor>Zechner, K.</editor>
+        <date>(2023).</date>
+        <title>Analiza technicznych aspektów migracji do microservices.</title>
+        <container-title>Konferencja Microservices</container-title>
+        <volume>Proceedings 2023, vol. 14,</volume>
+        <pages>56-73.</pages>
+        <location>Gdańsk:</location>
+        <publisher>Microservices Press.</publisher>
+        <doi>10.1234/km.2023.089</doi>
+    </sequence>
+    <sequence>
+        <author>Zagroda, S.</author>
+        <editor>Zagórski, M., &amp; Żuchowska, K.</editor>
+        <date>2022.</date>
+        <title>Budowanie kulturę DevOps w nowych teamach.</title>
+        <container-title>Konferencja Kultury DevOps</container-title>
+        <pages>201-218.</pages>
+        <location>Łódź:</location>
+        <publisher>Team Culture Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zagórski, H., &amp; Zając, P.</author>
+        <date>2021.</date>
+        <title>Wydajność systemów baz danych NoSQL w warunkach dużego obciążenia.</title>
+        <container-title>Konferencja Baz Danych NoSQL</container-title>
+        <editor>Zimnoch, J.</editor>
+        <volume>vol. 11,</volume>
+        <pages>89-106.</pages>
+        <location>Warszawa:</location>
+        <publisher>NoSQL Press.</publisher>
+        <doi>10.1234/knos.2021.056</doi>
+    </sequence>
+    <sequence>
+        <author>Zadroga, B.</author>
+        <date>(2020).</date>
+        <title>Zarządzanie konfiguracją w projektach infrastruktury IT.</title>
+        <container-title>Konferencja Zarządzania Konfiguracją</container-title>
+        <editor>Zemłacki, W.</editor>
+        <volume>vol. 9,</volume>
+        <pages>45-62.</pages>
+        <location>Kraków:</location>
+        <publisher>Configuration Management Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zalba, M., &amp; Zęba, T.</author>
+        <editor>Zeków, S.</editor>
+        <date>2023.</date>
+        <title>Innowacyjne podejścia do testowania oprogramowania enterprise.</title>
+        <container-title>Konferencja Testowania Enterprise</container-title>
+        <volume>vol. 15,</volume>
+        <pages>112-129.</pages>
+        <location>Wrocław:</location>
+        <publisher>Enterprise Testing Press.</publisher>
+        <doi>10.1234/kte.2023.078</doi>
+    </sequence>
+    <sequence>
+        <author>Zagajewski, L.</author>
+        <date>2022.</date>
+        <title>Strategie sprzedaży rozwiązań chmurowych dla klientów korporacyjnych.</title>
+        <container-title>Konferencja Sprzedaży Cloud</container-title>
+        <editor>Zając, E.</editor>
+        <pages>23-40.</pages>
+        <location>Poznań:</location>
+        <publisher>Cloud Sales Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zajas, O., &amp; Zajer, W.</author>
+        <editor>Zalski, R.</editor>
+        <date>2021.</date>
+        <title>Rozwiązania dla inteligentnej elektroniki w domu.</title>
+        <container-title>Konferencja Smart Home</container-title>
+        <volume>Proceedings vol. 10,</volume>
+        <pages>167-184.</pages>
+        <location>Gdańsk:</location>
+        <publisher>Smart Home Press.</publisher>
+        <doi>10.1234/ksh.2021.034</doi>
+    </sequence>
+    <sequence>
+        <author>Zajęcia, P.</author>
+        <editor>Załęski, B., &amp; Zamula, M.</editor>
+        <date>2020.</date>
+        <title>Integracja systemów ERP w przedsiębiorstwach produkcyjnych.</title>
+        <container-title>Konferencja Systemów ERP</container-title>
+        <volume>vol. 8,</volume>
+        <pages>78-95.</pages>
+        <location>Łódź:</location>
+        <publisher>ERP Systems Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zajączkowski, K., &amp; Zahorski, T.</author>
+        <date>(2022).</date>
+        <title>Bezpieczeństwo w łańcuchu dostaw oparty na technologii blockchain.</title>
+        <container-title>Konferencja Blockchain Supply Chain</container-title>
+        <editor>Zamoszczyk, S.</editor>
+        <volume>vol. 12,</volume>
+        <pages>56-73.</pages>
+        <location>Warszawa:</location>
+        <publisher>Blockchain Press.</publisher>
+        <doi>10.1234/kbsc.2022.089</doi>
+    </sequence>
+    <sequence>
+        <author>Zaliski, V.</author>
+        <date>2023.</date>
+        <title>Szkolenia pracowników: wdrażanie nowych technologii w organizacji.</title>
+        <container-title>Konferencja Edukacji Korporacyjnej</container-title>
+        <editor>Zamorzeń, J.</editor>
+        <volume>vol. 13,</volume>
+        <pages>201-218.</pages>
+        <location>Kraków:</location>
+        <publisher>Corporate Training Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zamorski, D.</author>
+        <date>2021.</date>
+        <title>Rozwój umiejętności cyfrowych w edukacji akademickiej.</title>
+        <container-title>Konferencja Edukacji Cyfrowej w Akademii</container-title>
+        <editor>Zamość, A.</editor>
+        <volume>Proceedings 2021, vol. 11,</volume>
+        <pages>89-106.</pages>
+        <location>Wrocław:</location>
+        <publisher>Academic Digital Press.</publisher>
+        <doi>10.1234/keda.2021.045</doi>
+    </sequence>
+    <sequence>
+        <author>Zambrowska, I., &amp; Zamecka, H.</author>
+        <date>(2021).</date>
+        <title>Etyka sztucznej inteligencji w biznesie.</title>
+        <container-title>Konferencja Etyki AI</container-title>
+        <editor>Zamacka, L.</editor>
+        <pages>45-62.</pages>
+        <location>Poznań:</location>
+        <publisher>AI Ethics Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zahorski, M., &amp; Zamora, J.</author>
+        <editor>Zamoszczyk, W.</editor>
+        <date>2022.</date>
+        <title>Metryki i wskaźniki w zarządzaniu projektami informatycznymi.</title>
+        <container-title>Konferencja Metryk IT</container-title>
+        <volume>vol. 14,</volume>
+        <pages>112-129.</pages>
+        <location>Gdańsk:</location>
+        <publisher>IT Metrics Press.</publisher>
+        <doi>10.1234/kim.2022.078</doi>
+    </sequence>
+    <sequence>
+        <author>Zapolska, T.</author>
+        <date>2020.</date>
+        <title>Rozwiązania dla automatyzacji procesów księgowych.</title>
+        <container-title>Konferencja Automatyzacji Finansowej</container-title>
+        <editor>Zapolski, R.</editor>
+        <volume>vol. 9,</volume>
+        <pages>23-40.</pages>
+        <location>Łódź:</location>
+        <publisher>Financial Automation Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zagorski, L., &amp; Zarosinski, P.</author>
+        <editor>Zarow, S.</editor>
+        <date>(2023).</date>
+        <title>Modernizacja zastanego kodu w systemach legacy.</title>
+        <container-title>Konferencja Legacy Systems</container-title>
+        <volume>Proceedings vol. 15,</volume>
+        <pages>167-184.</pages>
+        <location>Warszawa:</location>
+        <publisher>Legacy Modernization Press.</publisher>
+        <doi>10.1234/kls.2023.034</doi>
+    </sequence>
+    <sequence>
+        <author>Zaorski, E.</author>
+        <editor>Zaremba, G., &amp; Zagórska, K.</editor>
+        <date>2021.</date>
+        <title>Strategie inwestycji w infrastrukturę IT.</title>
+        <container-title>Konferencja Inwestycji IT</container-title>
+        <pages>78-95.</pages>
+        <location>Kraków:</location>
+        <publisher>Investment Strategy Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zalska, B., &amp; Zamysła, J.</author>
+        <date>2022.</date>
+        <title>Komunikacja zespołów rozproszonych w projektach agile.</title>
+        <container-title>Konferencja Komunikacji Zespołów</container-title>
+        <editor>Zamocki, W.</editor>
+        <volume>vol. 10,</volume>
+        <pages>56-73.</pages>
+        <location>Wrocław:</location>
+        <publisher>Team Communication Press.</publisher>
+        <doi>10.1234/kkt.2022.089</doi>
+    </sequence>
+    <sequence>
+        <author>Zaprawa, O.</author>
+        <date>2021.</date>
+        <title>Rozwiązania dla obsługi klienta zwiększające satysfakcję konsumerów.</title>
+        <container-title>Konferencja Customer Experience</container-title>
+        <editor>Zapolski, A.</editor>
+        <volume>vol. 11,</volume>
+        <pages>201-218.</pages>
+        <location>Poznań:</location>
+        <publisher>CX Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zaprzany, K., &amp; Zarawski, T.</author>
+        <editor>Zaranowska, I.</editor>
+        <date>(2020).</date>
+        <title>Zarządzanie zmianą techniczną w dużych organizacjach.</title>
+        <container-title>Konferencja Zarządzania Zmianą</container-title>
+        <volume>vol. 8,</volume>
+        <pages>89-106.</pages>
+        <location>Gdańsk:</location>
+        <publisher>Change Management Press.</publisher>
+        <doi>10.1234/kzz.2020.078</doi>
+    </sequence>
+    <sequence>
+        <author>Zaremski, P.</author>
+        <editor>Zaranek, B., &amp; Zaraj, S.</editor>
+        <date>2023.</date>
+        <title>Transformacja procesów biznesowych w bankowości cyfrowej.</title>
+        <container-title>Konferencja Bankowości Cyfrowej</container-title>
+        <pages>45-62.</pages>
+        <location>Łódź:</location>
+        <publisher>Digital Banking Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zarena, M., &amp; Zarek, W.</author>
+        <date>2022.</date>
+        <title>Innowacje w zakresie ochrony danych osobowych.</title>
+        <container-title>Konferencja Ochrony Danych</container-title>
+        <editor>Zaraski, J.</editor>
+        <volume>Proceedings 2022, vol. 12,</volume>
+        <pages>112-129.</pages>
+        <location>Warszawa:</location>
+        <publisher>Data Protection Press.</publisher>
+        <doi>10.1234/kod.2022.056</doi>
+    </sequence>
+    <sequence>
+        <author>Zofia, J.</author>
+        <date>2021.</date>
+        <title>Rola liderów technicznych w transformacji cyfrowej.</title>
+        <container-title>Konferencja Lidershipu Technicznego</container-title>
+        <editor>Zarowska, A., &amp; Zaranek, L.</editor>
+        <volume>vol. 9,</volume>
+        <pages>23-40.</pages>
+        <location>Kraków:</location>
+        <publisher>Tech Leadership Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zofin, H., &amp; Zofiski, R.</author>
+        <date>(2021).</date>
+        <title>Rozwiązania dla automatyzacji testów w aplikacjach webowych.</title>
+        <container-title>Konferencja Automatyzacji Testów Web</container-title>
+        <volume>vol. 13,</volume>
+        <pages>167-184.</pages>
+        <location>Wrocław:</location>
+        <publisher>Test Automation Press.</publisher>
+        <doi>10.1234/katw.2021.089</doi>
+    </sequence>
+    <sequence>
+        <author>Zorski, T.</author>
+        <editor>Zoll, W., &amp; Zola, M.</editor>
+        <date>2020.</date>
+        <title>Bezpieczeństwo mobilne w erze pracy zdalnej.</title>
+        <container-title>Konferencja Mobile Security</container-title>
+        <pages>78-95.</pages>
+        <location>Poznań:</location>
+        <publisher>Mobile Security Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zolna, U., &amp; Zombie, K.</author>
+        <date>2022.</date>
+        <title>Strategie wdrażania SAP w dużych korporacjach.</title>
+        <container-title>Konferencja Systemów SAP</container-title>
+        <editor>Zośka, B.</editor>
+        <volume>vol. 10,</volume>
+        <pages>56-73.</pages>
+        <location>Gdańsk:</location>
+        <publisher>SAP Implementation Press.</publisher>
+        <doi>10.1234/ksa.2022.034</doi>
+    </sequence>
+    <sequence>
+        <author>Zonda, V., &amp; Zondek, P.</author>
+        <editor>Zorski, S.</editor>
+        <date>(2023).</date>
+        <title>Wspieranie innowacji poprzez inwestycje w badania i rozwój.</title>
+        <container-title>Konferencja R&amp;D Innowacji</container-title>
+        <volume>vol. 14,</volume>
+        <pages>201-218.</pages>
+        <location>Łódź:</location>
+        <publisher>R&amp;D Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zopinski, J.</author>
+        <date>2021.</date>
+        <title>Maszyna wirtualna a hypervisor: wybór dla przedsiębiorstwa.</title>
+        <container-title>Konferencja Wirtualizacji IT</container-title>
+        <editor>Zor, A.</editor>
+        <volume>Proceedings vol. 11,</volume>
+        <pages>89-106.</pages>
+        <location>Warszawa:</location>
+        <publisher>Virtualization Press.</publisher>
+        <doi>10.1234/kvit.2021.045</doi>
+    </sequence>
+    <sequence>
+        <author>Zorawski, E., &amp; Zoryna, M.</author>
+        <date>(2020).</date>
+        <title>Analiza zagrożeń bezpieczeństwa w usługach cloud.</title>
+        <container-title>Konferencja Bezpieczeństwa Cloud</container-title>
+        <editor>Zoska, N.</editor>
+        <pages>45-62.</pages>
+        <location>Kraków:</location>
+        <publisher>Cloud Security Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zorinsky, W.</author>
+        <editor>Zośka, T., &amp; Zygad, K.</editor>
+        <date>2023.</date>
+        <title>Porady dla startupów technologicznych na ścieżce do sukcesu.</title>
+        <container-title>Konferencja Startupów Tech</container-title>
+        <volume>vol. 15,</volume>
+        <pages>112-129.</pages>
+        <location>Wrocław:</location>
+        <publisher>Startup Press.</publisher>
+        <doi>10.1234/kst.2023.078</doi>
+    </sequence>
+    <sequence>
+        <author>Zouros, S.</author>
+        <date>2022.</date>
+        <title>Transformacja cyfrowa sektora publicznego w Polsce.</title>
+        <container-title>Konferencja Cyfryzacji Administracji</container-title>
+        <editor>Zowadzki, J.</editor>
+        <volume>vol. 12,</volume>
+        <pages>23-40.</pages>
+        <location>Poznań:</location>
+        <publisher>Admin Digital Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zowacki, L., &amp; Zowodski, R.</author>
+        <editor>Zozak, B.</editor>
+        <date>2021.</date>
+        <title>Nowe technologie w ochronie zdrowotnych danych pacjenta.</title>
+        <container-title>Konferencja e-Zdrowia</container-title>
+        <volume>Proceedings 2021, vol. 9,</volume>
+        <pages>167-184.</pages>
+        <location>Gdańsk:</location>
+        <publisher>eHealth Press.</publisher>
+        <doi>10.1234/kez.2021.034</doi>
+    </sequence>
+    <sequence>
+        <author>Zozulin, H.</author>
+        <date>(2021).</date>
+        <title>Rola danych publicznych w rozwoju innowacji.</title>
+        <container-title>Konferencja Otwartych Danych</container-title>
+        <editor>Zórawski, W., &amp; Żuchowska, P.</editor>
+        <pages>78-95.</pages>
+        <location>Łódź:</location>
+        <publisher>Open Data Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zubek, T., &amp; Zubelta, J.</author>
+        <date>2020.</date>
+        <title>Wykorzystanie IoT w monitoringu produkcji.</title>
+        <container-title>Konferencja IoT Produkcji</container-title>
+        <editor>Zuchel, M.</editor>
+        <volume>vol. 10,</volume>
+        <pages>56-73.</pages>
+        <location>Warszawa:</location>
+        <publisher>IoT Manufacturing Press.</publisher>
+        <doi>10.1234/kiom.2020.089</doi>
+    </sequence>
+    <sequence>
+        <author>Zu
+
+bicki, S., &amp; Zubinski, V.</author>
+        <editor>Zuda, K.</editor>
+        <date>2023.</date>
+        <title>Strategie unikania podatków a compliance techniczny.</title>
+        <container-title>Konferencja Compliance IT</container-title>
+        <volume>vol. 13,</volume>
+        <pages>201-218.</pages>
+        <location>Kraków:</location>
+        <publisher>Compliance Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zuchniewicz, O.</author>
+        <date>2022.</date>
+        <title>Oprogramowanie open source w przedsiębiorstwach korporacyjnych.</title>
+        <container-title>Konferencja Open Source Enterprise</container-title>
+        <editor>Zuda, P.</editor>
+        <volume>Proceedings vol. 11,</volume>
+        <pages>89-106.</pages>
+        <location>Wrocław:</location>
+        <publisher>Open Source Press.</publisher>
+        <doi>10.1234/kos.2022.045</doi>
+    </sequence>
+    <sequence>
+        <author>Zudnik, A., &amp; Zuella, F.</author>
+        <editor>Zug, B.</editor>
+        <date>(2021).</date>
+        <title>Zarządzanie zmianą technologiczną w organizacjach tradycyjnych.</title>
+        <container-title>Konferencja Transformacji Tech</container-title>
+        <pages>45-62.</pages>
+        <location>Poznań:</location>
+        <publisher>Tech Transformation Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zuendo, M.</author>
+        <editor>Zufalta, J., &amp; Zufiński, R.</editor>
+        <date>2021.</date>
+        <title>Szkolenia zespołów z bezpieczeństwa informacji.</title>
+        <container-title>Konferencja Edukacji Bezpieczeństwa</container-title>
+        <volume>vol. 14,</volume>
+        <pages>112-129.</pages>
+        <location>Gdańsk:</location>
+        <publisher>Security Training Press.</publisher>
+        <doi>10.1234/keb.2021.078</doi>
+    </sequence>
+    <sequence>
+        <author>Zufinski, H., &amp; Zugiello, S.</author>
+        <date>2020.</date>
+        <title>Analiza trendów w technologiach webowych.</title>
+        <container-title>Konferencja Trendów Web</container-title>
+        <editor>Zuik, W.</editor>
+        <volume>vol. 8,</volume>
+        <pages>23-40.</pages>
+        <location>Łódź:</location>
+        <publisher>Web Trends Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zuk, T., &amp; Zukowska, I.</author>
+        <editor>Zul, M.</editor>
+        <date>(2023).</date>
+        <title>Rozwiązania dla cyfryzacji usług finansowych.</title>
+        <container-title>Konferencja FinTech</container-title>
+        <volume>Proceedings vol. 15,</volume>
+        <pages>167-184.</pages>
+        <location>Warszawa:</location>
+        <publisher>FinTech Solutions Press.</publisher>
+        <doi>10.1234/kft.2023.034</doi>
+    </sequence>
+    <sequence>
+        <author>Zula, P.</author>
+        <editor>Zulatowski, B., &amp; Zulawski, N.</editor>
+        <date>2022.</date>
+        <title>Praktyczne wskazówki dla administratora systemów Linux.</title>
+        <container-title>Konferencja Administracji Systemów</container-title>
+        <pages>78-95.</pages>
+        <location>Kraków:</location>
+        <publisher>System Admin Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zulawski, E., &amp; Zulc, W.</author>
+        <date>2021.</date>
+        <title>Monitorowanie wydajności systemów IT w rzeczywistym czasie.</title>
+        <container-title>Konferencja Monitorowania IT</container-title>
+        <editor>Zuela, O.</editor>
+        <volume>vol. 11,</volume>
+        <pages>56-73.</pages>
+        <location>Wrocław:</location>
+        <publisher>IT Monitoring Press.</publisher>
+        <doi>10.1234/kim.2021.089</doi>
+    </sequence>
+    <sequence>
+        <author>Zuleta, J., &amp; Zulewska, H.</author>
+        <editor>Zulik, S.</editor>
+        <date>(2020).</date>
+        <title>Bezpieczeństwo w podróży po internecie: VPN i szyfrowanie.</title>
+        <container-title>Konferencja Cyberbezpieczeństwa Podróżnika</container-title>
+        <volume>vol. 9,</volume>
+        <pages>201-218.</pages>
+        <location>Poznań:</location>
+        <publisher>Cybersecurity Travel Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zulieta, O.</author>
+        <date>2023.</date>
+        <title>Wdrażanie protokołów komunikacji bezpiecznej w organizacjach.</title>
+        <container-title>Konferencja Komunikacji Bezpiecznej</container-title>
+        <editor>Zulin, K.</editor>
+        <volume>vol. 13,</volume>
+        <pages>89-106.</pages>
+        <location>Gdańsk:</location>
+        <publisher>Secure Communications Press.</publisher>
+        <doi>10.1234/kcb.2023.045</doi>
+    </sequence>
+    <sequence>
+        <author>Zulo, A., &amp; Zulon, P.</author>
+        <editor>Zulsak, T.</editor>
+        <date>2021.</date>
+        <title>Wskaźniki kluczowe wydajności w zarządzaniu projektami IT.</title>
+        <container-title>Konferencja KPI Projektów</container-title>
+        <volume>Proceedings 2021, vol. 10,</volume>
+        <pages>45-62.</pages>
+        <location>Łódź:</location>
+        <publisher>Project KPI Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zultana, I., &amp; Zultowski, W.</author>
+        <date>(2022).</date>
+        <title>Rozwiązania dla redukcji opóźnień w sieciach telekomunikacyjnych.</title>
+        <container-title>Konferencja Sieci Telekomunikacyjnych</container-title>
+        <editor>Zultanis, B.</editor>
+        <pages>112-129.</pages>
+        <location>Warszawa:</location>
+        <publisher>Telecom Network Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zultańska, M.</author>
+        <editor>Zultara, G., &amp; Zultari, E.</editor>
+        <date>2020.</date>
+        <title>Organizacja pracy zespołów programistycznych w modelu agile.</title>
+        <container-title>Konferencja Agile Teams</container-title>
+        <volume>vol. 12,</volume>
+        <pages>23-40.</pages>
+        <location>Kraków:</location>
+        <publisher>Agile Press.</publisher>
+        <doi>10.1234/kat.2020.078</doi>
+    </sequence>
+    <sequence>
+        <author>Zulte, L., &amp; Zultema, S.</author>
+        <date>2023.</date>
+        <title>Analiza możliwości integracji systemów heterogenicznych.</title>
+        <container-title>Konferencja Integracji Systemów</container-title>
+        <editor>Zultes, J.</editor>
+        <volume>vol. 14,</volume>
+        <pages>167-184.</pages>
+        <location>Wrocław:</location>
+        <publisher>System Integration Press.</publisher>
+        <doi>10.1234/kis.2023.056</doi>
+    </sequence>
+    <sequence>
+        <author>Zultesz, H.</author>
+        <date>2022.</date>
+        <title>Strategie backupu i odzyskiwania danych po awarii.</title>
+        <container-title>Konferencja Continuity IT</container-title>
+        <editor>Zulteza, A.</editor>
+        <pages>78-95.</pages>
+        <location>Poznań:</location>
+        <publisher>Disaster Recovery Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zultgar, E., &amp; Zultgas, T.</author>
+        <editor>Zultgaw, M.</editor>
+        <date>(2021).</date>
+        <title>Porady dla kierownika projektów technicznych w warunkach zmian.</title>
+        <container-title>Konferencja Zarządzania Projektami Tech</container-title>
+        <volume>Proceedings vol. 11,</volume>
+        <pages>56-73.</pages>
+        <location>Gdańsk:</location>
+        <publisher>Project Management Press.</publisher>
+        <doi>10.1234/kzpt.2021.089</doi>
+    </sequence>
+    <sequence>
+        <author>Zultgel, K., &amp; Zultgen, O.</author>
+        <date>2021.</date>
+        <title>Rozwiązania dla obsługi wielokanałowej w e-commerce.</title>
+        <container-title>Konferencja E-Commerce</container-title>
+        <editor>Zultgeo, W.</editor>
+        <volume>vol. 9,</volume>
+        <pages>201-218.</pages>
+        <location>Łódź:</location>
+        <publisher>E-Commerce Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zultger, U.</author>
+        <editor>Zultges, P., &amp; Zultget, R.</editor>
+        <date>2020.</date>
+        <title>Nowa generacja blockchain dla zastosowań korporacyjnych.</title>
+        <container-title>Konferencja Enterprise Blockchain</container-title>
+        <volume>vol. 10,</volume>
+        <pages>89-106.</pages>
+        <location>Warszawa:</location>
+        <publisher>Enterprise Blockchain Press.</publisher>
+        <doi>10.1234/keb.2020.034</doi>
+    </sequence>
+    <sequence>
+        <author>Zultgest, J., &amp; Zultgew, T.</author>
+        <date>(2023).</date>
+        <title>Strategie dla ochrony własności intelektualnej w cyberspace.</title>
+        <container-title>Konferencja Ochrony IP</container-title>
+        <editor>Zultgex, D.</editor>
+        <volume>vol. 15,</volume>
+        <pages>45-62.</pages>
+        <location>Kraków:</location>
+        <publisher>IP Protection Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zultgez, K., &amp; Zultgia, B.</author>
+        <editor>Zultgey, S.</editor>
+        <date>2022.</date>
+        <title>Architektury systemów dla przetwarzania danych w czasie rzeczywistym.</title>
+        <container-title>Konferencja Real-Time Systems</container-title>
+        <volume>Proceedings 2022, vol. 12,</volume>
+        <pages>112-129.</pages>
+        <location>Wrocław:</location>
+        <publisher>Real-Time Systems Press.</publisher>
+        <doi>10.1234/krts.2022.078</doi>
+    </sequence>
+    <sequence>
+        <author>Zultgib, A., &amp; Zultgic, V.</author>
+        <date>2021.</date>
+        <title>Rola czynnika ludzkiego w bezpieczeństwie informacyjnym.</title>
+        <container-title>Konferencja Bezpieczeństwa Człowiek-Masyna</container-title>
+        <editor>Zultgid, H.</editor>
+        <pages>23-40.</pages>
+        <location>Poznań:</location>
+        <publisher>Human Security Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Zultgie, M., &amp; Zultgif, L.</author>
+        <date>2021.</date>
+        <title>Automatyzacja obsługi incydentów bezpieczeństwa informacyjnego.</title>
+        <container-title>Konferencja Automatyzacji SIEM</container-title>
+        <editor>Zultgig, O.</editor>
+        <volume>vol. 13,</volume>
+        <pages>167-184.</pages>
+        <location>Gdańsk:</location>
+        <publisher>Security Automation Press.</publisher>
+        <doi>10.1234/ksa.2021.045</doi>
+    </sequence>
+    <sequence>
+        <author>Zultgih, W.</author>
+        <date>(2020).</date>
+        <title>Nowe możliwości sztucznej inteligencji w cyberbezpieczeństwie.</title>
+        <container-title>Konferencja AI Cybersecurity</container-title>
+        <editor>Zultgii, B.</editor>
+        <volume>vol. 8,</volume>
+        <pages>78-95.</pages>
+        <location>Łódź:</location>
+        <publisher>AI Security Press.</publisher>
+        <doi>10.1234/kais.2020.089</doi>
+    </sequence>
+    <sequence>
+        <author>Zultgij, T.</author>
+        <editor>Zultgik, E., &amp; Zultgil, S.</editor>
+        <date>2023.</date>
+        <title>Zarządzanie portfelem aplikacji IT w organizacji.</title>
+        <container-title>Konferencja Zarządzania Portfelem IT</container-title>
+        <volume>vol. 14,</volume>
+        <pages>56-73.</pages>
+        <location>Warszawa:</location>
+        <publisher>IT Portfolio Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Kamski, R., &amp; Kozminski, W.</author>
+        <editor>Kędzior, B.</editor>
+        <date>2022.</date>
+        <title>Wdrażanie rozwiązań serverless w przedsiębiorstwach.</title>
+        <container-title>Konferencja Architektury Serverless</container-title>
+        <volume>vol. 9,</volume>
+        <pages>34-51.</pages>
+        <location>Szczecin:</location>
+        <publisher>Cloud Architecture Press.</publisher>
+        <doi>10.1234/kas.2022.045</doi>
+    </sequence>
+    <sequence>
+        <author>Kisielewicz, A.</author>
+        <date>(2021).</date>
+        <title>Optymalizacja konsumpcji energii w data center.</title>
+        <container-title>Konferencja Zielonej Informatyki</container-title>
+        <editor>Knorowski, S.</editor>
+        <volume>vol. 7,</volume>
+        <pages>78-95.</pages>
+        <location>Kraków:</location>
+        <publisher>Green IT Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Klecha, E., &amp; Kłopotowski, T.</author>
+        <editor>Kuchta, M.</editor>
+        <date>2020.</date>
+        <title>Przyspieszenie procesów biznesowych poprzez automatyzację RPA.</title>
+        <container-title>Konferencja Automatyzacji Procesów Biznesowych</container-title>
+        <volume>Proceedings 2020, vol. 11,</volume>
+        <pages>112-129.</pages>
+        <location>Gdańsk:</location>
+        <publisher>RPA Solutions Press.</publisher>
+        <doi>10.1234/krpa.2020.078</doi>
+    </sequence>
+    <sequence>
+        <author>Kosiński, P.</author>
+        <editor>Kopciuch, J., &amp; Krzemień, A.</editor>
+        <date>2023.</date>
+        <title>Strategie bezpieczeństwa dla ekosystemów IoT.</title>
+        <container-title>Konferencja Bezpieczeństwa IoT</container-title>
+        <pages>45-62.</pages>
+        <location>Łódź:</location>
+        <publisher>IoT Security Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Kurgan, L.</author>
+        <date>2022.</date>
+        <title>Wykorzystanie quantum computingu w kryptografii.</title>
+        <container-title>19. Konferencja Kryptografii Kwantowej</container-title>
+        <editor>Krupa, D.</editor>
+        <volume>vol. 12,</volume>
+        <pages>156-173.</pages>
+        <location>Poznań:</location>
+        <publisher>Quantum Computing Press.</publisher>
+        <doi>10.1234/kqc.2022.012</doi>
+    </sequence>
+    <sequence>
+        <author>Krajewski, T., &amp; Kamiński, S.</author>
+        <editor>Karpiński, W.</editor>
+        <date>(2021).</date>
+        <title>Rola edge computing w aplikacjach przemysłowych.</title>
+        <container-title>Konferencja Edge Computing</container-title>
+        <volume>vol. 10,</volume>
+        <pages>89-106.</pages>
+        <location>Wrocław:</location>
+        <publisher>Edge Computing Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Kępiński, M.</author>
+        <date>2020.</date>
+        <title>Analiza zagrożeń 5G dla sieci korporacyjnych.</title>
+        <container-title>Konferencja Sieci 5G</container-title>
+        <editor>Kaczorek, B., &amp; Krakowski, P.</editor>
+        <volume>Proceedings vol. 8,</volume>
+        <pages>201-218.</pages>
+        <location>Warszawa:</location>
+        <publisher>5G Networks Press.</publisher>
+        <doi>10.1234/k5g.2020.089</doi>
+    </sequence>
+    <sequence>
+        <author>Kłybek, H., &amp; Kopaczewski, U.</author>
+        <editor>König, E.</editor>
+        <date>2023.</date>
+        <title>Praktyczne wdrożenia containeryzacji w chmurze.</title>
+        <container-title>Konferencja Containeryzacji</container-title>
+        <volume>vol. 13,</volume>
+        <pages>23-40.</pages>
+        <location>Gdańsk:</location>
+        <publisher>Container Tech Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Kmieć, J.</author>
+        <date>(2022).</date>
+        <title>Rozwiązania dla interoperacyjności systemów heterogenicznych.</title>
+        <container-title>Konferencja Interoperacyjności</container-title>
+        <editor>Koczan, O., &amp; Kozak, R.</editor>
+        <pages>67-84.</pages>
+        <location>Kraków:</location>
+        <publisher>Interoperability Press.</publisher>
+        <doi>10.1234/kio.2022.056</doi>
+    </sequence>
+    <sequence>
+        <author>Koniejewski, V.</author>
+        <editor>Korecki, P.</editor>
+        <date>2021.</date>
+        <title>Nowe trendy w tworzeniu aplikacji PWA.</title>
+        <container-title>Konferencja Progressive Web Apps</container-title>
+        <volume>vol. 11,</volume>
+        <pages>112-129.</pages>
+        <location>Poznań:</location>
+        <publisher>PWA Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Krasowski, F., &amp; Krawczyk, M.</author>
+        <editor>Kosowski, A.</editor>
+        <date>2020.</date>
+        <title>Analiza wydajności frameworków reaktywnych.</title>
+        <container-title>Konferencja Programowania Reaktywnego</container-title>
+        <volume>Proceedings 2020, vol. 9,</volume>
+        <pages>45-62.</pages>
+        <location>Łódź:</location>
+        <publisher>Reactive Programming Press.</publisher>
+        <doi>10.1234/kpr.2020.034</doi>
+    </sequence>
+    <sequence>
+        <author>Kunowski, K., &amp; Kwapisz, T.</author>
+        <date>2023.</date>
+        <title>Wyzwania tworzenia aplikacji full-stack w JavaScript.</title>
+        <container-title>Konferencja JavaScript Full-Stack</container-title>
+        <editor>Kupczak, D.</editor>
+        <volume>vol. 14,</volume>
+        <pages>78-95.</pages>
+        <location>Wrocław:</location>
+        <publisher>JS Full-Stack Press.</publisher>
+        <doi>10.1234/kjfs.2023.078</doi>
+    </sequence>
+    <sequence>
+        <author>Kędzierski, W.</author>
+        <date>2022.</date>
+        <title>Monitorowanie zdolności odporności systemów IT.</title>
+        <container-title>Konferencja Resilience Engineering</container-title>
+        <editor>Kisielewski, B., &amp; Kłopotowski, J.</editor>
+        <pages>134-151.</pages>
+        <location>Gdańsk:</location>
+        <publisher>Resilience Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Kasprzak, E.</author>
+        <editor>Kawulski, S.</editor>
+        <date>(2021).</date>
+        <title>Praktyki DevSecOps w organizacjach finansowych.</title>
+        <container-title>Konferencja DevSecOps</container-title>
+        <volume>vol. 12,</volume>
+        <pages>56-73.</pages>
+        <location>Warszawa:</location>
+        <publisher>DevSecOps Press.</publisher>
+        <doi>10.1234/kds.2021.089</doi>
+    </sequence>
+    <sequence>
+        <author>Kownacki, P., &amp; Kozioł, R.</author>
+        <editor>Kęcik, M.</editor>
+        <date>2021.</date>
+        <title>Architektura systemów dla obsługi milionów połączeń.</title>
+        <container-title>Konferencja Systemów Skalujących się</container-title>
+        <volume>vol. 10,</volume>
+        <pages>201-218.</pages>
+        <location>Kraków:</location>
+        <publisher>Scalability Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Kępiński, J., &amp; Krasiński, U.</author>
+        <date>2020.</date>
+        <title>Transformacja modelu biznesu poprzez technologię.</title>
+        <container-title>Konferencja Transformacji Modelu Biznesu</container-title>
+        <editor>Kędzierawski, O.</editor>
+        <volume>Proceedings vol. 7,</volume>
+        <pages>89-106.</pages>
+        <location>Poznań:</location>
+        <publisher>Business Model Press.</publisher>
+        <doi>10.1234/kmb.2020.045</doi>
+    </sequence>
+    <sequence>
+        <author>Karwowski, H.</author>
+        <editor>König, T., &amp; Kosinski, B.</editor>
+        <date>2023.</date>
+        <title>Innowacyjne podejścia do zarządzania danymi.</title>
+        <container-title>Konferencja Data Governance</container-title>
+        <pages>23-40.</pages>
+        <location>Łódź:</location>
+        <publisher>Data Governance Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Klempner, S., &amp; Klewicki, V.</author>
+        <date>(2022).</date>
+        <title>Rola machine learning w identyfikacji anomalii.</title>
+        <container-title>Konferencja Anomaly Detection</container-title>
+        <editor>Kwart, L.</editor>
+        <volume>vol. 13,</volume>
+        <pages>112-129.</pages>
+        <location>Wrocław:</location>
+        <publisher>ML Anomaly Press.</publisher>
+        <doi>10.1234/kma.2022.078</doi>
+    </sequence>
+    <sequence>
+        <author>Klinowski, A.</author>
+        <date>2021.</date>
+        <title>Strategie migracji aplikacji monolitycznych.</title>
+        <container-title>Konferencja Modernizacji Aplikacji</container-title>
+        <editor>Klaus, E., &amp; Korczakowski, M.</editor>
+        <volume>vol. 11,</volume>
+        <pages>45-62.</pages>
+        <location>Gdańsk:</location>
+        <publisher>App Modernization Press.</publisher>
+        <doi>10.1234/kam.2021.034</doi>
+    </sequence>
+    <sequence>
+        <author>Kędzior, P., &amp; Kalinowski, W.</author>
+        <editor>Kotrys, B.</editor>
+        <date>2020.</date>
+        <title>Bezpieczeństwo supply chain w cyberspace.</title>
+        <container-title>Konferencja Supply Chain Security</container-title>
+        <volume>Proceedings 2020, vol. 9,</volume>
+        <pages>167-184.</pages>
+        <location>Warszawa:</location>
+        <publisher>Supply Chain Security Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Kopczyński, L.</author>
+        <date>2022.</date>
+        <title>Praktyczne porady dla DevOps inżynierów.</title>
+        <container-title>Konferencja Praktyk DevOps</container-title>
+        <editor>Kordecki, S., &amp; Kwieciński, J.</editor>
+        <volume>vol. 10,</volume>
+        <pages>78-95.</pages>
+        <location>Kraków:</location>
+        <publisher>DevOps Best Practices Press.</publisher>
+        <doi>10.1234/kdbp.2022.089</doi>
+    </sequence>
+    <sequence>
+        <author>Kawczyński, M.</author>
+        <editor>Kęczera, R.</editor>
+        <date>(2023).</date>
+        <title>Rozwój talentów technicznych w organizacji.</title>
+        <container-title>Konferencja Talent Management IT</container-title>
+        <volume>vol. 15,</volume>
+        <pages>56-73.</pages>
+        <location>Poznań:</location>
+        <publisher>Talent Management Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Korczewski, O., &amp; Kępiński, B.</author>
+        <date>2021.</date>
+        <title>Analiza ROI w projektach transformacji cyfrowej.</title>
+        <container-title>Konferencja Metryki Transformacji</container-title>
+        <editor>Kędzierski, A.</editor>
+        <volume>vol. 12,</volume>
+        <pages>201-218.</pages>
+        <location>Łódź:</location>
+        <publisher>Digital ROI Press.</publisher>
+        <doi>10.1234/kdro.2021.056</doi>
+    </sequence>
+    <sequence>
+        <author>Komenda, T.</author>
+        <editor>Klonowski, W., &amp; Kryspin, E.</editor>
+        <date>2020.</date>
+        <title>Webinary bezpieczeństwa dla zespołów IT.</title>
+        <container-title>Konferencja E-Learning Bezpieczeństwa</container-title>
+        <pages>89-106.</pages>
+        <location>Wrocław:</location>
+        <publisher>Security Training Press.</publisher>
+    </sequence>
+    <sequence>
+        <author>Kreisel, N., &amp; Krukowski, S.</author>
+        <editor>Krzemińska, B.</editor>
+        <date>(2023).</date>
+        <title>Strategie budowania zespołów multi-isciplinarnych w IT.</title>
+        <container-title>Konferencja Zespołów IT</container-title>
+        <volume>vol. 16,</volume>
+        <pages>45-62.</pages>
+        <location>Szczecin:</location>
+        <publisher>Team Building Press.</publisher>
+        <doi>10.1234/kti.2023.034</doi>
+    </sequence>
+
+</dataset>
