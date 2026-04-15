@@ -1,0 +1,1353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <sequence>
+        <author>Novotný, Milan.</author>
+        <date>2019.</date>
+        <title>Česká literatura v globálním kontextu.</title>
+        <editor>Svoboda, Pavel (ed.).</editor>
+        <container-title>Literární tendence 21. století</container-title>
+        <location>Praha:</location>
+        <publisher>Academia.</publisher>
+        <pages>45-67.</pages>
+    </sequence>
+    <sequence>
+        <author>Dvořák, Josef, &amp; Kučera, Milan.</author>
+        <date>2020.</date>
+        <title>Architektonické trendy v Evropě.</title>
+        <editor>Horák, Tomáš (ed.).</editor>
+        <container-title>Moderní stavitelství a design</container-title>
+        <location>Brno:</location>
+        <publisher>Vutium.</publisher>
+        <pages>112-135.</pages>
+    </sequence>
+    <sequence>
+        <author>Beneš, Eduard.</author>
+        <date>2021.</date>
+        <title>Filozofie v období transformace.</title>
+        <editor>Čech, David, &amp; Štučková, Lucie (eds.).</editor>
+        <container-title>Věda a myšlení v novém tisíciletí</container-title>
+        <location>Praha:</location>
+        <publisher>Karolinum.</publisher>
+        <pages>78-99.</pages>
+    </sequence>
+    <sequence>
+        <author>Novák, Jan.</author>
+        <date>(2018).</date>
+        <title>Dějiny české politiky v 20. století.</title>
+        <editor>Svobodová, Marie (ed.).</editor>
+        <container-title>Politické systémy Střední Evropy</container-title>
+        <location>Praha:</location>
+        <publisher>Triton.</publisher>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Štuchová, Dana.</author>
+        <date>2022.</date>
+        <title>Sociální péče a její role v moderní společnosti.</title>
+        <editor>Šimek, Václav (ed.).</editor>
+        <container-title>Sociální politika v České republice</container-title>
+        <location>Ústí nad Labem:</location>
+        <publisher>Univerzita Jana Evangelisty Purkyně.</publisher>
+        <pages>156-178.</pages>
+    </sequence>
+    <sequence>
+        <author>Hladký, Petr, &amp; Moravčíková, Helena, &amp; Záhora, Jan.</author>
+        <date>2019.</date>
+        <title>Ekonomické modelování a prognózování.</title>
+        <editor>Pilný, Bohumír (ed.).</editor>
+        <container-title>Ekonometrie a statistika</container-title>
+        <location>České Budějovice:</location>
+        <publisher>Jihočeská univerzita.</publisher>
+        <pages>201-228.</pages>
+    </sequence>
+    <sequence>
+        <author>Syrový, Lukáš.</author>
+        <date>2021.</date>
+        <title>Vzdělávání v 21. století: nové přístupy.</title>
+        <editor>Nováková, Petra (ed.).</editor>
+        <container-title>Pedagogické inovace v Evropě</container-title>
+        <location>Olomouc:</location>
+        <publisher>Palacký University Press.</publisher>
+        <pages>89-108.</pages>
+    </sequence>
+    <sequence>
+        <author>Kříž, Tomáš.</author>
+        <date>2020.</date>
+        <title>Právní úprava ochrany osobních údajů.</title>
+        <editor>Bradáčová, Monika, &amp; Dostál, Jiří (eds.).</editor>
+        <container-title>Právo a technologie</container-title>
+        <location>Plzeň:</location>
+        <publisher>Západočeská univerzita.</publisher>
+        <pages>34-56.</pages>
+    </sequence>
+    <sequence>
+        <author>Vojtáš, Peter.</author>
+        <date>(2019).</date>
+        <title>Informatika v biomedicíně.</title>
+        <editor>Lažanský, Václav (ed.).</editor>
+        <container-title>Počítačové vědy a zdravotnictví</container-title>
+        <location>Praha:</location>
+        <publisher>ČVUT.</publisher>
+        <pages>145-163.</pages>
+    </sequence>
+    <sequence>
+        <author>Mach, Libor, &amp; Popelka, David.</author>
+        <date>2022.</date>
+        <title>Psychologie v klinické praxi.</title>
+        <editor>Holub, Stanislav (ed.).</editor>
+        <container-title>Zdravotnické vědy a medicína</container-title>
+        <location>Brno:</location>
+        <publisher>Masaryk University.</publisher>
+        <pages>72-91.</pages>
+    </sequence>
+    <sequence>
+        <author>Šimák, Bohumil.</author>
+        <date>2021.</date>
+        <title>Mikrobiologie a biotechnologie.</title>
+        <editor>Richter, Martin (ed.).</editor>
+        <container-title>Moderní biochemie</container-title>
+        <location>Praha:</location>
+        <publisher>Academia.</publisher>
+        <pages>198-217.</pages>
+    </sequence>
+    <sequence>
+        <author>Vondráčková, Hana.</author>
+        <date>2020.</date>
+        <title>Hudební vzdělání v České republice.</title>
+        <editor>Veselý, Josef, &amp; Čech, David (eds.).</editor>
+        <container-title>Vzdělání a kultura</container-title>
+        <location>Praha:</location>
+        <publisher>AMU.</publisher>
+        <pages>109-128.</pages>
+    </sequence>
+    <sequence>
+        <author>Marek, Karel.</author>
+        <date>(2018).</date>
+        <title>Sportovní trénink a kondice.</title>
+        <editor>Zahradník, Pavel (ed.).</editor>
+        <container-title>Tělesná kultura a sport</container-title>
+        <location>Praha:</location>
+        <publisher>Charles University Press.</publisher>
+        <pages>66-84.</pages>
+    </sequence>
+    <sequence>
+        <author>Kačmár, Miroslav.</author>
+        <date>2021.</date>
+        <title>Zemědělství a udržitelný rozvoj.</title>
+        <editor>Procházka, Tomáš (ed.).</editor>
+        <container-title>Ekologické zemědělství v Evropě</container-title>
+        <location>České Budějovice:</location>
+        <publisher>Jihočeská univerzita.</publisher>
+        <pages>144-167.</pages>
+    </sequence>
+    <sequence>
+        <author>Hejda, Pavel, &amp; Zabloudil, František.</author>
+        <date>2019.</date>
+        <title>Botanika a ekologie rostlin.</title>
+        <editor>Bartoš, Vladimír (ed.).</editor>
+        <container-title>Biologie v novém věku</container-title>
+        <location>Praha:</location>
+        <publisher>Karolinum.</publisher>
+        <pages>35-53.</pages>
+    </sequence>
+    <sequence>
+        <author>Navrátil, Jiří.</author>
+        <date>2020.</date>
+        <title>Chemie materiálů a nanomateriály.</title>
+        <editor>Pavlíčková, Marcela (ed.).</editor>
+        <container-title>Pokroky v chemii</container-title>
+        <location>Brno:</location>
+        <publisher>Vutium.</publisher>
+        <pages>89-107.</pages>
+    </sequence>
+    <sequence>
+        <author>Šimoník, Milan.</author>
+        <date>(2021).</date>
+        <title>Fyzika a astronomie: nové objevy.</title>
+        <editor>Čech, Adam, &amp; Volf, Miroslav (eds.).</editor>
+        <container-title>Fyzikální vědy v 21. století</container-title>
+        <location>Ústí nad Labem:</location>
+        <publisher>Univerzita Jana Evangelisty Purkyně.</publisher>
+        <pages>121-142.</pages>
+    </sequence>
+    <sequence>
+        <author>Voborníková, Zuzana.</author>
+        <date>2019.</date>
+        <title>Geologie a mineralogické bohatství.</title>
+        <editor>Beneš, Václav (ed.).</editor>
+        <container-title>Přírodní vědy a přírodní zdroje</container-title>
+        <location>Praha:</location>
+        <publisher>Academia.</publisher>
+        <pages>176-195.</pages>
+    </sequence>
+    <sequence>
+        <author>Holínek, František, &amp; Kuncová, Gabriela.</author>
+        <date>2022.</date>
+        <title>Matematika v inženýrství.</title>
+        <editor>Nováček, Petr (ed.).</editor>
+        <container-title>Aplikovaná matematika</container-title>
+        <location>Brno:</location>
+        <publisher>Vysoké učení technické.</publisher>
+        <pages>205-224.</pages>
+    </sequence>
+    <sequence>
+        <author>Procházka, Vladimír.</author>
+        <date>2020.</date>
+        <title>Statistika a datová analýza.</title>
+        <editor>Králová, Jana (ed.).</editor>
+        <container-title>Metody vědeckého výzkumu</container-title>
+        <location>Praha:</location>
+        <publisher>Triton.</publisher>
+        <pages>47-65.</pages>
+    </sequence>
+    <sequence>
+        <author>Zeman, David, &amp; Dočekal, Mojmír.</author>
+        <date>(2019).</date>
+        <title>Jazykověda a lingvistické teorie.</title>
+        <editor>Čermák, František (ed.).</editor>
+        <container-title>Jazyk a komunikace</container-title>
+        <location>Praha:</location>
+        <publisher>Karolinum.</publisher>
+        <pages>98-118.</pages>
+    </sequence>
+    <sequence>
+        <author>Kočí, Petr.</author>
+        <date>2021.</date>
+        <title>Filologie a literární věda.</title>
+        <editor>Mikuláštík, Bořivoj (ed.).</editor>
+        <container-title>Humanitní vědy v Česku</container-title>
+        <location>Olomouc:</location>
+        <publisher>Palacký University Press.</publisher>
+        <pages>134-152.</pages>
+    </sequence>
+    <sequence>
+        <author>Saska, Stanislav.</author>
+        <date>2020.</date>
+        <title>Historické období a jeho vliv na kulturu.</title>
+        <editor>Novotný, Roman (ed.).</editor>
+        <container-title>Dějiny a jejich interpretace</container-title>
+        <location>Plzeň:</location>
+        <publisher>Západočeská univerzita.</publisher>
+        <pages>67-86.</pages>
+    </sequence>
+    <sequence>
+        <author>Čelůstka, Bohumil, &amp; Kohler, Pavel.</author>
+        <date>2022.</date>
+        <title>Archivnictví a správa dokumentů.</title>
+        <editor>Kučera, Vladimír (ed.).</editor>
+        <container-title>Informační vědy</container-title>
+        <location>Praha:</location>
+        <publisher>Academia.</publisher>
+        <pages>43-61.</pages>
+    </sequence>
+    <sequence>
+        <author>Brožová, Helena.</author>
+        <date>(2018).</date>
+        <title>Rozhodovací procesy a systémy.</title>
+        <editor>Zeman, Václav, &amp; Kříž, Tomáš (eds.).</editor>
+        <container-title>Management a řízení</container-title>
+        <location>Praha:</location>
+        <publisher>VŠE.</publisher>
+        <pages>189-208.</pages>
+    </sequence>
+    <sequence>
+        <author>Vinš, Vladimír.</author>
+        <date>2019.</date>
+        <title>Marketing a obchod v digitálním věku.</title>
+        <editor>Sedláčková, Helena (ed.).</editor>
+        <container-title>Podnikatelství v 21. století</container-title>
+        <location>Brno:</location>
+        <publisher>Vutium.</publisher>
+        <pages>112-131.</pages>
+    </sequence>
+    <sequence>
+        <author>Dvořák, Václav.</author>
+        <date>2021.</date>
+        <title>Financování a investice.</title>
+        <editor>Rejnuš, Oldřich (ed.).</editor>
+        <container-title>Finance a bankovnictví</container-title>
+        <location>České Budějovice:</location>
+        <publisher>Jihočeská univerzita.</publisher>
+        <pages>76-94.</pages>
+    </sequence>
+    <sequence>
+        <author>Konečný, Miroslav, &amp; Pospíšil, Petr.</author>
+        <date>2020.</date>
+        <title>Účetnictví a daňové systémy.</title>
+        <editor>Žák, Milan (ed.).</editor>
+        <container-title>Ekonomika a účetnictví</container-title>
+        <location>Ústí nad Labem:</location>
+        <publisher>Univerzita Jana Evangelisty Purkyně.</publisher>
+        <pages>155-174.</pages>
+    </sequence>
+    <sequence>
+        <author>Šnajdr, Josef.</author>
+        <date>(2021).</date>
+        <title>Právo a právní věda.</title>
+        <editor>Hurdálová, Marie (ed.).</editor>
+        <container-title>Právní studium a praxe</container-title>
+        <location>Praha:</location>
+        <publisher>Triton.</publisher>
+        <pages>29-47.</pages>
+    </sequence>
+    <sequence>
+        <author>Melková, Barbora.</author>
+        <date>2022.</date>
+        <title>Mezinárodní vztahy a diplomacie.</title>
+        <editor>Jeřábek, Hynek (ed.).</editor>
+        <container-title>Politologie a mezinárodní studia</container-title>
+        <location>Praha:</location>
+        <publisher>Charles University Press.</publisher>
+        <pages>199-217.</pages>
+    </sequence>
+    <sequence>
+        <author>Čech, Vladimír, &amp; Sucharda, Zdeněk.</author>
+        <date>2019.</date>
+        <title>Veřejná správa a samospráva.</title>
+        <editor>Wagnerová, Erika (ed.).</editor>
+        <container-title>Administrativa a veřejná politika</container-title>
+        <location>Plzeň:</location>
+        <publisher>Západočeská univerzita.</publisher>
+        <pages>84-102.</pages>
+    </sequence>
+    <sequence>
+        <author>Bláha, Jiří.</author>
+        <date>2020.</date>
+        <title>Pracovní vztahy a personalistika.</title>
+        <editor>Pellant, Emil (ed.).</editor>
+        <container-title>Řízení lidských zdrojů</container-title>
+        <location>Brno:</location>
+        <publisher>Akademické nakladatelství CERM.</publisher>
+        <pages>51-69.</pages>
+    </sequence>
+    <sequence>
+        <author>Potůček, Martin.</author>
+        <date>(2020).</date>
+        <title>Sociální reforma a její dopad.</title>
+        <editor>Hvížďalová, Dana (ed.).</editor>
+        <container-title>Sociologie a sociální politika</container-title>
+        <location>Praha:</location>
+        <publisher>Karolinum.</publisher>
+        <pages>137-155.</pages>
+    </sequence>
+    <sequence>
+        <author>Plamínek, Jiří.</author>
+        <date>2021.</date>
+        <title>Organizační kultura a změna.</title>
+        <editor>Mládková, Ludmila (ed.).</editor>
+        <container-title>Management změny</container-title>
+        <location>Praha:</location>
+        <publisher>Ekopress.</publisher>
+        <pages>73-91.</pages>
+    </sequence>
+    <sequence>
+        <author>Blažek, Jiří, &amp; Csank, Pál.</author>
+        <date>2022.</date>
+        <title>Regionální rozvoj a plánování.</title>
+        <editor>Ježek, Jan (ed.).</editor>
+        <container-title>Geografie a regionalistika</container-title>
+        <location>Praha:</location>
+        <publisher>Academia.</publisher>
+        <pages>216-235.</pages>
+    </sequence>
+    <sequence>
+        <author>Chromý, Pavel.</author>
+        <date>2019.</date>
+        <title>Město a venkov: vztahy a rozdíly.</title>
+        <editor>Ouředníček, Martin (ed.).</editor>
+        <container-title>Urbánní geografie</container-title>
+        <location>Praha:</location>
+        <publisher>Vutium.</publisher>
+        <pages>45-63.</pages>
+    </sequence>
+    <sequence>
+        <author>Daňhelová, Božena.</author>
+        <date>(2021).</date>
+        <title>Přírodní charakteristiky lokality.</title>
+        <editor>Suchara, Ivan (ed.).</editor>
+        <container-title>Fyzická geografie</container-title>
+        <location>Ústí nad Labem:</location>
+        <publisher>Univerzita Jana Evangelisty Purkyně.</publisher>
+        <pages>98-116.</pages>
+    </sequence>
+    <sequence>
+        <author>Horák, Jiří, &amp; Novotná, Marie.</author>
+        <date>2020.</date>
+        <title>Kartování a GIS technologie.</title>
+        <editor>Voženílek, Václav (ed.).</editor>
+        <container-title>Geoinformatika a kartografie</container-title>
+        <location>Olomouc:</location>
+        <publisher>Palacký University Press.</publisher>
+        <pages>167-185.</pages>
+    </sequence>
+    <sequence>
+        <author>Vrba, Josef.</author>
+        <date>2021.</date>
+        <title>Turizmus a cestovní ruch.</title>
+        <editor>Šimková, Eva (ed.).</editor>
+        <container-title>Cestovní ruch v Evropě</container-title>
+        <location>České Budějovice:</location>
+        <publisher>Jihočeská univerzita.</publisher>
+        <pages>129-147.</pages>
+    </sequence>
+    <sequence>
+        <author>Vilarinho, Fernando.</author>
+        <date>2022.</date>
+        <title>Hotelnictví a ubytování.</title>
+        <editor>Růžičková, Božena (ed.).</editor>
+        <container-title>Služby v cestovním ruchu</container-title>
+        <location>Praha:</location>
+        <publisher>Triton.</publisher>
+        <pages>62-80.</pages>
+    </sequence>
+    <sequence>
+        <author>Šauer, Petr.</author>
+        <date>(2019).</date>
+        <title>Environmentální věda a ochrana přírody.</title>
+        <editor>Přívorová, Dana (ed.).</editor>
+        <container-title>Ekologie a životní prostředí</container-title>
+        <location>Praha:</location>
+        <publisher>Academia.</publisher>
+        <pages>183-201.</pages>
+    </sequence>
+    <sequence>
+        <author>Medveď, Milan, &amp; Tesař, Vladimír.</author>
+        <date>2020.</date>
+        <title>Vodní zdroje a management.</title>
+        <editor>Šauer, Miroslav (ed.).</editor>
+        <container-title>Hydrologie a vodohospodářství</container-title>
+        <location>Brno:</location>
+        <publisher>Vutium.</publisher>
+        <pages>106-124.</pages>
+    </sequence>
+    <sequence>
+        <author>Horák, Milan.</author>
+        <date>2021.</date>
+        <title>Lesnictví a lesní hospodářství.</title>
+        <editor>Vacík, Hanuš (ed.).</editor>
+        <container-title>Obnovné zdroje lesů</container-title>
+        <location>České Budějovice:</location>
+        <publisher>Jihočeská univerzita.</publisher>
+        <pages>75-93.</pages>
+    </sequence>
+    <sequence>
+        <author>Skřivan, Petr.</author>
+        <date>2022.</date>
+        <title>Chov zvířat a zootechnika.</title>
+        <editor>Třináctý, Adolf (ed.).</editor>
+        <container-title>Živočišná výroba</container-title>
+        <location>Plzeň:</location>
+        <publisher>Západočeská univerzita.</publisher>
+        <pages>145-163.</pages>
+    </sequence>
+    <sequence>
+        <author>Vítová, Petra, &amp; Zeman, Václav.</author>
+        <date>(2021).</date>
+        <title>Nutriční věda a hygiena potravin.</title>
+        <editor>Mareš, Jiří (ed.).</editor>
+        <container-title>Strava a výživa</container-title>
+        <location>Praha:</location>
+        <publisher>Karolinum.</publisher>
+        <pages>211-229.</pages>
+    </sequence>
+    <sequence>
+        <author>Novotný, Petr.</author>
+        <date>2019.</date>
+        <title>Medicína a zdravotnické péče.</title>
+        <editor>Kašák, Václav (ed.).</editor>
+        <container-title>Klinická medicína</container-title>
+        <location>Praha:</location>
+        <publisher>Triton.</publisher>
+        <pages>34-52.</pages>
+    </sequence>
+    <sequence>
+        <author>Štěpán, Daniel.</author>
+        <date>2020.</date>
+        <title>Chirurgie a operační techniky.</title>
+        <editor>Fedor, Milan (ed.).</editor>
+        <container-title>Medicínská péče a operace</container-title>
+        <location>Brno:</location>
+        <publisher>Masaryk University.</publisher>
+        <pages>171-189.</pages>
+    </sequence>
+    <sequence>
+        <author>Böhm, Petr, &amp; Čech, Martin.</author>
+        <date>2021.</date>
+        <title>Psychiatrie a psychologické aspekty.</title>
+        <editor>Zvolný, František (ed.).</editor>
+        <container-title>Duševní zdraví</container-title>
+        <location>Ústí nad Labem:</location>
+        <publisher>Univerzita Jana Evangelisty Purkyně.</publisher>
+        <pages>88-106.</pages>
+    </sequence>
+    <sequence>
+        <author>Fučík, Pavel.</author>
+        <date>(2022).</date>
+        <title>Ortopédie a fyzioterapie.</title>
+        <editor>Herceg, Marko (ed.).</editor>
+        <container-title>Rehabilitace a léčba</container-title>
+        <location>Praha:</location>
+        <publisher>Academia.</publisher>
+        <pages>132-150.</pages>
+    </sequence>
+    <sequence>
+        <author>Skřivanová, Zdeňka.</author>
+        <date>2020.</date>
+        <title>Kardiologie a vaskulární zdraví.</title>
+        <editor>Vrábel, Pavel (ed.).</editor>
+        <container-title>Srdeční a cévní onemocnění</container-title>
+        <location>Plzeň:</location>
+        <publisher>Západočeská univerzita.</publisher>
+        <pages>197-215.</pages>
+    </sequence>
+    <sequence>
+        <author>Vallar, Giovanni.</author>
+        <date>2019.</date>
+        <title>Neurologie a neurovědní výzkum.</title>
+        <editor>Krobot, Adam (ed.).</editor>
+        <container-title>Poruchy nervového systému</container-title>
+        <location>Praha:</location>
+        <publisher>Vutium.</publisher>
+        <pages>54-72.</pages>
+    </sequence>
+    <sequence>
+        <author>Sedláčková, Eva, &amp; Mourek, Jiří.</author>
+        <date>2021.</date>
+        <title>Oftalmologie a nemoci oka.</title>
+        <editor>Rozsíval, Pavel (ed.).</editor>
+        <container-title>Oční péče a chirurgie</container-title>
+        <location>České Budějovice:</location>
+        <publisher>Jihočeská univerzita.</publisher>
+        <pages>81-99.</pages>
+    </sequence>
+    <sequence>
+        <author>Novotný, Adam.</author>
+        <date>(2020).</date>
+        <title>Otolaryngologie a otorinolaryngologie.</title>
+        <editor>Kochán, Miloš (ed.).</editor>
+        <container-title>Nemoci ucha, nosu a krku</container-title>
+        <location>Praha:</location>
+        <publisher>Karolinum.</publisher>
+        <pages>156-174.</pages>
+    </sequence>
+    <sequence>
+        <author>Štěpánek, Jiří.</author>
+        <date>2022.</date>
+        <title>Stomatologie a dentální péče.</title>
+        <editor>Dušková, Renáta (ed.).</editor>
+        <container-title>Dentální medicína</container-title>
+        <location>Brno:</location>
+        <publisher>Akademické nakladatelství CERM.</publisher>
+        <pages>127-145.</pages>
+    </sequence>
+    <sequence>
+        <author>Mráz, Zbigniew.</author>
+        <date>2019.</date>
+        <title>Gynekologie a porodnictví.</title>
+        <editor>Dudánka, Jarik (ed.).</editor>
+        <container-title>Ženské zdraví a reprodukce</container-title>
+        <location>Ústí nad Labem:</location>
+        <publisher>Univerzita Jana Evangelisty Purkyně.</publisher>
+        <pages>209-227.</pages>
+    </sequence>
+    <sequence>
+        <author>Svoboda, Petr, &amp; Kudela, Vladimír.</author>
+        <date>2020.</date>
+        <title>Pediatrie a péče o děti.</title>
+        <editor>Pohunek, Pavel (ed.).</editor>
+        <container-title>Dětská medicína</container-title>
+        <location>Praha:</location>
+        <publisher>Triton.</publisher>
+        <pages>65-83.</pages>
+    </sequence>
+    <sequence>
+        <author>Kašpar, Milan.</author>
+        <date>2021.</date>
+        <title>Infekční onemocnění a epidemiologie.</title>
+        <editor>Beran, Jan (ed.).</editor>
+        <container-title>Infektologie a hygiena</container-title>
+        <location>Praha:</location>
+        <publisher>Academia.</publisher>
+        <pages>118-136.</pages>
+    </sequence>
+    <sequence>
+        <author>Helekal, Ilaria.</author>
+        <date>(2021).</date>
+        <title>Alergologie a imunologie.</title>
+        <editor>Barešová, Markéta (ed.).</editor>
+        <container-title>Alergické a imunitní stavy</container-title>
+        <location>Brno:</location>
+        <publisher>Vutium.</publisher>
+        <pages>163-181.</pages>
+    </sequence>
+    <sequence>
+        <author>Novotný, Filip.</author>
+        <date>2022.</date>
+        <title>Onkologie a léčba rakoviny.</title>
+        <editor>Vorlíček, Jiří (ed.).</editor>
+        <container-title>Nádorová onemocnění</container-title>
+        <location>České Budějovice:</location>
+        <publisher>Jihočeská univerzita.</publisher>
+        <pages>202-220.</pages>
+    </sequence>
+    <sequence>
+        <author>Dostál, Petr.</author>
+        <date>2019.</date>
+        <title>Radiologie a medicínská zobrazasovací technika.</title>
+        <editor>Ferda, Jiří (ed.).</editor>
+        <container-title>Radiologická diagnostika</container-title>
+        <location>Plzeň:</location>
+        <publisher>Západočeská univerzita.</publisher>
+        <pages>41-59.</pages>
+    </sequence>
+    <sequence>
+        <author>Sedláčková, Lenka, &amp; Kopecký, Oldřich.</author>
+        <date>2020.</date>
+        <title>Anesteziologie a medicína bolesti.</title>
+        <editor>Nalos, Vladimír (ed.).</editor>
+        <container-title>Anestézie a intenzivní péče</container-title>
+        <location>Praha:</location>
+        <publisher>Ekopress.</publisher>
+        <pages>148-166.</pages>
+    </sequence>
+    <sequence>
+        <author>Švec, Jan.</author>
+        <date>2021.</date>
+        <title>Intenzivní medicína a péče na JIP.</title>
+        <editor>Pařízek, Václav (ed.).</editor>
+        <container-title>Kriticky nemocní pacienti</container-title>
+        <location>Praha:</location>
+        <publisher>Karolinum.</publisher>
+        <pages>76-94.</pages>
+    </sequence>
+    <sequence>
+        <author>Šír, Aleš.</author>
+        <date>(2022).</date>
+        <title>Toxikologie a havárie.</title>
+        <editor>Pospíšil, Miloš (ed.).</editor>
+        <container-title>Otravy a jejich léčba</container-title>
+        <location>Brno:</location>
+        <publisher>Masaryk University.</publisher>
+        <pages>135-153.</pages>
+    </sequence>
+    <sequence>
+        <author>Kubánek, Milan.</author>
+        <date>2019.</date>
+        <title>Forenzní medicína a soudní lékařství.</title>
+        <editor>Cerná, Lenka (ed.).</editor>
+        <container-title>Soudní medicína</container-title>
+        <location>Ústí nad Labem:</location>
+        <publisher>Univerzita Jana Evangelisty Purkyně.</publisher>
+        <pages>189-207.</pages>
+    </sequence>
+    <sequence>
+        <author>Petřín, Oldřich.</author>
+        <date>2020.</date>
+        <title>Zdravotnická administrativa a etika.</title>
+        <editor>Mach, Bohumil (ed.).</editor>
+        <container-title>Správa zdravotnictví</container-title>
+        <location>Praha:</location>
+        <publisher>Triton.</publisher>
+        <pages>72-90.</pages>
+    </sequence>
+    <sequence>
+        <author>Bártová, Jitka, &amp; Vojáčková, Helena.</author>
+        <date>2021.</date>
+        <title>Ošetřovatelství a zdravotnická péče.</title>
+        <editor>Marková, Miriam (ed.).</editor>
+        <container-title>Nursing a péčovatelství</container-title>
+        <location>České Budějovice:</location>
+        <publisher>Jihočeská univerzita.</publisher>
+        <pages>155-173.</pages>
+    </sequence>
+    <sequence>
+        <author>Beneš, Martin.</author>
+        <date>2022.</date>
+        <title>Fyzioterapie a zdravotnická rehabilitace.</title>
+        <editor>Fügnerová, Blanka (ed.).</editor>
+        <container-title>Fyzická medicína a rehabilitace</container-title>
+        <location>Plzeň:</location>
+        <publisher>Západočeská univerzita.</publisher>
+        <pages>127-145.</pages>
+    </sequence>
+    <sequence>
+        <author>Čermák, Jiří.</author>
+        <date>(2021).</date>
+        <title>Logopédie a defektologie.</title>
+        <editor>Portmann, Robert (ed.).</editor>
+        <container-title>Kompenzace postižení</container-title>
+        <location>Praha:</location>
+        <publisher>Academia.</publisher>
+        <pages>198-216.</pages>
+    </sequence>
+    <sequence>
+        <author>Kubánek, David.</author>
+        <date>2019.</date>
+        <title>Medicínská mikrobiologie a infekce.</title>
+        <editor>Bednáš, Emil (ed.).</editor>
+        <container-title>Mikroorganismy a bolesti</container-title>
+        <location>Brno:</location>
+        <publisher>Vutium.</publisher>
+        <pages>34-52.</pages>
+    </sequence>
+    <sequence>
+        <author>Herrman, Martin.</author>
+        <date>2020.</date>
+        <title>Genetika a molekulární biologie.</title>
+        <editor>Novotná, Marta (ed.).</editor>
+        <container-title>Genetické základy.</container-title>
+        <location>České Budějovice:</location>
+        <publisher>Jihočeská univerzita.</publisher>
+        <pages>161-179.</pages>
+    </sequence>
+    <sequence>
+        <author>Grůzd, Milan, &amp; Mareš, Roman.</author>
+        <date>2021.</date>
+        <title>Biofyzika a biometrologie.</title>
+        <editor>Sedláčková, Petra (ed.).</editor>
+        <container-title>Fyzika v biologii</container-title>
+        <location>Ústí nad Labem:</location>
+        <publisher>Univerzita Jana Evangelisty Purkyně.</publisher>
+        <pages>105-123.</pages>
+    </sequence>
+    <sequence>
+        <author>Bartůněk, Vladimír.</author>
+        <date>2022.</date>
+        <title>Ekotoxikologie a ekologie.</title>
+        <editor>Valáškova, Viera (ed.).</editor>
+        <container-title>Životní prostředí a toxiny</container-title>
+        <location>Praha:</location>
+        <publisher>Karolinum.</publisher>
+        <pages>176-194.</pages>
+    </sequence>
+    <sequence>
+        <author>Šafarčík, Dan.</author>
+        <date>(2020).</date>
+        <title>Vědy o zemích a pedologie.</title>
+        <editor>Němeček, Josef (ed.).</editor>
+        <container-title>Půdy Česka</container-title>
+        <location>Brno:</location>
+        <publisher>Akademické nakladatelství CERM.</publisher>
+        <pages>121-139.</pages>
+    </sequence>
+    <sequence>
+        <author>Maršálek, Bohumil.</author>
+        <date>2019.</date>
+        <title>Limnologie a vodní hospodářství.</title>
+        <editor>Hejzlar, Josef (ed.).</editor>
+        <container-title>Jezera a vody</container-title>
+        <location>Praha:</location>
+        <publisher>Triton.</publisher>
+        <pages>67-85.</pages>
+    </sequence>
+    <sequence>
+        <author>Štěpánková, Olga, &amp; Šauer, Pavel.</author>
+        <date>2020.</date>
+        <title>Meteorologie a klimatologie.</title>
+        <editor>Tolasz, Radim (ed.).</editor>
+        <container-title>Počasí a klima</container-title>
+        <location>Praha:</location>
+        <publisher>Academia.</publisher>
+        <pages>145-163.</pages>
+    </sequence>
+    <sequence>
+        <author>Pech, Pavel.</author>
+        <date>2021.</date>
+        <title>Geofyzika a seismologie.</title>
+        <editor>Novotný, Oldřich (ed.).</editor>
+        <container-title>Zemský plášť a zemětřesení</container-title>
+        <location>České Budějovice:</location>
+        <publisher>Jihočeská univerzita.</publisher>
+        <pages>198-216.</pages>
+    </sequence>
+    <sequence>
+        <author>Vacula, Jiří.</author>
+        <date>2022.</date>
+        <title>Volcanologie a plutonismus.</title>
+        <editor>Vrána, Stanislav (ed.).</editor>
+        <container-title>Vulkánická činnost</container-title>
+        <location>Plzeň:</location>
+        <publisher>Západočeská univerzita.</publisher>
+        <pages>73-91.</pages>
+    </sequence>
+    <sequence>
+        <author>Zeman, Jan.</author>
+        <date>(2021).</date>
+        <title>Mineralogické fenomény.</title>
+        <editor>Vlašimský, Pavel (ed.).</editor>
+        <container-title>Minerály a krystaly</container-title>
+        <location>Ústí nad Labem:</location>
+        <publisher>Univerzita Jana Evangelisty Purkyně.</publisher>
+        <pages>156-174.</pages>
+    </sequence>
+    <sequence>
+        <author>Kníblová, Petra.</author>
+        <date>2019.</date>
+        <title>Petrologie a horniny.</title>
+        <editor>Janoušek, Vojtěch (ed.).</editor>
+        <container-title>Skály a их vznik</container-title>
+        <location>Praha:</location>
+        <publisher>Vutium.</publisher>
+        <pages>89-107.</pages>
+    </sequence>
+    <sequence>
+        <author>Horák, Václav, &amp; Čech, Miroslav.</author>
+        <date>2020.</date>
+        <title>Ekonomická geologie a ložiska.</title>
+        <editor>Štěpán, Jiří (ed.).</editor>
+        <container-title>Suroviny a jejich těžba</container-title>
+        <location>Brno:</location>
+        <publisher>Masaryk University.</publisher>
+        <pages>134-152.</pages>
+    </sequence>
+    <sequence>
+        <author>Slavíčková, Eva.</author>
+        <date>2021.</date>
+        <title>Sedimentologie a stratigrafia.</title>
+        <editor>Bubík, Miroslav (ed.).</editor>
+        <container-title>Vrstvení a sedimenty</container-title>
+        <location>Praha:</location>
+        <publisher>Karolinum.</publisher>
+        <pages>62-80.</pages>
+    </sequence>
+    <sequence>
+        <author>Rajchlová, Alena.</author>
+        <date>2022.</date>
+        <title>Paleontologie a evoluce.</title>
+        <editor>Přikryl, Tomáš (ed.).</editor>
+        <container-title>FosilníRecord</container-title>
+        <location>České Budějovice:</location>
+        <publisher>Jihočeská univerzita.</publisher>
+        <pages>189-207.</pages>
+    </sequence>
+    <sequence>
+        <author>Černý, Jan.</author>
+        <date>(2020).</date>
+        <title>Technika a strojírenství.</title>
+        <editor>Volák, Josef (ed.).</editor>
+        <container-title>Inženýrství a technologie</container-title>
+        <location>Plzeň:</location>
+        <publisher>Západočeská univerzita.</publisher>
+        <pages>118-136.</pages>
+    </sequence>
+    <sequence>
+        <author>Plichta, Vladimír.</author>
+        <date>2019.</date>
+        <title>Elektrotechnika a elektronika.</title>
+        <editor>Tichý, Václav (ed.).</editor>
+        <container-title>Elektřina a signály</container-title>
+        <location>Praha:</location>
+        <publisher>Academia.</publisher>
+        <pages>145-163.</pages>
+    </sequence>
+    <sequence>
+        <author>Liška, Pavel, &amp; Novák, Edmund.</author>
+        <date>2020.</date>
+        <title>Automatizace a regulace.</title>
+        <editor>Soták, Boris (ed.).</editor>
+        <container-title>Systémy řízení</container-title>
+        <location>Brno:</location>
+        <publisher>Vutium.</publisher>
+        <pages>94-112.</pages>
+    </sequence>
+    <sequence>
+        <author>Zapletalová, Jiřina.</author>
+        <date>2021.</date>
+        <title>Telekomunikace a datové sítě.</title>
+        <editor>Čejka, Jiří (ed.).</editor>
+        <container-title>Komunikační technologie</container-title>
+        <location>Praha:</location>
+        <publisher>Triton.</publisher>
+        <pages>171-189.</pages>
+    </sequence>
+    <sequence>
+        <author>Ráda, Ondřej.</author>
+        <date>2022.</date>
+        <title>Energetika a elektroenergetika.</title>
+        <editor>Behal, Karel (ed.).</editor>
+        <container-title>Energetické systémy</container-title>
+        <location>České Budějovice:</location>
+        <publisher>Jihočeská univerzita.</publisher>
+        <pages>127-145.</pages>
+    </sequence>
+    <sequence>
+        <author>Králí, Jiří.</author>
+        <date>(2021).</date>
+        <title>Doprava a logistika.</title>
+        <editor>Suchara, Petr (ed.).</editor>
+        <container-title>Přeprava a distribuce</container-title>
+        <location>Ústí nad Labem:</location>
+        <publisher>Univerzita Jana Evangelisty Purkyně.</publisher>
+        <pages>84-102.</pages>
+    </sequence>
+    <sequence>
+        <author>Šrámek, Ladislav.</author>
+        <date>2019.</date>
+        <title>Stavebnictví a stavby.</title>
+        <editor>Urban, Pavel (ed.).</editor>
+        <container-title>Stavitelství a konstrukce</container-title>
+        <location>Praha:</location>
+        <publisher>Karolinum.</publisher>
+        <pages>156-174.</pages>
+    </sequence>
+    <sequence>
+        <author>Fiala, Richard, &amp; Horák, Miloslav.</author>
+        <date>2020.</date>
+        <title>Architektura a design staveb.</title>
+        <editor>Langer, Richard (ed.).</editor>
+        <container-title>Moderní architektura budov</container-title>
+        <location>Brno:</location>
+        <publisher>Akademické nakladatelství CERM.</publisher>
+        <pages>199-217.</pages>
+    </sequence>
+    <sequence>
+        <author>Novotná, Lenka.</author>
+        <date>2021.</date>
+        <title>Textilnictví a oděvnictví.</title>
+        <editor>Zrzavecká, Hana (ed.).</editor>
+        <container-title>Textil a móda</container-title>
+        <location>Praha:</location>
+        <publisher>Ekopress.</publisher>
+        <pages>64-82.</pages>
+    </sequence>
+    <sequence>
+        <author>Kalina, Martin.</author>
+        <date>2022.</date>
+        <title>Papírenství a polygrafie.</title>
+        <editor>Gál, Jiří (ed.).</editor>
+        <container-title>Papír a tisk</container-title>
+        <location>Plzeň:</location>
+        <publisher>Západočeská univerzita.</publisher>
+        <pages>138-156.</pages>
+    </sequence>
+    <sequence>
+        <author>Tuřan, Petr.</author>
+        <date>(2020).</date>
+        <title>Chemický průmysl a technologie.</title>
+        <editor>Hamuľák, Peter (ed.).</editor>
+        <container-title>Chemie a průmysl</container-title>
+        <location>Ústí nad Labem:</location>
+        <publisher>Univerzita Jana Evangelisty Purkyně.</publisher>
+        <pages>112-130.</pages>
+    </sequence>
+    <sequence>
+        <author>Šmaidák, Jaroslav.</author>
+        <date>2019.</date>
+        <title>Farmaceutika a výroba léků.</title>
+        <editor>Kolář, Miloslav (ed.).</editor>
+        <container-title>Farmakologické technologie</container-title>
+        <location>Praha:</location>
+        <publisher>Academia.</publisher>
+        <pages>185-203.</pages>
+    </sequence>
+    <sequence>
+        <author>Pešák, Oldřich, &amp; Horák, František.</author>
+        <date>2020.</date>
+        <title>Kváskování a pícninářství.</title>
+        <editor>Novák, Josef (ed.).</editor>
+        <container-title>Zemědělské technologie</container-title>
+        <location>České Budějovice:</location>
+        <publisher>Jihočeská univerzita.</publisher>
+        <pages>96-114.</pages>
+    </sequence>
+    <sequence>
+        <author>Hubálek, Zdeněk.</author>
+        <date>2021.</date>
+        <title>Veterinární medicína a zdraví zvířat.</title>
+        <editor>Pavlata, Libor (ed.).</editor>
+        <container-title>Nemoci hospodářských zvířat</container-title>
+        <location>Brno:</location>
+        <publisher>Vutium.</publisher>
+        <pages>149-167.</pages>
+    </sequence>
+    <sequence>
+        <author>Valhar, Václav.</author>
+        <date>2022.</date>
+        <title>Myslivost a ochrana zvěře.</title>
+        <editor>Koubek, Pavel (ed.).</editor>
+        <container-title>Fauna a myslivost</container-title>
+        <location>Praha:</location>
+        <publisher>Triton.</publisher>
+        <pages>63-81.</pages>
+    </sequence>
+    <sequence>
+        <author>Svobodová, Hana.</author>
+        <date>(2021).</date>
+        <title>Rybníkářství a chov ryb.</title>
+        <editor>Mareš, Roman (ed.).</editor>
+        <container-title>Produkce ryb</container-title>
+        <location>Plzeň:</location>
+        <publisher>Západočeská univerzita.</publisher>
+        <pages>142-160.</pages>
+    </sequence>
+    <sequence>
+        <author>Procházka, Martin.</author>
+        <date>2019.</date>
+        <title>Včelnictví a včelaření.</title>
+        <editor>Boháček, Jiří (ed.).</editor>
+        <container-title>Včely a med</container-title>
+        <location>Ústí nad Labem:</location>
+        <publisher>Univerzita Jana Evangelisty Purkyně.</publisher>
+        <pages>75-93.</pages>
+    </sequence>
+    <sequence>
+        <author>Novotný, Stanislav, &amp; Pavlů, Miroslav.</author>
+        <date>2020.</date>
+        <title>Pastevectví a chovatelství.</title>
+        <editor>Kníblová, Petra (ed.).</editor>
+        <container-title>Chov hospodářských zvířat</container-title>
+        <location>Praha:</location>
+        <publisher>Karolinum.</publisher>
+        <pages>167-185.</pages>
+    </sequence>
+    <sequence>
+        <author>Dvořák, Tomáš.</author>
+        <date>2021.</date>
+        <title>Květinářství a zahradnictví.</title>
+        <editor>Eremiášová, Petra (ed.).</editor>
+        <container-title>Květiny a okrasné rostliny</container-title>
+        <location>České Budějovice:</location>
+        <publisher>Jihočeská univerzita.</publisher>
+        <pages>201-219.</pages>
+    </sequence>
+    <sequence>
+        <author>Šamálek, Milan.</author>
+        <date>2022.</date>
+        <title>Vinařství a vinifikace.</title>
+        <editor>Kumšta, Milan (ed.).</editor>
+        <container-title>Produkce vína</container-title>
+        <location>Brno:</location>
+        <publisher>Vutium.</publisher>
+        <pages>98-116.</pages>
+    </sequence>
+    <sequence>
+        <author>Novák, Petr.</author>
+        <date>(2020).</date>
+        <title>Pivovarství a výroba piva.</title>
+        <editor>Basařová, Gabriela (ed.).</editor>
+        <container-title>Technologie piaření</container-title>
+        <location>Praha:</location>
+        <publisher>Academia.</publisher>
+        <pages>54-72.</pages>
+    </sequence>
+    <sequence>
+        <author>Svoboda, Jiří, &amp; Kratochvíl, Jiří.</author>
+        <date>2019.</date>
+        <title>Mléčárenství a mlékárny.</title>
+        <editor>Hanuš, Oskar (ed.).</editor>
+        <container-title>Mléko a mléčné výrobky</container-title>
+        <location>Plzeň:</location>
+        <publisher>Západočeská univerzita.</publisher>
+        <pages>189-207.</pages>
+    </sequence>
+    <sequence>
+        <author>Kučera, Milan.</author>
+        <date>2020.</date>
+        <title>Maso a lahůdky.</title>
+        <editor>Václavíková, Eva (ed.).</editor>
+        <container-title>Gastronomie a poznání</container-title>
+        <location>Ústí nad Labem:</location>
+        <publisher>Univerzita Jana Evangelisty Purkyně.</publisher>
+        <pages>115-133.</pages>
+    </sequence>
+    <sequence>
+        <author>Zemanová, Dana.</author>
+        <date>2021.</date>
+        <title>Pekařství a cukrářství.</title>
+        <editor>Drábková, Helena (ed.).</editor>
+        <container-title>Chlebové produkty</container-title>
+        <location>Praha:</location>
+        <publisher>Triton.</publisher>
+        <pages>159-177.</pages>
+    </sequence>
+    <sequence>
+        <author>Hajdu, David.</author>
+        <date>2022.</date>
+        <title>Konzervaření a konzervace potravin.</title>
+        <editor>Musilová, Jana (ed.).</editor>
+        <container-title>Konzervace jídel</container-title>
+        <location>České Budějovice:</location>
+        <publisher>Jihočeská univerzita.</publisher>
+        <pages>62-80.</pages>
+    </sequence>
+    <sequence>
+        <author>Čech, Miroslav.</author>
+        <date>(2021).</date>
+        <title>Gastronomie a kuchyňské umění.</title>
+        <editor>Vaňková, Ivana (ed.).</editor>
+        <container-title>Kulinářské vědy</container-title>
+        <location>Brno:</location>
+        <publisher>Akademické nakladatelství CERM.</publisher>
+        <pages>134-152.</pages>
+    </sequence>
+    <sequence>
+        <author>Pavlů, Martin, &amp; Vozár, František.</author>
+        <date>2019.</date>
+        <title>Restaurace a pohostinství.</title>
+        <editor>Pavol, Zdeněk (ed.).</editor>
+        <container-title>Služby v hotelnictví</container-title>
+        <location>Praha:</location>
+        <publisher>Karolinum.</publisher>
+        <pages>181-199.</pages>
+    </sequence>
+    <sequence>
+        <author>Barvíková, Eva.</author>
+        <date>2020.</date>
+        <title>Barnictví a vlitství.</title>
+        <editor>Novotný, Václav (ed.).</editor>
+        <container-title>Technologie v průmyslu</container-title>
+        <location>Plzeň:</location>
+        <publisher>Západočeská univerzita.</publisher>
+        <pages>88-106.</pages>
+    </sequence>
+    <sequence>
+        <author>Šefl, Ladislav.</author>
+        <date>2021.</date>
+        <title>Oděvnictví a móda.</title>
+        <editor>Medova, Lubica (ed.).</editor>
+        <container-title>Textilní průmysl</container-title>
+        <location>České Budějovice:</location>
+        <publisher>Jihočeská univerzita.</publisher>
+        <pages>163-181.</pages>
+    </sequence>
+    <sequence>
+        <author>Neumann, Pavel.</author>
+        <date>2022.</date>
+        <title>Kožedělnictví a obuvnictví.</title>
+        <editor>Fajfrlíková, Helena (ed.).</editor>
+        <container-title>Procesy v průmyslu</container-title>
+        <location>Ústí nad Labem:</location>
+        <publisher>Univerzita Jana Evangelisty Purkyně.</publisher>
+        <pages>92-110.</pages>
+    </sequence>
+    <sequence>
+        <author>Valenta, František.</author>
+        <date>(2020).</date>
+        <title>Řemesla a tradice.</title>
+        <editor>Čech, Petr (ed.).</editor>
+        <container-title>Tradičností a rukodělné umění</container-title>
+        <location>Praha:</location>
+        <publisher>Academia.</publisher>
+        <pages>145-163.</pages>
+    </sequence>
+    <sequence>
+        <author>Houska, Mark.</author>
+        <date>2019.</date>
+        <title>Antický umění a kultura.</title>
+        <editor>Kazdová, Anna (ed.).</editor>
+        <container-title>Starověké civilizace</container-title>
+        <location>Brno:</location>
+        <publisher>Vutium.</publisher>
+        <pages>201-219.</pages>
+    </sequence>
+    <sequence>
+        <author>Čechová, Marie, &amp; Krčmová, Alena.</author>
+        <date>2020.</date>
+        <title>Středověké dějiny a umění.</title>
+        <editor>Černá, Dana (ed.).</editor>
+        <container-title>Středověk v Evropě</container-title>
+        <location>Praha:</location>
+        <publisher>Triton.</publisher>
+        <pages>67-85.</pages>
+    </sequence>
+    <sequence>
+        <author>Marek, Josef.</author>
+        <date>2021.</date>
+        <title>Renesance a barok.</title>
+        <editor>Vařejová, Libuše (ed.).</editor>
+        <container-title>Umění v přechodu</container-title>
+        <location>České Budějovice:</location>
+        <publisher>Jihočeská univerzita.</publisher>
+        <pages>124-142.</pages>
+    </sequence>
+    <sequence>
+        <author>Kučíková, Petra.</author>
+        <date>2022.</date>
+        <title>Klasicismus a romantismus.</title>
+        <editor>Němcova, Pavlína (ed.).</editor>
+        <container-title>Umělecké směry</container-title>
+        <location>Plzeň:</location>
+        <publisher>Západočeská univerzita.</publisher>
+        <pages>156-174.</pages>
+    </sequence>
+    <sequence>
+        <author>Hlinka, Jaroslav.</author>
+        <date>(2021).</date>
+        <title>Realismus a impressionismus.</title>
+        <editor>Krejčová, Božena (ed.).</editor>
+        <container-title>Nové prvky v umění</container-title>
+        <location>Ústí nad Labem:</location>
+        <publisher>Univerzita Jana Evangelisty Purkyně.</publisher>
+        <pages>106-124.</pages>
+    </sequence>
+    <sequence>
+        <author>Krejčíková, Anna.</author>
+        <date>2019.</date>
+        <title>Modernismus a avantgarda.</title>
+        <editor>Volek, Jiří (ed.).</editor>
+        <container-title>Dvacáté století v umění</container-title>
+        <location>Praha:</location>
+        <publisher>Karolinum.</publisher>
+        <pages>178-196.</pages>
+    </sequence>
+    <sequence>
+        <author>Šubrt, Jiří, &amp; Pfeiffer, Václav.</author>
+        <date>2020.</date>
+        <title>Postmodernismus a současné umění.</title>
+        <editor>Růžička, Tomáš (ed.).</editor>
+        <container-title>Umění dnes</container-title>
+        <location>Brno:</location>
+        <publisher>Akademické nakladatelství CERM.</publisher>
+        <pages>147-165.</pages>
+    </sequence>
+    <sequence>
+        <author>Novotná, Věra.</author>
+        <date>2021.</date>
+        <title>Fotografie a média.</title>
+        <editor>Novotný, František (ed.).</editor>
+        <container-title>Vizuální komunikace</container-title>
+        <location>Praha:</location>
+        <publisher>Ekopress.</publisher>
+        <pages>72-90.</pages>
+    </sequence>
+    <sequence>
+        <author>Dvořák, Petr.</author>
+        <date>2022.</date>
+        <title>Film a kinematografie.</title>
+        <editor>Šulc, Oldřich (ed.).</editor>
+        <container-title>Kinematografické umění</container-title>
+        <location>České Budějovice:</location>
+        <publisher>Jihočeská univerzita.</publisher>
+        <pages>135-153.</pages>
+    </sequence>
+    <sequence>
+        <author>Čech, Stanislav.</author>
+        <date>(2020).</date>
+        <title>Divadlo a scénické umění.</title>
+        <editor>Levý, Jiří (ed.).</editor>
+        <container-title>Pozorování divadla</container-title>
+        <location>Plzeň:</location>
+        <publisher>Západočeská univerzita.</publisher>
+        <pages>161-179.</pages>
+    </sequence>
+    <sequence>
+        <author>Procházka, Miroslav.</author>
+        <date>2019.</date>
+        <title>Muzika a skladba.</title>
+        <editor>Sucharda, Václav (ed.).</editor>
+        <container-title>Hudební vědy</container-title>
+        <location>Praha:</location>
+        <publisher>Academia.</publisher>
+        <pages>98-116.</pages>
+    </sequence>
+    <sequence>
+        <author>Mrázková, Helena, &amp; Tochman, Jiří.</author>
+        <date>2020.</date>
+        <title>Tanec a choreografie.</title>
+        <editor>Zemanová, Růžena (ed.).</editor>
+        <container-title>Pohyb a výraz</container-title>
+        <location>Ústí nad Labem:</location>
+        <publisher>Univerzita Jana Evangelisty Purkyně.</publisher>
+        <pages>119-137.</pages>
+    </sequence>
+    <sequence>
+        <author>Habáňová, Petra.</author>
+        <date>2021.</date>
+        <title>Design a průmyslově umění.</title>
+        <editor>Macek, Antonín (ed.).</editor>
+        <container-title>Krásná forma věci</container-title>
+        <location>Brno:</location>
+        <publisher>Vutium.</publisher>
+        <pages>174-192.</pages>
+    </sequence>
+    <sequence>
+        <author>Hájek, Viktor.</author>
+        <date>2022.</date>
+        <title>Graficky design a typografie.</title>
+        <editor>Novotný, Oldřich (ed.).</editor>
+        <container-title>Písmo a kompozice</container-title>
+        <location>Praha:</location>
+        <publisher>Triton.</publisher>
+        <pages>81-99.</pages>
+    </sequence>
+    <sequence>
+        <author>Kalus, Václav.</author>
+        <date>(2021).</date>
+        <title>Keramika a zlatnictví.</title>
+        <editor>Macek, Karel (ed.).</editor>
+        <container-title>Řemesla a umění</container-title>
+        <location>České Budějovice:</location>
+        <publisher>Jihočeská univerzita.</publisher>
+        <pages>147-165.</pages>
+    </sequence>
+    <sequence>
+        <author>Hájek, Milan.</author>
+        <date>2019.</date>
+        <title>Ikonografie a symbolika.</title>
+        <editor>Stejskalová, Darina (ed.).</editor>
+        <container-title>Obrazy a jejich význam</container-title>
+        <location>Plzeň:</location>
+        <publisher>Západočeská univerzita.</publisher>
+        <pages>168-186.</pages>
+    </sequence>
+    <sequence>
+        <author>Procházka, Tomáš.</author>
+        <date>2020.</date>
+        <title>Architektonické styly a vývoj.</title>
+        <editor>Krejčí, Pavel (ed.).</editor>
+        <container-title>Stavby a jejich dějiny</container-title>
+        <location>Ústí nad Labem:</location>
+        <publisher>Univerzita Jana Evangelisty Purkyně.</publisher>
+        <pages>52-70.</pages>
+    </sequence>
+    <sequence>
+        <author>Hejda, Josef, &amp; Novotný, Václav.</author>
+        <date>2021.</date>
+        <title>Sochařství a plastika.</title>
+        <editor>Pavlíčková, Marta (ed.).</editor>
+        <container-title>Trojrozměrné umění</container-title>
+        <location>Praha:</location>
+        <publisher>Karolinum.</publisher>
+        <pages>194-212.</pages>
+    </sequence>
+    <sequence>
+        <author>Kučíková, Zdenka.</author>
+        <date>2022.</date>
+        <title>Malířství a techniky.</title>
+        <editor>Malátková, Petra (ed.).</editor>
+        <container-title>Barvy a plátno</container-title>
+        <location>Brno:</location>
+        <publisher>Akademické nakladatelství CERM.</publisher>
+        <pages>109-127.</pages>
+    </sequence>
+    <sequence>
+        <author>Volejník, František.</author>
+        <date>(2020).</date>
+        <title>Restaurování a konzervace.</title>
+        <editor>Kaplan, David (ed.).</editor>
+        <container-title>Ochrana uměleckých děl</container-title>
+        <location>Praha:</location>
+        <publisher>Ekopress.</publisher>
+        <pages>175-193.</pages>
+    </sequence>
+    <sequence>
+        <author>Kučera, Jiří.</author>
+        <date>2019.</date>
+        <title>Kurátorství a umělecké péče.</title>
+        <editor>Pavlů, Marie (ed.).</editor>
+        <container-title>Správa sbírek</container-title>
+        <location>České Budějovice:</location>
+        <publisher>Jihočeská univerzita.</publisher>
+        <pages>66-84.</pages>
+    </sequence>
+    <sequence>
+        <author>Dvořák, Ivan, &amp; Čech, Miroslav.</author>
+        <date>2020.</date>
+        <title>Muzejní pedagogika a vzdělání.</title>
+        <editor>Nováková, Elena (ed.).</editor>
+        <container-title>Učení v muzeu</container-title>
+        <location>Plzeň:</location>
+        <publisher>Západočeská univerzita.</publisher>
+        <pages>151-169.</pages>
+    </sequence>
+</dataset>

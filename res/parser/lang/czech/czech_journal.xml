@@ -1,0 +1,2341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <sequence>
+        <author>Novotný, P.</author>
+        <date>(2023).</date>
+        <title>Digitalizace v češtině: případ morfologické analýzy.</title>
+        <journal>Časopis pro Moderní Filologii</journal>
+        <volume>45(3),</volume>
+        <pages>156-178.</pages>
+        <doi>10.1234/cmf.2023.045</doi>
+    </sequence>
+    <sequence>
+        <author>Černá, J., &amp; Kučera, M.</author>
+        <date>2022.</date>
+        <title>Metodologie výzkumu sociálních sítí v českých komunitách.</title>
+        <journal>Sociologický Časopis</journal>
+        <volume>58(2),</volume>
+        <pages>201-225.</pages>
+        <doi>10.1515/socce.2022.58.2.201</doi>
+    </sequence>
+    <sequence>
+        <author>Svoboda, T.</author>
+        <date>(2021).</date>
+        <title>Energie a ekonomika v České republice: retrospektiva a prognóza.</title>
+        <journal>Ekonomie a Management</journal>
+        <volume>24(1),</volume>
+        <pages>45-62.</pages>
+    </sequence>
+    <sequence>
+        <author>Zajíc, L., &amp; Horák, V., &amp; Lipka, D.</author>
+        <date>2023.</date>
+        <title>Inovace vzdělávacích technologií a jejich vliv na akademický úspěch.</title>
+        <journal>Věda a Vzdělání</journal>
+        <volume>31(4),</volume>
+        <pages>287-305.</pages>
+        <doi>10.1234/vav.2023.31.4.287</doi>
+    </sequence>
+    <sequence>
+        <author>Mrázková, B.</author>
+        <date>2022.</date>
+        <title>Ekosystémy měst: urbanizace a příroda v 21. století.</title>
+        <journal>Přírodovědný Sborník</journal>
+        <volume>12(3),</volume>
+        <pages>118-134.</pages>
+    </sequence>
+    <sequence>
+        <author>Procházka, K., &amp; Soukupová, H.</author>
+        <date>(2021).</date>
+        <title>Etika umělé inteligence a autonomní rozhodování.</title>
+        <journal>Filosofický Sborník</journal>
+        <volume>47(2),</volume>
+        <pages>89-107.</pages>
+        <doi>10.1234/fs.2021.47.2.89</doi>
+        <url>https://filosofickysbornik.cz/2021/47/2/89</url>
+    </sequence>
+    <sequence>
+        <author>Řezáč, O.</author>
+        <date>2023.</date>
+        <title>Syntaxe češtiny v digitálním zpracování: formální modelování.</title>
+        <journal>Jazykověda a Počítače</journal>
+        <volume>19(1),</volume>
+        <pages>12-38.</pages>
+    </sequence>
+    <sequence>
+        <author>Dudáková, E., &amp; Hladký, J., &amp; Novotná, Z.</author>
+        <date>2022.</date>
+        <title>Obchodní vztahy v Evropě: struktura a dynamika sítí.</title>
+        <journal>Mezinárodní Vztahy</journal>
+        <volume>29(3),</volume>
+        <pages>245-268.</pages>
+        <doi>10.1234/mv.2022.29.3.245</doi>
+    </sequence>
+    <sequence>
+        <author>Vejvoda, I.</author>
+        <date>(2020).</date>
+        <title>Demokracie v krizi: případ střední Evropy.</title>
+        <journal>Politologický Časopis</journal>
+        <volume>26(4),</volume>
+        <pages>402-421.</pages>
+    </sequence>
+    <sequence>
+        <author>Klimešová, A., &amp; Pešek, J.</author>
+        <date>2023.</date>
+        <title>Genetická diverzita rostlin na území české prirody.</title>
+        <journal>Biologie a Evoluce</journal>
+        <volume>54(2),</volume>
+        <pages>143-159.</pages>
+        <doi>10.1234/be.2023.54.2.143</doi>
+    </sequence>
+    <sequence>
+        <author>Kolář, M.</author>
+        <date>2021.</date>
+        <title>Fyzika základních částic: nové objevy tohoto tisíciletí.</title>
+        <journal>Pokroky Fyziky</journal>
+        <volume>66(3),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Svobodová, V., &amp; Čech, R., &amp; Kříž, O., &amp; Novák, P.</author>
+        <date>(2022).</date>
+        <title>Psychologické aspekty adaptace migrantů v urbánním prostředí.</title>
+        <journal>Psychologické Studie</journal>
+        <volume>28(1),</volume>
+        <pages>55-74.</pages>
+        <doi>10.1234/ps.2022.28.1.55</doi>
+    </sequence>
+    <sequence>
+        <author>Berger, L.</author>
+        <date>2023.</date>
+        <title>Architektura a urbanismus: tradice a modernost.</title>
+        <journal>Architektonický Přehled</journal>
+        <volume>35(2),</volume>
+        <pages>34-52.</pages>
+    </sequence>
+    <sequence>
+        <author>Jelíněk, P., &amp; Slováková, R.</author>
+        <date>(2021).</date>
+        <title>Umění a technologie: konvergence v prostoru galerie.</title>
+        <journal>Umělecké Vědy</journal>
+        <volume>42(4),</volume>
+        <pages>267-285.</pages>
+        <doi>10.1234/uv.2021.42.4.267</doi>
+        <url>https://umelecevedu.cz/articles/2021/42/4</url>
+    </sequence>
+    <sequence>
+        <author>Hanzal, J.</author>
+        <date>2022.</date>
+        <title>Ekonomické modely růstu: aplikace na českou ekonomiku.</title>
+        <journal>Ekonomický Přehled</journal>
+        <volume>51(3),</volume>
+        <pages>189-207.</pages>
+    </sequence>
+    <sequence>
+        <author>Strnadová, K., &amp; Mach, Z., &amp; Paulů, J., &amp; Kováč, T.</author>
+        <date>2023.</date>
+        <title>Vzdělávání osob se speciálními potřebami: inkluze v praxi.</title>
+        <journal>Speciální Pedagogika</journal>
+        <volume>13(2),</volume>
+        <pages>99-118.</pages>
+        <doi>10.1234/sp.2023.13.2.99</doi>
+    </sequence>
+    <sequence>
+        <author>Zavřel, V.</author>
+        <date>(2020).</date>
+        <title>Chemie - základní věda pro udržitelný rozvoj.</title>
+        <journal>Chemické Listy</journal>
+        <volume>114(6),</volume>
+        <pages>421-438.</pages>
+    </sequence>
+    <sequence>
+        <author>Bláha, O., &amp; Kacerovský, M.</author>
+        <date>2021.</date>
+        <title>Medicína a její etika v medicínských školách.</title>
+        <journal>Médico-Chirurgické Recenze</journal>
+        <volume>37(1),</volume>
+        <pages>11-29.</pages>
+        <doi>10.1234/mcr.2021.37.1.11</doi>
+    </sequence>
+    <sequence>
+        <author>Dobrovolný, R.</author>
+        <date>(2022).</date>
+        <title>Geografia: př approach ke studiu krajin minulosti a přítomnosti.</title>
+        <journal>Geografické Rozhledy</journal>
+        <volume>31(4),</volume>
+        <pages>234-251.</pages>
+    </sequence>
+    <sequence>
+        <author>Michalska, E., &amp; Pavlíček, S., &amp; Horvátová, I.</author>
+        <date>2023.</date>
+        <title>Mezikultúrní komunikace v globální ekonomice.</title>
+        <journal>Komunikační Vědy</journal>
+        <volume>22(3),</volume>
+        <pages>156-175.</pages>
+        <doi>10.1234/kv.2023.22.3.156</doi>
+    </sequence>
+    <sequence>
+        <author>Szarka, G.</author>
+        <date>2021.</date>
+        <title>Lesnictví a udržitelnost: nové perspektivy.</title>
+        <journal>Lesní Echo</journal>
+        <volume>25(2),</volume>
+        <pages>45-63.</pages>
+    </sequence>
+    <sequence>
+        <author>Králíková, Z., &amp; Novotná, L., &amp; Pavlovič, M., &amp; Sklenar, T., &amp; Věrová, K.</author>
+        <date>(2022).</date>
+        <title>Materiálové vědy a nanotechnologie: pokrok v posledním dekádě.</title>
+        <journal>Věstník Materiálů</journal>
+        <volume>18(1),</volume>
+        <pages>78-96.</pages>
+        <doi>10.1234/vm.2022.18.1.78</doi>
+    </sequence>
+    <sequence>
+        <author>Horvátová, D.</author>
+        <date>2023.</date>
+        <title>Moderní metody analýzy dat v medicíně.</title>
+        <journal>Biostatistika a Epidemiologie</journal>
+        <volume>29(4),</volume>
+        <pages>312-329.</pages>
+    </sequence>
+    <sequence>
+        <author>Veselý, J., &amp; Chloupka, M.</author>
+        <date>(2021).</date>
+        <title>Právo a informatika: právní regulace v digitálním věku.</title>
+        <journal>Právní Fórum</journal>
+        <volume>39(2),</volume>
+        <pages>134-152.</pages>
+        <doi>10.1234/pf.2021.39.2.134</doi>
+        <url>https://pravniforum.cz/clanek/2021/39/2/134</url>
+    </sequence>
+    <sequence>
+        <author>Řeháčková, B.</author>
+        <date>2022.</date>
+        <title>Socio-demografické trendy v České republice.</title>
+        <journal>Sociální Studia</journal>
+        <volume>19(3),</volume>
+        <pages>201-218.</pages>
+    </sequence>
+    <sequence>
+        <author>Prchal, J., &amp; Šimáková, J., &amp; Tichá, B.</author>
+        <date>2023.</date>
+        <title>Systémy kvalitativního výzkumu v socioethnice.</title>
+        <journal>Metodologie Výzkumu</journal>
+        <volume>11(2),</volume>
+        <pages>87-104.</pages>
+        <doi>10.1234/mv.2023.11.2.87</doi>
+    </sequence>
+    <sequence>
+        <author>Václav, I.</author>
+        <date>(2020).</date>
+        <title>Bezpečnost a kybernetika v 21. století.</title>
+        <journal>Bezpečnostní Vědy</journal>
+        <volume>26(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Soukup, V., &amp; Kamenický, L., &amp; Benko, B., &amp; Králík, J.</author>
+        <date>2021.</date>
+        <title>Nástroje pro řízení projektů v technických oborech.</title>
+        <journal>Projektový Management</journal>
+        <volume>14(4),</volume>
+        <pages>289-306.</pages>
+        <doi>10.1234/pm.2021.14.4.289</doi>
+    </sequence>
+    <sequence>
+        <author>Černoch, F.</author>
+        <date>2022.</date>
+        <title>Energie ze slunce: fotovoltaika a perspektivy.</title>
+        <journal>Obnovitelné Zdroje</journal>
+        <volume>17(3),</volume>
+        <pages>156-174.</pages>
+    </sequence>
+    <sequence>
+        <author>Holešová, D., &amp; Novotná, B.</author>
+        <date>(2023).</date>
+        <title>Lingvistika a pragmatika: nové směry ve výzkumu jazyka.</title>
+        <journal>Lingvistická Recenze</journal>
+        <volume>48(1),</volume>
+        <pages>34-52.</pages>
+        <doi>10.1234/lr.2023.48.1.34</doi>
+    </sequence>
+    <sequence>
+        <author>Turčan, V.</author>
+        <date>2021.</date>
+        <title>Matematika v praxi: modelování reálných situací.</title>
+        <journal>Matematické Horizont</journal>
+        <volume>33(2),</volume>
+        <pages>67-84.</pages>
+    </sequence>
+    <sequence>
+        <author>Kroupová, T., &amp; Schaumayer, K., &amp; Drápal, J., &amp; Zítko, L.</author>
+        <date>2022.</date>
+        <title>Veterinární věda a zvěrolékařství v moderní praxi.</title>
+        <journal>Veterinární Obzor</journal>
+        <volume>37(2),</volume>
+        <pages>123-141.</pages>
+        <doi>10.1234/vo.2022.37.2.123</doi>
+    </sequence>
+    <sequence>
+        <author>Machát, R.</author>
+        <date>(2021).</date>
+        <title>Zemědělství a biotechnologie: spojení tradice a inovace.</title>
+        <journal>Zemědělské Vědy</journal>
+        <volume>44(4),</volume>
+        <pages>356-373.</pages>
+    </sequence>
+    <sequence>
+        <author>Tesaříková, K., &amp; Lepšová, O.</author>
+        <date>2023.</date>
+        <title>Psychologie osobnosti: nové koncepty v klinické praxi.</title>
+        <journal>Psychologické Zpravodajství</journal>
+        <volume>31(3),</volume>
+        <pages>234-252.</pages>
+        <doi>10.1234/pz.2023.31.3.234</doi>
+        <url>https://psychologickezzpravodajstvi.cz/2023/31/3</url>
+    </sequence>
+    <sequence>
+        <author>Pecha, M.</author>
+        <date>2020.</date>
+        <title>Sociologie rodiny: transformace v postkomunistických zemích.</title>
+        <journal>Rodinné Studia</journal>
+        <volume>41(1),</volume>
+        <pages>12-30.</pages>
+    </sequence>
+    <sequence>
+        <author>Václavíková, S., &amp; Novotný, K., &amp; Urbánek, L., &amp; Zajíc, P., &amp; Válek, J.</author>
+        <date>(2022).</date>
+        <title>Informační technologie a jejich dopad na vzdělávací instituce.</title>
+        <journal>E-Learning a Inovace</journal>
+        <volume>16(2),</volume>
+        <pages>98-116.</pages>
+        <doi>10.1234/eli.2022.16.2.98</doi>
+    </sequence>
+    <sequence>
+        <author>Kopáč, J.</author>
+        <date>2021.</date>
+        <title>Strojírenství: od tradice k budoucnosti.</title>
+        <journal>Věk Průmyslu</journal>
+        <volume>25(3),</volume>
+        <pages>187-205.</pages>
+    </sequence>
+    <sequence>
+        <author>Řezáčová, V., &amp; Šípek, M.</author>
+        <date>2023.</date>
+        <title>Klimatické změny a jejich adaptace v zemědělství.</title>
+        <journal>Ekologické Předpoklady</journal>
+        <volume>19(4),</volume>
+        <pages>289-307.</pages>
+        <doi>10.1234/ep.2023.19.4.289</doi>
+    </sequence>
+    <sequence>
+        <author>Hruška, O.</author>
+        <date>(2020).</date>
+        <title>Hudba a kultura: tradice v moderním světě.</title>
+        <journal>Kulturní Horizont</journal>
+        <volume>22(1),</volume>
+        <pages>45-63.</pages>
+    </sequence>
+    <sequence>
+        <author>Dostálová, R., &amp; Čeřovský, J., &amp; Novotná, A., &amp; Kubala, P.</author>
+        <date>2022.</date>
+        <title>Dentální medicína a implantologie: vývojové trendy.</title>
+        <journal>Stomatolog Věda</journal>
+        <volume>28(2),</volume>
+        <pages>156-174.</pages>
+        <doi>10.1234/sv.2022.28.2.156</doi>
+    </sequence>
+    <sequence>
+        <author>Fučík, I.</author>
+        <date>2021.</date>
+        <title>Elektrotechnika a automatizace v průmyslu.</title>
+        <journal>Elektrotechnické Listy</journal>
+        <volume>47(3),</volume>
+        <pages>201-219.</pages>
+    </sequence>
+    <sequence>
+        <author>Gabriels, L., &amp; Kačenka, M., &amp; Horák, V.</author>
+        <date>(2023).</date>
+        <title>Fyzická a mentální zdraví: integrovaný přístup.</title>
+        <journal>Zdravotnické Vědy</journal>
+        <volume>35(1),</volume>
+        <pages>78-96.</pages>
+        <doi>10.1234/zv.2023.35.1.78</doi>
+        <url>https://zdravotnickevedu.cz/clanek/2023/35/1</url>
+    </sequence>
+    <sequence>
+        <author>Mikuláš, M.</author>
+        <date>2020.</date>
+        <title>Geologie a jeho aplikace v stavebnictví.</title>
+        <journal>Stavební Vědy</journal>
+        <volume>32(4),</volume>
+        <pages>334-352.</pages>
+    </sequence>
+    <sequence>
+        <author>Rajnošová, J., &amp; Sucharda, L., &amp; Tejnecký, V., &amp; Kochyán, H., &amp; Čech, T.</author>
+        <date>2022.</date>
+        <title>Péče o půdu: agronomie a ekologie.</title>
+        <journal>Pedologie a Ekosystémy</journal>
+        <volume>23(2),</volume>
+        <pages>123-141.</pages>
+        <doi>10.1234/pe.2022.23.2.123</doi>
+    </sequence>
+    <sequence>
+        <author>Holub, J.</author>
+        <date>(2021).</date>
+        <title>Hydrologie a management vodních zdrojů.</title>
+        <journal>Vodní Hospodářství</journal>
+        <volume>29(3),</volume>
+        <pages>234-252.</pages>
+    </sequence>
+    <sequence>
+        <author>Kadisová, Z., &amp; Procházka, K.</author>
+        <date>2023.</date>
+        <title>Inovace v textilním průmyslu: nové materiály a technologie.</title>
+        <journal>Textil a Moda</journal>
+        <volume>21(1),</volume>
+        <pages>45-63.</pages>
+        <doi>10.1234/tm.2023.21.1.45</doi>
+    </sequence>
+    <sequence>
+        <author>Kučíková, A.</author>
+        <date>2020.</date>
+        <title>Kriminologie a věda o kriminalitě.</title>
+        <journal>Bezpečnostní Vědy</journal>
+        <volume>27(2),</volume>
+        <pages>156-174.</pages>
+    </sequence>
+    <sequence>
+        <author>Lešovský, O., &amp; Martan, J., &amp; Lukáš, V., &amp; Dvořák, T.</author>
+        <date>(2022).</date>
+        <title>Leciální a průmyslová mikrobiologie.</title>
+        <journal>Mikrobiologické Studie</journal>
+        <volume>33(4),</volume>
+        <pages>289-307.</pages>
+        <doi>10.1234/ms.2022.33.4.289</doi>
+    </sequence>
+    <sequence>
+        <author>Melichar, J.</author>
+        <date>2021.</date>
+        <title>Metalurgie a výroba slitín: moderní metody.</title>
+        <journal>Metalurgie a Technologie</journal>
+        <volume>19(3),</volume>
+        <pages>201-219.</pages>
+    </sequence>
+    <sequence>
+        <author>Novotná, A., &amp; Poláková, E., &amp; Řeháčková, K.</author>
+        <date>2023.</date>
+        <title>Neurologie a neurovědy: nové objevy a aplikace.</title>
+        <journal>Vědy o Mozku</journal>
+        <volume>25(2),</volume>
+        <pages>123-141.</pages>
+        <doi>10.1234/vm.2023.25.2.123</doi>
+        <url>https://vedyomozku.cz/2023/25/2</url>
+    </sequence>
+    <sequence>
+        <author>Olivier, P.</author>
+        <date>(2020).</date>
+        <title>Optika a fotonické technologie: od báze k aplikacím.</title>
+        <journal>Fotonické Pokroky</journal>
+        <volume>31(1),</volume>
+        <pages>34-52.</pages>
+    </sequence>
+    <sequence>
+        <author>Pavlíčková, D., &amp; Rathouský, M., &amp; Švanda, J., &amp; Šimáček, P., &amp; Brínová, V.</author>
+        <date>2022.</date>
+        <title>Průmyslová chemie a organická syntéza.</title>
+        <journal>Chemické Inženýrství</journal>
+        <volume>27(3),</volume>
+        <pages>234-252.</pages>
+        <doi>10.1234/chi.2022.27.3.234</doi>
+    </sequence>
+    <sequence>
+        <author>Quaranta, G.</author>
+        <date>2021.</date>
+        <title>Kvalita a management: normy a standardy.</title>
+        <journal>Řízení Kvalitou</journal>
+        <volume>16(2),</volume>
+        <pages>89-107.</pages>
+    </sequence>
+    <sequence>
+        <author>Rauscher, J., &amp; Rybníčková, L.</author>
+        <date>(2023).</date>
+        <title>Radiologie a medicínská zobrazování: nové techniky.</title>
+        <journal>Radiologické Věstníky</journal>
+        <volume>41(4),</volume>
+        <pages>312-330.</pages>
+        <doi>10.1234/rv.2023.41.4.312</doi>
+    </sequence>
+    <sequence>
+        <author>Sádecká, K.</author>
+        <date>2020.</date>
+        <title>Senzorika a analýza senzorických vlastností potravin.</title>
+        <journal>Potravinářská Věda</journal>
+        <volume>33(1),</volume>
+        <pages>12-30.</pages>
+    </sequence>
+    <sequence>
+        <author>Šimáčková, R., &amp; Šimáče, J., &amp; Simonidis, J., &amp; Sochácki, V.</author>
+        <date>2022.</date>
+        <title>Terapie a zdravotnická péče: právní a etické aspekty.</title>
+        <journal>Zdravotnické Právo</journal>
+        <volume>24(2),</volume>
+        <pages>156-174.</pages>
+        <doi>10.1234/zp.2022.24.2.156</doi>
+    </sequence>
+    <sequence>
+        <author>Trakal, L.</author>
+        <date>(2021).</date>
+        <title>Upravo půdy a pedologie: environmentální aspekty.</title>
+        <journal>Environmentální Vědy</journal>
+        <volume>29(3),</volume>
+        <pages>201-219.</pages>
+    </sequence>
+    <sequence>
+        <author>Urbánek, M., &amp; Váchal, J., &amp; Vacek, S., &amp; Valenta, K.</author>
+        <date>2023.</date>
+        <title>Univerzitní vzdělání a jeho výzvy v 21. století.</title>
+        <journal>Vysokoškolská Pedagogika</journal>
+        <volume>18(4),</volume>
+        <pages>289-307.</pages>
+        <doi>10.1234/vp.2023.18.4.289</doi>
+        <url>https://vyskokolskapedagogika.cz/2023/18/4</url>
+    </sequence>
+    <sequence>
+        <author>Václav, J.</author>
+        <date>2020.</date>
+        <title>Počítačové viděníová analýza obrazů.</title>
+        <journal>Počítačová Grafika</journal>
+        <volume>22(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Wróbel, K., &amp; Wróbelová, E., &amp; Wróbel, J.</author>
+        <date>(2022).</date>
+        <title>Výroba a procesní technologie v industriální praxi.</title>
+        <journal>Průmyslová Technologie</journal>
+        <volume>34(1),</volume>
+        <pages>23-41.</pages>
+        <doi>10.1234/pt.2022.34.1.23</doi>
+    </sequence>
+    <sequence>
+        <author>Xu, L.</author>
+        <date>2021.</date>
+        <title>Xyém a biotechnologie: nové příležitosti a výzvy.</title>
+        <journal>Biotechnologie a Výroba</journal>
+        <volume>26(3),</volume>
+        <pages>167-185.</pages>
+    </sequence>
+    <sequence>
+        <author>Zahrádka, P., &amp; Žák, J., &amp; Žák, S., &amp; Žáková, V., &amp; Žantovský, L.</author>
+        <date>2023.</date>
+        <title>Zubní a ortodontická péče: nové materiály a metody.</title>
+        <journal>Ortodontické Horizont</journal>
+        <volume>19(2),</volume>
+        <pages>134-152.</pages>
+        <doi>10.1234/oh.2023.19.2.134</doi>
+    </sequence>
+    <sequence>
+        <author>Adamčák, J.</author>
+        <date>(2020).</date>
+        <title>Aquakultury a akvariologie: věda a praxe.</title>
+        <journal>Ichtyologie a Akvatické Vědy</journal>
+        <volume>32(4),</volume>
+        <pages>298-316.</pages>
+    </sequence>
+    <sequence>
+        <author>Balzerová, B., &amp; Bálint, M., &amp; Baláž, A.</author>
+        <date>2022.</date>
+        <title>Behavioral ekologie v měnícím se klimatu.</title>
+        <journal>Etologie a Evoluční Biologie</journal>
+        <volume>28(1),</volume>
+        <pages>45-63.</pages>
+        <doi>10.1234/eeb.2022.28.1.45</doi>
+    </sequence>
+    <sequence>
+        <author>Cabejšek, R.</author>
+        <date>2021.</date>
+        <title>Cirkulární ekonomie a odpady: řešení pro budoucnost.</title>
+        <journal>Oběhová Ekonomika</journal>
+        <volume>15(2),</volume>
+        <pages>89-107.</pages>
+    </sequence>
+    <sequence>
+        <author>Čada, Z., &amp; Čadová, E., &amp; Čech, R., &amp; Čeřovský, T.</author>
+        <date>(2023).</date>
+        <title>Deriváty a finanční instrumenty: teorie a praxe.</title>
+        <journal>Finanční Studia</journal>
+        <volume>31(3),</volume>
+        <pages>201-219.</pages>
+        <doi>10.1234/fs.2023.31.3.201</doi>
+        <url>https://financnistudia.cz/2023/31/3</url>
+    </sequence>
+    <sequence>
+        <author>Duda, V.</author>
+        <date>2020.</date>
+        <title>Embryologie a vývoj organismu: molekulární pohled.</title>
+        <journal>Vývojová Biologie</journal>
+        <volume>37(2),</volume>
+        <pages>123-141.</pages>
+    </sequence>
+    <sequence>
+        <author>Eckstein, F., &amp; Eichler, J., &amp; Eckartová, E.</author>
+        <date>2022.</date>
+        <title>Fermentativní technologie a biotechnologické procesy.</title>
+        <journal>Fermentační Inženýrství</journal>
+        <volume>20(4),</volume>
+        <pages>289-307.</pages>
+        <doi>10.1234/fi.2022.20.4.289</doi>
+    </sequence>
+    <sequence>
+        <author>Fejfar, O.</author>
+        <date>(2021).</date>
+        <title>Galerie a sbírky: management kulturního dědictví.</title>
+        <journal>Muzejní Vědy</journal>
+        <volume>24(1),</volume>
+        <pages>34-52.</pages>
+    </sequence>
+    <sequence>
+        <author>Gál, J., &amp; Gálová, V., &amp; Gazdáčová, N., &amp; Gajdošová, M.</author>
+        <date>2023.</date>
+        <title>Genetika a medicínská genetika: nové směry léčby.</title>
+        <journal>Genetické Pokroky</journal>
+        <volume>29(2),</volume>
+        <pages>156-174.</pages>
+        <doi>10.1234/gp.2023.29.2.156</doi>
+    </sequence>
+    <sequence>
+        <author>Habáň, J.</author>
+        <date>2020.</date>
+        <title>Habituace a sociální chování zvířat.</title>
+        <journal>Zvěrolékařská Biologie</journal>
+        <volume>18(3),</volume>
+        <pages>201-219.</pages>
+    </sequence>
+    <sequence>
+        <author>Hálek, J., &amp; Haloň, J., &amp; Halás, M., &amp; Halada, J.</author>
+        <date>(2022).</date>
+        <title>Hygiena a bezpečnost práce: prevence nemocí.</title>
+        <journal>Medicína Práce</journal>
+        <volume>35(4),</volume>
+        <pages>312-330.</pages>
+        <doi>10.1234/mp.2022.35.4.312</doi>
+        <url>https://mediicnaprace.cz/2022/35/4</url>
+    </sequence>
+    <sequence>
+        <author>Chobot, J.</author>
+        <date>2021.</date>
+        <title>Imunologie a imunoterapie: revoluce v lékařství.</title>
+        <journal>Imunologické Věstníky</journal>
+        <volume>26(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Chvaláček, I., &amp; Chvátal, L., &amp; Chvála, M., &amp; Chrásek, P.</author>
+        <date>2023.</date>
+        <title>Jádra a částicová fyzika: kvantová revoluce.</title>
+        <journal>Subatomární Fyzika</journal>
+        <volume>22(2),</volume>
+        <pages>98-116.</pages>
+        <doi>10.1234/sf.2023.22.2.98</doi>
+    </sequence>
+    <sequence>
+        <author>Jedlička, P.</author>
+        <date>(2020).</date>
+        <title>Kalorimetrické měření a analýza energie.</title>
+        <journal>Energetické Studie</journal>
+        <volume>19(3),</volume>
+        <pages>167-185.</pages>
+    </sequence>
+    <sequence>
+        <author>Jeřábek, I., &amp; Jeříkova, E., &amp; Jeřábková, V., &amp; Jeřábkova, L.</author>
+        <date>2022.</date>
+        <title>Kinematika a dynamika: klasická mechanika přestupu.</title>
+        <journal>Mechanické Vědy</journal>
+        <volume>23(1),</volume>
+        <pages>45-63.</pages>
+        <doi>10.1234/mv.2022.23.1.45</doi>
+    </sequence>
+    <sequence>
+        <author>Kabelka, J.</author>
+        <date>2021.</date>
+        <title>Kartografická tvorba a územní plánování digitálními nástroji.</title>
+        <journal>Geoinformatika a Kartografie</journal>
+        <volume>28(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Kalenský, J., &amp; Kalousková, Z., &amp; Kalouskova, T., &amp; Kaloušková, B.</author>
+        <date>(2023).</date>
+        <title>Logika a teorie množin: základy matematiky.</title>
+        <journal>Matematické Základy</journal>
+        <volume>34(2),</volume>
+        <pages>123-141.</pages>
+        <doi>10.1234/mz.2023.34.2.123</doi>
+        <url>https://matematickyzaklady.cz/2023/34/2</url>
+    </sequence>
+    <sequence>
+        <author>Kovář, J.</author>
+        <date>2020.</date>
+        <title>Mikroskopie a obrazová analýza: moderní techniky.</title>
+        <journal>Mikroskopické Studie</journal>
+        <volume>31(3),</volume>
+        <pages>201-219.</pages>
+    </sequence>
+    <sequence>
+        <author>Krajčíková, M., &amp; Krajčí, P., &amp; Krajník, O., &amp; Krajč, S.</author>
+        <date>2022.</date>
+        <title>Nosologie a klasifikace chorob: medicínská taxonomie.</title>
+        <journal>Patologické Vědy</journal>
+        <volume>25(1),</volume>
+        <pages>56-74.</pages>
+        <doi>10.1234/pv.2022.25.1.56</doi>
+    </sequence>
+    <sequence>
+        <author>Krčál, V.</author>
+        <date>(2021).</date>
+        <title>Orální medicína a stomatologie: péče o chrup.</title>
+        <journal>Stomatologické Vědy</journal>
+        <volume>29(4),</volume>
+        <pages>312-330.</pages>
+    </sequence>
+    <sequence>
+        <author>Kuchyňka, P., &amp; Kuchynka, T., &amp; Kučíková, E., &amp; Kučíkova, L.</author>
+        <date>2023.</date>
+        <title>Patologie rostlin a fytopatologie: nemoci plodin.</title>
+        <journal>Rostlinná Patologie</journal>
+        <volume>20(2),</volume>
+        <pages>98-116.</pages>
+        <doi>10.1234/rp.2023.20.2.98</doi>
+    </sequence>
+    <sequence>
+        <author>Kubala, J.</author>
+        <date>2020.</date>
+        <title>Que a řeč: jazykové jev a fenomény.</title>
+        <journal>Jazykové Vědy</journal>
+        <volume>32(3),</volume>
+        <pages>156-174.</pages>
+    </sequence>
+    <sequence>
+        <author>Kubeš, K., &amp; Kubešova, V., &amp; Kubesova, A., &amp; Kubeš, B.</author>
+        <date>(2022).</date>
+        <title>Radiální a ultrazvuková diagnostika: pokročilé techniky.</title>
+        <journal>Diagnostické Vědy</journal>
+        <volume>27(1),</volume>
+        <pages>34-52.</pages>
+        <doi>10.1234/dv.2022.27.1.34</doi>
+        <url>https://diagnostickevedy.cz/2022/27/1</url>
+    </sequence>
+    <sequence>
+        <author>Kubíček, R.</author>
+        <date>2021.</date>
+        <title>Systematika a taxonomie: třídění živých bytostí.</title>
+        <journal>Taxonomické Studie</journal>
+        <volume>24(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Kučerová, E., &amp; Kucerova, M., &amp; Kucerova, Z., &amp; Kučera, T.</author>
+        <date>2023.</date>
+        <title>Technologie ultrazvuku a její aplikace v medicíně.</title>
+        <journal>Ultrazvuková Medicína</journal>
+        <volume>19(2),</volume>
+        <pages>89-107.</pages>
+        <doi>10.1234/um.2023.19.2.89</doi>
+    </sequence>
+    <sequence>
+        <author>Kuchta, D.</author>
+        <date>(2020).</date>
+        <title>Vyzvědávání a bezpečnostní služby: operační teorie.</title>
+        <journal>Bezpečnostní Operace</journal>
+        <volume>16(3),</volume>
+        <pages>201-219.</pages>
+    </sequence>
+    <sequence>
+        <author>Kupka, J., &amp; Kupcova, L., &amp; Kupkova, E., &amp; Kupka, M.</author>
+        <date>2022.</date>
+        <title>Virologie a infekční choroby: boj s epidemiemi.</title>
+        <journal>Virové Studie</journal>
+        <volume>33(1),</volume>
+        <pages>23-41.</pages>
+        <doi>10.1234/vs.2022.33.1.23</doi>
+    </sequence>
+    <sequence>
+        <author>Lachman, V.</author>
+        <date>2021.</date>
+        <title>Witchcraft a okultnismus: historické perspektivy.</title>
+        <journal>Historické Studie Kultury</journal>
+        <volume>26(2),</volume>
+        <pages>123-141.</pages>
+    </sequence>
+    <sequence>
+        <author>Langmeier, J., &amp; Langmanova, B., &amp; Langmanova, M., &amp; Langmeier, O.</author>
+        <date>(2023).</date>
+        <title>X-ray technologie a pokročilá zobrazování v lékařství.</title>
+        <journal>Rentgenologické Věstníky</journal>
+        <volume>30(4),</volume>
+        <pages>312-330.</pages>
+        <doi>10.1234/rv.2023.30.4.312</doi>
+        <url>https://rentgenologickevestniky.cz/2023/30/4</url>
+    </sequence>
+    <sequence>
+        <author>Laňka, O.</author>
+        <date>2020.</date>
+        <title>Yachtingu a námořními sporty: rekreace na vodě.</title>
+        <journal>Vodní Rekreace</journal>
+        <volume>14(1),</volume>
+        <pages>34-52.</pages>
+    </sequence>
+    <sequence>
+        <author>Laštůvka, Z., &amp; Lastuška, A., &amp; Lastusková, E., &amp; Laštůvka, J.</author>
+        <date>2022.</date>
+        <title>Zoológia a zoologie: věda o zvířatech.</title>
+        <journal>Školy Zoologie</journal>
+        <volume>28(3),</volume>
+        <pages>201-219.</pages>
+        <doi>10.1234/sz.2022.28.3.201</doi>
+    </sequence>
+    <sequence>
+        <author>Laudon, M.</author>
+        <date>(2021).</date>
+        <title>Archeologie a starověké civilizace: vykopávky a objavy.</title>
+        <journal>Archeologické Vědy</journal>
+        <volume>35(2),</volume>
+        <pages>98-116.</pages>
+    </sequence>
+    <sequence>
+        <author>Lauer, A., &amp; Lauerova, M., &amp; Lauerova, T., &amp; Lauer, J.</author>
+        <date>2023.</date>
+        <title>Botanika a rostlinné vědy: diverzita flóry.</title>
+        <journal>Botanické Studie</journal>
+        <volume>21(1),</volume>
+        <pages>45-63.</pages>
+        <doi>10.1234/bs.2023.21.1.45</doi>
+    </sequence>
+    <sequence>
+        <author>Lebedinskij, V.</author>
+        <date>2020.</date>
+        <title>Chirurgie a operační procedury: moderní techniky.</title>
+        <journal>Chirurgické Věstníky</journal>
+        <volume>32(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Lehotský, J., &amp; Lehotska, L., &amp; Lehotska, M., &amp; Lehotský, V.</author>
+        <date>(2022).</date>
+        <title>Dermatologie a nemoci kůže: klinické případy.</title>
+        <journal>Dermatologické Horizont</journal>
+        <volume>24(2),</volume>
+        <pages>134-152.</pages>
+        <doi>10.1234/dh.2022.24.2.134</doi>
+        <url>https://dermathologickehorizont.cz/2022/24/2</url>
+    </sequence>
+    <sequence>
+        <author>Leiva, R.</author>
+        <date>2021.</date>
+        <title>Etiologie a příčiny onemocnění: výzkum faktorů.</title>
+        <journal>Etiologické Studie</journal>
+        <volume>28(3),</volume>
+        <pages>201-219.</pages>
+    </sequence>
+    <sequence>
+        <author>Lenos, J., &amp; Lenova, Z., &amp; Lenova, M., &amp; Lenos, P.</author>
+        <date>2023.</date>
+        <title>Fiziologie a funkce organismu: biologické procesy.</title>
+        <journal>Fyziologické Vědy</journal>
+        <volume>29(1),</volume>
+        <pages>56-74.</pages>
+        <doi>10.1234/fv.2023.29.1.56</doi>
+    </sequence>
+    <sequence>
+        <author>Lenhart, K.</author>
+        <date>(2020).</date>
+        <title>Gastroenterologie a nemoci trávicího systému.</title>
+        <journal>Gastroenterologické Věstníky</journal>
+        <volume>31(2),</volume>
+        <pages>123-141.</pages>
+    </sequence>
+    <sequence>
+        <author>Lenkevič, E., &amp; Lenkevič, V., &amp; Lenkevič, M., &amp; Lenkevič, J.</author>
+        <date>2022.</date>
+        <title>Hematologie a nemoci krve: diagnostika a léčba.</title>
+        <journal>Hematologické Studie</journal>
+        <volume>25(4),</volume>
+        <pages>289-307.</pages>
+        <doi>10.1234/hs.2022.25.4.289</doi>
+    </sequence>
+    <sequence>
+        <author>Leonard, A.</author>
+        <date>2021.</date>
+        <title>Idiomatika a frazeologie: jazykové výrazy.</title>
+        <journal>Frazeologické Vědy</journal>
+        <volume>22(1),</volume>
+        <pages>34-52.</pages>
+    </sequence>
+    <sequence>
+        <author>Lesiak, S., &amp; Lesiakova, T., &amp; Lesiakova, E., &amp; Lesiak, O.</author>
+        <date>(2023).</date>
+        <title>Jejtronologie a výuka medicíny: vzdělávaní lékařů.</title>
+        <journal>Medicínské Vzdělávání</journal>
+        <volume>20(3),</volume>
+        <pages>167-185.</pages>
+        <doi>10.1234/mv.2023.20.3.167</doi>
+        <url>https://medzicznevzdelavani.cz/2023/20/3</url>
+    </sequence>
+    <sequence>
+        <author>Leško, P.</author>
+        <date>2020.</date>
+        <title>Koagulace a koagulácia: procesy srážení.</title>
+        <journal>Koagulačních Vědy</journal>
+        <volume>17(2),</volume>
+        <pages>98-116.</pages>
+    </sequence>
+    <sequence>
+        <author>Leung, F., &amp; Leung, L., &amp; Leung, M., &amp; Leung, T.</author>
+        <date>2022.</date>
+        <title>Logistika a řetězec dodávek: efektivnost.</title>
+        <journal>Logistické Studie</journal>
+        <volume>38(1),</volume>
+        <pages>23-41.</pages>
+        <doi>10.1234/ls.2022.38.1.23</doi>
+    </sequence>
+    <sequence>
+        <author>Li, W.</author>
+        <date>(2021).</date>
+        <title>Makroskopická anatomie: struktura těla.</title>
+        <journal>Anatomické Věstníky</journal>
+        <volume>27(4),</volume>
+        <pages>312-330.</pages>
+    </sequence>
+    <sequence>
+        <author>Libra, M., &amp; Librova, Z., &amp; Librova, T., &amp; Libra, J.</author>
+        <date>2023.</date>
+        <title>Neurologie a poruchy nervového systému: léčba.</title>
+        <journal>Neurologické Vědy</journal>
+        <volume>32(2),</volume>
+        <pages>134-152.</pages>
+        <doi>10.1234/nv.2023.32.2.134</doi>
+    </sequence>
+    <sequence>
+        <author>Linhhart, J.</author>
+        <date>2020.</date>
+        <title>Oftalmologie a oční nemoci: péče o zrak.</title>
+        <journal>Oftalmologické Studie</journal>
+        <volume>29(3),</volume>
+        <pages>201-219.</pages>
+    </sequence>
+    <sequence>
+        <author>Linkeová, H., &amp; Linkeova, K., &amp; Linkeova, L., &amp; Linke, M.</author>
+        <date>(2022).</date>
+        <title>Psychiatrie a duševní zdraví: péče a léčba.</title>
+        <journal>Psychiatrické Věstníky</journal>
+        <volume>34(1),</volume>
+        <pages>45-63.</pages>
+        <doi>10.1234/psy.2022.34.1.45</doi>
+        <url>https://psychiatrickevesys.cz/2022/34/1</url>
+    </sequence>
+    <sequence>
+        <author>Linke, K.</author>
+        <date>2021.</date>
+        <title>Renální úrologie a nemoci ledvin: diagnóza.</title>
+        <journal>Urologické Vědy</journal>
+        <volume>26(2),</volume>
+        <pages>98-116.</pages>
+    </sequence>
+    <sequence>
+        <author>Linkeš, J., &amp; Linkes, M., &amp; Linkes, E., &amp; Linkeš, L.</author>
+        <date>2023.</date>
+        <title>Seismologie a zemětřesení: studia drsností.</title>
+        <journal>Seismologické Studie</journal>
+        <volume>21(4),</volume>
+        <pages>289-307.</pages>
+        <doi>10.1234/seis.2023.21.4.289</doi>
+    </sequence>
+    <sequence>
+        <author>Lipáč, V.</author>
+        <date>(2020).</date>
+        <title>Terapeutika a farmakologie: léky a léčba.</title>
+        <journal>Farmakologické Věds</journal>
+        <volume>25(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Lipciuc, D., &amp; Lipciuc, I., &amp; Lipciuc, V., &amp; Lipciuc, M.</author>
+        <date>2022.</date>
+        <title>Urogenitální systém: nemoci a diagnostika.</title>
+        <journal>Urogenitální Medicína</journal>
+        <volume>28(3),</volume>
+        <pages>167-185.</pages>
+        <doi>10.1234/um.2022.28.3.167</doi>
+    </sequence>
+    <sequence>
+        <author>Lipold, B.</author>
+        <date>2021.</date>
+        <title>Vakcinace a imunizace: ochrana zdraví.</title>
+        <journal>Imunizační Vědy</journal>
+        <volume>24(2),</volume>
+        <pages>98-116.</pages>
+    </sequence>
+    <sequence>
+        <author>Liscák, R., &amp; Liscakova, M., &amp; Liscakova, T., &amp; Liscák, K.</author>
+        <date>(2023).</date>
+        <title>Rentgenová stereotaxie a radiochirurgie: pokročilá léčba.</title>
+        <journal>Radiochirurgické Vědy</journal>
+        <volume>19(1),</volume>
+        <pages>34-52.</pages>
+        <doi>10.1234/rch.2023.19.1.34</doi>
+        <url>https://radiochirurgickevedy.cz/2023/19/1</url>
+    </sequence>
+    <sequence>
+        <author>Liška, P.</author>
+        <date>2020.</date>
+        <title>Xyem a zdravotnický systém: péče pacientů.</title>
+        <journal>Zdravotnické Systémy</journal>
+        <volume>31(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Литовка, M., &amp; Litvak, L., &amp; Litvak, T., &amp; Litvak, J.</author>
+        <date>2022.</date>
+        <title>Yzyk a literatura: umělecko-lingvistická studia.</title>
+        <journal>Literaturní Vědy</journal>
+        <volume>33(2),</volume>
+        <pages>123-141.</pages>
+        <doi>10.1234/lv.2022.33.2.123</doi>
+    </sequence>
+    <sequence>
+        <author>Ludvík, O.</author>
+        <date>(2021).</date>
+        <title>Zážitky a emocionalita: psychologická studia.</title>
+        <journal>Emoční Psychologie</journal>
+        <volume>26(3),</volume>
+        <pages>201-219.</pages>
+    </sequence>
+    <sequence>
+        <author>Lukáč, S., &amp; Lukac, M., &amp; Lukac, Z., &amp; Lukáč, P.</author>
+        <date>2023.</date>
+        <title>Adaptologia a evoluční adaptace: přírodní výběr.</title>
+        <journal>Evolučné Studie</journal>
+        <volume>22(1),</volume>
+        <pages>45-63.</pages>
+        <doi>10.1234/es.2023.22.1.45</doi>
+    </sequence>
+    <sequence>
+        <author>Lukášová, K.</author>
+        <date>2020.</date>
+        <title>Bysiologie nervu a mozku: neurální aktivita.</title>
+        <journal>Neurofyziologie</journal>
+        <volume>30(2),</volume>
+        <pages>98-116.</pages>
+    </sequence>
+    <sequence>
+        <author>Lukeš, J., &amp; Lukes, L., &amp; Lukes, E., &amp; Lukeš, R.</author>
+        <date>(2022).</date>
+        <title>Chemoterapie a léčba: moderní přístupy.</title>
+        <journal>Onkologické Vědy</journal>
+        <volume>29(4),</volume>
+        <pages>312-330.</pages>
+        <doi>10.1234/onk.2022.29.4.312</doi>
+        <url>https://onkologickevedy.cz/2022/29/4</url>
+    </sequence>
+    <sequence>
+        <author>Lukjanenko, I.</author>
+        <date>2021.</date>
+        <title>Delenie buněk a митоза: základní biologie.</title>
+        <journal>Buněčné Vědy</journal>
+        <volume>27(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Lukšáč, L., &amp; Luksac, M., &amp; Luksac, E., &amp; Lukšáč, T.</author>
+        <date>2023.</date>
+        <title>Entomologie a hmyzí vědy: biologie hmyzu.</title>
+        <journal>Entomologické Studie</journal>
+        <volume>32(3),</volume>
+        <pages>167-185.</pages>
+        <doi>10.1234/ent.2023.32.3.167</doi>
+    </sequence>
+    <sequence>
+        <author>Lukyanenko, V.</author>
+        <date>(2020).</date>
+        <title>Fylogenezie a evolučný strom: genealogie.</title>
+        <journal>Evoluční Věstníky</journal>
+        <volume>28(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Majer, P., &amp; Majerova, M., &amp; Majerova, T., &amp; Majer, K.</author>
+        <date>2022.</date>
+        <title>Glykemie a diabetes: kontrola cukru v krvi.</title>
+        <journal>Endokrinologické Vědy</journal>
+        <volume>24(1),</volume>
+        <pages>34-52.</pages>
+        <doi>10.1234/end.2022.24.1.34</doi>
+    </sequence>
+    <sequence>
+        <author>Macek, K.</author>
+        <date>2021.</date>
+        <title>Chromatografie a separační techniky: analytika.</title>
+        <journal>Analytická Chemie</journal>
+        <volume>31(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Magdal, J., &amp; Magdal, V., &amp; Magdal, M., &amp; Magdal, E.</author>
+        <date>(2023).</date>
+        <title>Diagnostika obrazem: CT a MRI.</title>
+        <journal>Radiologické Vědy</journal>
+        <volume>30(2),</volume>
+        <pages>123-141.</pages>
+        <doi>10.1234/rad.2023.30.2.123</doi>
+        <url>https://radiologickevedy.cz/2023/30/2</url>
+    </sequence>
+    <sequence>
+        <author>Magula, J.</author>
+        <date>2020.</date>
+        <title>Enterobakterie a infekční nemoci: mikrobiologie.</title>
+        <journal>Mikrobiologické Věsy</journal>
+        <volume>26(3),</volume>
+        <pages>156-174.</pages>
+    </sequence>
+    <sequence>
+        <author>Mahel'ová, M., &amp; Mahel'ova, K., &amp; Mahel'ova, T., &amp; Mahel'ová, L.</author>
+        <date>2022.</date>
+        <title>Farmakoterapie a indikace léčiv: příklady.</title>
+        <journal>Klinická Farmakologie</journal>
+        <volume>25(1),</volume>
+        <pages>45-63.</pages>
+        <doi>10.1234/kf.2022.25.1.45</doi>
+    </sequence>
+    <sequence>
+        <author>Mahú, O.</author>
+        <date>(2021).</date>
+        <title>Geomorfologie a krajina: tvar krajiny.</title>
+        <journal>Geomorfologické Vědy</journal>
+        <volume>29(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Maida, J., &amp; Maida, V., &amp; Maida, J., &amp; Maida, K.</author>
+        <date>2023.</date>
+        <title>Histologie a histopatologie: studium tkání.</title>
+        <journal>Histologické Vědy</journal>
+        <volume>32(2),</volume>
+        <pages>98-116.</pages>
+        <doi>10.1234/hist.2023.32.2.98</doi>
+    </sequence>
+    <sequence>
+        <author>Mails, K.</author>
+        <date>2020.</date>
+        <title>Embryonální vývoj a teratologie: anomálie.</title>
+        <journal>Vývojové Poruchy</journal>
+        <volume>21(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Maisl, J., &amp; Maisl, L., &amp; Maisl, M., &amp; Maisl, T.</author>
+        <date>(2022).</date>
+        <title>Farmakokinetika a absorpce léčiv.</title>
+        <journal>Farmakokinetické Studie</journal>
+        <volume>28(3),</volume>
+        <pages>167-185.</pages>
+        <doi>10.1234/farma.2022.28.3.167</doi>
+        <url>https://farmakokinetickestudie.cz/2022/28/3</url>
+    </sequence>
+    <sequence>
+        <author>Mak, P.</author>
+        <date>2021.</date>
+        <title>Иммунoсупрессия a transplantace: péče o pacient.</title>
+        <journal>Transplantační Medicína</journal>
+        <volume>26(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Makara, J., &amp; Makara, V., &amp; Makara, M., &amp; Makara, E.</author>
+        <date>2023.</date>
+        <title>Klasifikace a nosologie: taxonomie nemocí.</title>
+        <journal>Medicínská Taxonomie</journal>
+        <volume>19(4),</volume>
+        <pages>289-307.</pages>
+        <doi>10.1234/mt.2023.19.4.289</doi>
+    </sequence>
+    <sequence>
+        <author>Makal, Z.</author>
+        <date>(2020).</date>
+        <title>Laboratorní diagnostika a testy: metody.</title>
+        <journal>Laboratorní Medicína</journal>
+        <volume>33(1),</volume>
+        <pages>34-52.</pages>
+    </sequence>
+    <sequence>
+        <author>Makár, J., &amp; Makar, L., &amp; Makar, E., &amp; Makár, T.</author>
+        <date>2022.</date>
+        <title>Metastáze a šíření nádorů: onkologie.</title>
+        <journal>Onkologické Studie</journal>
+        <volume>30(2),</volume>
+        <pages>123-141.</pages>
+        <doi>10.1234/onk.2022.30.2.123</doi>
+    </sequence>
+    <sequence>
+        <author>Makarov, N.</author>
+        <date>2021.</date>
+        <title>Neomyciny a aminoglykoidy: antibiota.</title>
+        <journal>Antibiotiká a Léčba</journal>
+        <volume>25(3),</volume>
+        <pages>156-174.</pages>
+    </sequence>
+    <sequence>
+        <author>Makár-Pohorský, J., &amp; Makar-Pohorsky, L., &amp; Makar-Pohorsky, E., &amp; Makár-Pohorský, T.</author>
+        <date>(2023).</date>
+        <title>Oftalmická patologie a oční choroby.</title>
+        <journal>Oftalmologické Vědy</journal>
+        <volume>27(1),</volume>
+        <pages>34-52.</pages>
+        <doi>10.1234/oft.2023.27.1.34</doi>
+        <url>https://oftalmologickevedy.cz/2023/27/1</url>
+    </sequence>
+    <sequence>
+        <author>Makurova, V.</author>
+        <date>2020.</date>
+        <title>Patologické fraktury: zlomeniny a jejich léčba.</title>
+        <journal>Ortopedické Věstníky</journal>
+        <volume>28(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Maláč, J., &amp; Malac, K., &amp; Malac, L., &amp; Maláč, M.</author>
+        <date>2022.</date>
+        <title>Renální patologie a pyelonefritida: infekce ledvin.</title>
+        <journal>Nefrologické Vědy</journal>
+        <volume>31(2),</volume>
+        <pages>98-116.</pages>
+        <doi>10.1234/nef.2022.31.2.98</doi>
+    </sequence>
+    <sequence>
+        <author>Malá, E.</author>
+        <date>(2021).</date>
+        <title>Sekrece a hormonální systém: endokrinologie.</title>
+        <journal>Endokrinologické Věds</journal>
+        <volume>26(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Malach, J., &amp; Malach, V., &amp; Malach, M., &amp; Malach, E.</author>
+        <date>2023.</date>
+        <title>Tumorální markery a diagnostika: onkologie.</title>
+        <journal>Tumorální Biologia</journal>
+        <volume>20(3),</volume>
+        <pages>167-185.</pages>
+        <doi>10.1234/tb.2023.20.3.167</doi>
+    </sequence>
+    <sequence>
+        <author>Málaga, J.</author>
+        <date>2020.</date>
+        <title>Urogenitální tuberkulóza a infekční choroby.</title>
+        <journal>Urologie a Tuberkulóza</journal>
+        <volume>24(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Maláč, M., &amp; Malac, P., &amp; Malac, K., &amp; Maláč, V.</author>
+        <date>(2022).</date>
+        <title>Varikóza a žilní choroba: vaskulární patologie.</title>
+        <journal>Vaskulární Medicína</journal>
+        <volume>32(1),</volume>
+        <pages>34-52.</pages>
+        <doi>10.1234/vm.2022.32.1.34</doi>
+        <url>https://vaskularnimedicina.cz/2022/32/1</url>
+    </sequence>
+    <sequence>
+        <author>Malacký, K.</author>
+        <date>2021.</date>
+        <title>Xantoprotein a hemoglobinopatia: krvinologické poruchy.</title>
+        <journal>Hematologické Vědy</journal>
+        <volume>29(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Malachová, B., &amp; Malachova, L., &amp; Malachova, E., &amp; Malachová, V.</author>
+        <date>2023.</date>
+        <title>Acidóza a alkalóza: rovnováha elektrolytů.</title>
+        <journal>Elektrolytové Poruchy</journal>
+        <volume>21(4),</volume>
+        <pages>289-307.</pages>
+        <doi>10.1234/ep.2023.21.4.289</doi>
+    </sequence>
+    <sequence>
+        <author>Malacký, V.</author>
+        <date>(2020).</date>
+        <title>BiliHarbor a žluté zbarveni: hepatologické choroby.</title>
+        <journal>Hepatologické Vědy</journal>
+        <volume>30(3),</volume>
+        <pages>123-141.</pages>
+    </sequence>
+    <sequence>
+        <author>Malas, J., &amp; Malas, L., &amp; Malas, M., &amp; Malas, T.</author>
+        <date>2022.</date>
+        <title>Celulitis a infekce kůže: dermatika.</title>
+        <journal>Kožní Infekce</journal>
+        <volume>27(1),</volume>
+        <pages>45-63.</pages>
+        <doi>10.1234/ki.2022.27.1.45</doi>
+    </sequence>
+    <sequence>
+        <author>Malaš, O.</author>
+        <date>2021.</date>
+        <title>Disrhytmia srdce a arytmie: kardiologie.</title>
+        <journal>Kardiologické Věststníky</journal>
+        <volume>25(2),</volume>
+        <pages>98-116.</pages>
+    </sequence>
+    <sequence>
+        <author>Maláta, J., &amp; Malata, K., &amp; Malata, L., &amp; Maláta, M.</author>
+        <date>(2023).</date>
+        <title>Eozinofilní poruchy: leukocitární choroby.</title>
+        <journal>Eozinofilní Vědy</journal>
+        <volume>26(4),</volume>
+        <pages>289-307.</pages>
+        <doi>10.1234/eoz.2023.26.4.289</doi>
+        <url>https://eozinofsilnivedy.cz/2023/26/4</url>
+    </sequence>
+    <sequence>
+        <author>Málka, P.</author>
+        <date>2020.</date>
+        <title>Fibrinólyza a koagulace: srážení krvi.</title>
+        <journal>Hematologie a Trombóza</journal>
+        <volume>32(1),</volume>
+        <pages>34-52.</pages>
+    </sequence>
+    <sequence>
+        <author>Malík, J., &amp; Malik, L., &amp; Malik, M., &amp; Malík, T.</author>
+        <date>(2022).</date>
+        <title>Fungální infekce a antimykotika: léčba.</title>
+        <journal>Mikologické Vědy</journal>
+        <volume>28(2),</volume>
+        <pages>98-116.</pages>
+        <doi>10.1234/myk.2022.28.2.98</doi>
+        <url>https://mikologickevedy.cz/2022/28/2</url>
+    </sequence>
+    <sequence>
+        <author>Mališ, K.</author>
+        <date>2021.</date>
+        <title>Glomerulonefritida a imunonemocnosti: ledviny.</title>
+        <journal>Nefrologické Studie</journal>
+        <volume>25(3),</volume>
+        <pages>167-185.</pages>
+    </sequence>
+    <sequence>
+        <author>Maliszewski, A., &amp; Maliszewski, V., &amp; Maliszewski, E., &amp; Maliszewski, M.</author>
+        <date>2023.</date>
+        <title>Hepatitida a jaterní choroby: diagnostika a léčba.</title>
+        <journal>Hepatologie a Gastroenterologie</journal>
+        <volume>30(4),</volume>
+        <pages>289-307.</pages>
+        <doi>10.1234/hg.2023.30.4.289</doi>
+    </sequence>
+    <sequence>
+        <author>Malitius, R.</author>
+        <date>(2020).</date>
+        <title>Imunofenotypizace a leukemie: hematoonkologie.</title>
+        <journal>Leukemické Vědy</journal>
+        <volume>26(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Malkus, J., &amp; Malkus, L., &amp; Malkus, M., &amp; Malkus, K.</author>
+        <date>2022.</date>
+        <title>Jaterní fibróza a ciróza: progrese onemocnění.</title>
+        <journal>Hepatologické Vědy</journal>
+        <volume>31(2),</volume>
+        <pages>123-141.</pages>
+        <doi>10.1234/hep.2022.31.2.123</doi>
+    </sequence>
+    <sequence>
+        <author>Mallak, S.</author>
+        <date>2021.</date>
+        <title>Karcinogeneze a nádorový růst: onkologické principy.</title>
+        <journal>Onkologické Vědy</journal>
+        <volume>29(3),</volume>
+        <pages>201-219.</pages>
+    </sequence>
+    <sequence>
+        <author>Mallonn, P., &amp; Mallonn, V., &amp; Mallonn, M., &amp; Mallonn, T.</author>
+        <date>(2023).</date>
+        <title>Koagulapatie a krvácení: hemostáza.</title>
+        <journal>Hemostázové Studie</journal>
+        <volume>20(1),</volume>
+        <pages>34-52.</pages>
+        <doi>10.1234/hemo.2023.20.1.34</doi>
+        <url>https://hemostazovestudie.cz/2023/20/1</url>
+    </sequence>
+    <sequence>
+        <author>Mallory, B.</author>
+        <date>2020.</date>
+        <title>Lymfadenopatie a lymfom: hematoonkologie.</title>
+        <journal>Lymfatické Vědy</journal>
+        <volume>27(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Maloney, C., &amp; Maloney, L., &amp; Maloney, M., &amp; Maloney, E.</author>
+        <date>2022.</date>
+        <title>Myeloma a kosterní bolest: kostní onemocnění.</title>
+        <journal>Myelómos Vědy</journal>
+        <volume>32(2),</volume>
+        <pages>156-174.</pages>
+        <doi>10.1234/mye.2022.32.2.156</doi>
+    </sequence>
+    <sequence>
+        <author>Malota, J.</author>
+        <date>(2021).</date>
+        <title>Nefritida a ledvinné selhání: akutní porucha.</title>
+        <journal>Akutní Nefrologické Vědy</journal>
+        <volume>28(1),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Malotěj, K., &amp; Malotej, L., &amp; Malotej, M., &amp; Malotěj, T.</author>
+        <date>2023.</date>
+        <title>Obstrukční choroby plic: CHOPN a astma.</title>
+        <journal>Pneumologické Vědy</journal>
+        <volume>21(3),</volume>
+        <pages>167-185.</pages>
+        <doi>10.1234/pne.2023.21.3.167</doi>
+    </sequence>
+    <sequence>
+        <author>Malowiejska, O.</author>
+        <date>2020.</date>
+        <title>Pankreatitis a chronické pankreatické nemoci.</title>
+        <journal>Pankreatologické Vědy</journal>
+        <volume>25(2),</volume>
+        <pages>89-107.</pages>
+    </sequence>
+    <sequence>
+        <author>Malta, J., &amp; Malta, V., &amp; Malta, M., &amp; Malta, E.</author>
+        <date>(2022).</date>
+        <title>Pneumónii a respirační infekce: bronchitida.</title>
+        <journal>Respirační Medicína</journal>
+        <volume>29(4),</volume>
+        <pages>289-307.</pages>
+        <doi>10.1234/resp.2022.29.4.289</doi>
+        <url>https://respiracnimedicina.cz/2022/29/4</url>
+    </sequence>
+    <sequence>
+        <author>Maltaš, P.</author>
+        <date>2021.</date>
+        <title>Renální transplantace a imunospresivní terapie.</title>
+        <journal>Transplantace a Imunosuprese</journal>
+        <volume>26(1),</volume>
+        <pages>45-63.</pages>
+    </sequence>
+    <sequence>
+        <author>Maltese, J., &amp; Maltese, L., &amp; Maltese, M., &amp; Maltese, K.</author>
+        <date>2023.</date>
+        <title>Sepse a septický šok: kritické stavy.</title>
+        <journal>Intenzivní Medicína</journal>
+        <volume>30(2),</volume>
+        <pages>123-141.</pages>
+        <doi>10.1234/im.2023.30.2.123</doi>
+    </sequence>
+    <sequence>
+        <author>Maltich, R.</author>
+        <date>(2020).</date>
+        <title>Trombóza a emболия: vaskulární onemocnění.</title>
+        <journal>Tromboembolické Vědy</journal>
+        <volume>31(3),</volume>
+        <pages>201-219.</pages>
+    </sequence>
+    <sequence>
+        <author>Mambourg, G., &amp; Mambourg, T., &amp; Mambourg, E., &amp; Mambourg, L.</author>
+        <date>2022.</date>
+        <title>Ulkus a dyspepsie: gastrointestinální problémy.</title>
+        <journal>Gastroenterologické Vědy</journal>
+        <volume>28(1),</volume>
+        <pages>34-52.</pages>
+        <doi>10.1234/gast.2022.28.1.34</doi>
+    </sequence>
+    <sequence>
+        <author>Mambrinia, V.</author>
+        <date>2021.</date>
+        <title>Vaskulitis a revmatické nemoci: systémové poruchy.</title>
+        <journal>Revmatologické Věds</journal>
+        <volume>27(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamčák, J., &amp; Mamcak, K., &amp; Mamcak, L., &amp; Mamčák, M.</author>
+        <date>(2023).</date>
+        <title>Anémie a poruchy kostní dřeně: hematologie.</title>
+        <journal>Anemické Vědy</journal>
+        <volume>22(2),</volume>
+        <pages>98-116.</pages>
+        <doi>10.1234/anem.2023.22.2.98</doi>
+        <url>https://anemickevedy.cz/2023/22/2</url>
+    </sequence>
+    <sequence>
+        <author>Mamdani, K.</author>
+        <date>2020.</date>
+        <title>Angína a bolest v krku: zánětlivé choroby.</title>
+        <journal>Otorinolaryngologické Věsy</journal>
+        <volume>29(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamechka, A., &amp; Mamechka, V., &amp; Mamechka, M., &amp; Mamechka, T.</author>
+        <date>2022.</date>
+        <title>Arytmie srdce a koronární onemocnění.</title>
+        <journal>Kardiologické Vědy</journal>
+        <volume>31(3),</volume>
+        <pages>167-185.</pages>
+        <doi>10.1234/kard.2022.31.3.167</doi>
+    </sequence>
+    <sequence>
+        <author>Mamede, P.</author>
+        <date>2021.</date>
+        <title>Astmatický status a průdušková obstrukce.</title>
+        <journal>Pneumologické Studie</journal>
+        <volume>26(2),</volume>
+        <pages>89-107.</pages>
+    </sequence>
+    <sequence>
+        <author>Mameeva, D., &amp; Mameeva, L., &amp; Mameeva, M., &amp; Mameeva, K.</author>
+        <date>(2023).</date>
+        <title>Atelektáza a shrnutí plic: pooperační stavy.</title>
+        <journal>Chirurgické Věds</journal>
+        <volume>25(4),</volume>
+        <pages>289-307.</pages>
+        <doi>10.1234/chir.2023.25.4.289</doi>
+    </sequence>
+    <sequence>
+        <author>Mameli, J.</author>
+        <date>2020.</date>
+        <title>Bronchiektáza a chronické plicní choroby.</title>
+        <journal>Bronchiální Medicína</journal>
+        <volume>28(1),</volume>
+        <pages>34-52.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamen, E., &amp; Mamen, L., &amp; Mamen, M., &amp; Mamen, V.</author>
+        <date>2022.</date>
+        <title>Bronchospazmus a bronchiální hyperreaktivita.</title>
+        <journal>Bronchiální Vědy</journal>
+        <volume>30(2),</volume>
+        <pages>123-141.</pages>
+        <doi>10.1234/bronch.2022.30.2.123</doi>
+    </sequence>
+    <sequence>
+        <author>Mamencová, K.</author>
+        <date>(2021).</date>
+        <title>Bronchoskopie a endoskopické procedury.</title>
+        <journal>Endoskopické Vědy</journal>
+        <volume>29(3),</volume>
+        <pages>156-174.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamere, P., &amp; Mamere, V., &amp; Mamere, M., &amp; Mamere, T.</author>
+        <date>2023.</date>
+        <title>Cystemní fibróza a intracelulární defekty.</title>
+        <journal>Genetické Choroby</journal>
+        <volume>21(1),</volume>
+        <pages>45-63.</pages>
+        <doi>10.1234/gench.2023.21.1.45</doi>
+        <url>https://genetickechroby.cz/2023/21/1</url>
+    </sequence>
+    <sequence>
+        <author>Mamet, R.</author>
+        <date>2020.</date>
+        <title>Dechová selhání a respirační insuficience.</title>
+        <journal>Respirační Selhání</journal>
+        <volume>27(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Mameton, A., &amp; Mameton, L., &amp; Mameton, M., &amp; Mameton, E.</author>
+        <date>(2022).</date>
+        <title>Edém plic a srdeční astma: akutní stavy.</title>
+        <journal>Akutní Choroby</journal>
+        <volume>32(2),</volume>
+        <pages>78-96.</pages>
+        <doi>10.1234/akut.2022.32.2.78</doi>
+    </sequence>
+    <sequence>
+        <author>Mamey, J.</author>
+        <date>2021.</date>
+        <title>Emfyzém plic a oxidační stress.</title>
+        <journal>Plicní Patologie</journal>
+        <volume>26(3),</volume>
+        <pages>156-174.</pages>
+    </sequence>
+    <sequence>
+        <author>Mameza, K., &amp; Mameza, L., &amp; Mameza, M., &amp; Mameza, T.</author>
+        <date>2023.</date>
+        <title>Fibróza plic a odváděcí choroby.</title>
+        <journal>Fibrotické Vědy</journal>
+        <volume>20(1),</volume>
+        <pages>34-52.</pages>
+        <doi>10.1234/fibr.2023.20.1.34</doi>
+    </sequence>
+    <sequence>
+        <author>Mamezelle, V.</author>
+        <date>(2020).</date>
+        <title>Granulatózní onemocnění a nákazy.</title>
+        <journal>Granulomatózní Choroby</journal>
+        <volume>31(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamia, J., &amp; Mamia, L., &amp; Mamia, M., &amp; Mamia, K.</author>
+        <date>2022.</date>
+        <title>Hemopitóe a hemostatické procedury.</title>
+        <journal>Hematologická Nouzová Medicína</journal>
+        <volume>28(2),</volume>
+        <pages>98-116.</pages>
+        <doi>10.1234/hemon.2022.28.2.98</doi>
+    </sequence>
+    <sequence>
+        <author>Mamiani, O.</author>
+        <date>2021.</date>
+        <title>Hypertenze plicní a srdeční onemocnění.</title>
+        <journal>Pulmonální Hypertenze</journal>
+        <volume>25(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamić, P., &amp; Mamic, L., &amp; Mamic, M., &amp; Mamić, T.</author>
+        <date>(2023).</date>
+        <title>Intersticiální plicní choroby: fibróza a zánět.</title>
+        <journal>Intersticiální Vědy</journal>
+        <volume>19(3),</volume>
+        <pages>167-185.</pages>
+        <doi>10.1234/inter.2023.19.3.167</doi>
+        <url>https://intersticialnivedy.cz/2023/19/3</url>
+    </sequence>
+    <sequence>
+        <author>Mamidi, R.</author>
+        <date>2020.</date>
+        <title>Jaderné léčby a radioterapie plic.</title>
+        <journal>Onkologická Radioterapie</journal>
+        <volume>27(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamiela, S., &amp; Mamiela, V., &amp; Mamiela, M., &amp; Mamiela, E.</author>
+        <date>2022.</date>
+        <title>Laryngitida a laryngeální choroby.</title>
+        <journal>Laryngologické Vědy</journal>
+        <volume>31(1),</volume>
+        <pages>45-63.</pages>
+        <doi>10.1234/lar.2022.31.1.45</doi>
+    </sequence>
+    <sequence>
+        <author>Mamitaka, J.</author>
+        <date>(2021).</date>
+        <title>Mediastinitis a mediastinální choroby.</title>
+        <journal>Mediastinální Medicína</journal>
+        <volume>29(2),</volume>
+        <pages>123-141.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamlout, K., &amp; Mamlout, L., &amp; Mamlout, M., &amp; Mamlout, T.</author>
+        <date>2023.</date>
+        <title>Neuritis a nervové poranění.</title>
+        <journal>Neurologické Choroby</journal>
+        <volume>22(3),</volume>
+        <pages>201-219.</pages>
+        <doi>10.1234/neur.2023.22.3.201</doi>
+    </sequence>
+    <sequence>
+        <author>Mammu, A.</author>
+        <date>2020.</date>
+        <title>Osteomyelitida a kostní infekce.</title>
+        <journal>Ortopedické Infekce</journal>
+        <volume>26(1),</volume>
+        <pages>34-52.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamode, V., &amp; Mamode, L., &amp; Mamode, M., &amp; Mamode, K.</author>
+        <date>(2022).</date>
+        <title>Periostitis a ligamentivní onemocnění.</title>
+        <journal>Periostální Vědy</journal>
+        <volume>28(4),</volume>
+        <pages>289-307.</pages>
+        <doi>10.1234/peri.2022.28.4.289</doi>
+        <url>https://periostalnivedy.cz/2022/28/4</url>
+    </sequence>
+    <sequence>
+        <author>Mamoh, P.</author>
+        <date>2021.</date>
+        <title>Pneumothorax a pleureální efúze.</title>
+        <journal>Pleureální Medicína</journal>
+        <volume>27(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamohov, E., &amp; Mamohov, L., &amp; Mamohov, M., &amp; Mamohov, V.</author>
+        <date>2023.</date>
+        <title>Pulmonární hypertenze a vláknité choroby.</title>
+        <journal>Plicní Hypertenze</journal>
+        <volume>21(1),</volume>
+        <pages>45-63.</pages>
+        <doi>10.1234/plh.2023.21.1.45</doi>
+    </sequence>
+    <sequence>
+        <author>Mamolia, J.</author>
+        <date>(2020).</date>
+        <title>Pyothorax a hnisavé infekce.</title>
+        <journal>Infekční Medicína</journal>
+        <volume>30(3),</volume>
+        <pages>123-141.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamolin, K., &amp; Mamolin, L., &amp; Mamolin, M., &amp; Mamolin, T.</author>
+        <date>2022.</date>
+        <title>Sarkoidóza a granulomy: systémové choroby.</title>
+        <journal>Systémové Vědy</journal>
+        <volume>32(2),</volume>
+        <pages>167-185.</pages>
+        <doi>10.1234/sys.2022.32.2.167</doi>
+    </sequence>
+    <sequence>
+        <author>Mamoyan, V.</author>
+        <date>2021.</date>
+        <title>Sprue a malabsorpční syndrom: trávicí poruchy.</title>
+        <journal>Gastrointestinální Vědy</journal>
+        <volume>28(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamta, P., &amp; Mamta, L., &amp; Mamta, M., &amp; Mamta, E.</author>
+        <date>(2023).</date>
+        <title>Trachea a laryngeální stenosís.</title>
+        <journal>Trachea Medicína</journal>
+        <volume>19(1),</volume>
+        <pages>34-52.</pages>
+        <doi>10.1234/trach.2023.19.1.34</doi>
+        <url>https://trachamedicina.cz/2023/19/1</url>
+    </sequence>
+    <sequence>
+        <author>Mamtoza, R.</author>
+        <date>2020.</date>
+        <title>Tuberkulóza plic a TB infekce.</title>
+        <journal>Mykobakteriální Vědy</journal>
+        <volume>26(2),</volume>
+        <pages>98-116.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamtöz, J., &amp; Mamtoz, K., &amp; Mamtoz, L., &amp; Mamtöz, M.</author>
+        <date>2022.</date>
+        <title>Vaskulitida a vazkulární onemocnění.</title>
+        <journal>Vaskulární Patologie</journal>
+        <volume>29(3),</volume>
+        <pages>156-174.</pages>
+        <doi>10.1234/vasc.2022.29.3.156</doi>
+    </sequence>
+    <sequence>
+        <author>Mamun, A.</author>
+        <date>(2021).</date>
+        <title>Žilní trombóza a emólia: koagulace.</title>
+        <journal>Trombotické Vědy</journal>
+        <volume>27(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamurka, K., &amp; Mamurka, V., &amp; Mamurka, M., &amp; Mamurka, L.</author>
+        <date>2023.</date>
+        <title>Akutní koronární syndrom: infarkty.</title>
+        <journal>Kardiologické Nouzové Vědy</journal>
+        <volume>20(4),</volume>
+        <pages>289-307.</pages>
+        <doi>10.1234/akoron.2023.20.4.289</doi>
+    </sequence>
+    <sequence>
+        <author>Mamurova, T.</author>
+        <date>2020.</date>
+        <title>Aortální stenosís a regurgitace.</title>
+        <journal>Valvulární Medicína</journal>
+        <volume>31(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamut, P., &amp; Mamut, L., &amp; Mamut, M., &amp; Mamut, E.</author>
+        <date>(2022).</date>
+        <title>Fibrilace síní a arytmie srdce.</title>
+        <journal>Arytmologické Vědy</journal>
+        <volume>28(1),</volume>
+        <pages>34-52.</pages>
+        <doi>10.1234/ar.2022.28.1.34</doi>
+        <url>https://arytmologickevedy.cz/2022/28/1</url>
+    </sequence>
+    <sequence>
+        <author>Mamutov, K.</author>
+        <date>2021.</date>
+        <title>Fluttr síní a kardioverzní procedury.</title>
+        <journal>Elektrofyziologické Vědy</journal>
+        <volume>25(3),</volume>
+        <pages>167-185.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamuta, N., &amp; Mamuta, V., &amp; Mamuta, M., &amp; Mamuta, T.</author>
+        <date>2023.</date>
+        <title>Ischemická choroba srdeční a angina pectoris.</title>
+        <journal>Ischemická Kardiologie</journal>
+        <volume>22(2),</volume>
+        <pages>123-141.</pages>
+        <doi>10.1234/iskard.2023.22.2.123</doi>
+    </sequence>
+    <sequence>
+        <author>Mamutala, J.</author>
+        <date>(2020).</date>
+        <title>Kardiomyopatia a srdeční selhání.</title>
+        <journal>Srdeční Selhání</journal>
+        <volume>29(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamutally, E., &amp; Mamutally, L., &amp; Mamutally, M., &amp; Mamutally, K.</author>
+        <date>2022.</date>
+        <title>Karditis a myokarditis: srdeční zánět.</title>
+        <journal>Zánětlivé Srdeční Vědy</journal>
+        <volume>31(1),</volume>
+        <pages>45-63.</pages>
+        <doi>10.1234/zanet.2022.31.1.45</doi>
+    </sequence>
+    <sequence>
+        <author>Mamutaly, P.</author>
+        <date>2021.</date>
+        <title>Mitrální stenosís a regurgitace.</title>
+        <journal>Valvulární Choroby</journal>
+        <volume>26(2),</volume>
+        <pages>98-116.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamuyanin, Z., &amp; Mamuyanin, V., &amp; Mamuyanin, M., &amp; Mamuyanin, T.</author>
+        <date>(2023).</date>
+        <title>Myokardiální infarkt a revaskularizace.</title>
+        <journal>Infarkť Vědy</journal>
+        <volume>21(3),</volume>
+        <pages>156-174.</pages>
+        <doi>10.1234/infarkt.2023.21.3.156</doi>
+        <url>https://infarktvedy.cz/2023/21/3</url>
+    </sequence>
+    <sequence>
+        <author>Mamuyeva, K.</author>
+        <date>2020.</date>
+        <title>Perikarditida a tamponáda srdce.</title>
+        <journal>Perikardiální Medicína</journal>
+        <volume>30(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamuy, J., &amp; Mamuy, L., &amp; Mamuy, M., &amp; Mamuy, V.</author>
+        <date>2022.</date>
+        <title>Pneumatické srdeční onemocnění: cor pulmonale.</title>
+        <journal>Plicně-Srdeční Vědy</journal>
+        <volume>27(1),</volume>
+        <pages>23-41.</pages>
+        <doi>10.1234/plsrd.2022.27.1.23</doi>
+    </sequence>
+    <sequence>
+        <author>Mamvelashvili, A.</author>
+        <date>(2021).</date>
+        <title>Prokázná fibrilace a antikoagulační léčba.</title>
+        <journal>Antikoagulační Vědy</journal>
+        <volume>28(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamykalova, P., &amp; Mamykalova, L., &amp; Mamykalova, M., &amp; Mamykalova, T.</author>
+        <date>2023.</date>
+        <title>Reverzní srdeční remodelovanie: srdeční plastika.</title>
+        <journal>Srdeční Rekonstrukce</journal>
+        <volume>19(4),</volume>
+        <pages>289-307.</pages>
+        <doi>10.1234/srdrec.2023.19.4.289</doi>
+    </sequence>
+    <sequence>
+        <author>Mamykova, R.</author>
+        <date>2020.</date>
+        <title>Sick sinus syndrom a bradyarytmie.</title>
+        <journal>Bradyarytmologické Vědy</journal>
+        <volume>25(1),</volume>
+        <pages>34-52.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamyt, E., &amp; Mamyt, K., &amp; Mamyt, L., &amp; Mamyt, M.</author>
+        <date>(2022).</date>
+        <title>Srdeční tachyarytmie a ablace.</title>
+        <journal>Tachyarytmologické Vědy</journal>
+        <volume>26(2),</volume>
+        <pages>98-116.</pages>
+        <doi>10.1234/tach.2022.26.2.98</doi>
+        <url>https://tachyarytmologickevedy.cz/2022/26/2</url>
+    </sequence>
+    <sequence>
+        <author>Mamyty, V.</author>
+        <date>2021.</date>
+        <title>Srdeční transplantace a догоспitální péče.</title>
+        <journal>Srdeční Transplantace</journal>
+        <volume>27(3),</volume>
+        <pages>167-185.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamyt-Bala, Z., &amp; Mamyt-Bala, P., &amp; Mamyt-Bala, L., &amp; Mamyt-Bala, T.</author>
+        <date>2023.</date>
+        <title>Srdeční zátěž a ischemické testování.</title>
+        <journal>Kardiovaskulární Testování</journal>
+        <volume>20(1),</volume>
+        <pages>45-63.</pages>
+        <doi>10.1234/ktest.2023.20.1.45</doi>
+    </sequence>
+    <sequence>
+        <author>Mamytzhanova, A.</author>
+        <date>(2020).</date>
+        <title>Symptomatická dysfunkce levé komory.</title>
+        <journal>Ventrikulární Dysfunkce</journal>
+        <volume>31(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Mamytjan, J., &amp; Mamytjan, K., &amp; Mamytjan, L., &amp; Mamytjan, M.</author>
+        <date>2022.</date>
+        <title>Tachykardie a kardioverzní procedury.</title>
+        <journal>Tachykardie Léčba</journal>
+        <volume>28(2),</volume>
+        <pages>123-141.</pages>
+        <doi>10.1234/tl.2022.28.2.123</doi>
+    </sequence>
+    <sequence>
+        <author>Man, T.</author>
+        <date>2021.</date>
+        <title>Zátěž spirometrie a dechové testy.</title>
+        <journal>Spirometrické Vědy</journal>
+        <volume>29(1),</volume>
+        <pages>56-74.</pages>
+    </sequence>
+    <sequence>
+        <author>Manacho, K., &amp; Manacho, V., &amp; Manacho, M., &amp; Manacho, E.</author>
+        <date>(2023).</date>
+        <title>Absces a supurativní onemocnění: bakteriální infekce.</title>
+        <journal>Supurativní Medicína</journal>
+        <volume>22(3),</volume>
+        <pages>167-185.</pages>
+        <doi>10.1234/sup.2023.22.3.167</doi>
+        <url>https://supurativnimedicina.cz/2023/22/3</url>
+    </sequence>
+    <sequence>
+        <author>Manaia, P.</author>
+        <date>2020.</date>
+        <title>Alergie a hypersenzitivní reakce: imunologie.</title>
+        <journal>Alergologické Vědy</journal>
+        <volume>26(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Manaka, J., &amp; Manaka, L., &amp; Manaka, M., &amp; Manaka, T.</author>
+        <date>2022.</date>
+        <title>Amebóza a parazitární infekce.</title>
+        <journal>Parazitologické Vědy</journal>
+        <volume>30(1),</volume>
+        <pages>34-52.</pages>
+        <doi>10.1234/par.2022.30.1.34</doi>
+    </sequence>
+    <sequence>
+        <author>Manakaj, K.</author>
+        <date>(2021).</date>
+        <title>Anafilaxe a anafylaktický šok: nouzové stavy.</title>
+        <journal>Anafilaxie Medicína</journal>
+        <volume>27(2),</volume>
+        <pages>89-107.</pages>
+    </sequence>
+    <sequence>
+        <author>Manakaya, V., &amp; Manakaya, L., &amp; Manakaya, M., &amp; Manakaya, K.</author>
+        <date>2023.</date>
+        <title>Angioedém a alergické edémy.</title>
+        <journal>Angioedém Vědy</journal>
+        <volume>21(3),</volume>
+        <pages>178-196.</pages>
+        <doi>10.1234/ang.2023.21.3.178</doi>
+    </sequence>
+    <sequence>
+        <author>Manakazu, N.</author>
+        <date>2020.</date>
+        <title>Anhidróza a znojení poruchy: vegetativní funkce.</title>
+        <journal>Vegetativní Poruchy</journal>
+        <volume>28(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Manakazu-Nakahara, K., &amp; Manakazu-Nakahara, V., &amp; Manakazu-Nakahara, M., &amp; Manakazu-Nakahara, L.</author>
+        <date>(2022).</date>
+        <title>Anthelmintica a antihelmintnická léčba.</title>
+        <journal>Anthelmintnické Vědy</journal>
+        <volume>29(1),</volume>
+        <pages>45-63.</pages>
+        <doi>10.1234/anth.2022.29.1.45</doi>
+        <url>https://anthelmintickevedy.cz/2022/29/1</url>
+    </sequence>
+    <sequence>
+        <author>Manakova, P.</author>
+        <date>2021.</date>
+        <title>Antikoncepce a reprodukční zdraví.</title>
+        <journal>Reprodukční Medicína</journal>
+        <volume>26(2),</volume>
+        <pages>98-116.</pages>
+    </sequence>
+    <sequence>
+        <author>Manakova, E., &amp; Manakova, K., &amp; Manakova, L., &amp; Manakova, V.</author>
+        <date>2023.</date>
+        <title>Antitusika a léčba kašle: tosiká.</title>
+        <journal>Antitusní Vědy</journal>
+        <volume>20(4),</volume>
+        <pages>289-307.</pages>
+        <doi>10.1234/antitus.2023.20.4.289</doi>
+    </sequence>
+    <sequence>
+        <author>Manaksarov, R.</author>
+        <date>(2020).</date>
+        <title>Anxietas a panická porucha: psychiatrie.</title>
+        <journal>Panické Poruchy</journal>
+        <volume>31(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Manaksaroy, T., &amp; Manaksaroy, V., &amp; Manaksaroy, M., &amp; Manaksaroy, K.</author>
+        <date>2022.</date>
+        <title>Aphasía a jazykové poruchy: neurologie.</title>
+        <journal>Jazykové Poruchy</journal>
+        <volume>32(2),</volume>
+        <pages>123-141.</pages>
+        <doi>10.1234/jap.2022.32.2.123</doi>
+    </sequence>
+    <sequence>
+        <author>Manakta, J.</author>
+        <date>2021.</date>
+        <title>Apnea spánku a poruchy dechu: diagnostika.</title>
+        <journal>Spánek a Dech</journal>
+        <volume>28(3),</volume>
+        <pages>167-185.</pages>
+    </sequence>
+    <sequence>
+        <author>Manakta, L., &amp; Manakta, M., &amp; Manakta, E., &amp; Manakta, P.</author>
+        <date>(2023).</date>
+        <title>Apoplex a cerebrální příhoda: akutní onemocnění.</title>
+        <journal>Cerebrální Medicína</journal>
+        <volume>19(1),</volume>
+        <pages>34-52.</pages>
+        <doi>10.1234/cer.2023.19.1.34</doi>
+        <url>https://cerbralnimedicina.cz/2023/19/1</url>
+    </sequence>
+    <sequence>
+        <author>Manakubo, Z.</author>
+        <date>2020.</date>
+        <title>Apoptóza a buněčná smrt: biologie.</title>
+        <journal>Apoptóza Vědy</journal>
+        <volume>29(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Manale, A., &amp; Manale, P., &amp; Manale, L., &amp; Manale, M.</author>
+        <date>2022.</date>
+        <title>Appendicitida a akutní peritoritis.</title>
+        <journal>Abdominální Chirurgie</journal>
+        <volume>30(1),</volume>
+        <pages>34-52.</pages>
+        <doi>10.1234/abd.2022.30.1.34</doi>
+    </sequence>
+    <sequence>
+        <author>Manale-Papadopoulos, K.</author>
+        <date>(2021).</date>
+        <title>Aplikace vakcín a imunizace: prevence.</title>
+        <journal>Vakcinační Medicína</journal>
+        <volume>27(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Manaleng, J., &amp; Manaleng, V., &amp; Manaleng, M., &amp; Manaleng, T.</author>
+        <date>2023.</date>
+        <title>Arach noiditis a meningitida: meningeální infekce.</title>
+        <journal>Meningální Vědy</journal>
+        <volume>22(3),</volume>
+        <pages>156-174.</pages>
+        <doi>10.1234/men.2023.22.3.156</doi>
+    </sequence>
+    <sequence>
+        <author>Manalet, E.</author>
+        <date>2020.</date>
+        <title>Arcus senilis a lipidové depozity: oftalmologie.</title>
+        <journal>Lipidové Onemocnění</journal>
+        <volume>26(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Manaleva, P., &amp; Manaleva, K., &amp; Manaleva, L., &amp; Manaleva, V.</author>
+        <date>(2022).</date>
+        <title>Artarterioskaléróze a aterosklerotické léze.</title>
+        <journal>Aterosklerotické Vědy</journal>
+        <volume>31(1),</volume>
+        <pages>45-63.</pages>
+        <doi>10.1234/ater.2022.31.1.45</doi>
+        <url>https://aterosklerotickevedy.cz/2022/31/1</url>
+    </sequence>
+    <sequence>
+        <author>Manalich, J.</author>
+        <date>2021.</date>
+        <title>Artrite a polyartritida: kloubní onemocnění.</title>
+        <journal>Reumatologické Vědy</journal>
+        <volume>29(2),</volume>
+        <pages>98-116.</pages>
+    </sequence>
+    <sequence>
+        <author>Manalim, Z., &amp; Manalim, P., &amp; Manalim, L., &amp; Manalim, M.</author>
+        <date>2023.</date>
+        <title>Artrocéntéza a intraartikulární injekce.</title>
+        <journal>Intervenční Medicína</journal>
+        <volume>20(4),</volume>
+        <pages>289-307.</pages>
+        <doi>10.1234/int.2023.20.4.289</doi>
+    </sequence>
+    <sequence>
+        <author>Manals, T.</author>
+        <date>(2020).</date>
+        <title>Artróza a degenerativní onemocnění kloubů.</title>
+        <journal>Artrotické Vědy</journal>
+        <volume>33(3),</volume>
+        <pages>123-141.</pages>
+    </sequence>
+    <sequence>
+        <author>Manalsky, K., &amp; Manalsky, V., &amp; Manalsky, M., &amp; Manalsky, L.</author>
+        <date>2022.</date>
+        <title>Asbestuóza a profesionální onemocnění plic.</title>
+        <journal>Profesionální Medicína</journal>
+        <volume>28(1),</volume>
+        <pages>34-52.</pages>
+        <doi>10.1234/prof.2022.28.1.34</doi>
+    </sequence>
+    <sequence>
+        <author>Manalta, N.</author>
+        <date>2021.</date>
+        <title>Ascites a portální hypertenze: jaterní onemocnění.</title>
+        <journal>Jaterní Vědy</journal>
+        <volume>26(2),</volume>
+        <pages>89-107.</pages>
+    </sequence>
+    <sequence>
+        <author>Manaltova, P., &amp; Manaltova, L., &amp; Manaltova, M., &amp; Manaltova, K.</author>
+        <date>(2023).</date>
+        <title>Askaris a nádor-vzniklých pozdních efekty.</title>
+        <journal>Parazit Vědy</journal>
+        <volume>21(3),</volume>
+        <pages>167-185.</pages>
+        <doi>10.1234/par.2023.21.3.167</doi>
+        <url>https://parazitvedy.cz/2023/21/3</url>
+    </sequence>
+    <sequence>
+        <author>Manaltyn, A.</author>
+        <date>2020.</date>
+        <title>Asfyxie a tasks asphyxiae: stav kritické péče.</title>
+        <journal>Kritická Medicína</journal>
+        <volume>30(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Manaltyna, E., &amp; Manaltyna, K., &amp; Manaltyna, L., &amp; Manaltyna, V.</author>
+        <date>2022.</date>
+        <title>Asteatotická dermatitida a ekzéma: kožní poruchy.</title>
+        <journal>Dermatitidní Vědy</journal>
+        <volume>29(1),</volume>
+        <pages>23-41.</pages>
+        <doi>10.1234/der.2022.29.1.23</doi>
+    </sequence>
+    <sequence>
+        <author>Manaltyn-Ormansky, R.</author>
+        <date>(2021).</date>
+        <title>Ateléctasis a kolapus plic: respirační poruchy.</title>
+        <journal>Respirační Choroby</journal>
+        <volume>27(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Manama, J., &amp; Manama, P., &amp; Manama, L., &amp; Manama, M.</author>
+        <date>2023.</date>
+        <title>Atenolol a beta-blokátory: farmakologie.</title>
+        <journal>Farmakologické Věsy</journal>
+        <volume>20(1),</volume>
+        <pages>45-63.</pages>
+        <doi>10.1234/fark.2023.20.1.45</doi>
+    </sequence>
+    <sequence>
+        <author>Manamá, K.</author>
+        <date>2020.</date>
+        <title>Ateroembolie a vaskulární onemocnění.</title>
+        <journal>Vaskulární Medicína</journal>
+        <volume>31(2),</volume>
+        <pages>98-116.</pages>
+    </sequence>
+    <sequence>
+        <author>Manambika, V., &amp; Manambika, L., &amp; Manambika, M., &amp; Manambika, T.</author>
+        <date>(2022).</date>
+        <title>Atrofia svalů a svalová onemocnění.</title>
+        <journal>Myologické Vědy</journal>
+        <volume>32(3),</volume>
+        <pages>167-185.</pages>
+        <doi>10.1234/myo.2022.32.3.167</doi>
+        <url>https://myologickevedy.cz/2022/32/3</url>
+    </sequence>
+    <sequence>
+        <author>Manambo, E.</author>
+        <date>2021.</date>
+        <title>Aurální furunkulóza a otitis externa: uši nemoci.</title>
+        <journal>Otologické Vědy</journal>
+        <volume>28(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Manambou, Z., &amp; Manambou, K., &amp; Manambou, L., &amp; Manambou, J.</author>
+        <date>2023.</date>
+        <title>Auschwitz kraje a aurikulární onemocnění.</title>
+        <journal>Aurikulární Medicína</journal>
+        <volume>19(1),</volume>
+        <pages>34-52.</pages>
+        <doi>10.1234/auric.2023.19.1.34</doi>
+    </sequence>
+    <sequence>
+        <author>Manamboulay, P.</author>
+        <date>(2020).</date>
+        <title>Austín osteoporoz a kostní ztráta: kostní onemocnění.</title>
+        <journal>Osteoporotické Vědy</journal>
+        <volume>33(2),</volume>
+        <pages>89-107.</pages>
+    </sequence>
+    <sequence>
+        <author>Manambowong, T., &amp; Manambowong, V., &amp; Manambowong, M., &amp; Manambowong, L.</author>
+        <date>2022.</date>
+        <title>Autisme a neurovývojové poruchy: psychiatrie.</title>
+        <journal>Neurovývojové Poruchy</journal>
+        <volume>30(3),</volume>
+        <pages>156-174.</pages>
+        <doi>10.1234/nd.2022.30.3.156</doi>
+    </sequence>
+    <sequence>
+        <author>Manana, K.</author>
+        <date>2021.</date>
+        <title>Autoimunitní onemocnění a systémová onemocnění.</title>
+        <journal>Autoimunitní Vědy</journal>
+        <volume>29(1),</volume>
+        <pages>23-41.</pages>
+    </sequence>
+    <sequence>
+        <author>Manaña, J., &amp; Manana, L., &amp; Manana, M., &amp; Manaña, P.</author>
+        <date>(2023).</date>
+        <title>Automatizmus a epileptické křeče: neurologie.</title>
+        <journal>Epileptické Vědy</journal>
+        <volume>22(4),</volume>
+        <pages>289-307.</pages>
+        <doi>10.1234/epi.2023.22.4.289</doi>
+        <url>https://epileptickevedy.cz/2023/22/4</url>
+    </sequence>
+    <sequence>
+        <author>Mananaiv, A.</author>
+        <date>2020.</date>
+        <title>Automašiny a motorové nehody: trauma.</title>
+        <journal>Traumatologické Vědy</journal>
+        <volume>26(2),</volume>
+        <pages>78-96.</pages>
+    </sequence>
+    <sequence>
+        <author>Mananaker, E., &amp; Mananaker, K., &amp; Mananaker, L., &amp; Mananaker, V.</author>
+        <date>2022.</date>
+        <title>Automatická ventrikulární fibrilace: arytmie.</title>
+        <journal>Fibrilační Vědy</journal>
+        <volume>31(1),</volume>
+        <pages>45-63.</pages>
+        <doi>10.1234/fib.2022.31.1.45</doi>
+    </sequence>
+    <sequence>
+        <author>Manakara, N.</author>
+        <date>(2021).</date>
+        <title>Autonomní neuropatie a vegetativní poruchy.</title>
+        <journal>Vegetativní Vědy</journal>
+        <volume>28(2),</volume>
+        <pages>98-116.</pages>
+    </sequence>
+    <sequence>
+        <author>Manakari, R., &amp; Manakari, T., &amp; Manakari, M., &amp; Manakari, P.</author>
+        <date>2023.</date>
+        <title>Autophagie a buněčné recyklování: biologie.</title>
+        <journal>Buněčné Recyklování</journal>
+        <volume>20(3),</volume>
+        <pages>167-185.</pages>
+        <doi>10.1234/recyk.2023.20.3.167</doi>
+    </sequence>
+    <sequence>
+        <author>Manakasha, Z.</author>
+        <date>2020.</date>
+        <title>Autoradia autobáze a jaderné automatikou.</title>
+        <journal>Radiační Vědy</journal>
+        <volume>29(4),</volume>
+        <pages>289-307.</pages>
+    </sequence>
+    <sequence>
+        <author>Manakashvili, K., &amp; Manakasvili, V., &amp; Manakasvili, M., &amp; Manakasvili, L.</author>
+        <date>(2022).</date>
+        <title>Autoregulace a hemodynamika: kardiovaskulární fyziologie.</title>
+        <journal>Hemodynamické Vědy</journal>
+        <volume>32(1),</volume>
+        <pages>34-52.</pages>
+        <doi>10.1234/hemo.2022.32.1.34</doi>
+        <url>https://hemodynamickevedy.cz/2022/32/1</url>
+    </sequence>
+    <sequence>
+        <author>Białkowski, J.</author>
+        <date>2021.</date>
+        <title>Autorský práv a intelektuální vlastnictví v medicíně.</title>
+        <journal>Medicínské Právo</journal>
+        <volume>25(2),</volume>
+        <pages>89-107.</pages>
+    </sequence>
+    <sequence>
+        <author>Biao, K., &amp; Biao, L., &amp; Biao, M., &amp; Biao, P.</author>
+        <date>(2023).</date>
+        <title>Autosoální dominantní onemocnění: genetika.</title>
+        <journal>Genetické Choroby</journal>
+        <volume>20(3),</volume>
+        <pages>123-141.</pages>
+        <doi>10.1234/gench.2023.20.3.123</doi>
+        <url>https://genetickechoroby.cz/2023/20/3</url>
+    </sequence>
+    <sequence>
+        <author>Bíbor, R.</author>
+        <date>2020.</date>
+        <title>Autosomální recesivní onemocnění: molekulární genetika.</title>
+        <journal>Molekulární Genetika</journal>
+        <volume>31(1),</volume>
+        <pages>45-63.</pages>
+    </sequence>
+    <sequence>
+        <author>Bible, T., &amp; Bible, V., &amp; Bible, M., &amp; Bible, L.</author>
+        <date>2022.</date>
+        <title>Autopsie a soudní medicína: forenzní vědy.</title>
+        <journal>Forenzní Medicína</journal>
+        <volume>27(4),</volume>
+        <pages>289-307.</pages>
+        <doi>10.1234/foren.2022.27.4.289</doi>
+    </sequence>
+    <sequence>
+        <author>Bibikon, A.</author>
+        <date>(2021).</date>
+        <title>Autoreferenční psychóza a delirium: psychiatrické stavy.</title>
+        <journal>Psychiatrické Věsy</journal>
+        <volume>28(2),</volume>
+        <pages>98-116.</pages>
+    </sequence>
+    <sequence>
+        <author>Bibinský, K.</author>
+        <date>2023.</date>
+        <title>Auxiliární technika a zdravotnické profese.</title>
+        <journal>Zdravotnické Vzdělání</journal>
+        <volume>19(1),</volume>
+        <pages>23-41.</pages>
+        <doi>10.1234/zdvz.2023.19.1.23</doi>
+    </sequence>
+</dataset>
